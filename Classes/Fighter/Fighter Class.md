@@ -55,7 +55,7 @@ You learn one fighting style, listed under Fighter Fighting Styles. You learn on
 Also at 1st level, you begin to learn techniques that enhance your martial skill in and out of battle. You gain the features:
 
 ### Stamina
-You have a limited well of stamina represented by your stamina points. You have a number of stamina points equal to your Fighter Level + your Constitution modifier.
+You have a limited well of stamina represented by your stamina points. You have a number of stamina points equal to your Fighter Level + your Constitution modifier. To use an Exploit, you must expend a number of Stamina Points equal to the Exploit's level. You can only use one Exploit per attack, ability check, or saving throw, and you regain your expended Stamina Points when you finish a short or long rest.
 
 ### Exploits Known
 You learn two Exploits from the Fighter Exploit List. The Exploits column of the Fighter Table shows when you learn more Exploits of your choice. To learn a Exploit, you must be able to learn Exploits of its level, as well as meet any other prerequisites (listed under **Prerequisites** in the Exploit's entry).
@@ -80,5 +80,13 @@ Choose one of the following Martial Archetypes:
 
 Note: Subclasses are listed seperately.
 
+### Archetype Exploits
+Each Archetype has a list of Archetype Exploits you learn at the fighter levels noted in your Archetype's description. They don't count against your total number of Exploits Known and can't be switched out for other Exploits. If you don't meet an Archetype Exploit's prerequisites, you learn it regardless.
+
+## Ability Score Increase
+When you reach 4th level, and again at 6th, 8th, and 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. You can't increase an ability score above 20 using this feature.
+
+## Feat
+Also at 4th level, you learn a feat. This feat can be either a General, Martial, or Fighter feat. You learn additional feats at 8th, and 12th level.
 
 
