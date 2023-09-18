@@ -71,11 +71,14 @@ If one of your Exploits requires a creature to make a saving throw, your Exploit
 At 3rd level, you have distinguished yourself from the common warrior, and have gained skills that represent your unique skillset.
 
 Choose one of the following Martial Archetypes:
+
 | Martial Archetype | Source                  |
 | :---------------- | :---------------------- |
 | Champion          | Unstable Isotope (v0.0) |
 | Marksman          | Unstable Isotope (v0.0) |
 | Battle Master     | Unstable Isotope (v0.0) |
+
+Note: Subclasses are listed seperately.
 
 
 
