@@ -8,14 +8,16 @@
 |     2 |           2 | Action Surge (x1)            |               1 |        3 |             1 |
 |     3 |           2 | Martial Archetype            |               1 |        4 |             1 |
 |     4 |           2 | Ability Score Increase, Feat |               1 |        5 |             1 |
-|     5 |           3 | Extra Attack (x1)            |               1 |        6 |             2 |
+|     5 |           3 | Multiattack (x1)             |               1 |        6 |             2 |
 |     6 |           3 | Ability Score Increase       |               1 |        7 |             2 |
 |     7 |           3 | Martial Archetype Feature    |               2 |        8 |             2 |
 |     8 |           3 | Ability Score Increase, Feat |               2 |        9 |             2 |
 |     9 |           4 | Legendary Might (x1)         |               2 |       10 |             3 |
 |    10 |           4 | Martial Archetype Feature    |               2 |       10 |             3 |
-|    11 |           4 | Extra Attack (x2)            |               2 |       11 |             3 |
+|    11 |           4 | Multiattack (x2)             |               2 |       11 |             3 |
 |    12 |           4 | Ability Score Increase, Feat |               2 |       11 |             3 |
+
+**Note:** Levels beyond 12 aren't ready yet.
 
 # Class Features
 
@@ -24,7 +26,6 @@
 **Hit Dice:** 1d10 per fighter level.  
 
 ## Proficiencies
-
 **Armor:** All Armor, Shields  
 **Weapons:** Simple Weapons, Martial Weapons  
 **Tools:** One set of artisan's tools of your choice  
@@ -32,7 +33,6 @@
 **Skills:** Choose 2 + your Intelligence modifier of the following: Acrobatics, Athletics, History, Intimidation, Perception, Stealth, and Survival
 
 ## Equipment
-
 At first level, you start with the following equipment:
 * (a) chain mail or (b) leather armor, a longbow, 20 arrows
 * (a) martial weapon and shield or (b) two martial weapons
@@ -55,7 +55,13 @@ You learn one fighting style, listed under Fighter Fighting Styles. You learn on
 Also at 1st level, you begin to learn techniques that enhance your martial skill in and out of battle. You gain the features:
 
 ### Stamina
-You have a limited well of stamina represented by your stamina points. You have a number of stamina points equal to your Fighter Level + your Constitution modifier. To use an Exploit, you must expend a number of Stamina Points equal to the Exploit's level. You can only use one Exploit per attack, ability check, or saving throw, and you regain your expended Stamina Points when you finish a short or long rest.
+*You have stamina greater than mere common soldiers, which you burn through to enhance yourself.*
+
+You have a number of Stamina Points equal to your Fighter Level + your Constitution modifier. 
+
+To use an Exploit, you must expend a number of Stamina Points equal to the Exploit's level. You regain your expended Stamina Points when you finish a short or long rest.
+
+For Exploits that modify an attack, ability check, or saving throw: you can only use one Exploit per attack, ability check, or saving throw.
 
 ### Exploits Known
 You learn two Exploits from the Fighter Exploit List. The Exploits column of the Fighter Table shows when you learn more Exploits of your choice. To learn a Exploit, you must be able to learn Exploits of its level, as well as meet any other prerequisites (listed under **Prerequisites** in the Exploit's entry).
@@ -66,6 +72,13 @@ Whenever you gain a Fighter Level, you can replace one of the Exploits you learn
 If one of your Exploits requires a creature to make a saving throw, your Exploit DC is calculated as follows:
 
 **Exploit DC** = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
+
+## Action Surge
+*At 2nd level, you can momentarily push yourself beyond human limits.*
+
+**1/short rest:** On your turn, you can take one additional action. This action cannot be used to cast a spell (excpet through a magic weapon).
+
+Starting at 17th level, you can use it **2/short rest**, but only once on the same turn.
 
 ## Martial Archetype
 At 3rd level, you have distinguished yourself from the common warrior, and have gained skills that represent your unique skillset.
@@ -84,9 +97,21 @@ Note: Subclasses are listed seperately.
 Each Archetype has a list of Archetype Exploits you learn at the fighter levels noted in your Archetype's description. They don't count against your total number of Exploits Known and can't be switched out for other Exploits. If you don't meet an Archetype Exploit's prerequisites, you learn it regardless.
 
 ## Ability Score Increase
-When you reach 4th level, and again at 6th, 8th, and 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. You can't increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. You can't increase an ability score above 20 using this feature.
 
 ## Feat
 Also at 4th level, you learn a feat. This feat can be either a General, Martial, or Fighter feat. You learn additional feats at 8th, and 12th level.
 
+## Multiattack
+*Beginning at 5th level, you can strike with inhuman speed.*
 
+you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+When you reach certain levels in this class, the number of attacks you can make as part of your Attack action increases; at 11th level (3 attacks) and at 17th level (4 attacks).
+
+## Legendary Might
+*Beginning at 9th level, you can overcome even the harshest adversity.*
+
+**1/day:** When you fail a saving throw, you can choose to succeed instead.
+
+At certain Fighter levels you can use this feature additional times each day. You can use this feature **2/day** starting at 13th level, and **3/day** starting at 17th level.
