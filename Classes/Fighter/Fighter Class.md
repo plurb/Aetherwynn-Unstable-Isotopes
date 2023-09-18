@@ -62,5 +62,20 @@ You learn two Exploits from the Fighter Exploit List. The Exploits column of the
 
 Whenever you gain a Fighter Level, you can replace one of the Exploits you learnt from this class with another Exploit from the Fighter Exploit List.
 
-### Saving Throws & Attacks
+### Saving Throws
+If one of your Exploits requires a creature to make a saving throw, your Exploit DC is calculated as follows:
+
+**Exploit DC** = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
+
+## Martial Archetype
+At 3rd level, you have distinguished yourself from the common warrior, and have gained skills that represent your unique skillset.
+
+Choose one of the following Martial Archetypes:
+| Martial Archetype | Source                  |
+| :---------------- | :---------------------- |
+| Champion          | Unstable Isotope (v0.0) |
+| Marksman          | Unstable Isotope (v0.0) |
+| Battle Master     | Unstable Isotope (v0.0) |
+
+
 
