@@ -35,7 +35,6 @@ You learn one of the following fighting styles:
 1. Great Weapon Fighting
 2. Strongbow
 3. Unarmed Fighting
-4. Large Weapon Fighting
 
 You cannot learn a fighting style more than once.
 
