@@ -4,6 +4,7 @@
 ___
 
 ## Champion
+*\[description\]*
 
 ### Mighty Exploits
 You learn certain Exploits at the Fighter levels noted in the table below. They don't count against your total number of Exploits Known and cannot be switched upon gaining a level.
@@ -57,6 +58,16 @@ If you begin your turn with less than half of your hit points remaining, but at 
 ___
 
 ## Marksman
+*\[description\]*
+
+### Precise Exploits
+You learn certain Exploits at the Fighter levels noted in the table below. They don't count against your total number of Exploits Known and cannot be switched upon gaining a level.
+
+| Fighter Level | Exploits   |
+| :-----------: | :--------- |
+|      3rd      | test, test |
+|      5th      | test, test |
+|      9th      | test, test |
 
 ### Elite Training
 **3rd-level Marksman Archetype feature**
@@ -65,7 +76,7 @@ ___
 
 When you make a Dexterity check or saving throw, you can expend a stamina point to add 1d6 to the roll. You can do so after you roll, but before you know the result.
 
-### Marsman's Focus
+### Marksman's Focus
 **3rd-level Marksman Archetype feature**
 
 *You can quiet your body to fire with deadly accuracy.*
@@ -95,6 +106,15 @@ Once per turn, when you have advantage on a Ranged Weapon Attack against another
 ___
 
 ## Battle Master
+
+### Masterful Exploits
+You learn certain Exploits at the Fighter levels noted in the table below. They don't count against your total number of Exploits Known and cannot be switched upon gaining a level.
+
+| Fighter Level | Exploits   |
+| :-----------: | :--------- |
+|      3rd      | test, test |
+|      5th      | test, test |
+|      9th      | test, test |
 
 ### Know Your Enemy
 **3rd-level Battle Master Archetype feature**
