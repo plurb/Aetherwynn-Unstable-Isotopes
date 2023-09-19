@@ -2,20 +2,20 @@
 
 *Fighters use their weapons and their physical might to fell their foes.*
 
-| Level | Proficiency | Features                     | Fighting Styles | Exploits | Exploit Level |
-| ----: | ----------: | :--------------------------- | --------------: | -------: | ------------: |
-|     1 |           2 | Fighting Style, Exploits     |               1 |        2 |             1 |
-|     2 |           2 | Action Surge (x1)            |               1 |        3 |             1 |
-|     3 |           2 | Martial Archetype            |               1 |        4 |             1 |
-|     4 |           2 | Ability Score Increase, Feat |               1 |        5 |             1 |
-|     5 |           3 | Multiattack (x1)             |               1 |        6 |             2 |
-|     6 |           3 | Ability Score Increase       |               1 |        7 |             2 |
-|     7 |           3 | Martial Archetype Feature    |               2 |        8 |             2 |
-|     8 |           3 | Ability Score Increase, Feat |               2 |        9 |             2 |
-|     9 |           4 | Legendary Might (x1)         |               2 |       10 |             3 |
-|    10 |           4 | Martial Archetype Feature    |               2 |       10 |             3 |
-|    11 |           4 | Multiattack (x2)             |               2 |       11 |             3 |
-|    12 |           4 | Ability Score Increase, Feat |               2 |       11 |             3 |
+| Level | Proficiency | Features                                 | Fighting Styles | Exploits | Exploit Level |
+| ----: | ----------: | :--------------------------------------- | --------------: | -------: | ------------: |
+|     1 |           2 | Fighting Style, Exploits                 |               1 |        2 |             1 |
+|     2 |           2 | Action Surge (x1)                        |               1 |        3 |             1 |
+|     3 |           2 | Martial Archetype                        |               1 |        4 |             1 |
+|     4 |           2 | Ability Score Increase, Feat             |               1 |        5 |             1 |
+|     5 |           3 | Multiattack (x1)                         |               1 |        6 |             2 |
+|     6 |           3 | Ability Score Increase, Enhanced Strikes |               1 |        7 |             2 |
+|     7 |           3 | Martial Archetype Feature                |               2 |        8 |             2 |
+|     8 |           3 | Ability Score Increase, Feat             |               2 |        9 |             2 |
+|     9 |           4 | Legendary Might (x1)                     |               2 |       10 |             3 |
+|    10 |           4 | Martial Archetype Feature                |               2 |       10 |             3 |
+|    11 |           4 | Multiattack (x2)                         |               2 |       11 |             3 |
+|    12 |           4 | Ability Score Increase, Feat             |               2 |       11 |             3 |
 
 **Note:** Levels beyond 12 aren't ready yet.
 
@@ -108,6 +108,9 @@ Also at 4th level, you learn a feat. This feat can be either a General, Martial,
 you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 When you reach certain levels in this class, the number of attacks you can make as part of your Attack action increases; at 11th level (3 attacks) and at 17th level (4 attacks).
+
+## Enhanced Strikes
+At 6th level, Melee Weapon Attacks you make count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
 ## Legendary Might
 *Beginning at 9th level, you can overcome even the harshest adversity.*
