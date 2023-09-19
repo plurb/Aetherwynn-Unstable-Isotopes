@@ -42,9 +42,16 @@ While wielding a single versatile weapon and no shield, you gain a +1 bonus to y
 
 When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
-## Large Weapon Fighting
+## Great Weapon Master
 **Prerequisites: 7th level, Strength of 15 or greater.**
 
 *Your near herculean strength allows you to wield weapons sized for creatures larger than yourself.*
 
 You can wield Large weapons without any drawbacks.
+
+### Sniper
+**Prerequisites: 14th level, Dexterity of 15 or greater.**
+
+*You make even impossible shots with ease.*
+
+Your normal and long range for Ranged Weapon Attacks increases by a number of feet equal to 10 times your Fighter level.
