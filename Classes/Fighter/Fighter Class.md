@@ -22,7 +22,7 @@
 # Class Features
 
 ## Hit Points
-**Hit Points Per Level:** 10 + your Constitution modifier per fighter level.  
+**Hit Points Per Level:** `10 + your Constitution modifier` per fighter level.  
 **Hit Dice:** 1d10 per fighter level.  
 
 ## Proficiencies
@@ -30,7 +30,7 @@
 **Weapons:** Simple Weapons, Martial Weapons  
 **Tools:** One set of artisan's tools of your choice  
 **Saving Throws:** Strength, Contsitution  
-**Skills:** Choose 2 + your Intelligence modifier of the following: Acrobatics, Athletics, History, Intimidation, Perception, Stealth, and Survival
+**Skills:** Choose `2 + your Intelligence modifier` of the following: Acrobatics, Athletics, History, Intimidation, Perception, Stealth, and Survival
 
 ## Equipment
 At first level, you start with the following equipment:
@@ -57,11 +57,11 @@ Also at 1st level, you begin to learn techniques that enhance your martial skill
 ### Stamina
 *You have stamina greater than mere common soldiers, which you burn through to enhance yourself.*
 
-You have a number of Stamina Points equal to your Fighter Level + your Constitution modifier. 
+You have a number of Stamina Points equal to `your Fighter Level + your Constitution modifier`. 
 
 To use an Exploit, you must expend a number of Stamina Points equal to the Exploit's level. You regain your expended Stamina Points when you finish a short or long rest.
 
-For Exploits that modify an attack, ability check, or saving throw: you can only use one Exploit per attack, ability check, or saving throw.
+For Exploits that modify an Attack, Ability Check, or Saving Throw: you can only use one Exploit per Attack, Ability Check, or Saving Throw.
 
 ### Exploits Known
 You learn two Exploits from the Fighter Exploit List. The Exploits column of the Fighter Table shows when you learn more Exploits of your choice. To learn a Exploit, you must be able to learn Exploits of its level, as well as meet any other prerequisites (listed under **Prerequisites** in the Exploit's entry).
