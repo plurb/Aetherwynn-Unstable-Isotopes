@@ -48,18 +48,26 @@ ___
 > **Skills Gained:** Choose 1 + half your Intelligence modifier (rounded up) of the following: Acrobatics, Athletics, History, Intimidation, Perception, Stealth, and Survival  
 ___
 
-## Fighting Styles
-You learn one fighting style, listed under Fighter Fighting Styles. You learn one more at 7th level, as shown on the Fighter Table.
+## Fighting Style
+**1st-level Fighter Feature**
+
+You learn one fighting style from *Fighter Fighting Styles*.
+
+You learn one more fighting style of your choice at 7th level, as shown on the Fighter Table.
 
 ## Exploits
+**1st-level Fighter Feature**
+
 Also at 1st level, you begin to learn techniques that enhance your martial skill in and out of battle. You gain the features:
 
 ### Stamina
-*You have stamina greater than mere common soldiers, which you burn through to enhance yourself.*
+> *You have stamina greater than a mere common soldier, which allows you to perform exploits greater than an ordinary warrior.*
 
-You have a number of Stamina Points equal to `your Fighter Level + your Constitution modifier`. 
+You have a limited well of stamina represented by a number of Stamina Points. You can calculate the number of Stamina Points you have as follows:
 
-To use an Exploit, you must expend a number of Stamina Points equal to the Exploit's level. You regain your expended Stamina Points when you finish a short or long rest.
+**Stamina Points** = `your Fighter Level + your Constitution modifier`
+
+To use an Exploit, you must expend a number of Stamina Points equal to the Exploit's level. You regain your expended Stamina Points when you finish a Short or Long Rest.
 
 For Exploits that modify an Attack, Ability Check, or Saving Throw: you can only use one Exploit per Attack, Ability Check, or Saving Throw.
 
@@ -74,33 +82,41 @@ If one of your Exploits requires a creature to make a saving throw, your Exploit
 **Exploit DC** = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
 
 ## Action Surge
-*At 2nd level, you can momentarily push yourself beyond human limits.*
-
+*2nd-level Fighter Feature*
+ 
+> *You can momentarily push yourself beyond human limits.*
+ 
 **1/short rest:** On your turn, you can take one additional action. This action cannot be used to cast a spell (excpet through a magic weapon).
 
-Starting at 17th level, you can use it **2/short rest**, but only once on the same turn.
+Starting at 17th level, you can use Action Surge **2/short rest**, but only once on the same turn.
 
 ## Martial Archetype
-At 3rd level, you have distinguished yourself from the common warrior, and have gained skills that represent your unique skillset.
+*3rd-level Fighter Feature.*
+
+> *You have distinguished yourself from the common warrior, and have gained skills that represent your unique skillset.*
 
 Choose one of the following Martial Archetypes:
 
 | Martial Archetype | Source                  |
 | :---------------- | :---------------------- |
-| Champion          | Unstable Isotope (v0.0) |
-| Marksman          | Unstable Isotope (v0.0) |
-| Battle Master     | Unstable Isotope (v0.0) |
+| Champion          | Unstable Isotope (0.0) |
+| Marksman          | Unstable Isotope (0.0) |
+| Battle Master     | Unstable Isotope (0.0) |
 
-Note: Subclasses are listed seperately.
+**Note:** Subclasses are listed seperately.
 
 ### Archetype Exploits
 Each Archetype has a list of Archetype Exploits you learn at the fighter levels noted in your Archetype's description. They don't count against your total number of Exploits Known and can't be switched out for other Exploits. If you don't meet an Archetype Exploit's prerequisites, you learn it regardless.
 
 ## Ability Score Increase
+**4th-level Fighter feature**
+
 When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. You can't increase an ability score above 20 using this feature.
 
 ## Feat
-Also at 4th level, you learn a feat. This feat can be either a General, Martial, or Fighter feat. You learn additional feats at 8th, and 12th level.
+*4th-level Fighter Feature*
+
+You learn a feat. This feat can be either a General, Martial, or Fighter feat. You learn additional feats at 8th, and 12th level.
 
 ## Multiattack
 *Beginning at 5th level, you can strike with inhuman speed.*

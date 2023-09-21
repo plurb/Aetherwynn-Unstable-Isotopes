@@ -50,7 +50,7 @@ You roll one additional weapon damage die when determining extra damage for a cr
 This increases to two additional damage dice at 15th level.
 
 ### Legendary Champion
-**18th-level Champion Archetype feature**
+**18th-level Champion Archetype Feature**
 
 *You are a nearly perfect physical specimen and have become exceedingly hard to kill.*
 
@@ -71,14 +71,14 @@ You learn certain Exploits at the Fighter levels noted in the table below. They 
 |      9th      | test, test |
 
 ### Elite Training
-**3rd-level Marksman Archetype feature**
+**3rd-level Marksman Archetype Feature**
 
 *Your training has enhanced your reaction times to extraordinary levels.*
 
 When you make a Dexterity check or saving throw, you can expend a stamina point to add 1d6 to the roll. You can do so after you roll, but before you know the result.
 
 ### Marksman's Focus
-**3rd-level Marksman Archetype feature**
+**3rd-level Marksman Archetype Feature**
 
 *You can quiet your body to fire with deadly accuracy.*
 
@@ -88,25 +88,26 @@ When you begin your turn and are not surprised or incapacitated, you can choose 
 * You have advantage on all Ranged Weapon Attacks.
 
 ### Total Awareness
-**7th-level Marksman Archetype feature**
+**7th-level Marksman Archetype Feature**
 
 *Your reflexes are supernaturally fast.*
 
 Add your proficiency bonus to your Initiative rolls while conscious.
 
 ### Swift Movements
-**10th-level Marksman Archetype feature**
+**10th-level Marksman Archetype Feature**
 
 Your movement speed increases by 10 feet, and your movement does not provoke attacks of opportunity.
 
 ### Rapid Shots
-**15th-level Marksman Archetype feature**
+**15th-level Marksman Archetype Feature**
 
 Once per turn, when you have advantage on a Ranged Weapon Attack against another creature, you can forgo advantage and make one additional ranged weapon attack against it.
 
 ___
 
 ## Battle Master
+*\[description\]*
 
 ### Masterful Exploits
 You learn certain Exploits at the Fighter levels noted in the table below. They don't count against your total number of Exploits Known and cannot be switched upon gaining a level.
@@ -118,7 +119,7 @@ You learn certain Exploits at the Fighter levels noted in the table below. They 
 |      9th      | test, test |
 
 ### Know Your Enemy
-**3rd-level Battle Master Archetype feature**
+**3rd-level Battle Master Archetype Feature**
 
 You can evaluate the potential of of others with a glance. 
 
@@ -138,12 +139,12 @@ As a bonus action, choose a creature you can see within 60 feet. You learn if it
 Once you use this feature to learn something about a creature, you can't use it on that creature again until you complete a short or long rest. 
 
 ### Combat Superiority
-**7th-level Battle Master Archetype feature**
+**7th-level Battle Master Archetype Feature**
 
 You can use up to two Exploits to enhance an Attack or Ability Check instead of just one.
 
 ### Deductive Master
-**10th-level Battle Master Archetype feature**
+**10th-level Battle Master Archetype Feature**
 
 *You learn to analyze your foe's strengths through battle.*
 
