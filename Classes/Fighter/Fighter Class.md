@@ -1,6 +1,8 @@
 # The Fighter
 
-*Fighters use their weapons and their physical might to fell their foes.*
+> *Fighters use their weapons and their physical might to fell their foes.*
+
+## Fighter
 
 | Level | Proficiency | Features                                 | Fighting Styles | Exploits | Exploit Level |
 | ----: | ----------: | :--------------------------------------- | --------------: | -------: | ------------: |
