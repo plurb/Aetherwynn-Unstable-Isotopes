@@ -24,8 +24,8 @@
 # Class Features
 
 ## Hit Points
-**Hit Points Per Level:** `10 + your Constitution modifier` per fighter level.  
-**Hit Dice:** 1d10 per fighter level.  
+**Hit Points Per Level:** `10 + your Constitution modifier` per Fighter Level.  
+**Hit Dice:** 1d10 per Fighter Level.  
 
 ## Proficiencies
 **Armor:** All Armor, Shields  

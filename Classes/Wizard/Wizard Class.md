@@ -8,7 +8,7 @@
 | ----: | ----------: | :--------------------------- | -------: |
 |     1 |           2 | Arcane Spellcasting          |        3 |
 |     2 |           2 | Arcane Tradition             |        3 |
-|     3 |           2 | Cantrip Formulas             |        3 |
+|     3 |           2 |                              |        3 |
 |     4 |           2 | Ability Score Increase, Feat |        4 |
 |     5 |           3 |                              |        4 |
 |     6 |           3 | Arcane Tradition Feature     |        4 |
@@ -35,5 +35,53 @@
 |    10 |   4   |   3   |   3   |   3   |   2   |   -   |   -   |   -   |   -   |
 |    11 |   4   |   3   |   3   |   3   |   2   |   1   |   -   |   -   |   -   |
 |    12 |   4   |   3   |   3   |   3   |   2   |   1   |   -   |   -   |   -   |
+
+# Class Features
+
+## Hit Points
+**Hit Points:** 6 + your Constitution modifier per Wizard Level.
+**Hit Dice:** 1d6 per Wizard Level. 
+
+## Proficiencies
+Armor: none  
+Weapons: daggers, darts, slings, quarterstaffs, light crossbows  
+Tools: none  
+Saving Throws: Intelligence, Wisdom  
+Skills: Choose `2 + your Intelligence modifier` from Arcana, History, Insight, Investigation, Medicine, Nature, Persuasion, and Religion.
+
+## Starting Equipment
+You start with the following items, plus anything provided by your background.
+
+* (a) a quarterstaff or (b) a dagger
+* (a) a component pouch or (b) an arcane focus
+* (a) a scholar's pack or (b) an explorer's pack
+* A spellbook
+
+## Spellcasting
+*1st-level Wizard Feature*
+As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power. See **spellcasting** for the general rules of spellcasting and the **wizard spell list** for the wizard spell list.
+
+### Cantrips
+You know three cantrips of your choice from the wizard spell list. You learn additional wizard cantrips of your choice at higher levels, as shown in the Cantrips column of the Wizard table.
+
+### Spellbook
+At 1st level, you have a spellbook containing six 1st-level wizard spells of your choice. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.
+
+### Preparing and Casting Spells
+The Wizard table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+
+You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
+
+For example, if you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell magic missile, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+
+You can change your list of prepared spells when you finish a long rest. Preparing a new list of wizard spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.
+
+### Spellcasting Ability
+Intelligence is your spellcasting ability for your wizard spells, since you learn your wizard spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
+
+Spell save DC = 8 + your proficiency bonus + your Intelligence modifier
+Spell attack modifier = your proficiency bonus + your Intelligence modifier
+
+
 
 
