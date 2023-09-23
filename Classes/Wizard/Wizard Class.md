@@ -107,6 +107,10 @@ Choose an arcane tradition. Your Arcane Tradition grants you features at 2nd lev
 
 You can cast a Wizard Spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don't need to have the spell prepared.
 
+## Ability Score Increase
+*4th-Level Wizard Featre*
+
+
 ## Arcane Recovery
 *7th-Level Wizard Feature*
 
