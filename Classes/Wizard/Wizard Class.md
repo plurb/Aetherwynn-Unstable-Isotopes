@@ -87,12 +87,27 @@ Intelligence is your spellcasting ability for your wizard spells, since you lear
 **Spell Save DC** = `8 + your proficiency bonus + your Intelligence modifier`
 **Spell Attack Modifier** = `your proficiency bonus + your Intelligence modifier`
 
+## Arcane Tradition
+*2nd-Level Wizard Feature*
+
+> A wizard's school shapes and influences the magic they cast.
+
+Choose an arcane tradition. Your Arcane Tradition grants you features at 2nd level and again at 6th, 10th, and 14th level.
+
+| Tradition   | Source                  |
+| :---------- | :---------------------- |
+| Divination  | Unstable Isotopes (0.0) |
+| Evocation   | Unstable Isotopes (0.0) |
+| Illusion    | Unstable Isotopes (0.0) |
+
+**Note:** Necromancy will come with Evil Player Characters expansion, not the Player's Handbook (but will be part of the SRD)
+
 ## Expert of Rituals
 *3rd-Level Wizard Feature*
 
 You can cast a Wizard Spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don't need to have the spell prepared.
 
-## Arcane Recover
+## Arcane Recovery
 *7th-Level Wizard Feature*
 
 > *You have learned to regain some of your mana through rest.*
@@ -100,8 +115,8 @@ You can cast a Wizard Spell as a ritual if that spell has the ritual tag and you
 **1/Long Rest:** When you finish a Long Rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up). None of the slots can be 6th level or higher.
 
 ___
-> ### Example
-> If you're a 4th-level wizard, you can recover up to two levels worth of spell slots. You can recover either one 2nd-level spell slot or two 1st-level spell slots.
+> #### Example
+> If you're a 7th-level wizard, you can recover up to four levels worth of spell slots. You can recover either one 4th-level spell slot or two 2nd-level spell slots.
 ___
 
 
