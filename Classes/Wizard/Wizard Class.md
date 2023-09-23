@@ -8,7 +8,7 @@
 | ----: | ----------: | :--------------------------- | -------: |
 |     1 |           2 | Arcane Spellcasting          |        3 |
 |     2 |           2 | Arcane Tradition             |        3 |
-|     3 |           2 |                              |        3 |
+|     3 |           2 | Expert of Rituals            |        3 |
 |     4 |           2 | Ability Score Increase, Feat |        4 |
 |     5 |           3 |                              |        4 |
 |     6 |           3 | Arcane Tradition Feature     |        4 |
@@ -87,6 +87,11 @@ Intelligence is your spellcasting ability for your wizard spells, since you lear
 **Spell Save DC** = `8 + your proficiency bonus + your Intelligence modifier`
 **Spell Attack Modifier** = `your proficiency bonus + your Intelligence modifier`
 
+## Expert of Rituals
+*3rd-Level Wizard Feature*
+
+You can cast a Wizard Spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don't need to have the spell prepared.
+
 ## Arcane Recover
 *7th-Level Wizard Feature*
 
@@ -98,4 +103,6 @@ ___
 > ### Example
 > If you're a 4th-level wizard, you can recover up to two levels worth of spell slots. You can recover either one 2nd-level spell slot or two 1st-level spell slots.
 ___
+
+
 
