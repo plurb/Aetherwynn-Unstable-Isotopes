@@ -68,11 +68,14 @@ You know three cantrips of your choice from the wizard spell list. You learn add
 At 1st level, you have a spellbook containing six 1st-level wizard spells of your choice. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.
 
 ### Preparing and Casting Spells
-The Spell Slots per Spell Level table shows how many spell slots you have to cast your Wizard Spells of 1st-level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a Long Rest.
+The Spell Slots per Spell Level table shows how many spell slots you have to cast your Wizard Spells of 1st-level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a Full Rest.
 
 You prepare the set of Wizard Spells that are available for you to cast. To do so, choose a number of Wizard Spells from your Spellbook equal to `your Intelligence modifier + your wizard level` (minimum of one). The spells must be of a level for which you have spell slots.
 
-For example, if you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence Score of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell magic missile, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+___
+> #### Example
+> If you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence Score of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell magic missile, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+___
 
 > *You can take time to prepare a new list of wizard spells by studying your spellbook to commit incantations and hand signs to memory.*
 
@@ -84,6 +87,15 @@ Intelligence is your spellcasting ability for your wizard spells, since you lear
 **Spell Save DC** = `8 + your proficiency bonus + your Intelligence modifier`
 **Spell Attack Modifier** = `your proficiency bonus + your Intelligence modifier`
 
+## Arcane Recover
+*7th-Level Wizard Feature*
 
+> *You have learned to regain some of your mana through rest.*
 
+**1/Long Rest:** When you finish a Long Rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up). None of the slots can be 6th level or higher.
+
+___
+> ### Example
+> If you're a 4th-level wizard, you can recover up to two levels worth of spell slots. You can recover either one 2nd-level spell slot or two 1st-level spell slots.
+___
 
