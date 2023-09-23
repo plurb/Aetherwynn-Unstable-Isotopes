@@ -81,7 +81,7 @@ Whenever you gain a Fighter Level, you can replace one of the Exploits you learn
 ### Saving Throws
 If one of your Exploits requires a creature to make a saving throw, your Exploit DC is calculated as follows:
 
-**Exploit DC** = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
+**Exploit Save DC** = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
 
 ## Action Surge
 *2nd-level Fighter Feature*
