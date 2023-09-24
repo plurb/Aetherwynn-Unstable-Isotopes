@@ -83,7 +83,7 @@
 *Wall of Force*  
 
 **New Spells:**  
-*Granite Blast (Negative Energy Flood)*  
+*Granite Blast*  
 
 ## 6th-Level
 *Soul Transference - (Magic Jar)*  
