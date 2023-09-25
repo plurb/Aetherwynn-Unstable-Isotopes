@@ -99,8 +99,8 @@ Starting at 17th level, you can use Action Surge **2/short rest**, but only once
 
 Choose one of the following Martial Archetypes:
 
-| Martial Archetype | Source                  |
-| :---------------- | :---------------------- |
+| Martial Archetype | Source                 |
+| :---------------- | :--------------------- |
 | Champion          | Unstable Isotope (0.0) |
 | Marksman          | Unstable Isotope (0.0) |
 | Battle Master     | Unstable Isotope (0.0) |
