@@ -1,9 +1,9 @@
 ### Bladecharge
-*4th-Level Transmutation*
-**Casting Time:** 1 Bonus Action
-**Range:** Touch
-**Components:** V, M (A Melee Weapon worth at least 5sp)
-**Duration:** 1 minute, Concentration
+*4th-Level Transmutation*  
+**Casting Time:** 1 Bonus Action  
+**Range:** Touch  
+**Components:** V, M (A Melee Weapon worth at least 5sp)  
+**Duration:** 1 minute, Concentration  
 
 > *You envelop a weapon you are wielding with aether, creating a large blade shaped aura around the weapon.* 
 
