@@ -1,9 +1,9 @@
-Alarm
-*1st-level Abjuration (ritual)*
-Casting Time: 1 minute
-Range: 30 feet
-Components: V, S, M (a tiny bell and a piece of fine silver wire)
-Duration: 8 hours
+### Alarm
+*1st-level Abjuration (ritual)*  
+**Casting Time:** 1 minute  
+**Range:** 30 feet  
+**Components:** V, S, M (a tiny bell and a piece of fine silver wire)  
+**Duration:** 8 hours  
 
 > *You set an alarm against unwanted intrusion.*
 
