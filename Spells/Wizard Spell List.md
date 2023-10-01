@@ -18,7 +18,7 @@
 *Bend Luck - (Silvery Barbs)*  
 *Burning Hands*  
 *Feather Fall*  
-*Find Familiar*
+*Find Familiar*  
 *Mage Armour*  
 *Magic Missile*  
 *Shield*  

@@ -8,3 +8,5 @@
 > *You undo a single knot of aether. Just enough to stop a simple spell.*
 
 *Counter* the triggering spell if it's of 1st-level or a Cantrip.
+
+**Spell Lists.** Magus, Psion, Sorcerer, Wizard
