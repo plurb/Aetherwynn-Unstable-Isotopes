@@ -11,5 +11,5 @@ Each creature in a 30 ft. sphere centered on a point within range makes a Dexter
 
 *`X = 3 + this spell's level`
 
-**Failure:** The creature takes full damage.
-**Success:** The creature takes half damage.
+**Failure:** The creature takes full damage.  
+**Success:** The creature takes half damage.  
