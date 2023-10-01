@@ -2,13 +2,13 @@
 
 ## Cantrips
 *Blade Ward*  
-*Thunderous Blade*  
 *Firebolt*  
 *Green-Flame Blade*  
 *Mage Hand*  
 *Mending*  
 *Message*  
 *Prestidigitation*  
+*Thunderous Blade*  
 *Toll the Dead*  
 *True Strike*  
 
@@ -23,7 +23,7 @@
 *Magic Missile*  
 *Shield*  
 *Sleep*  
-*Witch Bolt*
+*Witch Bolt*  
 
 **New Spells:**
 *Mental Mistep*  
