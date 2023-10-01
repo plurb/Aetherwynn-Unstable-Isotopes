@@ -92,7 +92,7 @@
 *Propaganda - (Mass Suggestion)*  
 *Disintegrate*  
 *Contingency*  
-*Petrify*  
+*Petrify - (Flesh to Stone)*  
 *Move Earth*  
 *Programmed Illusion*  
-*Create Homunculus*
+*Create Homunculus*  
