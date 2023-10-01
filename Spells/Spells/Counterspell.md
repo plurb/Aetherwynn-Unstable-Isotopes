@@ -11,4 +11,4 @@
 
 *Where Y is the triggering spell's level.
 
-**Spell Lists.** Artificer, Magus, Psion, Sorcerer, Wizard
+**Spell Lists.** Artificer, Magus, Psion, Sorcerer, Warlock, Wizard
