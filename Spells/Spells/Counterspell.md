@@ -1,6 +1,6 @@
 ### Counterspell
 *3rd-level abjuration*  
-**Casting Time:** 1 reaction, which you take when you see a creature within 60 feet of you casting a spell  
+**Casting Time:** 1 reaction, When you see a creature within 60 feet of you casting a spell  
 **Range:** 60 feet  
 **Components:** S  
 **Duration:** Instantaneous  
@@ -10,3 +10,5 @@
 *Counter* the triggering spell if it's of `Xth` level or lower, where X is this spell's level. If the spell's level is greater than X, make a DC `10 + *Y` ability check using your spellcasting ability.  On a success, the creature’s spell is *countered*.
 
 *Where Y is the triggering spell's level.
+
+**Spell Lists.** Artificer, Magus, Psion, Sorcerer, Wizard
