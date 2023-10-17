@@ -5,7 +5,7 @@
 **Components:** V, S, M (a piece of tentacle from a giant octopus or a giant squid)  
 **Duration:** Concentration, up to 1 minute  
 
-> Squirming, ebony tentacles erupt from the ground, grasping whatever they feel.
+> *Squirming, ebony tentacles erupt from the ground, grasping whatever they feel.*
 
 Target a 20-foot square on ground that you can see within range. Until this spell ends, this area is difficult terrain.
 
