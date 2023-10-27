@@ -48,21 +48,29 @@
 **Spellcasting Foci:** component pouch, divine foci  
 **Tools:** prayer set  
 **Saving Throws:** Wisdom, Charisma  
-**Skills:** Choose `2 + your Intelligence modifier` from Arcana, Athletics, History, Insight, Medicine, Persuasion, and Religion.
+**Skills:** Choose `2 + your Intelligence modifier` from Arcana, Athletics, History, Insight, Medicine, Persuasion, and Religion.  
 
 ## Starting Equipment
 You start with the following items, plus anything provided by your background.
 
-(a) a mace or (b) a warhammer (if proficient)
-(a) scale mail, (b) leather armor, or (c) chain mail (if proficient)
-(a) a light crossbow and 20 bolts or (b) any simple weapon
-(a) a priest's pack or (b) an explorer's pack
-A shield and a holy symbol
-Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
+* (a) a mace or (b) a warhammer (if proficient)
+* (a) scale mail, (b) leather armor, or (c) chain mail (if proficient)
+* (a) a light crossbow and 20 bolts or (b) any simple weapon
+* (a) a priest's pack or (b) an explorer's pack
+* A shield and a holy symbol
 
-Multiclassing
-Ability Score Minimum: Wisdom 13
+> Alternatively, you may start with `5d4 × 10` gp to buy your own equipment.
 
-When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
-Armor: light armor, medium armor, shields
+___
+> ### Multiclassing Into This Class
+> 
+> **Ability Requirement:** Wisdom score of 13 or greater.  
+> **Armor Gained:** Light Armor, Medium Armor, Shields  
+> **Weapons Gained:** none  
+> **Skills Gained:** Choose 1 + half your Intelligence modifier (rounded up) of the following: Arcana, Athletics, History, Insight, Medicine, Persuasion, and Religion.  
+___
+
+## Divine Domain
+
+At 1st level, you choose a domain shaped by your choice of Deity and the gifts they grant you. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
 
