@@ -111,7 +111,7 @@ Choose one of the following Martial Archetypes:
 Each Archetype has a list of Archetype Exploits you learn at the fighter levels noted in your Archetype's description. They don't count against your total number of Exploits Known and can't be switched out for other Exploits. If you don't meet an Archetype Exploit's prerequisites, you learn it regardless.
 
 ## Ability Score Increase
-**4th-level Fighter feature**
+*4th-level Fighter Feature*
 
 When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. You can't increase an ability score above 20 using this feature.
 
@@ -121,7 +121,9 @@ When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th leve
 You learn a feat. This feat can be either a General, Martial, or Fighter feat. You learn additional feats at 8th, and 12th level.
 
 ## Multiattack
-*Beginning at 5th level, you can strike with inhuman speed.*
+*5h-level Fighter Feature*
+
+> *Beginning at 5th level, you can strike with inhuman speed.*
 
 you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
