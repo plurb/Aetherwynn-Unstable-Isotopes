@@ -39,8 +39,8 @@
 # Class Features
 
 ## Hit Points
-**Hit Points:** 6 + your Constitution modifier per Wizard Level.
-**Hit Dice:** 1d6 per Wizard Level. 
+**Hit Points:** 6 + your Constitution modifier per Wizard Level  
+**Hit Dice:** 1d6 per Wizard Level  
 
 ## Proficiencies
 **Armor:** none  
