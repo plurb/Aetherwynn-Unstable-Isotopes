@@ -97,6 +97,8 @@ You know three Cantrips of your choice from the Cleric Spell List. You learn add
 ### Repertoire
 At 1st level, you have a repertoire containing six 1st-level wizard spells of your choice. Your repertoire is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.
 
+**TODO:** #2 Describe repertoire
+
 ### Preparing and Casting Spells
 The Spell Slots per Spell Level table shows how many spell slots you have to cast your Wizard Spells of 1st-level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a Full Rest.
 
