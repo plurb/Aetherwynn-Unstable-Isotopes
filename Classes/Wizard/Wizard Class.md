@@ -6,7 +6,7 @@
 
 | Level | Proficiency | Features                     | Cantrips |
 | ----: | ----------: | :--------------------------- | -------: |
-|     1 |           2 | Arcane Spellcasting          |        3 |
+|     1 |           2 | Spellcasting                 |        3 |
 |     2 |           2 | Arcane Tradition             |        3 |
 |     3 |           2 | Expert of Rituals            |        3 |
 |     4 |           2 | Ability Score Increase, Feat |        4 |
@@ -45,6 +45,7 @@
 ## Proficiencies
 **Armor:** none  
 **Weapons:** daggers, darts, slings, quarterstaffs  
+**Spellcasting Foci:** arcane foci, component pouch
 **Tools:** none  
 **Saving Throws:** Intelligence, Wisdom  
 **Skills:** Choose `2 + your Intelligence modifier` from Arcana, History, Insight, Investigation, Medicine, Nature, Persuasion, and Religion.
@@ -59,7 +60,10 @@ You start with the following items, plus anything provided by your background.
 
 ## Spellcasting
 *1st-level Wizard Feature*
-As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power. See **spellcasting** for the general rules of spellcasting and the [**Wizard Spell List**](https://github.com/plurb/Pluto-s-Generic-Fantasy-RPG-Unstable-Isotopes/blob/main/Spells/Wizard%20Spell%20List.md) for the wizard spell list.
+
+> *As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power*
+
+ See **spellcasting** for the general rules of spellcasting and the [**Wizard Spell List**](https://github.com/plurb/Pluto-s-Generic-Fantasy-RPG-Unstable-Isotopes/blob/main/Spells/Wizard%20Spell%20List.md) for the wizard spell list.
 
 ### Cantrips
 You know three cantrips of your choice from the wizard spell list. You learn additional wizard cantrips of your choice at higher levels, as shown in the Cantrips column of the Wizard table.
@@ -94,11 +98,11 @@ Intelligence is your spellcasting ability for your wizard spells, since you lear
 
 Choose an arcane tradition. Your Arcane Tradition grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
-| Tradition   | Source                  |
-| :---------- | :---------------------- |
-| Divination  | Unstable Isotopes (0.0) |
-| Evocation   | Unstable Isotopes (0.0) |
-| Illusion    | Unstable Isotopes (0.0) |
+| Tradition  | Source                  |
+| :--------- | :---------------------- |
+| Divination | Unstable Isotopes (0.0) |
+| Evocation  | Unstable Isotopes (0.0) |
+| Illusion   | Unstable Isotopes (0.0) |
 
 **Note:** Necromancy will come with Evil Player Characters expansion, not the Player's Handbook (but will be part of the SRD)
 
