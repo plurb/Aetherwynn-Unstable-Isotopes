@@ -71,7 +71,7 @@ ___
 ___
 
 ## Divine Domain
-*1st-level Cleric Feature*
+*1st-level Cleric feature*
 
 > *you choose a domain shaped by your choice of Deity and the gifts they grant you.*
 
@@ -85,7 +85,7 @@ Your choice grants you domain spells and other features when you choose it at 1s
 | war      | Unstable Isotopes (0.0) |
 
 ## Spellcasting
-*1st-level Wizard Feature*
+*1st-level Cleric feature*
 
 > *You're a god's special bitch. Congrats.*
 
@@ -95,12 +95,17 @@ Your choice grants you domain spells and other features when you choose it at 1s
 You know three Cantrips of your choice from the Cleric Spell List. You learn additional Cleric Cantrips of your choice at higher levels, as shown in the Cantrips column of the Cleric table.
 
 ### Repertoire
-At 1st level, you have a repertoire containing six 1st-level wizard spells of your choice. Your repertoire is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.
+At 1st level, you have a repertoire containing six 1st-level Cleric spells of your choice. Your repertoire is the repository of the Cleric Spells you know, except your cantrips, which are fixed in your mind.
 
-**TODO:** #2 Describe repertoire
+Each time you gain a Cleric level, you can add two Cleric spells of your choice to your repertoire. Each of these spells must be of a level for which you have spell slots, as shown on the Cleric table.
 
 ### Preparing and Casting Spells
-The Spell Slots per Spell Level table shows how many spell slots you have to cast your Wizard Spells of 1st-level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a Full Rest.
+The Spell Slots per Spell Level table shows how many spell slots you have to cast your Cleric Spells of 1st-level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a Full Rest.
 
-You prepare the set of Wizard Spells that are available for you to cast. To do so, choose a number of Wizard Spells from your Spellbook equal to `your Intelligence modifier + your wizard level` (minimum of one). The spells must be of a level for which you have spell slots.
+You prepare the set of Cleric spells that are available for you to cast. To do so, choose a number of Cleric spells from your repertoire equal to `your Wisdom modifier + your Cleric level` (minimum of one). The spells must be of a level for which you have spell slots.
+
+...
+
+> #### Example
+> For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
