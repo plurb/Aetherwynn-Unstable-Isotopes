@@ -70,20 +70,6 @@ ___
 > **Skills Gained:** Choose 1 + half your Intelligence modifier (rounded up) of the following: Arcana, Athletics, History, Insight, Medicine, Persuasion, and Religion.  
 ___
 
-## Divine Domain
-*1st-level Cleric feature*
-
-> *you choose a domain shaped by your choice of Deity and the gifts they grant you.*
-
-Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
-
-| Domain   | Source                  |
-| :------- | :---------------------- |
-| life     | Unstable Isotopes (0.0) |
-| peace    | Unstable Isotopes (0.0) |
-| twilight | Unstable Isotopes (0.0) |
-| war      | Unstable Isotopes (0.0) |
-
 ## Spellcasting
 *1st-level Cleric feature*
 
@@ -104,8 +90,31 @@ The Spell Slots per Spell Level table shows how many spell slots you have to cas
 
 You prepare the set of Cleric spells that are available for you to cast. To do so, choose a number of Cleric spells from your repertoire equal to `your Wisdom modifier + your Cleric level` (minimum of one). The spells must be of a level for which you have spell slots.
 
-...
-
+___
 > #### Example
 > For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+___
+
+> *You can take time to prepare a new list of cleric spells through prayer and meditation.*
+
+**1/Long Rest:** After you finish a Long Rest, you can change the set of spells you have prepared. Preparing a spell requires 1 minute per spell level for each spell you prepare.
+
+## Divine Domain
+*1st-level Cleric feature*
+
+> *you choose a domain shaped by your choice of Deity and the gifts they grant you.*
+
+Your choice grants you Domain Spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
+
+| Domain   | Source                  |
+| :------- | :---------------------- |
+| life     | Unstable Isotopes (0.0) |
+| peace    | Unstable Isotopes (0.0) |
+| twilight | Unstable Isotopes (0.0) |
+| war      | Unstable Isotopes (0.0) |
+
+## Domain Spells
+Each domain has a list of spells—its domain spells—that you gain at the Cleric levels noted in the domain description. Once you gain a domain spell, it is added to your repertoire, and it doesn't count against the number of spells normally added to your repertoire upon gaining a Cleric level.
+
+If you have a domain spell that doesn't appear on the Cleric Spell List, the spell is a Cleric spell for you.
 
