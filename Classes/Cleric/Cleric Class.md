@@ -6,7 +6,7 @@
 
 | Level | Proficiency | Features                                            | Cantrips |
 | ----: | ----------: | :-------------------------------------------------- | -------: |
-|     1 |           2 | Divine Domain, Spellcasting                         |        3 |
+|     1 |           2 | Spellcasting, Divine Domain                         |        3 |
 |     2 |           2 | Channel Divinity (x1), Divine Domain Feature        |        3 |
 |     3 |           2 | Harness Divine Power                                |        3 |
 |     4 |           2 | Ability Score Increase, Feat                        |        4 |
