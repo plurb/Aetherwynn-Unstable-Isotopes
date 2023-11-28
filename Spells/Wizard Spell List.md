@@ -43,6 +43,7 @@
 
 **New Spells:**
 *Delay*  
+*Zoltraak*  
 
 ## 3rd-Level
 *Conjure Lesser Demon*  
