@@ -63,7 +63,7 @@ You start with the following items, plus anything provided by your background.
 
 > *As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power*
 
- See **spellcasting** for the general rules of spellcasting and the [**Wizard Spell List**](https://github.com/plurb/Pluto-s-Generic-Fantasy-RPG-Unstable-Isotopes/blob/main/Spells/Wizard%20Spell%20List.md) for the wizard spell list.
+See **spellcasting** for the general rules of spellcasting and the [**Wizard Spell List**](https://github.com/plurb/Pluto-s-Generic-Fantasy-RPG-Unstable-Isotopes/blob/main/Spells/Wizard%20Spell%20List.md) for the wizard spell list.
 
 ### Cantrips
 You know three cantrips of your choice from the wizard spell list. You learn additional wizard cantrips of your choice at higher levels, as shown in the Cantrips column of the Wizard table.

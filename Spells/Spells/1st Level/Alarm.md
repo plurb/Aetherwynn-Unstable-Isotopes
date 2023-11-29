@@ -7,7 +7,7 @@
 
 > *You set an alarm against unwanted intrusion.*
 
-Target a door, a window, or a 20-foot cube, originating from a point within range. Until the spell ends, an alarm alerts you whenever a creature that is tiny or larger touches or enters the warded area. When you cast the spell, you can designate creatures that won’t set off the alarm. You also choose whether the alarm is mental or audible.
+Target a door, a window, or a 20-foot cube, originating from a point you can see within range. Until the spell ends, an alarm alerts you whenever a creature that is tiny or larger touches or enters the warded area. When you cast the spell, you can designate creatures that won’t set off the alarm. You also choose whether the alarm is mental or audible.
 
 A mental alarm alerts you with a ping in your mind if you are within 1 mile of the warded area. This ping awakens you if you are sleeping. An audible alarm produces the sound of a hand bell for 10 seconds and can be heard within 60 feet of the warded area.
 

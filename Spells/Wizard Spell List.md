@@ -78,7 +78,6 @@
 *Conjure Lesser Dragon*  
 *Cumulonimbus*  
 *Hold Creature*  
-*Planar Binding*  
 *Quagmire*  
 *Synaptic Static*  
 *Wall of Force*  
@@ -97,3 +96,4 @@
 *Move Earth*  
 *Programmed Illusion*  
 *Create Homunculus*  
+*Planar Binding*  
