@@ -118,6 +118,7 @@ Choose an arcane tradition. Your Arcane Tradition grants you features at 2nd lev
 
 | Tradition  | Source                  |
 | :--------- | :---------------------- |
+| Abjuration | Unstable Isotopes (0.0) |
 | Divination | Unstable Isotopes (0.0) |
 | Evocation  | Unstable Isotopes (0.0) |
 | Illusion   | Unstable Isotopes (0.0) |
