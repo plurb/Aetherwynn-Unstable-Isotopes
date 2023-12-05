@@ -1,3 +1,5 @@
+`Under reconstruction by HCT. I'm gonna make this stuff 15x better ;)`
+
 # The Artificer
 
 > *Masters of innovation and invention, Artificers make the mundane magiclal.*
