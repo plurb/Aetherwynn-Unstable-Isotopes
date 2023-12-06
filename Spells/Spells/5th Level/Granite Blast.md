@@ -9,7 +9,7 @@
 
 Each creature in a 30 ft. sphere centered on a point within range makes a Dexterity Saving Throw and takes `Xd8` force damage, where `X = 3 + this spell's level`.
 
-**Failure:** The creature takes full damage.  
-**Success:** The creature takes half damage.  
+**Failure:** The creature takes full damage.
+**Success:** The creature takes half damage.
 
 **Classes:** Artificer, Magus, Psion, Sorcerer, Warlock, Wizard
