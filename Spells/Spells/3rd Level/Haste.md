@@ -16,4 +16,4 @@ Target a willing creature that you can see within range. Until this spell ends, 
 
 When this spell ends, the target makes a DC 15 Constitution Saving Throw. On a failure, the target is *incapacitated* until the end of its next turn.
 
-**Spell Lists.** Artificer, Cleric, Paladin, Ranger, Sorcerer, Wizard
+**Classes:** Artificer, Cleric, Paladin, Ranger, Sorcerer, Wizard

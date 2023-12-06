@@ -9,4 +9,4 @@
 
 *Counter* the triggering spell if it's of 1st-level or a Cantrip.
 
-**Spell Lists.** Magus, Psion, Sorcerer, Wizard
+**Classes:** Magus, Psion, Sorcerer, Wizard
