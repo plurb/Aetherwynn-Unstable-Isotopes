@@ -12,4 +12,4 @@ A weapon you are touching gains the following effects until this spell ends:
 * The weapon's reach increases by 10ft
 * It deals an additional `Xd10` force damage on hit, where `X = this spell's level`
 
-**Spell Lists.** Artificer, Cleric, Paladin, Ranger, Sorcerer, Warlock
+**Classes:** Artificer, Cleric, Paladin, Ranger, Sorcerer, Warlock

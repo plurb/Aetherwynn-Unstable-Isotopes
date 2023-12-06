@@ -8,3 +8,5 @@
 > *You magically capture and reverse the effects of a spell just as it is being cast.*
 
 If the spell's level is `X` or lower, where `X = this spell's level - 1`, copy the spell, then counter it. You may choose new targets for the copy.
+
+**Classes:** Sorcerer, Wizard

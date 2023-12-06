@@ -22,7 +22,6 @@ Formulas are in inline code:
 ```md
 ... `2d8 + 2` ...
 ```
-
 ```md
 `Xd8 + 2`, where `X = `...
 ```
@@ -48,8 +47,3 @@ If nothing occurs on a success or on a failure, then that section may be omitted
 Class name goes in `# Heading 1`.
 
 Class features go in `## Heading 2`.
-
-
-
-
-
