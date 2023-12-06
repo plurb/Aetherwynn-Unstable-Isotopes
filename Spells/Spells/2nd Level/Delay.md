@@ -9,4 +9,4 @@
 
 If the creature is casting a spell of `Xth` level or lower, where X is this spell's level, then spell's casting time increases by `1` round.
 
-**Spell Lists.** Artificer, Magus, Psion, Sorcerer, Warlock, Wizard
+**Classes:** Artificer, Magus, Psion, Sorcerer, Warlock, Wizard

@@ -12,3 +12,5 @@ Up to `X` target creatures you can see in range make a Wisdom saving throw (they
 **Failure:** The creatures are charmed by you until this spell ends or until you or your companions deal damage to it, or it sees you or your companions deal damage to one of their companions. The charmed creatures are friendly to you.
 
 When the spell ends, the creatures know they were charmed by you.
+
+**Classes:** ???, ???

@@ -9,4 +9,4 @@
 
 Reduce the triggering damage by `Xd8`, where `X = 2 + this spell's level`.
 
-**Spell Lists.** Artificer, Druid, Ranger, Sorcerer, Wizard
+**Classes:** Artificer, Druid, Ranger, Sorcerer, Wizard

@@ -12,4 +12,4 @@ Each creature in a 30 ft. sphere centered on a point within range makes a Dexter
 **Failure:** The creature takes full damage.  
 **Success:** The creature takes half damage.  
 
-**Spell Lists.** Artificer, Magus, Psion, Sorcerer, Warlock, Wizard
+**Classes:** Artificer, Magus, Psion, Sorcerer, Warlock, Wizard

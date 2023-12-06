@@ -13,4 +13,4 @@ You can bring along objects as long as their weight doesn't exceed what you can 
 
 If you would arrive in a place already occupied by an object or a creature, you and any creature traveling with you each take 4d6 force damage, and the spell fails to teleport you.
 
-Classes: Alternate Artificer, Alternate Sorcerer, Bard, Psion, Sorcerer, Warlock, Wizard
+**Classes:** Alternate Artificer, Alternate Sorcerer, Bard, Psion, Sorcerer, Warlock, Wizard
