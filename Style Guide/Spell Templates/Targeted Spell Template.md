@@ -3,7 +3,7 @@
 **Casting Time:** {Action | Bonus Action | Reaction; Reaction Trigger}  
 **Range:** x ft.  
 **Components:** {C?}, {V}, {S}, {M (Material Components)}  
-**Duration:** {Instantaneous | {?up to:} x minutes/hours/days}  
+**Duration:** {Instantaneous | { Concentration ? up to:} y seconds|minutes|hours|days}  
 
 > *Flavor text.*
 
