@@ -1,9 +1,9 @@
 ### Spell Name  
 *???-level ???*  
-**Casting Time:** Action | Bonus Action | Reaction; Reaction Trigger  
+**Casting Time:** {Action | Bonus Action | Reaction; Reaction Trigger}  
 **Range:** x ft.  
-**Components:** C?, V, S, M (Material Components)  
-**Duration:** Instantaneous | ?up to:: x minutes/hours/days  
+**Components:** {C?}, {V}, {S}, {M (Material Components)}  
+**Duration:** {Instantaneous | {?up to:} x minutes/hours/days}  
 
 > *Flavor text.*
 
