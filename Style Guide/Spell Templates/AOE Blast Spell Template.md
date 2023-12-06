@@ -12,4 +12,4 @@ Each creature in a {N} {line or cylinder ? by {M} : } ft. {sphere|cube|cone|line
 **Failure:** The creature takes full damage. {Additional effects on failure.}  
 **Success:** The creature takes half damage.  
 
-**Classes.** ???, ???
+**Classes:** ???, ???

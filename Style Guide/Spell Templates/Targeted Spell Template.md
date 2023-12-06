@@ -11,3 +11,5 @@ Up to N target creature{N > 1 or N == `X`: s :} in range makes a makes a {Streng
 
 **Failure:** {Effects on failure.}  
 **Success:** {Effects on success.}  
+
+**Classes:** ???, ???
