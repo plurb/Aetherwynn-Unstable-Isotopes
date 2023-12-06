@@ -18,6 +18,7 @@ Source: Player's Handbook
 | 9th          | Mass Cure Wounds, Raise Dead         |
 
 ### Bonus Proficiency
+
 When you choose this domain at 1st level, you gain proficiency with heavy armor.
 
 ### Disciple of Life
@@ -47,6 +48,7 @@ Once on each of your turns when you hit a creature with a weapon attack, you can
 ### Supreme Healing
 Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.
 
+___
 
 ## Peace Domain
 

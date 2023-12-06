@@ -14,6 +14,6 @@ At the beginning of each of the demon's turns, it makes a Charisma saving throw.
 **Failure:** The demon continues to obey you.  
 **Success:** This spell ends.  
 
-If this spell ends before it completes its full duration, you lose control of the demon, and doesn't disappear for `2d6` rounds if it still has hit points. The demon spends its turns pursuing and attacking the nearest Humanoid creature.
+If this spell ends before it completes its full duration, you lose control of the demon, and **doesn't disappear** for `2d6` rounds if it still has hit points. The demon spends its turns pursuing and attacking the nearest Humanoid creature.
 
 **Classes:** Sorcerer, Warlock, Wizard

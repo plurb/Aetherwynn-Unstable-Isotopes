@@ -68,8 +68,8 @@
 *Psychic Lance*  
 *Conjure Greater Demon*  
 *Fabricate*  
-*Flaming Shield - (Fire Shield + Wall of Fire)*  
-*Alien Tentacles (Black Tentacles)*  
+*Thermal Shield*  
+*Alien Tentacles*  
 
 ## 5th-Level
 *Animate Objects*  
