@@ -4,20 +4,20 @@
 
 ## Fighter
 
-| Level | Proficiency | Features                                 | Fighting Styles | Exploits | Exploit Level |
-| ----: | ----------: | :--------------------------------------- | --------------: | -------: | ------------: |
-|     1 |           2 | Fighting Style, Exploits                 |               1 |        2 |             1 |
-|     2 |           2 | Action Surge (x1)                        |               1 |        3 |             1 |
-|     3 |           2 | Martial Archetype                        |               1 |        4 |             1 |
-|     4 |           2 | Ability Score Increase, Feat             |               1 |        5 |             1 |
-|     5 |           3 | Multiattack (x1)                         |               1 |        6 |             2 |
-|     6 |           3 | Ability Score Increase, Enhanced Strikes |               1 |        7 |             2 |
-|     7 |           3 | Martial Archetype Feature                |               2 |        8 |             2 |
-|     8 |           3 | Ability Score Increase, Feat             |               2 |        9 |             2 |
-|     9 |           4 | Legendary Might (x1)                     |               2 |       10 |             3 |
-|    10 |           4 | Martial Archetype Feature                |               2 |       10 |             3 |
-|    11 |           4 | Multiattack (x2)                         |               2 |       11 |             3 |
-|    12 |           4 | Ability Score Increase, Feat             |               2 |       11 |             3 |
+| Level | Proficiency | Features                                 | Fighting Styles | Exploits Known | Exploit Level |
+| ----: | ----------: | :--------------------------------------- | --------------: | -------------: | ------------: |
+|     1 |           2 | Fighting Style, Exploits                 |               1 |              2 |             1 |
+|     2 |           2 | Action Surge (x1)                        |               1 |              3 |             1 |
+|     3 |           2 | Martial Archetype                        |               1 |              4 |             1 |
+|     4 |           2 | Ability Score Increase, Feat             |               1 |              5 |             1 |
+|     5 |           3 | Multiattack (x1)                         |               1 |              6 |             2 |
+|     6 |           3 | Ability Score Increase, Enhanced Strikes |               1 |              7 |             2 |
+|     7 |           3 | Martial Archetype Feature                |               2 |              8 |             2 |
+|     8 |           3 | Ability Score Increase, Feat             |               2 |              9 |             2 |
+|     9 |           4 | Legendary Might (x1)                     |               2 |             10 |             3 |
+|    10 |           4 | Martial Archetype Feature                |               2 |             10 |             3 |
+|    11 |           4 | Multiattack (x2)                         |               2 |             11 |             3 |
+|    12 |           4 | Ability Score Increase, Feat             |               2 |             11 |             3 |
 
 **Note:** Levels beyond 12 aren't ready yet.
 
@@ -51,14 +51,14 @@ ___
 ___
 
 ## Fighting Style
-**1st-level Fighter Feature**
+*1st-level Fighter Feature*
 
 You learn one fighting style from *Fighter Fighting Styles*.
 
 You learn one more fighting style of your choice at 7th level, as shown on the Fighter Table.
 
 ## Exploits
-**1st-level Fighter Feature**
+*1st-level Fighter Feature*
 
 Also at 1st level, you begin to learn techniques that enhance your martial skill in and out of battle. You gain the features:
 
@@ -74,7 +74,7 @@ To use an Exploit, you must expend a number of Stamina Points equal to the Explo
 For Exploits that modify an Attack, Ability Check, or Saving Throw: you can only use one Exploit per Attack, Ability Check, or Saving Throw.
 
 ### Exploits Known
-You learn two Exploits from the Fighter Exploit List. The Exploits column of the Fighter Table shows when you learn more Exploits of your choice. To learn a Exploit, you must be able to learn Exploits of its level, as well as meet any other prerequisites (listed under **Prerequisites** in the Exploit's entry).
+You learn two Exploits from the Fighter Exploit List. The Exploits Known column of the Fighter Table shows when you learn more Exploits of your choice. To learn a Exploit, you must be able to learn Exploits of its level, as well as meet any other prerequisites (listed under **Prerequisites** in the Exploit's entry).
 
 Whenever you gain a Fighter Level, you can replace one of the Exploits you learnt from this class with another Exploit from the Fighter Exploit List.
 

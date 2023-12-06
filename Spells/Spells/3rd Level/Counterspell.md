@@ -1,6 +1,6 @@
 ### Counterspell
 *3rd-level abjuration*  
-**Casting Time:** 1 reaction, When you see a creature within 60 feet of you casting a spell  
+**Casting Time:** 1 reaction; When you see a creature within 60 feet of you casting a spell  
 **Range:** 60 feet  
 **Components:** S  
 **Duration:** Instantaneous  
