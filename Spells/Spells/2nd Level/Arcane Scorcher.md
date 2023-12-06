@@ -5,8 +5,8 @@
 **Components:** V, S, M (a red dragon's scale)  
 **Duration:** Instantaneous  
 
-> *You fire a jet of roaring flame*
+> *You fire a jet of roaring flame from your hands.*
 
-Spell mechanical text.
+
 
 **Classes.** ???, ???
