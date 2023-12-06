@@ -15,4 +15,4 @@ The flames provide you with a warm shield or a chill shield, as you choose.
 
 If a creature within 30 feet of you hits you with an attack, the attacker takes `2d8` fire damage from a warm shield, or `2d8` cold damage from a cold shield.
 
-**Classes:** Alternate Sorcerer, Wizard
+**Classes:** Sorcerer, Wizard
