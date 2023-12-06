@@ -7,7 +7,7 @@
 
 > *You fire a jet of roaring flame from your hands.*
 
-Each creature within a 30 ft. long and 5 ft. wide line originating from you must make a Dexterity Saving Throw and takes `Xd8` fire damage, where `X = 1 + this spell's level`.
+Each creature within a 30 ft. long and 5 ft. wide line originating from you makes a Dexterity Saving Throw and takes `Xd8` fire damage, where `X = 1 + this spell's level`.
 
 **Failure:** The creature takes full damage.  
 **Success:** The creature takes half damage.  
