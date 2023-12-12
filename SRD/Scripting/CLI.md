@@ -5,6 +5,8 @@ CLI specification.
 Aetherwynn CLI:
 * base command shall be `aether`
 
+## `aether [search|get|GET]`
+
 `aether [search|get|GET] [-name] [name]` - fetches the **first** document or feature w/ the specified name (nearest match)
 * `-name` - the item to search for (optional, useful when using multiple flags/arguments)
 * `-rule` - limits search to rules.
@@ -64,7 +66,26 @@ Aetherwynn CLI:
 * `-remote=[url]` - uses remote server for the fetch.
 * `-[o|out|output] [filename]` - puts the search result into the specified file. if the file doesn't exist, it creates a new one.
 * `-[reqfile|req|f]` - file containing search flags in JSON format (or SQL format if `-sql` is used).
-* `-sql [query]` - search using SQL syntax. Disables all other arguments.
+* `--sql` - search using SQL syntax. Only works when using the `-[reqfile|req|f]` flag.
 
 
-`newchar` - creates new empty character sheet
+## `aether newchar`
+
+`aether newchar` - creates new empty character sheet (default is DiceBox)
+* `--dicebox` - (default) creates the new character in DiceBox format.
+* `--pdf` - creates a fillable PDF.
+
+
+## `aether loadchar`
+
+`aether loadchar [path|URL]` - loads character for aetherwynn automations (default format is DiceBox)
+* `--dicebox` - (default) loads a DiceBox character.
+* `--dicecloud` - loads a Dicecloud v2 character, requires URL to the sheet.
+* `--dicecloudv1` - loads a Dicecloud v1 character, gives the following warning when used:
+  * `WARNING: Dicecloud v1 is at EOL, and is out of date. Use Dicecloud v2 or DiceBox instead geezer.`
+  * FUTURE: After DiceBox development is complete, deprecate this feature. Then remove in the next stable release.
+* `--tableplop` - loads a tableplop sheet.
+* `--critterdb` - loads a CritterDB monster.
+
+
+
