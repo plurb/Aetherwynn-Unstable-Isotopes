@@ -1,6 +1,8 @@
-### Spell Name  
-*2nd-level ???*  
-**Casting Time:** {Action | Bonus Action | Reaction; Reaction Trigger}  
-**Range:** {x ft. | Self | Self (x ft. {sphere|cube|cone|cylinder|line})}  
-**Components:** {C?}, {V}, {S}, {M (Material Components)}  
-**Duration:** {Instantaneous | { Concentration ? up to:} x minutes/hours/days}  
+### Hold Person  
+*2nd-level Enchantment*  
+**Casting Time:** Action  
+**Range:** 60 ft.  
+**Components:** V, S, M (a small, straight piece of iron)  
+**Duration:** Concentration, up to: 1 minute  
+
+**Classes:** ???, ???
