@@ -1,5 +1,5 @@
-### Spell Name  
-*2nd-level ???*  
+### Locate Vehicle  
+*2nd-level Divination*  
 **Casting Time:** {Action | Bonus Action | Reaction; Reaction Trigger}  
 **Range:** {x ft. | Self | Self (x ft. {sphere|cube|cone|cylinder|line})}  
 **Components:** {C?}, {V}, {S}, {M (Material Components)}  

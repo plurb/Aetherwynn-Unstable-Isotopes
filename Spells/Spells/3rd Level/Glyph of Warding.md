@@ -1,4 +1,4 @@
-### Spell Name  
+### Glyph of Warding  
 *3rd-level ???*  
 **Casting Time:** {Action | Bonus Action | Reaction; Reaction Trigger}  
 **Range:** {x ft. | Self | Self (x ft. {sphere|cube|cone|cylinder|line})}  
