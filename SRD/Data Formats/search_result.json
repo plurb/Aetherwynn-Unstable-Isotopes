@@ -1,5 +1,0 @@
-{
-    "result_name": "name: String",
-    "result_kind": "kind: String = [Class Feature | Feat | Spell | Exploit | Item | ...]",
-    "result_path": "path: String (path to the feature)"
-}
