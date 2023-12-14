@@ -4,7 +4,7 @@
 
 ## Fighter
 
-| Level | Proficiency | Features                                 | Fighting Styles | Exploits Known | Exploit Level |
+| Level | Proficiency | Abilities                                | Fighting Styles | Exploits Known | Exploit Level |
 | ----: | ----------: | :--------------------------------------- | --------------: | -------------: | ------------: |
 |     1 |           2 | Fighting Style, Exploits                 |               1 |              2 |             1 |
 |     2 |           2 | Action Surge (x1)                        |               1 |              3 |             1 |
@@ -12,16 +12,16 @@
 |     4 |           2 | Ability Score Increase, Feat             |               1 |              5 |             1 |
 |     5 |           3 | Multiattack (x1)                         |               1 |              6 |             2 |
 |     6 |           3 | Ability Score Increase, Enhanced Strikes |               1 |              7 |             2 |
-|     7 |           3 | Martial Archetype Feature                |               2 |              8 |             2 |
+|     7 |           3 | Martial Archetype Ability                |               2 |              8 |             2 |
 |     8 |           3 | Ability Score Increase, Feat             |               2 |              9 |             2 |
 |     9 |           4 | Legendary Might (x1)                     |               2 |             10 |             3 |
-|    10 |           4 | Martial Archetype Feature                |               2 |             10 |             3 |
+|    10 |           4 | Martial Archetype Ability                |               2 |             10 |             3 |
 |    11 |           4 | Multiattack (x2)                         |               2 |             11 |             3 |
 |    12 |           4 | Ability Score Increase, Feat             |               2 |             11 |             3 |
 
 **Note:** Levels beyond 12 aren't ready yet.
 
-# Class Features
+# Class Abilities
 
 ## Hit Points
 **Hit Points Per Level:** `10 + your Constitution modifier` per Fighter Level.  
@@ -44,23 +44,23 @@ At first level, you start with the following equipment:
 ___
 > ### Multiclassing Into This Class
 > 
-> **Ability Requirement:** Strength score or Dexterity score of 13 or greater.  
+> **Ability Score Requirement:** Strength score or Dexterity score of 13 or greater.  
 > **Armor Gained:** Light Armor, Medium Armor, Shields  
 > **Weapons Gained:** Simple Weapons, Martial Weapons  
 > **Skills Gained:** Choose 1 + half your Intelligence modifier (rounded up) of the following: Acrobatics, Athletics, History, Intimidation, Perception, Stealth, and Survival  
 ___
 
 ## Fighting Style
-*1st-level Fighter Feature*
+*1st-level Fighter Ability*
 
 You learn one fighting style from *Fighter Fighting Styles*.
 
 You learn one more fighting style of your choice at 7th level, as shown on the Fighter Table.
 
 ## Exploits
-*1st-level Fighter Feature*
+*1st-level Fighter Ability*
 
-Also at 1st level, you begin to learn techniques that enhance your martial skill in and out of battle. You gain the features:
+Also at 1st level, you begin to learn techniques that enhance your martial skill in and out of battle. You gain the following Abilities:
 
 ### Stamina
 > *You have stamina greater than a mere common soldier, which allows you to perform exploits greater than an ordinary warrior.*
@@ -81,10 +81,10 @@ Whenever you gain a Fighter Level, you can replace one of the Exploits you learn
 ### Saving Throws
 If one of your Exploits requires a creature to make a saving throw, your Exploit DC is calculated as follows:
 
-**Exploit Save DC** = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
+**Exploit Save DC** = `8 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice)`
 
 ## Action Surge
-*2nd-level Fighter Feature*
+*2nd-level Fighter Ability*
  
 > *You can momentarily push yourself beyond human limits.*
  
@@ -93,7 +93,7 @@ If one of your Exploits requires a creature to make a saving throw, your Exploit
 Starting at 17th level, you can use Action Surge **2/short rest**, but only once on the same turn.
 
 ## Martial Archetype
-*3rd-level Fighter Feature.*
+*3rd-level Fighter Ability.*
 
 > *You have distinguished yourself from the common warrior, and have gained skills that represent your unique skillset.*
 
@@ -111,17 +111,17 @@ Choose one of the following Martial Archetypes:
 Each Archetype has a list of Archetype Exploits you learn at the fighter levels noted in your Archetype's description. They don't count against your total number of Exploits Known and can't be switched out for other Exploits. If you don't meet an Archetype Exploit's prerequisites, you learn it regardless.
 
 ## Ability Score Increase
-*4th-level Fighter Feature*
+*4th-level Fighter Ability*
 
-When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. You can't increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. You can't increase an ability score above 20 using this Ability.
 
 ## Feat
-*4th-level Fighter Feature*
+*4th-level Fighter Ability*
 
 You learn a feat. This feat can be either a General, Martial, or Fighter feat. You learn additional feats at 8th, and 12th level.
 
 ## Multiattack
-*5h-level Fighter Feature*
+*5h-level Fighter Ability*
 
 > *Beginning at 5th level, you can strike with inhuman speed.*
 
@@ -137,4 +137,4 @@ At 6th level, Melee Weapon Attacks you make count as magical for the purpose of 
 
 **1/day:** When you fail a saving throw, you can choose to succeed instead.
 
-At certain Fighter levels you can use this feature additional times each day. You can use this feature **2/day** starting at 13th level, and **3/day** starting at 17th level.
+At certain Fighter levels you can use this Ability additional times each day. You can use this Ability **2/day** starting at 13th level, and **3/day** starting at 17th level.
