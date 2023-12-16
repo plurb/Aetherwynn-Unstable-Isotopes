@@ -2,8 +2,8 @@
 *4th-Level Transmutation*  
 **Casting Time:** 1 Bonus Action  
 **Range:** Touch  
-**Components:** V, M (A Melee Weapon worth at least 5sp)  
-**Duration:** Concentration, up to 1 minute  
+**Components:** C, V, M (A Melee Weapon worth at least 5sp)  
+**Duration:** Up to 1 minute  
 
 > *You envelop a weapon you are wielding with aether, creating a large blade shaped aura around the weapon.* 
 

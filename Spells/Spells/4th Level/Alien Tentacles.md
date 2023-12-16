@@ -2,8 +2,8 @@
 *4th-level Conjuration*  
 **Casting Time:** 1 action  
 **Range:** 90 feet  
-**Components:** V, S, M (a piece of tentacle from a giant octopus or a giant squid)  
-**Duration:** Concentration, up to 1 minute  
+**Components:** C, V, S, M (a piece of tentacle from a giant octopus or a giant squid)  
+**Duration:** Up to 1 minute  
 
 > *Squirming, purple tentacles erupt from the ground, grasping whatever they feel.*
 

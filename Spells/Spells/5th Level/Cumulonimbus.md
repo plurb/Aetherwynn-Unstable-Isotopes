@@ -1,9 +1,9 @@
 ### Cumulonimbus  
 *5th-level Conjuration*  
-**Casting Time:** {Action | Bonus Action | Reaction; Reaction Trigger}  
-**Range:** {x ft. | Self | Self (x ft. {sphere|cube|cone|cylinder|line})}  
-**Components:** {C?}, {V}, {S}, {M (Material Components)}  
-**Duration:** {Instantaneous | { Concentration ? up to:} x minutes/hours/days}  
+**Casting Time:** {Action | Bonus Action | Reaction; Reaction Trigger | x minutes/hours}  
+**Range:** {Touch | x ft. | Self | Self (x ft. {sphere|cube|cone|cylinder|line})}  
+**Components:** {C}, {V}, {S}, {M (Material Components)}  
+**Duration:** {Instantaneous | { Up to } | x minutes/hours/days}  
 
 > *Dark storm clouds form, the wind kicks up, and thunder growls in the skies above. Rain crashes and the wind howls, a flood forms on the ground and mud drags your feet down.*
 
@@ -14,4 +14,4 @@ The area affected by the spell is [difficult terrain](). On initiative count 20 
 **Failure:** The creature takes full damage, and becomes [prone](https://www.github.com/plurb/Aetherwynn-Unstable-Isotopes/blob/main/Rules/Conditions/Prone.md).  
 **Success:** The creature takes half damage.  
 
-
+**Classes:** ???, ???

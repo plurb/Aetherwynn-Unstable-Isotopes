@@ -2,8 +2,8 @@
 *5th-level Transmutation*  
 **Casting Time:** 1 action  
 **Range:** 120 feet  
-**Components:** V, S  
-**Duration:** Concentration, up to 1 minute  
+**Components:** C, V, S  
+**Duration:** Up to 1 minute  
 
 > *Objects come to life at your command.*
 

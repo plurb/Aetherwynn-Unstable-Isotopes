@@ -2,8 +2,8 @@
 *4th-level Enchantment*  
 **Casting Time:** 1 action  
 **Range:** 30 feet  
-**Components:** V, S  
-**Duration:** Concentration, up to 1 hour 
+**Components:** C, V, S  
+**Duration:** Up to 1 hour 
 
 You attempt to charm a creature you can see within range. 
 

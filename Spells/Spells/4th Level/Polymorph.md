@@ -2,8 +2,8 @@
 *4th-level Transmutation*
 **Casting Time:** 1 action  
 **Range:** 60 feet  
-**Components:** V, S, M (a caterpillar cocoon)  
-**Duration:** Concentration, up to 1 hour  
+**Components:** C, V, S, M (a caterpillar cocoon)  
+**Duration:** Up to 1 hour  
 
 This spell transforms a creature that you can see within range into a new form.
 

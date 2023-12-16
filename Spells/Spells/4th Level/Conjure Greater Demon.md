@@ -2,8 +2,8 @@
 *4th-level Conjuration*  
 **Casting Time:** 1 action  
 **Range:** 30 feet  
-**Components:** V, S, M (an ornate stone and metal lockbox worth at least 400 gp)  
-**Duration:** Concentration, up to 1 minute  
+**Components:** C, V, S, M (an ornate stone and metal lockbox worth at least 400 gp)  
+**Duration:** Up to 1 minute  
 
 > *Summoning demons is a risky gambit. If you don't send them back to the abyss yourself, you may find yourself in the abyss, inside their stomach.*
 

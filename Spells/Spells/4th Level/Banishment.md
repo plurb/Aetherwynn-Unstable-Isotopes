@@ -2,8 +2,8 @@
 *4th-level Abjuration*  
 **Casting Time:** 1 action  
 **Range:** 60 feet  
-**Components:** V, S, M (an item distasteful to the target)  
-**Duration:** Concentration, up to 1 minute  
+**Components:** C, V, S, M (an item distasteful to the target)  
+**Duration:** Up to 1 minute  
 
 > *You attempt to send one creature that you can see within range to another plane of existence.*
 

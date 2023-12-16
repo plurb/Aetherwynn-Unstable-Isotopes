@@ -2,8 +2,10 @@
 *5th-level Evocation*  
 **Casting Time:** 1 action  
 **Range:** 120 feet  
-**Components:** V, S, M (an eggshell and a snakeskin glove)  
-**Duration:** Concentration, up to 1 minute  
+**Components:** C, V, S, M (an eggshell and a snakeskin glove)  
+**Duration:** Up to 1 minute  
+
+> *""*
 
 <!-- FIXME: convert to aetherwynn formatting. -->
 
