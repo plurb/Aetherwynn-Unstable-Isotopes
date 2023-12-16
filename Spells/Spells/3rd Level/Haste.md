@@ -2,8 +2,8 @@
 *3rd-level Transmutation*  
 **Casting Time:** 1 action  
 **Range:** 30 feet  
-**Components:** V, S, M (a gram of moondust)  
-**Duration:** Concentration, up to 1 minute  
+**Components:** C, V, S, M (a gram of moondust)  
+**Duration:** Up to 1 minute  
 
 > *You accelerate the flow of aether within a creature, blessing it with extreme speed.*
 

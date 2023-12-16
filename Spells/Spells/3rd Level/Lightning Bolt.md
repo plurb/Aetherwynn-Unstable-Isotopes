@@ -1,9 +1,9 @@
 ### Lightning Bolt  
-*3rd-level ???*  
-**Casting Time:** {Action | Bonus Action | Reaction; Reaction Trigger}  
-**Range:** {x ft. | Self | Self (x ft. {sphere|cube|cone|cylinder|line})}  
-**Components:** {C?}, {V}, {S}, {M (Material Components)}  
-**Duration:** {Instantaneous | { Concentration ? up to: } | x minutes/hours/days}  
+*3rd-level Evocation*  
+**Casting Time:** Action  
+**Range:** Self (100 ft. line)  
+**Components:** V, S, M (a bit of fur and a rod of amber, crystal, or glass)  
+**Duration:** Instantaneous  
 
 > *""*
 
