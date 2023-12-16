@@ -1,6 +1,6 @@
 ### Arcanist's Reversal
-*4th-level abjuration*  
-**Casting Time:** 1 reaction, which you take when you see a creature within 60 feet of you casting a spell  
+*4th-level Abjuration*  
+**Casting Time:** Reaction, when you see a creature within 60 feet of you casting a spell  
 **Range:** 60 feet  
 **Components:** V, S  
 **Duration:** Instantaneous  

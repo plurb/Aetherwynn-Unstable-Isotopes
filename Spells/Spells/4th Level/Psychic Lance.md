@@ -1,6 +1,6 @@
 ### Psychic Lance
 *4th-level Enchantment*  
-**Casting Time:** 1 action  
+**Casting Time:** Action  
 **Range:** 120 feet  
 **Components:** V  
 **Duration:** Instantaneous  

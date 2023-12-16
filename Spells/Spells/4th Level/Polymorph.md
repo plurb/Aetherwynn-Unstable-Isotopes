@@ -1,6 +1,6 @@
 ### Polymorph
 *4th-level Transmutation*
-**Casting Time:** 1 action  
+**Casting Time:** Action  
 **Range:** 60 feet  
 **Components:** C, V, S, M (a caterpillar cocoon)  
 **Duration:** Up to 1 hour  

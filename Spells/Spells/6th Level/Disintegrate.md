@@ -1,6 +1,6 @@
 ### Disintegrate  
 *6th-level Transmutation*  
-**Casting Time:** 1 action  
+**Casting Time:** Action  
 **Range:** 60 feet  
 **Components:** V, S, M (a lodestone and a pinch of dust)  
 **Duration:** Instantaneous  
@@ -16,4 +16,4 @@ This spell automatically disintegrates a Large or smaller nonmagical object or a
 **Failure:** The creature takes full damage.  
 **Success:** The creature takes half damage.  
 
-**Classes:** Wizard, ???
+**Classes.** Wizard, ???

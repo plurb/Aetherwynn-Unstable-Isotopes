@@ -1,6 +1,6 @@
 ### Big Hand
 *5th-level Evocation*  
-**Casting Time:** 1 action  
+**Casting Time:** Action  
 **Range:** 120 feet  
 **Components:** C, V, S, M (an eggshell and a snakeskin glove)  
 **Duration:** Up to 1 minute  

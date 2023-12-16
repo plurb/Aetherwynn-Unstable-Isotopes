@@ -1,6 +1,6 @@
 ### Thermal Shield
 *4th-level Evocation*  
-**Casting Time:** 1 action  
+**Casting Time:** Action  
 **Range:** Self  
 **Components:** V, S, M (a bit of phosphorus or a firefly)  
 **Duration:** 10 minutes  

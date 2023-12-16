@@ -1,6 +1,6 @@
 ### Animate Objects
 *5th-level Transmutation*  
-**Casting Time:** 1 action  
+**Casting Time:** Action  
 **Range:** 120 feet  
 **Components:** C, V, S  
 **Duration:** Up to 1 minute  
