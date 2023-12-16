@@ -1,9 +1,9 @@
 ### Major Image  
-*3rd-level ???*  
-**Casting Time:** {Action | Bonus Action | Reaction; Reaction Trigger}  
-**Range:** {x ft. | Self | Self (x ft. {sphere|cube|cone|cylinder|line})}  
-**Components:** {C?}, {V}, {S}, {M (Material Components)}  
-**Duration:** {Instantaneous | { Concentration ? up to: } | x minutes/hours/days}  
+*3rd-level Illusion*  
+**Casting Time:** Action  
+**Range:** 120 ft.  
+**Components:** C, V, S, M (a bit of fleece)  
+**Duration:** Up to 10 minutes  
 
 > *""*
 

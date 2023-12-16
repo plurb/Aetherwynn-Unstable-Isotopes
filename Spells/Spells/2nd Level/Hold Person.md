@@ -2,8 +2,8 @@
 *2nd-level Enchantment*  
 **Casting Time:** Action  
 **Range:** 60 ft.  
-**Components:** V, S, M (a small, straight piece of iron)  
-**Duration:** Concentration, up to: 1 minute  
+**Components:** C, V, S, M (a small, straight piece of iron)  
+**Duration:** Up to 1 minute  
 
 > *""*
 

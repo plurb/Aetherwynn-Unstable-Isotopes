@@ -1,9 +1,9 @@
 ### Fireball  
-*3rd-level ???*  
-**Casting Time:** {Action | Bonus Action | Reaction; Reaction Trigger}  
-**Range:** {x ft. | Self | Self (x ft. {sphere|cube|cone|cylinder|line})}  
-**Components:** {C?}, {V}, {S}, {M (Material Components)}  
-**Duration:** {Instantaneous | { Concentration ? up to:} x minutes/hours/days}  
+*3rd-level Evocation*  
+**Casting Time:** Action  
+**Range:** 150 ft.  
+**Components:** V, S, M (a tiny ball of bat guano and sulfur)  
+**Duration:** Instantaneous  
 
 > *""*
 

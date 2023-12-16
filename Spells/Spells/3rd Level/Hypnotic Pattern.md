@@ -1,9 +1,9 @@
 ### Hypnotic Pattern  
-*3rd-level ???*  
-**Casting Time:** {Action | Bonus Action | Reaction; Reaction Trigger}  
-**Range:** {x ft. | Self | Self (x ft. {sphere|cube|cone|cylinder|line})}  
-**Components:** {C?}, {V}, {S}, {M (Material Components)}  
-**Duration:** {Instantaneous | { Concentration ? up to: } | x minutes/hours/days}  
+*3rd-level Illusion*
+**Casting Time:** Action  
+**Range:** 120 ft.  
+**Components:** C, S, M (a glowing stick of incense or a crystal vial filled with phosphorescent material)  
+**Duration:** Up to 1 minute  
 
 > *""*
 

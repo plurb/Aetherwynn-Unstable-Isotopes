@@ -1,9 +1,9 @@
 ### Glyph of Warding  
-*3rd-level ???*  
-**Casting Time:** {Action | Bonus Action | Reaction; Reaction Trigger}  
-**Range:** {x ft. | Self | Self (x ft. {sphere|cube|cone|cylinder|line})}  
-**Components:** {C?}, {V}, {S}, {M (Material Components)}  
-**Duration:** {Instantaneous | { Concentration ? up to: } | x minutes/hours/days}  
+*3rd-level Abjuration*  
+**Casting Time:** 1 hour  
+**Range:** Touch  
+**Components:** V, S, M (incense and powdered diamond worth at least 200 gp, which the spell consumes)  
+**Duration:** Until dispelled or triggered  
 
 > *""*
 
