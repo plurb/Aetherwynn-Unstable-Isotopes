@@ -1,8 +1,10 @@
 ### Zoltraak  
-*2nd-level ???*  
-**Casting Time:** {Action | Bonus Action | Reaction; Reaction Trigger}  
-**Range:** {x ft. | Self | Self (x ft. {sphere|cube|cone|cylinder|line})}  
-**Components:** {C?}, {V}, {S}, {M (Material Components)}  
-**Duration:** {Instantaneous | { Concentration ? up to: } | x minutes/hours/days}  
+*2nd-level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** 60 ft.  
+**Components:** V, S  
+**Duration:** Instantaneous  
 
-**Classes:** ???, ???
+Make up to 3 *Ranged Spell Attacks* on up to 3 target creatures in range. *On Hit:* `2d4` force damage.
+
+**Classes:** Wizard, Sorcerer
