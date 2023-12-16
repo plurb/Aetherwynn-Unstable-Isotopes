@@ -7,6 +7,12 @@
 
 > *""*
 
-Target `X` number of humanoids in sight within range, where `X = This spell's level - 1`. 
+Up to `X` target humanoid creatures in range make a Wisdom Saving Throw, where `X = this spell's level - 1`.
 
-**Classes:** ???, ???
+**Failure:** The creautre is paralyzed until this spell ends.
+
+A paralyzed creature can make a Wisdom Saving Throw at the end of its turn.
+
+**Success:** This spell ends for that creature.
+
+**Classes:** 
