@@ -1,9 +1,9 @@
 ### See The Ethereal  
-*2nd-level ???*  
-**Casting Time:** {Action | Bonus Action | Reaction; Reaction Trigger}  
-**Range:** {x ft. | Self | Self (x ft. {sphere|cube|cone|cylinder|line})}  
-**Components:** {C?}, {V}, {S}, {M (Material Components)}  
-**Duration:** {Instantaneous | { Concentration ? up to: } | x minutes/hours/days}  
+*2nd-level Divination*  
+**Casting Time:** Action  
+**Range:** Self  
+**Components:** V, S, M (a pinch of talc and a small sprinkling of powdered silver)  
+**Duration:** 1 hour  
 
 > *""*
 

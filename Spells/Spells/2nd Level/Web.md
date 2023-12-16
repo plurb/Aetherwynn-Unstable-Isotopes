@@ -1,9 +1,9 @@
 ### Web  
-*2nd-level ???*  
-**Casting Time:** {Action | Bonus Action | Reaction; Reaction Trigger}  
-**Range:** {x ft. | Self | Self (x ft. {sphere|cube|cone|cylinder|line})}  
-**Components:** {C?}, {V}, {S}, {M (Material Components)}  
-**Duration:** {Instantaneous | { Concentration ? up to: } | x minutes/hours/days}  
+*2nd-level Conjuration*  
+**Casting Time:** Action  
+**Range:** 60 ft.  
+**Components:** C, V, S, M (a bit of spiderweb)  
+**Duration:** Up to 1 hour  
 
 > *""*
 

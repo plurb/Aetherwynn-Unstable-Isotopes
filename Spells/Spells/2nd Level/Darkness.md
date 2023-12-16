@@ -3,7 +3,7 @@
 **Casting Time:** Action  
 **Range:** 60 ft.  
 **Components:** C, V, S, M (bat fur and a drop of pitch or piece of coal)  
-**Duration:** 1 minute  
+**Duration:** Up to 1 minute  
 
 > *"Lights off." - Author-sama
 > You form a bubble of magical darkness where you point.*

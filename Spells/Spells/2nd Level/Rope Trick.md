@@ -1,9 +1,9 @@
 ### Rope Trick  
-*2nd-level ???*  
-**Casting Time:** {Action | Bonus Action | Reaction; Reaction Trigger}  
-**Range:** {x ft. | Self | Self (x ft. {sphere|cube|cone|cylinder|line})}  
-**Components:** {C?}, {V}, {S}, {M (Material Components)}  
-**Duration:** {Instantaneous | { Concentration ? up to: } | x minutes/hours/days}  
+*2nd-level Transmutation*  
+**Casting Time:** Action  
+**Range:** Touch  
+**Components:** V, S, M (powdered corn extract and a twisted loop of parchment)  
+**Duration:** 1 hour  
 
 > *""*
 
