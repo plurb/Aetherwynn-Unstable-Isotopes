@@ -3,7 +3,7 @@
 **Casting Time:** 1 Bonus Action  
 **Range:** Touch  
 **Components:** C, V, S, M (a hot pepper)  
-**Duration:** Concentration, up to: 1 minute
+**Duration:** Up to 1 minute
 
 > *With nothing but a touch and a hot pepper, you grant a creature the ability to breathe like a dragon. Magic.*
 
