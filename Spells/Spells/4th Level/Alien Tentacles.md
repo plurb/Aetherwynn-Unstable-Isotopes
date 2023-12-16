@@ -1,6 +1,6 @@
 ### Alien Tentacles
 *4th-level Conjuration*  
-**Casting Time:** 1 action  
+**Casting Time:** Action  
 **Range:** 90 feet  
 **Components:** C, V, S, M (a piece of tentacle from a giant octopus or a giant squid)  
 **Duration:** Up to 1 minute  

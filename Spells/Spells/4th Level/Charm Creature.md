@@ -1,6 +1,6 @@
 ### Charm Creature
 *4th-level Enchantment*  
-**Casting Time:** 1 action  
+**Casting Time:** Action  
 **Range:** 30 feet  
 **Components:** C, V, S  
 **Duration:** Up to 1 hour 

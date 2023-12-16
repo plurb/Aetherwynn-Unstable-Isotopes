@@ -1,6 +1,6 @@
 ### Conjure Greater Demon
 *4th-level Conjuration*  
-**Casting Time:** 1 action  
+**Casting Time:** Action  
 **Range:** 30 feet  
 **Components:** C, V, S, M (an ornate stone and metal lockbox worth at least 400 gp)  
 **Duration:** Up to 1 minute  

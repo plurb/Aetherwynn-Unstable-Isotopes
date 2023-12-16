@@ -1,6 +1,6 @@
 ### Granite Blast
 *5th-level Evocation*  
-**Casting Time:** 1 Action  
+**Casting Time:** Action  
 **Range:** 120 ft.  
 **Components:** V,S  
 **Duration:** Instantaneous  

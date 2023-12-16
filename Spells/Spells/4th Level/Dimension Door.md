@@ -1,6 +1,6 @@
 ### Dimension Door
 *4th-level Conjuration*
-**Casting Time:** 1 action
+**Casting Time:** Action
 **Range:** 500 feet
 **Components:** V, S
 **Duration:** Instantaneous
