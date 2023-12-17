@@ -73,7 +73,7 @@ At 1st level, you have a spellbook containing six 1st-level wizard spells of you
 
 > *The spells that you add to your spellbook as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard's chest, for example, or in a dusty tome in an ancient library.*
 
-**TODO:** #1 fix spellbook
+<!-- TODO: #1 fix spellbook -->
 
 Each time you gain a Wizard level, you can add two Wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table.
 
