@@ -51,7 +51,7 @@ ___
 > **Ability Score Requirement:** Strength score or Dexterity score of 13 or greater.  
 > **Armor Gained:** Light Armor, Medium Armor, Shields  
 > **Weapons Gained:** Simple Weapons, Martial Weapons  
-> **Skills Gained:** Choose 1 + half your Intelligence modifier (rounded up) of the following: Acrobatics, Athletics, History, Intimidation, Perception, Stealth, and Survival  
+> **Skills Gained:** Choose `1 + half your Intelligence modifier (rounded up)` of the following: Acrobatics, Athletics, History, Intimidation, Perception, Stealth, and Survival  
 ___
 
 ## Fighting Style
