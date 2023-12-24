@@ -62,7 +62,7 @@ ___
 * When you make a weapon attack using Strength, you deal additional damage equal to your Proficiency Bonus.
 * You gain resistance to non-magical bludgeoning, piercing, and slashing damage.
 * You cannot cast spells or concentrate on spells or effects.
-* Your Rage lasts until the end of your next turn, but it ends early if you become unconscious. You can extend your Rage to the end of your next turn by attacking a creature, taking damage, making a Strength check, or using a bonus action to extend it. You can maintain your Rage for up to 10 minutes.
+* Your Rage lasts until the end of your next turn, but it ends early if you become unconscious. You can extend your Rage to the end of your next turn by attacking a creature, taking damage, making a Strength check, or using a Bonus Action to extend it. You can maintain your Rage for up to 10 minutes.
 
 ## Exploits
 *1st-level Ability (Barbarian)*
@@ -120,4 +120,37 @@ Choose one of the following Primal Paths:
 ### Primal Exploits
 Each Primal Path has a list of Primal Exploits you learn at the Barbarian levels noted in your Path's description. They don't count against your total number of Exploits Known and can't be switched out for other Exploits. If you don't meet a Primal Exploit's prerequisites, you learn it regardless.
 
+## Ability Score Improvement
+*4th-level Ability (Barbarian)*
+
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or two ability scores by 1. You can't increase one of your ability scores above 20 using this Ability.
+
+## Feat
+*4th-level Ability (Barbarian)*
+
+You learn a feat. This feat can be either a General, Martial, or Barbarian feat. You learn additional feats at 8th, and 12th level.
+
+## Multiattack
+*5h-level Ability (Barbarian)*
+
+> *You can strike with inhuman speed.*
+
+You can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+When you reach certain levels in this class, the number of attacks you can make as part of your Attack action increases; at 11th level (3 attacks), and at 17th level (4 attacks).
+
+## Rage Improvement
+*6th-level Ability (Barbarian)*
+
+While you're raging, you gain the following benefits:
+* Weapon Attacks you make count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+* You gain immunity to all non-magical bludgeoning, piercing, and slashing damage.
+
+## Evasion
+*7th-level Ability (Barbarian)*
+
+Whenever you make a Dexterity Saving Throw against an ability with the [Blast]() tag:
+
+**Failure:** You take half the listed damage.
+**Success:** You take no damage.
 
