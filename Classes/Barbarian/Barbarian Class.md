@@ -104,3 +104,16 @@ You learn one fighting style from *Barbian Fighting Styles*.
 > *You can throw aside concern for your defense to attack more accurately.*
 
 When you take the Attack action, but before you make any attacks, you can choose to gain advantage on all attacks you make this turn. If you do, all attack rolls targeting you have advantage until the start of your next turn.
+
+## Primal Path
+*3rd-level Ability (Barbarian)*
+
+> *Flavor text*
+
+Choose one of the following Primal Paths:
+
+| Primal Path | Source                 |
+| :---------- | :--------------------- |
+| Berserker   | Unstable Isotope (0.0) |
+| Zealot      | Unstable Isotope (0.0) |
+
