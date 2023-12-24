@@ -20,11 +20,11 @@
 |    12 |           4 | Ability Score Increase, Feat      |     2 |             11 |             3 |
 
 ## Rage
-*1st-level Barbarian Ability*
+*1st-level Ability (Barbarian)*
 
 > *You fight with an unchecked primal ferocity in battle.*
 
-You can use a bonus action on your turn to enter a Rage. Until this ability ends, you gain the following effects, so long as you aren't wearing heavy armor:
+**`X`/short rest:** You can use a bonus action on your turn to enter a Rage, where `X = the number shown in the Rages column of the Barbarian table`. Until this ability ends, you gain the following effects, so long as you aren't wearing heavy armor:
 
 * You have advantage on any Constitution checks, Strength checks, and Strength saving throws that you make.
 <!-- FIXME: re-word to be more explicit. -->
@@ -33,7 +33,7 @@ You can use a bonus action on your turn to enter a Rage. Until this ability ends
 * You cannot cast spells or concentrate on spells or effects.
 * Your Rage lasts until the end of your next turn, but it ends early if you become unconscious. You can extend your Rage to the end of your next turn by attacking a creature, taking damage, making a Strength check, or using a bonus action to extend it. You can maintain your Rage for up to 10 minutes.
 
-Once you use this ability, you must finish a short or long rest before you can use it again. As you gain Barbarian levels, you can use this ability an additional number of times between each short or long rest, as shown in the Rages column on the Barbarian table above.
+
 
 
 
