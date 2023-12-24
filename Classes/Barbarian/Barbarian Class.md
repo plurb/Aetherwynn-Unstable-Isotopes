@@ -10,7 +10,7 @@
 |     2 |           2 | Fighting Style, Reckless Attack   |     1 |              3 |             1 |
 |     3 |           2 | Primal Path                       |     1 |              4 |             1 |
 |     4 |           2 | Ability Score Increase, Feat      |     1 |              5 |             1 |
-|     5 |           3 | Multiattack (x1)                  |     2 |              6 |             2 |
+|     5 |           3 | [Multiattack](#multiattack) (x1)  |     2 |              6 |             2 |
 |     6 |           3 | Path Feature, Rage Improvement    |     2 |              7 |             2 |
 |     7 |           3 | Primal Instinct                   |     2 |              8 |             2 |
 |     8 |           3 | Ability Score Increase, Feat      |     2 |              9 |             2 |
