@@ -117,3 +117,7 @@ Choose one of the following Primal Paths:
 | Berserker   | Unstable Isotope (0.0) |
 | Zealot      | Unstable Isotope (0.0) |
 
+### Primal Exploits
+Each Primal Path has a list of Primal Exploits you learn at the Barbarian levels noted in your Path's description. They don't count against your total number of Exploits Known and can't be switched out for other Exploits. If you don't meet a Primal Exploit's prerequisites, you learn it regardless.
+
+
