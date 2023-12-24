@@ -2,6 +2,10 @@
 
 > *Fighters use their weapons and their physical might to fell their foes.*
 
+
+<!-- FIXME: re-work to new keywords and templating -->
+
+
 ## Fighter
 
 | Level | Proficiency | Abilities                                | Fighting Styles | Exploits Known | Exploit Level |
