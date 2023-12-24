@@ -134,7 +134,9 @@ you can attack twice, instead of once, whenever you take the Attack action on yo
 When you reach certain levels in this class, the number of attacks you can make as part of your Attack action increases; at 11th level (3 attacks) and at 17th level (4 attacks).
 
 ## Enhanced Strikes
-At 6th level, Melee Weapon Attacks you make count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+*6th-level Ability (Fighter)*
+
+Weapon Attacks you make count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
 ## Legendary Might
 *Beginning at 9th level, you can overcome even the harshest adversity.*
