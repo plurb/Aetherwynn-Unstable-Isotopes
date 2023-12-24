@@ -44,10 +44,10 @@ Alternatively, you may start with 2d4 × 10 gp to buy your own equipment.
 ___
 > ### Multiclassing Into This Class
 > 
-> **Ability Score Requirement:** Strength score of 13 or greater.
-> **Armor Gained:** shields
-> **Weapons Gained:** Simple weapons, Martial Weapons
-> **Skills Gained:** 
+> **Ability Score Requirement:** Strength score of 13 or greater.  
+> **Armor Gained:** Shields  
+> **Weapons Gained:** Simple weapons, Martial Weapons  
+> **Skills Gained:** Choose `1 + half your Intelligence modifier (rounded up)` of the following: Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival.  
 ___
 
 ## Rage
@@ -67,10 +67,13 @@ ___
 ## Exploits
 *1st-level Ability (Barbarian)*
 
-Also at 1st level, you begin to learn techniques that enhance your martial skill in and out of battle. You gain the following Abilities:
+> *You gain savage abilities that help you gore enemies and aid allies in and out of battle.*
+
+You gain the following Abilities:
 
 ### Stamina
-> *You have stamina greater than a mere common soldier, which allows you to perform exploits greater than an ordinary warrior.*
+
+> *You have stamina greater than a mere outcast, which allows you to perform exploits greater than an ordinary warrior.*
 
 You have a limited well of stamina represented by a number of Stamina Points. You can calculate the number of Stamina Points you have as follows:
 
@@ -95,4 +98,9 @@ If one of your Exploits requires a creature to make a saving throw, your Exploit
 
 You learn one fighting style from *Barbian Fighting Styles*.
 
+## Reckless Attack
+*2nd-level Ability (Barbarian)*
 
+> *You can throw aside concern for your defense to attack more accurately.*
+
+When you take the Attack action, but before you make any attacks, you can choose to gain advantage on all attacks you make this turn. If you do, all attack rolls targeting you have advantage until the start of your next turn.
