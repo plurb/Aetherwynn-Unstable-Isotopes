@@ -1,4 +1,6 @@
-`Under reconstruction by HCT. I'm gonna make this stuff 15x better ;)`
+<!-- TODO: the wholeass Artificer class -->
+
+<!-- Under reconstruction by @TristanHDreemurr. I'm gonna make this stuff 15x better ;) -->
 
 # The Artificer
 
