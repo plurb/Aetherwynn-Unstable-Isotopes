@@ -49,7 +49,7 @@ All weapons in this table have the 'Martial' property in addition to their liste
 | War Hammer   |      -      |   M   |         1d8 bludgeoning          |        | Melee, Two-Handed, Crush                       |
 | Whip         |   +1.5 m    |   S   |           1d4 slashing           |        | Melee, Finesse, Reach, Light                   |
 
-
+<!-- TODO: describe all weapon tags. -->
 
 Thrown: Range = `6 * your Strength modifier`
 
