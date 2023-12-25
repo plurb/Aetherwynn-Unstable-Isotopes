@@ -94,7 +94,7 @@ If one of your Exploits requires a creature to make a saving throw, your Exploit
 
 **1/short rest:** On your turn, you can take one additional action. This action cannot be used to cast a spell.
 
-Starting at 17th level, you can use Action Surge **2/short rest**, but only once on the same turn.
+Starting at 17th level, you can use Action Surge **2/short rest**, but only once per turn.
 
 ## Martial Archetype
 *3rd-level Fighter Ability.*
