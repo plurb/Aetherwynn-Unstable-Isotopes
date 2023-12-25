@@ -14,7 +14,7 @@
 |     6 |           3 | [Path Feature](#primal-path), [Rage Improvement](#rage-improvement)    |     2 |              7 |             2 |
 |     7 |           3 | [Evasion](#evasion)                                                    |     2 |              8 |             2 |
 |     8 |           3 | [Ability Score Increase](#ability-score-improvement), [Feat](#feat)    |     2 |              9 |             2 |
-|     9 |           4 | Brutality (x1)                                                         |     2 |             10 |             3 |
+|     9 |           4 | [Brutality](#brutality)                                                |     2 |             10 |             3 |
 |    10 |           4 | Path Feature                                                           |     2 |             10 |             3 |
 |    11 |           4 | Relentless Rage                                                        |     2 |             11 |             3 |
 |    12 |           4 | Ability Score Increase, Feat                                           |     2 |             11 |             3 |
@@ -162,3 +162,13 @@ Whenever you make a Dexterity Saving Throw against an ability with the [Blast]()
 The first time you hit a creature with an attack each turn, you deal additional damage equal to one roll of the weapon's damage die.
 
 This increases to two additional dice at 13th level in this class, and three additional dice at 17th level in this class.
+
+## Relentless Rage
+*11th-level Ability (Barbarian)*
+
+> *Man literally too angry to die.*
+
+If you drop to 0 hit points while you're raging, you can make a DC `X` Constitution Saving Throw, where `X = half the damage taken, or 10, whichever is greater`. If you succeed, you drop to 1 hit point instead.
+
+
+
