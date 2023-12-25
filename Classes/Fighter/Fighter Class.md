@@ -11,7 +11,7 @@
 | Level | Proficiency | Abilities                                | Fighting Styles | Exploits Known | Exploit Level |
 | ----: | ----------: | :--------------------------------------- | --------------: | -------------: | ------------: |
 |     1 |           2 | Fighting Style, Exploits                 |               1 |              2 |             1 |
-|     2 |           2 | Action Surge (x1)                        |               1 |              3 |             1 |
+|     2 |           2 | Action Surge                             |               1 |              3 |             1 |
 |     3 |           2 | Martial Archetype                        |               2 |              4 |             1 |
 |     4 |           2 | Ability Score Increase, Feat             |               2 |              5 |             1 |
 |     5 |           3 | Multiattack                              |               3 |              6 |             2 |
@@ -91,8 +91,8 @@ If one of your Exploits requires a creature to make a saving throw, your Exploit
 *2nd-level Fighter Ability*
  
 > *You can momentarily push yourself beyond human limits.*
- 
-**1/short rest:** On your turn, you can take one additional action. This action cannot be used to cast a spell (excpet through a magic weapon).
+
+**1/short rest:** On your turn, you can take one additional action. This action cannot be used to cast a spell.
 
 Starting at 17th level, you can use Action Surge **2/short rest**, but only once on the same turn.
 
