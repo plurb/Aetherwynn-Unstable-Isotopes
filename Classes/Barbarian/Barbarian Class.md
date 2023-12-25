@@ -11,11 +11,11 @@
 |     3 |           2 | [Primal Path](#primal-path)                                            |     1 |              4 |             1 |
 |     4 |           2 | [Ability Score Increase](#ability-score-improvement), [Feat](#feat)    |     1 |              5 |             1 |
 |     5 |           3 | [Multiattack](#multiattack)                                            |     2 |              6 |             2 |
-|     6 |           3 | [Path Feature](#primal-path), [Rage Improvement](#rage-improvement)    |     2 |              7 |             2 |
+|     6 |           3 | [Path Ability](#primal-path), [Rage Improvement](#rage-improvement)    |     2 |              7 |             2 |
 |     7 |           3 | [Evasion](#evasion)                                                    |     2 |              8 |             2 |
 |     8 |           3 | [Ability Score Increase](#ability-score-improvement), [Feat](#feat)    |     2 |              9 |             2 |
 |     9 |           4 | [Brutality](#brutality)                                                |     2 |             10 |             3 |
-|    10 |           4 | [Path Feature](#primal-path)                                           |     2 |             10 |             3 |
+|    10 |           4 | [Path Ability](#primal-path)                                           |     2 |             10 |             3 |
 |    11 |           4 | [Relentless Rage](#relentless-rage)                                    |     2 |             11 |             3 |
 |    12 |           4 | [Ability Score Increase](#ability-score-improvement), [Feat](#feat)    |     2 |             11 |             3 |
 

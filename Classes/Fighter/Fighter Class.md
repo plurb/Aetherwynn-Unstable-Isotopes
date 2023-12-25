@@ -12,16 +12,16 @@
 | ----: | ----------: | :--------------------------------------- | --------------: | -------------: | ------------: |
 |     1 |           2 | Fighting Style, Exploits                 |               1 |              2 |             1 |
 |     2 |           2 | Action Surge (x1)                        |               1 |              3 |             1 |
-|     3 |           2 | Martial Archetype                        |               1 |              4 |             1 |
-|     4 |           2 | Ability Score Increase, Feat             |               1 |              5 |             1 |
-|     5 |           3 | Multiattack (x1)                         |               1 |              6 |             2 |
-|     6 |           3 | Ability Score Increase, Enhanced Strikes |               1 |              7 |             2 |
-|     7 |           3 | Martial Archetype Ability                |               2 |              8 |             2 |
-|     8 |           3 | Ability Score Increase, Feat             |               2 |              9 |             2 |
-|     9 |           4 | Legendary Might (x1)                     |               2 |             10 |             3 |
-|    10 |           4 | Martial Archetype Ability                |               2 |             10 |             3 |
-|    11 |           4 | Multiattack (x2)                         |               2 |             11 |             3 |
-|    12 |           4 | Ability Score Increase, Feat             |               2 |             11 |             3 |
+|     3 |           2 | Martial Archetype                        |               2 |              4 |             1 |
+|     4 |           2 | Ability Score Increase, Feat             |               2 |              5 |             1 |
+|     5 |           3 | Multiattack                              |               3 |              6 |             2 |
+|     6 |           3 | Ability Score Increase, Enhanced Strikes |               3 |              7 |             2 |
+|     7 |           3 | Martial Archetype Ability                |               3 |              8 |             2 |
+|     8 |           3 | Ability Score Increase, Feat             |               3 |              9 |             2 |
+|     9 |           4 | Legendary Might                          |               4 |             10 |             3 |
+|    10 |           4 | Martial Archetype Ability                |               4 |             10 |             3 |
+|    11 |           4 |                                          |               4 |             11 |             3 |
+|    12 |           4 | Ability Score Increase, Feat             |               4 |             11 |             3 |
 
 **Note:** Levels beyond 12 aren't ready yet.
 
@@ -141,6 +141,6 @@ Weapon Attacks you make count as magical for the purpose of overcoming resistanc
 ## Legendary Might
 *Beginning at 9th level, you can overcome even the harshest adversity.*
 
-**1/day:** When you fail a saving throw, you can choose to succeed instead.
+**1/day:** If you fail a saving throw, you can choose to succeed instead.
 
 At certain Fighter levels you can use this Ability additional times each day. You can use this Ability **2/day** starting at 13th level, and **3/day** starting at 17th level.
