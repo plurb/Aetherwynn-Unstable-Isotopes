@@ -33,7 +33,7 @@
 
 ## Proficiencies
 **Armor:** All Armor, Shields  
-**Weapons:** Simple Weapons, Martial Weapons  
+**Weapons:** Simple Weapons, Martial Weapons, Firearms  
 **Tools:** One set of artisan's tools of your choice  
 **Saving Throws:** Strength, Contsitution  
 **Skills:** Choose `2 + your Intelligence modifier` of the following: Acrobatics, Athletics, History, Intimidation, Perception, Stealth, and Survival
