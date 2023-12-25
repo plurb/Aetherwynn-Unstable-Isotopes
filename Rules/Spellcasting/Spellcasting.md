@@ -188,7 +188,7 @@ The effects of different spells add together while the durations of those spells
 For example, if two clerics cast bless on the same target, that character gains the spell's benefit only once; he or she doesn't get to roll two bonus dice.
 
 ___
-<!-- TODO: REWRITE to be about 'wynn' -->
+<!-- TODO: REWRITE to be about 'Aether' -->
 The Weave of Magic
 p205
 The words within the D&D multiverse are magical places. All existence is suffused with magical power, and potential energy lies untapped in every rock, stream, and living creature, the mute and mindless will of existence, permeating every bit of matter and present in every manifestation of energy throughout the multiverse.
