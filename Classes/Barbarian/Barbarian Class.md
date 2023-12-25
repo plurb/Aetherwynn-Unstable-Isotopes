@@ -157,3 +157,8 @@ Whenever you make a Dexterity Saving Throw against an ability with the [Blast]()
 ## Brutality
 *9th-level Ability (Barbarian)*
 
+<!-- FIXME: reword to feel less awkward. -->
+
+The first time you hit a creature with an attack each turn, you deal additional damage equal to one roll of the weapon's damage die.
+
+This increases to two additional dice at 13th level in this class, and three additional dice at 17th level in this class.
