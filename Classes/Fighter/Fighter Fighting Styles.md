@@ -1,5 +1,7 @@
 # Fighter Fighting Styles
 
+<!-- FIXME: re-work to new templating. -->
+
 ## Archery
 You gain a +2 bonus to attack rolls with ranged weapons.
 
