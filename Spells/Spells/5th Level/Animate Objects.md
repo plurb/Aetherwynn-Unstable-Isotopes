@@ -9,6 +9,9 @@
 
 
 <!-- TODO: re-word and re-balance -->
+<!--
+I wish the poor sod who has to fix this later best of luck. It will probably be me. - @plurb
+-->
 
 Target up to `X` nonmagical objects within range that are not being worn or carried, where `X = twice this spell's level`. Medium targets count as two objects, Large targets count as four objects, Huge targets count as eight objects. You cannot target any object larger than Huge. Each target becomes a creature under your control until this spell ends or until it is reduced to 0 hit points.
 
