@@ -4,20 +4,20 @@
 
 ## Barbarian
 
-| Level | Proficiency | Abilities                         | Rages | Exploits Known | Exploit Level |
-| ----: | ----------: | :-------------------------------- | ----: | -------------: | ------------: |
-|     1 |           2 | Rage, Exploits                    |     1 |              2 |             1 |
-|     2 |           2 | Fighting Style, Reckless Attack   |     1 |              3 |             1 |
-|     3 |           2 | Primal Path                       |     1 |              4 |             1 |
-|     4 |           2 | Ability Score Increase, Feat      |     1 |              5 |             1 |
-|     5 |           3 | [Multiattack](#multiattack) (x1)  |     2 |              6 |             2 |
-|     6 |           3 | Path Feature, Rage Improvement    |     2 |              7 |             2 |
-|     7 |           3 | Primal Instinct                   |     2 |              8 |             2 |
-|     8 |           3 | Ability Score Increase, Feat      |     2 |              9 |             2 |
-|     9 |           4 | Brutality (x1)                    |     2 |             10 |             3 |
-|    10 |           4 | Path Feature                      |     2 |             10 |             3 |
-|    11 |           4 | Multiattack (x2), Relentless Rage |     2 |             11 |             3 |
-|    12 |           4 | Ability Score Increase, Feat      |     2 |             11 |             3 |
+| Level | Proficiency | Abilities                                                              | Rages | Exploits Known | Exploit Level |
+| ----: | ----------: | :--------------------------------------------------------------------- | ----: | -------------: | ------------: |
+|     1 |           2 | [Rage](#rage), [Exploits](#exploits)                                   |     1 |              2 |             1 |
+|     2 |           2 | [Fighting Style](#fighting-style), [Reckless Attack](#reckless-attack) |     1 |              3 |             1 |
+|     3 |           2 | [Primal Path](#primal-path)                                            |     1 |              4 |             1 |
+|     4 |           2 | [Ability Score Increase](#ability-score-improvement), [Feat](#feat)    |     1 |              5 |             1 |
+|     5 |           3 | [Multiattack](#multiattack)                                            |     2 |              6 |             2 |
+|     6 |           3 | [Path Feature](#primal-path), [Rage Improvement](#rage-improvement)    |     2 |              7 |             2 |
+|     7 |           3 | [Evasion](#evasion)                                                    |     2 |              8 |             2 |
+|     8 |           3 | [Ability Score Increase](#ability-score-improvement), [Feat](#feat)    |     2 |              9 |             2 |
+|     9 |           4 | Brutality (x1)                                                         |     2 |             10 |             3 |
+|    10 |           4 | Path Feature                                                           |     2 |             10 |             3 |
+|    11 |           4 | Relentless Rage                                                        |     2 |             11 |             3 |
+|    12 |           4 | Ability Score Increase, Feat                                           |     2 |             11 |             3 |
 
 # Class Abilities
 
@@ -153,4 +153,7 @@ Whenever you make a Dexterity Saving Throw against an ability with the [Blast]()
 
 **Failure:** You take half the listed damage.
 **Success:** You take no damage.
+
+## Brutality
+*9th-level Ability (Barbarian)*
 
