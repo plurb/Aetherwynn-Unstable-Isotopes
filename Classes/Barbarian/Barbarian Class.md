@@ -15,9 +15,9 @@
 |     7 |           3 | [Evasion](#evasion)                                                    |     2 |              8 |             2 |
 |     8 |           3 | [Ability Score Increase](#ability-score-improvement), [Feat](#feat)    |     2 |              9 |             2 |
 |     9 |           4 | [Brutality](#brutality)                                                |     2 |             10 |             3 |
-|    10 |           4 | Path Feature                                                           |     2 |             10 |             3 |
-|    11 |           4 | Relentless Rage                                                        |     2 |             11 |             3 |
-|    12 |           4 | Ability Score Increase, Feat                                           |     2 |             11 |             3 |
+|    10 |           4 | [Path Feature](#primal-path)                                           |     2 |             10 |             3 |
+|    11 |           4 | [Relentless Rage](#relentless-rage)                                    |     2 |             11 |             3 |
+|    12 |           4 | [Ability Score Increase](#ability-score-improvement), [Feat](#feat)    |     2 |             11 |             3 |
 
 # Class Abilities
 
