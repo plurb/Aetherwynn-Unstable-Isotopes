@@ -1,3 +1,6 @@
+# ignore IDE folders
 .idea
 .vscode
+
+# for those who choose to use obsidian
 .obsidian
