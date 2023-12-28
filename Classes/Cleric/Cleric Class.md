@@ -43,7 +43,7 @@
 **Hit Dice:** 1d8 per Cleric level  
 
 ## Proficiencies
-**Armor:** light armor, medium armor, shields  
+**Armor:** light armor, shields  
 **Weapons:** simple weapons  
 **Spellcasting Foci:** component pouch, divine foci  
 **Tools:** prayer set  
