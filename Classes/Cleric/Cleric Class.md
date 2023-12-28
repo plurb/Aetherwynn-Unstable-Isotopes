@@ -65,7 +65,7 @@ ___
 > ### Multiclassing Into This Class
 > 
 > **Ability Requirement:** Wisdom score of 13 or greater.  
-> **Armor Gained:** Light Armor, Medium Armor, Shields  
+> **Armor Gained:** Light Armor Shields  
 > **Weapons Gained:** none  
 > **Skills Gained:** Choose 1 + half your Intelligence modifier (rounded up) of the following: Arcana, Athletics, History, Insight, Medicine, Persuasion, and Religion.  
 ___
