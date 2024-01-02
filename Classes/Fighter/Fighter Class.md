@@ -131,7 +131,7 @@ You learn a feat. This feat can be either a General, Martial, or Fighter feat. Y
 
 you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-When you reach certain levels in this class, the number of attacks you can make as part of your Attack action increases; at 11th level (3 attacks) and at 17th level (4 attacks).
+When you reach certain levels in this class, the number of attacks you can make as part of your Attack action increases; at 11th level (3 attacks total) and at 17th level (4 attacks total).
 
 ## Enhanced Strikes
 *6th-level Ability (Fighter)*
