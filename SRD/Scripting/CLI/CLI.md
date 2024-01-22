@@ -70,7 +70,7 @@ Aetherwynn CLI:
 
 
 ## `aether newchar`
-
+<!-- TODO: Fix to use Avrae/DiceCloud V2 as DiceBox is an abandoned project -->
 `aether newchar` - creates new empty character sheet (default is DiceBox)
 * `--dicebox` - (default) creates the new character in DiceBox format.
 * `--pdf` - creates a fillable PDF.
