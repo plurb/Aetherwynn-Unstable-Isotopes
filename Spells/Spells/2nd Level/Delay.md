@@ -1,12 +1,12 @@
 ### Delay
-*2nd-level Abjuration*  
-**Casting Time:** 1 Reaction; If you see another creature casting a spell  
-**Range:** 60 ft.  
+*2nd-Level Spell (Abjuration)*  
+**Casting Time:** 1 reaction; If you see a creature within range casting a spell  
+**Range:** 60 feet  
 **Components:** V, S  
-**Duration:** Instantaneous
+**Duration:** Instantaneous  
 
-> *You interrupt the flow of a creature's Aether, delaying their spell.*
+> *You interrupt the flow of a creature's aether, delaying their spell.*
 
-If the creature is casting a spell of `Xth` level or lower, then spell's casting time increases by `1` round, where `X = this spell's level`.
+Increase target spell's casting time increases by `1` round if the spell's level is `X` or lower, where `X = 1 + this spell's level`.
 
 **Classes:** Artificer, Magus, Psion, Sorcerer, Warlock, Wizard
