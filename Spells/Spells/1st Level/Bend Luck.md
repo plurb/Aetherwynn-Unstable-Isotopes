@@ -1,10 +1,12 @@
 ### Bend Luck  
 *1st-level Enchantment*  
-**Casting Time:** Reaction; when a creature within range succeeds on an attack roll, an ability check, or a saving throw  
+**Casting Time:** Reaction; If a creature within range makes an Attack Roll, Ability Check, or Saving Throw  
 **Range:** 60 ft.  
 **Components:** V  
 **Duration:** Instantaneous  
 
-> *""*
+> *You pluck the strings of fate, hoping for a more favourable outcome.*
 
-**Classes.** ???, ???
+After the creature makes its Attack Roll, Ability Check, or Saving Throw, but before the outcome is determined, roll a d20. The triggering creature uses your choice of the new roll or its previous roll.
+
+**Classes.** Bard, Cleric, Magus, Ranger, Shaman, Sorcerer, Wizard
