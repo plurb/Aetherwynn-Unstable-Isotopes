@@ -1,5 +1,5 @@
 ### Bend Luck  
-*1st-level Enchantment*  
+*1st-Level Spell (Divination)*  
 **Casting Time:** Reaction; If a creature within range makes an Attack Roll, Ability Check, or Saving Throw  
 **Range:** 60 ft.  
 **Components:** V  
