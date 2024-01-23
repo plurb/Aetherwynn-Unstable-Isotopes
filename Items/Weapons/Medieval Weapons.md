@@ -30,6 +30,7 @@ All weapons in this table have the 'Martial' property in addition to their liste
 | Weapon Name  | Reach/Range | Size  |              Damage              | Weight | Properties                                     |
 | :----------- | :---------: | :---: | :------------------------------: | :----- | :--------------------------------------------- |
 | Battleaxe    |      -      |   S   |           1d8 slashing           |        | Melee, Crush                                   |
+| Billhook     |   +1.5 m    |       |                                  |        |                                                |
 | Flail        |      -      |   M   |         1d8 bludgeoning          |        | Melee, Crush                                   |
 | Glaive       |   +1.5 m    |   L   |          1d10 slashing           |        | Melee, Heavy, Reach, Two-Handed, Sweep         |
 | Greataxe     |      -      |   M   |          1d12 slashing           |        | Melee, Heavy, Two-Handed, Crush                |
