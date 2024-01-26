@@ -55,16 +55,16 @@ ___
 ___
 
 ## Fighting Style
-*1st-level Fighter Ability*
+*1st-level Ability (Fighter)*
 
 You learn one fighting style from *Fighter Fighting Styles*.
 
 You learn one more fighting style of your choice at 7th level, as shown on the Fighter Table.
 
 ## Exploits
-*1st-level Fighter Ability*
+*1st-level Ability (Fighter)*
 
-Also at 1st level, you begin to learn techniques that enhance your martial skill in and out of battle. You gain the following Abilities:
+You begin to learn techniques that enhance your martial skill in and out of battle. You gain the following Abilities:
 
 ### Stamina
 > *You have stamina greater than a mere common soldier, which allows you to perform exploits greater than an ordinary warrior.*
@@ -88,16 +88,20 @@ If one of your Exploits requires a creature to make a saving throw, your Exploit
 **Exploit Save DC** = `8 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice)`
 
 ## Action Surge
-*2nd-level Fighter Ability*
- 
+*2nd-level Ability (Fighter)*  
+**Usage:** Free Action  
+**Range:** Self  
+**Requirements:** None  
+**Duration:** Instantaneous  
+
 > *You can momentarily push yourself beyond human limits.*
 
-**1/short rest:** On your turn, you can take one additional action. This action cannot be used to cast a spell.
+**1/short rest:** Once per turn, you can take 1 additional Action. This action cannot be used to cast a spell.
 
-Starting at 17th level, you can use Action Surge **2/short rest**, but only once per turn.
+At 17th level in this class, you can use Action Surge **2/short rest**, but only once per turn.
 
 ## Martial Archetype
-*3rd-level Fighter Ability.*
+*3rd-level Ability (Fighter)*
 
 > *You have distinguished yourself from the common warrior, and have gained skills that represent your unique skillset.*
 
@@ -109,23 +113,27 @@ Choose one of the following Martial Archetypes:
 | Marksman          | Unstable Isotope (0.0) |
 | Battle Master     | Unstable Isotope (0.0) |
 
-**Note:** Subclasses are listed seperately.
+___
+> ### Note 
+> 
+> Subclasses are listed seperately.
+___
 
 ### Archetype Exploits
 Each Archetype has a list of Archetype Exploits you learn at the fighter levels noted in your Archetype's description. They don't count against your total number of Exploits Known and can't be switched out for other Exploits. If you don't meet an Archetype Exploit's prerequisites, you learn it regardless.
 
 ## Ability Score Increase
-*4th-level Fighter Ability*
+*4th-level Ability (Fighter)*
 
 When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. You can't increase an ability score above 20 using this Ability.
 
 ## Feat
-*4th-level Fighter Ability*
+*4th-level Ability (Fighter)*
 
 You learn a feat. This feat can be either a General, Martial, or Fighter feat. You learn additional feats at 8th, and 12th level.
 
 ## Multiattack
-*5h-level Fighter Ability*
+*5th-level Ability (Barbarian, Fighter, Monk)*
 
 > *Beginning at 5th level, you can strike with inhuman speed.*
 
