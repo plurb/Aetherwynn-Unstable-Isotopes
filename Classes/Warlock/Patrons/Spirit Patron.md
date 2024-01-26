@@ -98,5 +98,5 @@ ___
 > 
 > ### Weapons
 > 
-> ***Purifyer.*** *Melee Weapon:* Your Spell Attack modifier to hit (with advantage), reach 15 ft.. *Hit:* 1d8 + 3 + your Charisma modifier necrotic damage.  
+> ***Purifyer.*** *Melee Weapon:* Your Spell Attack modifier to hit (with advantage), reach 15 ft.. *Hit:* 3d8 + 3 + your Charisma modifier necrotic damage.  
 ___
