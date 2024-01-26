@@ -2,6 +2,14 @@
 
 > *You've formed a contract with a death spirit, gaining a portion of its might. You channel this fragment through a weapon granted to you by your patron, which you use to cleanse the world.*
 
+## Bonus Proficiencies
+
+You gain proficiency with Martial Weapons.
+
+## Starting Equipment
+
+A Martial Weapon.
+
 ## Expanded Spell List
 
 | Spell Level | Spell Name                       |
@@ -13,40 +21,52 @@
 |     5th     | Holy Weapon, Steel Wind Strike   |
 
 ## Spirit Warrior
-*1st-Level Death Spirit Patron Ability*
+*1st-Level Ability (Death Spirit Patron)*  
 
 You gain the following abilities.
 
 ### Unarmoured Defence
+*1st-Level Ability (Death Spirit Patron)*  
+**Usage:** Passive  
+**Range:** Self  
+**Requirements:** You are not wearing armour of wielding a shield  
+**Duration:** Passive  
 
-While you are not wearing armour or wielding a shield, your AC equals `10 + your Dexterity modifier + your Charisma modifier`.
-
-### Bonus Proficiencies
-
-You gain proficiency with Martial Weapons.
+Your AC equals `10 + your Dexterity modifier + your Charisma modifier`.
 
 ### Spiritual Purifyer
+*1st-Level Ability (Death Spirit Patron)*  
+**Usage:** 1 Action  
+**Range:** Touch  
+**Requirements:** A weapon you are proficient with  
+**Duration:** Until you finish a long rest  
 
-**1/long rest:** You touch a weapon you are proficient with. That weapon gains the Purifying Weapon property until you finish a long rest.
+**1/long rest:** Target weapon in range gains the Purifying Weapon property.
 
-___
 > ### Purifying Weapon
 > 
 > You can use your Charisma modifier instead of your Strength or Dexterity modifier for attack and damage rolls with this weapons.
-___
 
 ## Spirit's Wrath
-*1st-Level Death Spirit Patron Ability*
+*1st-Level Ability (Death Spirit Patron)*  
+**Usage:** 1 Bonus Action  
+**Range:** Self  
+**Requirements:** None  
+**Duration:** 1 minute, or until you are incapacitated or die  
 
-**1/short rest:** As a Bonus Action, you can enter a Rage. This lasts for 1 minute, and this ability ends early if you die, or are incapacitated. You gain the following effects:
+**1/short rest:** You gain the following effects:
 * When you make a *Weapon Attack* using a Purifying Weapon, you deal additional damage equal to your Proficiency Bonus.
 * You land a critical hit on a roll of 19 or 20 on the d20.
 * You gain temporary hit points equal to `your Warlock level + your Charisma modifier`.
 
 ## Swift Strikes
-*6th-Level Death Spirit Patron Ability*
+*6th-Level Ability (Death Spirit Patron)*  
+**Usage:** 1 Action  
+**Range:** Self  
+**Requirements:** You are wielding a Purifying Weapon  
+**Duration:** Instantaneous  
 
-As an Action, you can make two attacks with a Purifying Weapon. You can cast one of your cantrips in place of one of those attacks.
+Make up to two attacks with a Purifying Weapon. You can a Warlock Cantrip with a Range of Self you know in place of one of those attacks.
 
 ___
 > ### Important Note
@@ -55,23 +75,31 @@ ___
 ___
 
 ## Spiritual Armour
-*10th-Level Death Spirit Patron Ability*
+*10th-Level Ability (Death Spirit Patron)*  
+**Usage:** Free Action, Triggered  
+**Range:** Self  
+**Requirements:** You are using Spirit's Wrath  
+**Duration:** Passive  
 
-While using your Spirit's Wrath, if a creature makes an attack against you, it makes a Charisma Saving Throw.
+While using your Spirit's Wrath, if a creature targets you with an *Attack*, it makes a Charisma Saving Throw.
 
 **Failure:** The creature's attack misses.
 
 ## Embodiment of Death
-*14th-Level Death Spirit Patron Ability*
+*14th-Level Ability (Death Spirit Patron)*  
+**Usage:** 1 Action  
+**Range:** 90 ft.  
+**Requirements:** None  
+**Duration:** 1 minute, or until you are incapacitated or die  
 
-**1/long rest:** You summon a Shinigami, whose statistics are given below. The Shinigami remains for 1 minute, and obeys your commands. The Shinigami disappears if you die or are incapacitated.
+**1/long rest:** You summon a Shinigami, whose statistics are given below. The Shinigami obeys your commands.
 
 ___
 > ## Shinigami
-> *Huge Spirit, neutral*
+> *Huge Creature (Spirit, Neutral)*
 >___
 >- **Armor Class** 10 + your Proficiency Bonus (natural armor)
->- **Hit Points** 50
+>- **Hit Points** 15 * your Warlock level
 >- **Speed** 30 ft., fly 30 ft. (hover)
 >___
 > |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
