@@ -60,18 +60,18 @@ Your AC equals `10 + your Dexterity modifier + your Charisma modifier`.
 * You gain temporary hit points equal to `your Warlock level + your Charisma modifier`.
 
 ## Swift Strikes
-*6th-Level Ability (Death Spirit Patron)*  
+*6th-Level Ability (Death Spirit Patron, Attack)*  
 **Usage:** 1 Action  
 **Range:** Self  
 **Requirements:** You are wielding a Purifying Weapon  
 **Duration:** Instantaneous  
 
-Make up to two attacks with a Purifying Weapon. You can a Warlock Cantrip with a Range of Self you know in place of one of those attacks.
+Make up to two attacks with a Purifying Weapon. You can a Warlock Cantrip with a Range of Self and a Casting Time of 1 Action you know in place of one of those attacks.
 
 ___
 > ### Important Note
 > 
-> Swift Strikes is *not* the Attack Action. It does *not* benefit from Multiattack, and does *not* increase the number of attacks you make using Multiattack.
+> While Swift Strikes is an Attack Action. It does *not* benefit from Multiattack, and does *not* increase the number of attacks you make using Multiattack. However, it does meet the condition for using abilities that require you use *an* Attack Action, vs *the* Attack Action.
 ___
 
 ## Spiritual Armour
@@ -79,9 +79,9 @@ ___
 **Usage:** Free Action, Triggered  
 **Range:** Self  
 **Requirements:** You are using Spirit's Wrath  
-**Duration:** Passive  
+**Duration:** 1 minute, while using your Spirit's Wrath  
 
-While using your Spirit's Wrath, if a creature targets you with an *Attack*, it makes a Charisma Saving Throw.
+If a creature targets you with an *Attack*, it makes a Charisma Saving Throw (`DC = your Spellcasting DC`).
 
 **Failure:** The creature's attack misses.
 
