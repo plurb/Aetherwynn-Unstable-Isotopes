@@ -19,7 +19,7 @@ You gain the following abilities.
 
 ### Unarmoured Defence
 
-While you are not wearing armour or wielding a shield, your AC equals `10 + your Dexterity modifier + your Charisma modifier`
+While you are not wearing armour or wielding a shield, your AC equals `10 + your Dexterity modifier + your Charisma modifier`.
 
 ### Bonus Proficiencies
 
