@@ -55,18 +55,19 @@ ___
 ___
 
 ## Fighting Style
-*1st-level Ability (Fighter)*
+*1st-level Ability (Fighter)*  
 
 You learn one fighting style from *Fighter Fighting Styles*.
 
 You learn one more fighting style of your choice at 7th level, as shown on the Fighter Table.
 
 ## Exploits
-*1st-level Ability (Fighter)*
+*1st-level Ability (Fighter)*  
 
 You begin to learn techniques that enhance your martial skill in and out of battle. You gain the following Abilities:
 
 ### Stamina
+
 > *You have stamina greater than a mere common soldier, which allows you to perform exploits greater than an ordinary warrior.*
 
 You have a limited well of stamina represented by a number of Stamina Points. You can calculate the number of Stamina Points you have as follows:
@@ -125,7 +126,9 @@ Each Archetype has a list of Archetype Exploits you learn at the fighter levels 
 ## Ability Score Increase
 *4th-level Ability (Fighter)*
 
-When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. You can't increase an ability score above 20 using this Ability.
+You increase one Ability Score of your choice by 2, or you increase two Ability Scores of your choice by 1. You cannot increase an Ability Score above 20 using this Ability.
+
+You can do so again at 6th, 8th, 12th, 14th, 16th, and 19th level in this class.
 
 ## Feat
 *4th-level Ability (Fighter)*
@@ -133,22 +136,34 @@ When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th leve
 You learn a feat. This feat can be either a General, Martial, or Fighter feat. You learn additional feats at 8th, and 12th level.
 
 ## Multiattack
-*5th-level Ability (Barbarian, Fighter, Monk)*
+*5th-level Ability (Barbarian, Fighter, Monk)*  
+**Usage:** Passive  
+**Range:** Self  
+**Requirements:** None  
+**Duration:** Passive  
 
 > *Beginning at 5th level, you can strike with inhuman speed.*
 
-you can attack twice, instead of once, whenever you take the Attack action on your turn.
+You can attack twice, instead of once, when you take the Attack action on your turn.
 
-When you reach certain levels in this class, the number of attacks you can make as part of your Attack action increases; at 11th level (3 attacks total) and at 17th level (4 attacks total).
+The number of attacks you can make as part of your Attack action increases; at 11th level (3 attacks total) and at 17th level (4 attacks total) in this class.
 
 ## Enhanced Strikes
-*6th-level Ability (Fighter)*
+*6th-level Ability (Barbarian, Fighter, Monk)*  
+**Usage:** Passive  
+**Range:** Self  
+**Requirements:** None  
+**Duration:** Passive  
 
-Weapon Attacks you make count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+*Weapon Attacks* you make count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
 ## Legendary Might
-*Beginning at 9th level, you can overcome even the harshest adversity.*
+*6th-level Ability (Fighter)*  
+**Usage:** 1 Free Action, Triggered
+**Range:** Self
+**Requirements:** You fail a Saving Throw  
+**Duration:** Instantaneous  
 
 **1/day:** If you fail a saving throw, you can choose to succeed instead.
 
-At certain Fighter levels you can use this Ability additional times each day. You can use this Ability **2/day** starting at 13th level, and **3/day** starting at 17th level.
+You can use this Ability **2/day** starting at 13th level, and **3/day** starting at 17th level in this class.
