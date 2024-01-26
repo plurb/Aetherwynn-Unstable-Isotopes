@@ -98,20 +98,20 @@ ___
 > ## Shinigami
 > *Huge Creature (Spirit, Neutral)*
 >___
->- **Armor Class** 10 + your Proficiency Bonus (natural armor)
->- **Hit Points** 15 * your Warlock level
->- **Speed** 30 ft., fly 30 ft. (hover)
+> **Armor Class** 10 + your Proficiency Bonus (natural armor)  
+> **Hit Points** 15 * your Warlock level  
+> **Speed** 30 ft., fly 30 ft. (hover)  
 >___
 > |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 > | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 > | 16 (+3) | 16 (+3) | 16 (+3) | 16 (+3) | 16 (+3) | 16 (+3) |
 >___
->- **Damage Immunities** necrotic, poison  
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned  
->- **Senses** darkvision 60 ft., passive Perception 13  
->- **Languages** understands the languages you speak  
->- **Challenge** —
->- **Proficiency Bonus** equals your bonus  
+> **Damage Immunities** necrotic, poison  
+> **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned  
+> **Senses** darkvision 60 ft., passive Perception 13  
+> **Languages** understands the languages you speak  
+> **Challenge** —  
+> **Proficiency Bonus** equals your bonus  
 >___
 > ### Abilities
 > 
