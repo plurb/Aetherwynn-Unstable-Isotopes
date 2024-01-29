@@ -51,25 +51,29 @@ ___
 ___
 
 ## Rage
-*1st-level Ability (Barbarian)*
+*1st-level Ability (Barbarian)*  
+**Usage:** 1 Bonus Action  
+**Range:** Self  
+**Requirements:** You are not wearing Heavy Armour  
+**Duration:** Up to 10 minutes, or until you are incapacitated or die  
 
 > *You fight with an unchecked primal ferocity in battle.*
 
-**`X`/short rest:** You can use a bonus action on your turn to enter a Rage, where `X = the number shown in the Rages column of the Barbarian table`. Until this ability ends, you gain the following effects, so long as you aren't wearing heavy armor:
+**`X`/short rest:** You gain the following effects, where `X = the number shown in the Rages column of the Barbarian table`.
 
-* You have advantage on any Constitution checks, Strength checks, Constitution Saving Throws, and Strength Saving Throws that you make.
-<!-- FIXME: re-word to be more explicit. -->
-* When you make a weapon attack using Strength, you deal additional damage equal to your Proficiency Bonus.
+* You have advantage on any Constitution checks, Strength checks, Constitution Saving Throws, and Strength Saving Throws.
+* When you make a Weapon Attack using Strength, you deal additional damage equal to your Proficiency Bonus.
 * You gain resistance to non-magical bludgeoning, piercing, and slashing damage.
-* You cannot cast spells or concentrate on spells or effects.
-* Your Rage lasts until the end of your next turn, but it ends early if you become unconscious. You can extend your Rage to the end of your next turn by attacking a creature, taking damage, making a Strength check, or using a Bonus Action to extend it. You can maintain your Rage for up to 10 minutes.
+* You cannot Cast Spells or Concentrate on Spells.
+
+Your Rage ends early unless you Attack, make a Strength check or Saving Throw, or use a Bonus Action to extend it before the beginning of your next turn.
 
 ## Exploits
 *1st-level Ability (Barbarian)*
 
 > *You gain savage abilities that help you gore enemies and aid allies in and out of battle.*
 
-You gain the following Abilities:
+You gain the following Abilities.
 
 ### Stamina
 
@@ -99,11 +103,15 @@ If one of your Exploits requires a creature to make a saving throw, your Exploit
 You learn one fighting style from *Barbian Fighting Styles*.
 
 ## Reckless Attack
-*2nd-level Ability (Barbarian)*
+*2nd-level Ability (Barbarian)*  
+**Usage:** Free Action; When you take the Attack action, but before you make any attacks  
+**Range:** Self  
+**Requirements:** None  
+**Duration:** 1 round  
 
 > *You can throw aside concern for your defense to attack more accurately.*
 
-When you take the Attack action, but before you make any attacks, you can choose to gain advantage on all attacks you make this turn. If you do, all attack rolls targeting you have advantage until the start of your next turn.
+Once per turn, you may gain advantage on all attacks you make this turn. If you do, all attack rolls targeting you have advantage until the start of your next turn.
 
 ## Primal Path
 *3rd-level Ability (Barbarian)*
@@ -131,7 +139,11 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 You learn a feat. This feat can be either a General, Martial, or Barbarian feat. You learn additional feats at 8th, and 12th level.
 
 ## Multiattack
-*5h-level Ability (Barbarian)*
+*5th-level Ability (Barbarian, Fighter, Monk)*  
+**Usage:** Passive  
+**Range:** Self  
+**Requirements:** None  
+**Duration:** —  
 
 > *You can strike with inhuman speed.*
 
@@ -140,9 +152,13 @@ You can attack twice, instead of once, whenever you take the Attack action on yo
 When you reach certain levels in this class, the number of attacks you can make as part of your Attack action increases; at 11th level (3 attacks), and at 17th level (4 attacks).
 
 ## Rage Improvement
-*6th-level Ability (Barbarian)*
+*6th-level Ability (Barbarian)*  
+**Usage:** Passive  
+**Range:** Self  
+**Requirements:** You are using Rage  
+**Duration:** Until your Rage ends  
 
-While you're raging, you gain the following benefits:
+While you are raging, you gain the following effects:
 * Weapon Attacks you make count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 * You gain immunity to all non-magical bludgeoning, piercing, and slashing damage.
 
@@ -155,20 +171,34 @@ Whenever you make a Dexterity Saving Throw against an ability with the [Blast]()
 **Success:** You take no damage.
 
 ## Brutality
-*9th-level Ability (Barbarian)*
+*9th-level Ability (Barbarian)*  
+**Usage:** Passive  
+**Range:** Self  
+**Requirements:** You hit a creature with an Attack for the first time this turn  
+**Duration:** —
 
-<!-- FIXME: reword to feel less awkward. -->
-
-The first time you hit a creature with an attack each turn, you deal additional damage equal to one roll of the weapon's damage die.
+You deal additional damage equal to one roll of the weapon's damage die.
 
 This increases to two additional dice at 13th level in this class, and three additional dice at 17th level in this class.
 
+---
+> ### Ruling Notice
+>
+> The Barbarian's Brutality simply adds the die to the damage roll of the first hit. This is not a triggered ability, and it does not use the stack. Similar to a rogue's sneak attack.
+> 
+> — @plurb
+---
+
 ## Relentless Rage
 *11th-level Ability (Barbarian)*
+**Usage:** Free Action; Triggered  
+**Range:** Self  
+**Requirements:** You are using Rage  
+**Duration:** Until your Rage ends  
 
 > *Man literally too angry to die.*
 
-If you drop to 0 hit points while you're raging, you can make a DC `X` Constitution Saving Throw, where `X = half the damage taken, or 10, whichever is greater`. If you succeed, you drop to 1 hit point instead.
+If you drop to 0 hit points, you can make a DC `X` Constitution Saving Throw, where `X = half the damage taken or 10, whichever is greater`. If you succeed, you drop to 1 hit point instead.
 
 
 
