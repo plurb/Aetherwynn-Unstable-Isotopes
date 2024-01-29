@@ -1,5 +1,5 @@
 ### Wand of Blasting
-*Common Arcane Focus (Wand, Simple Ranged Weapon, Magical)*
+*Common Arcane Focus (Wand, Magical)*
 **Value:** 350 gp  
 **Weight:** 0.34 kg  
 **Size:** Tiny  
