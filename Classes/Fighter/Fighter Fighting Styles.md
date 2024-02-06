@@ -40,20 +40,20 @@ While wielding a single versatile weapon and no shield, you gain a +1 bonus to y
 ## Evasion
 **Prerequisites: 7th level, Dexterity of 13 or greater.**
 
-*You can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an Ice Storm spell.*
+> *You can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an Ice Storm spell.*
 
 When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ## Great Weapon Master
 **Prerequisites: 7th level, Strength of 15 or greater.**
 
-*Your near herculean strength allows you to wield weapons sized for creatures larger than yourself.*
+> *Your near herculean strength allows you to wield weapons sized for creatures larger than yourself.*
 
 You can wield Large weapons without any drawbacks.
 
 ### Sniper
 **Prerequisites: 14th level, Dexterity of 15 or greater.**
 
-*You make even impossible shots with ease.*
+> *You make even impossible shots with ease.*
 
 Your normal and long range for Ranged Weapon Attacks increases by a number of feet equal to 10 times your Fighter level.
