@@ -1,5 +1,5 @@
 ### Archery
-*Fighting Style (Fighter, Barbarian, Rogue, Monk)*
+*Fighting Style*  
 **Usage:** Passive  
 **Range:** Self  
 **Requirements:** None  
@@ -7,4 +7,4 @@
 
 You gain a +2 bonus to attack rolls with ranged weapons.
 
-**Classes.** Fighter, Barbarian, Rogue, Monk
+**Classes.** Fighter, Magus, Monk, Ranger, Rogue
