@@ -99,7 +99,7 @@ If one of your Exploits requires a creature to make a saving throw, your Exploit
 
 **1/short rest:** Once per turn, you can take 1 additional Action. This action cannot be used to cast a spell.
 
-At 17th level in this class, you can use Action Surge **2/short rest**, but only once per turn.
+At 17th level in this class, you can use Action Surge **2/short rest**.
 
 ## Martial Archetype
 *3rd-level Ability (Fighter)*
@@ -158,7 +158,7 @@ The number of attacks you can make as part of your Attack action increases; at 1
 *Weapon Attacks* you make count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
 ## Legendary Might
-*6th-level Ability (Fighter)*  
+*9th-level Ability (Fighter)*  
 **Usage:** 1 Free Action, Triggered
 **Range:** Self
 **Requirements:** You fail a Saving Throw  
