@@ -64,7 +64,7 @@ ___
 * You have advantage on any Constitution checks, Strength checks, Constitution Saving Throws, and Strength Saving Throws.
 * When you make a Weapon Attack using Strength, you deal additional damage equal to your Proficiency Bonus.
 * You gain resistance to non-magical bludgeoning, piercing, and slashing damage.
-* You cannot Cast Spells or Concentrate on Spells.
+* If you are able to Cast Spells, you cannot Cast Spells or Concentrate on Spells.
 
 Your Rage ends early unless you Attack, make a Strength check or Saving Throw, or use a Bonus Action to extend it before the beginning of your next turn.
 
