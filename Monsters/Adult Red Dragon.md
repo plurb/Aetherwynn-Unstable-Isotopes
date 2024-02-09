@@ -14,7 +14,6 @@
 > ___
 > ### Abilities
 > 
-> ⏹️ ***Legendary Resistance (3/day).***
 > 
 > ♾️ ***Multiattack (x3).***
 > 
@@ -23,6 +22,8 @@
 > 🔷 ***Fire Breath (Recharge 5-6, Self (60-ft. Cone)).*** Each creature in range makes a `DC 21` *Dexterity Saving Throw*. **Failure:** The creature takes `18d6` Fire Damage. **Success:** It takes half as much damage.
 > 
 > 🔷 ***Tail (Recharge 4-6, Self (15 ft. Sphere)).*** Each creature in range makes a `DC 21` *Dexterity Saving Throw*. **Failure:** The creature takes `3d8 + 8` Bludgeoning Damage. **Success:** It takes half as much damage.
+> 
+> ⏹️ ***Legendary Resistance (3/day).***
 > 
 > ⏹️ ***Frightful Pressence (1/turn, Range 120 ft.).*** Any number of creatures in range that can see the @ make a `DC 19` *Wisdom Saving Throw*. **Failure:** The creature is *Frightened* for 1 minute, and repeats this Saving Throw at the end of its turn. **Success:** This effect ends; the creature gains immunity to the @'s ***Frightful Pressence*** for the next 24h.
 > 
