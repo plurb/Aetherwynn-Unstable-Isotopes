@@ -1,6 +1,9 @@
 > ## Adult Red Dragon (Template)
 > *Huge Creature (Chromatic Dragon, Dragon, Red)*
 > ___
+> **AC** 17  
+> **HP** 250~  
+> **Speed** 40 ft., fly 60 ft., climb 40 ft.  
 > |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 > | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 > | 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
