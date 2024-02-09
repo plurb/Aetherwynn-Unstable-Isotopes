@@ -34,4 +34,5 @@
 > ### Weapons
 > 
 > ***Bite (1/turn).*** *Melee Weapon:* `+14` to hit, reach 10 ft., Huge, 1 target. *Hit:* `3d10 + 8 [Piercing] + 2d6 [Fire]` Damage.
+> 
 > ***Claw.*** `+14` to hit, reach 10 ft., Huge, 1 target. *Hit:* `3d8 + 8` Bludeoning Damage.
