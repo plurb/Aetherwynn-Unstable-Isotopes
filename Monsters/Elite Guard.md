@@ -34,7 +34,7 @@
 > 
 > 🔵 ***Polearm Master.*** *Requires:* The @ is wielding a Halberd. The @ Makes a *Spike* Attack.
 > 
-> 🔵 ***Skirmishing.*** The @ *Dashes* or *Disengages*.
+> 🔵 ***Skirmishing.*** The @ *Dashes* or *Hides*.
 > 
 > ⚡️ ***Protector (If a Creature you can see makes 1 or more Attacks against a Creature in range, reach).*** *Requires:* Using a *Shield* or wielding a *Melee Weapon*. The @ adds its Proficiency Bonus to another target creature's AC against the triggering *Attacks*.
 > 
