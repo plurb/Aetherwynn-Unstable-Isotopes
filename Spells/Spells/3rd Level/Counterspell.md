@@ -7,8 +7,8 @@
 
 > *You attempt to interrupt a creature in the process of casting a spell.*
 
-Counter target spell if its spell's level is `X` or lower, where `X = this spell's level`. If the spell's level is greater than `X`, make a DC `10 + Y` ability check using your spellcasting ability, where `Y = target spell's level`.
+Counter target spell if its spell's level is `X` or lower, where `X = this spell's level`. If the spell's level is greater than `X`, make a DC `10 + Y` Ability Check using your Spellcasting Ability, where `Y = target spell's level`.
 
 **Success:** Counter the triggering spell.
 
-**Classes:** Artificer, Magus, Psion, Sorcerer, Warlock, Wizard
+**Classes:** Artificer, Magus, Ranger, Sorcerer, Warlock, Wizard

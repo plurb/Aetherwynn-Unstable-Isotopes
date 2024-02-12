@@ -9,4 +9,4 @@
 
 Counter target Evocation or Abjuration spell if its level is `X` or lower where `X = 1 + this spell's level`.
 
-**Classes.** Artificer, Magus, Psion, Sorcerer, Warlock, Wizard
+**Classes:** Artificer, Magus, Psion, Sorcerer, Warlock, Wizard
