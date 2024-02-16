@@ -4,20 +4,20 @@
 
 ## Barbarian
 
-| Level | Proficiency | Abilities                                                              | Rages | Exploits Known | Exploit Level |
-| ----: | ----------: | :--------------------------------------------------------------------- | ----: | -------------: | ------------: |
-|     1 |           2 | [Rage](#rage), [Exploits](#exploits)                                   |     1 |              2 |             1 |
-|     2 |           2 | [Fighting Style](#fighting-style), [Reckless Attack](#reckless-attack) |     1 |              3 |             1 |
-|     3 |           2 | [Primal Path](#primal-path)                                            |     1 |              4 |             1 |
-|     4 |           2 | [Ability Score Increase](#ability-score-improvement), [Feat](#feat)    |     1 |              5 |             1 |
-|     5 |           3 | [Multiattack](#multiattack)                                            |     2 |              6 |             2 |
-|     6 |           3 | [Path Ability](#primal-path), [Rage Improvement](#rage-improvement)    |     2 |              7 |             2 |
-|     7 |           3 | [Evasion](#evasion)                                                    |     2 |              8 |             2 |
-|     8 |           3 | [Ability Score Increase](#ability-score-improvement), [Feat](#feat)    |     2 |              9 |             2 |
-|     9 |           4 | [Brutality](#brutality)                                                |     2 |             10 |             3 |
-|    10 |           4 | [Path Ability](#primal-path)                                           |     2 |             10 |             3 |
-|    11 |           4 | [Relentless Rage](#relentless-rage)                                    |     2 |             11 |             3 |
-|    12 |           4 | [Ability Score Increase](#ability-score-improvement), [Feat](#feat)    |     2 |             11 |             3 |
+| Level | Proficiency | Abilities                                                           | Rages | Exploits Known | Exploit Level |
+| ----: | ----------: | :------------------------------------------------------------------ | ----: | -------------: | ------------: |
+|     1 |           2 | Rage, Exploits, Fighting Style                                      |     1 |              2 |             1 |
+|     2 |           2 | [Reckless Attack](#reckless-attack)                                 |     1 |              3 |             1 |
+|     3 |           2 | [Primal Path](#primal-path)                                         |     1 |              4 |             1 |
+|     4 |           2 | [Ability Score Increase](#ability-score-improvement), [Feat](#feat) |     1 |              5 |             1 |
+|     5 |           3 | [Multiattack](#multiattack)                                         |     2 |              6 |             2 |
+|     6 |           3 | [Path Ability](#primal-path), [Rage Improvement](#rage-improvement) |     2 |              7 |             2 |
+|     7 |           3 | [Evasion](#evasion)                                                 |     2 |              8 |             2 |
+|     8 |           3 | [Ability Score Increase](#ability-score-improvement), [Feat](#feat) |     2 |              9 |             2 |
+|     9 |           4 | [Brutality](#brutality)                                             |     2 |             10 |             3 |
+|    10 |           4 | [Path Ability](#primal-path)                                        |     2 |             10 |             3 |
+|    11 |           4 | [Relentless Rage](#relentless-rage)                                 |     2 |             11 |             3 |
+|    12 |           4 | [Ability Score Increase](#ability-score-improvement), [Feat](#feat) |     2 |             11 |             3 |
 
 # Class Abilities
 
@@ -27,7 +27,7 @@ Hit Points at 1st Level: `12 + your Constitution modifier` per Barbarian level.
 
 ## Proficiencies
 **Armor:** Light armor, Medium armor, Shields  
-**Weapons:** simple Weapons, Martial Weapons  
+**Weapons:** Simple Weapons, Martial Weapons  
 **Tools:** None  
 **Spellcasting Foci:** None  
 **Saving Throws:** Strength, Constitution  
