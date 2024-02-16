@@ -1,5 +1,5 @@
 ### Evasion
-*7th-Level Fighting Style*
+*7th-level Fighting Style*
 **Usage:** Passive  
 **Range:** Self  
 **Requirements:** A Dexterity score of 13 or greater  
