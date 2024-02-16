@@ -1,5 +1,5 @@
 ### Magic Missile  
-*1st-level Evocation*  
+*1st-Level Spell (Evocation)*  
 **Casting Time:** Action  
 **Range:** 120 ft.  
 **Components:** V, S  
