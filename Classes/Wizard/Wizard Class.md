@@ -5,7 +5,10 @@
 ## Wizard
 
 <tbody>
-<tr><th> Wizard </th> <th> Spell Slots Per Level </th></tr>
+<tr>
+<th>Wizard</th> 
+<th>Spell Slots Per Level</th>
+</tr>
 </tbody>
 
 
