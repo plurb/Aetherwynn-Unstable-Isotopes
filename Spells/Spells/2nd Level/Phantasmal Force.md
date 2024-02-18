@@ -7,9 +7,9 @@
 
 > *You create an image of fear and dread in the mind of your target.*
 
-Up to `X` target creatures you can see in range make an Intelligence Saving Throw, where `X = this spell's level - 1`.
+Up to `X` different target creatures you can see in range make an Intelligence Saving Throw, where `X = this spell's level - 1`.
 
-**Failure:** The creature is *Frightened* of itself until this spell ends, and repeats this Saving Throw using its Action on its turn.  
+**Failure:** The creature is *Blinded*, and *Frightened* of itself until this spell ends. The creature can repeat this Saving Throw using its Action on its turn.  
 **Success:** This spell ends for that creature.
 
 **Classes:** Psion, Sorcerer, Warlock, Wizard
