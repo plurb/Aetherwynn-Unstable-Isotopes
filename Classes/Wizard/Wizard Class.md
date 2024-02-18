@@ -5,10 +5,10 @@
 ## Wizard
 
 <table>
-<tr>
+<thead>
 <th colspan="4">Wizard</th> 
 <th colspan="9">Spell Slots Per Level</th>
-</tr>
+</thead>
 
 | Level | Proficiency | Features                     | Cantrips |  1st  |  2nd  |  3rd  |  4th  |  5th  |  6th  |  7th  |  8th  |  9th  |
 | ----: | ----------: | :--------------------------- | -------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
