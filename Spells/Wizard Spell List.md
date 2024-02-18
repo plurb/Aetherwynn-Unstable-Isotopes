@@ -36,7 +36,6 @@
 *Hold Person*  
 *Misty Step*  
 *Phantasmal Force*  
-*Rope Trick*  
 *Scorching Ray*  
 *See The Ethereal - (See Invisiblity)*  
 *Web*  
