@@ -4,20 +4,20 @@
 
 ## Barbarian
 
-| Level | Proficiency | Abilities                                                           | Rages | Exploits Known | Exploit Level |
-| ----: | ----------: | :------------------------------------------------------------------ | ----: | -------------: | ------------: |
-|     1 |           2 | Rage, Exploits, Fighting Style                                      |     1 |              2 |             1 |
-|     2 |           2 | [Reckless Attack](#reckless-attack)                                 |     1 |              3 |             1 |
-|     3 |           2 | [Primal Path](#primal-path)                                         |     1 |              4 |             1 |
-|     4 |           2 | [Ability Score Increase](#ability-score-improvement), [Feat](#feat) |     1 |              5 |             1 |
-|     5 |           3 | [Multiattack](#multiattack)                                         |     2 |              6 |             2 |
-|     6 |           3 | [Path Ability](#primal-path), [Rage Improvement](#rage-improvement) |     2 |              7 |             2 |
-|     7 |           3 | [Evasion](#evasion)                                                 |     2 |              8 |             2 |
-|     8 |           3 | [Ability Score Increase](#ability-score-improvement), [Feat](#feat) |     2 |              9 |             2 |
-|     9 |           4 | [Brutality](#brutality)                                             |     2 |             10 |             3 |
-|    10 |           4 | [Path Ability](#primal-path)                                        |     2 |             10 |             3 |
-|    11 |           4 | [Relentless Rage](#relentless-rage)                                 |     2 |             11 |             3 |
-|    12 |           4 | [Ability Score Increase](#ability-score-improvement), [Feat](#feat) |     2 |             11 |             3 |
+| Level | Proficiency | Abilities                      | Rages | Exploits Known | Exploit Level |
+| ----: | ----------: | :----------------------------- | ----: | -------------: | ------------: |
+|     1 |           2 | Rage, Exploits, Fighting Style |     1 |              2 |             1 |
+|     2 |           2 | Reckless Attack                |     1 |              3 |             1 |
+|     3 |           2 | Primal Path                    |     1 |              4 |             1 |
+|     4 |           2 | Ability Score Increase, Feat   |     1 |              5 |             1 |
+|     5 |           3 | Multiattack                    |     2 |              6 |             2 |
+|     6 |           3 | Path Ability, Rage Improvement |     2 |              7 |             2 |
+|     7 |           3 | Evasion                        |     2 |              8 |             2 |
+|     8 |           3 | Ability Score Increase, Feat   |     2 |              9 |             2 |
+|     9 |           4 | Brutality                      |     2 |             10 |             3 |
+|    10 |           4 | Path Ability                   |     2 |             10 |             3 |
+|    11 |           4 | Relentless Rage                |     2 |             11 |             3 |
+|    12 |           4 | Ability Score Increase, Feat   |     2 |             11 |             3 |
 
 # Class Abilities
 
@@ -59,8 +59,7 @@ ___
 
 > *You fight with an unchecked primal ferocity in battle.*
 
-**`X`/short rest:** You gain the following effects, where `X = the number shown in the Rages column of the Barbarian table`.
-
+**`X`/short rest:** You gain the following effects:
 * You have advantage on any Constitution checks, Strength checks, Constitution Saving Throws, and Strength Saving Throws.
 * When you make a Weapon Attack using Strength, you deal additional damage equal to your Proficiency Bonus.
 * You gain resistance to non-magical bludgeoning, piercing, and slashing damage.
@@ -68,12 +67,14 @@ ___
 
 Your Rage ends early unless you Attack, make a Strength check or Saving Throw, or use a Bonus Action to extend it before the beginning of your next turn.
 
+`X = the number shown in the Rages column of the Barbarian table`.
+
 ## Exploits
 *1st-level Ability (Barbarian)*
 
 > *You gain savage abilities that help you gore enemies and aid allies in and out of battle.*
 
-You gain the following Abilities.
+You gain the following Attributes and Abilities.
 
 ### Stamina
 
@@ -98,7 +99,7 @@ If one of your Exploits requires a creature to make a saving throw, your Exploit
 **Exploit Save DC** = `8 + your Proficiency Bonus + your Strength modifier`
 
 ## Fighting Style
-*2nd-level Ability (Barbarian)*
+*1st-level Ability (Barbarian)*
 
 You learn one fighting style from *Barbian Fighting Styles*.
 
