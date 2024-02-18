@@ -50,6 +50,8 @@
 **Saving Throws:** Intelligence, Wisdom  
 **Skills:** Choose `2 + your Intelligence modifier` from Arcana, History, Insight, Investigation, Medicine, Nature, Persuasion, and Religion.
 
+<!-- FIXME: update to new formating. -->
+
 ## Starting Equipment
 You start with the following items, plus anything provided by your background.
 
@@ -59,11 +61,11 @@ You start with the following items, plus anything provided by your background.
 * A spellbook
 
 ## Spellcasting
-*1st-level Wizard Feature*
+*1st-level Ability (Wizard)*
 
-> *As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power*
+> *As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power.*
 
-See **spellcasting** for the general rules of spellcasting and the [**Wizard Spell List**](https://github.com/plurb/Pluto-s-Generic-Fantasy-RPG-Unstable-Isotopes/blob/main/Spells/Wizard%20Spell%20List.md) for the wizard spell list.
+See **spellcasting** for the general rules of spellcasting and the [**Wizard Spell List**](https://github.com/plurb/Pluto-s-Generic-Fantasy-RPG-Unstable-Isotopes/blob/main/Spells/Wizard%20Spell%20List.md) for the Wizard Spell List.
 
 ### Cantrips
 You know three cantrips of your choice from the wizard spell list. You learn additional wizard cantrips of your choice at higher levels, as shown in the Cantrips column of the Wizard table.
@@ -96,23 +98,31 @@ You prepare the set of Wizard Spells that are available for you to cast. To do s
 
 ___
 > #### Example
-> If you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence Score of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell magic missile, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+> *If you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence Score of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell magic missile, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.*
 ___
 
 > *You can take time to prepare a new list of wizard spells by studying your spellbook to commit incantations and hand signs to memory.*
 
-**1/Long Rest:** After you finish a Long Rest, you can change the set of spells you have prepared. Preparing a spell requires 1 minute per spell level for each spell you prepare.
+**1/long rest:** After you finish a Long Rest, you can change the set of spells you have prepared. Preparing a spell requires 1 minute per spell level for each spell you prepare.
 
 ### Spellcasting Ability
-Intelligence is your spellcasting ability for your wizard spells, since you learn your wizard spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
+
+> *Intelligence is your spellcasting ability for your wizard spells, since you learn your wizard spells through dedicated study and memorization.*
+
+You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when calculating the Saving Throw DC for a Wizard Spell you cast and when making an Attack Roll with one.
 
 **Spell Save DC** = `8 + your proficiency bonus + your Intelligence modifier`
 **Spell Attack Modifier** = `your proficiency bonus + your Intelligence modifier`
 
+## Master of Rituals
+*1st-level Wizard Feature*
+
+You can cast a Wizard Spell as a Ritual if that spell has the Ritual tag and the Spell is in your Spellbook. You don't need to have the spell prepared to do so.
+
 ## Arcane Tradition
 *2nd-Level Wizard Feature*
 
-> A wizard's school shapes and influences the magic they cast.
+> *A wizard's school shapes and influences the magic they cast.*
 
 Choose an arcane tradition. Your Arcane Tradition grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
@@ -125,10 +135,7 @@ Choose an arcane tradition. Your Arcane Tradition grants you features at 2nd lev
 
 **Note:** Necromancy will come with Evil Player Characters expansion, not the Player's Handbook (but will be part of the SRD)
 
-## Expert of Rituals
-*3rd-Level Wizard Feature*
 
-You can cast a Wizard Spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don't need to have the spell prepared.
 
 ## Ability Score Increase
 *4th-Level Wizard Featre*
