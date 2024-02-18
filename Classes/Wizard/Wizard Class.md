@@ -4,13 +4,11 @@
 
 ## Wizard
 
-<tbody>
+<table>
 <tr>
-<th>Wizard</th> 
-<th>Spell Slots Per Level</th>
+<th colspan="4">Wizard</th> 
+<th colspan="9">Spell Slots Per Level</th>
 </tr>
-</tbody>
-
 
 | Level | Proficiency | Features                     | Cantrips |  1st  |  2nd  |  3rd  |  4th  |  5th  |  6th  |  7th  |  8th  |  9th  |
 | ----: | ----------: | :--------------------------- | -------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -26,6 +24,8 @@
 |    10 |           4 | Arcane Tradition Feature     |        5 |   4   |   3   |   3   |   3   |   2   |   -   |   -   |   -   |   -   |
 |    11 |           4 |                              |        5 |   4   |   3   |   3   |   3   |   2   |   1   |   -   |   -   |   -   |
 |    12 |           4 | Ability Score Increase, Feat |        5 |   4   |   3   |   3   |   3   |   2   |   1   |   -   |   -   |   -   |
+
+</table>
 
 # Class Features
 
