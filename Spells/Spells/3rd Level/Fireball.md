@@ -1,5 +1,5 @@
 ### Fireball  
-*3rd-Level Spell (Evocation)*  
+*3rd-Level Spell (Evocation, Blast)*  
 **Casting Time:** 1 Action  
 **Range:** 120 ft.  
 **Components:** V, S, M (gunpowder, a match)  

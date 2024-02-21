@@ -1,6 +1,6 @@
 # Barbarian Fighting Styles
 
-<!-- FIXME: re-work to new templating. -->
+<!-- TODO: convert to list -->
 
 ## Defensive Fighting
 So long as you are either wearing armor or wielding a shield, you gain a +1 bonus to your Armor Class.

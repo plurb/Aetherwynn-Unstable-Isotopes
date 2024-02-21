@@ -19,7 +19,8 @@
 |    11 |           4 |                                            |        5 |
 |    12 |           4 | Ability Score Increase, Feat               |        5 |
 
-## Spell Slots Per Level
+
+## Wizard: Spell Slots Per Level
 
 |  1st  |  2nd  |  3rd  |  4th  |  5th  |  6th  |  7th  |  8th  |  9th  |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -39,10 +40,14 @@
 # Class Features
 
 ## Hit Points
+
 **Hit Points:** 6 + your Constitution modifier per Wizard Level  
 **Hit Dice:** 1d6 per Wizard Level  
 
+---
+
 ## Proficiencies
+
 **Armor:** none  
 **Weapons:** daggers, darts, slings, quarterstaffs  
 **Spellcasting Foci:** arcane foci, component pouch
@@ -50,15 +55,18 @@
 **Saving Throws:** Intelligence, Wisdom  
 **Skills:** Choose `2 + your Intelligence modifier` from Arcana, History, Insight, Investigation, Medicine, Nature, Persuasion, and Religion.
 
-<!-- FIXME: update to new formating. -->
+---
 
 ## Starting Equipment
+
 You start with the following items, plus anything provided by your background.
 
 * (a) a quarterstaff or (b) a dagger
 * (a) a component pouch or (b) an arcane focus
 * (a) a scholar's pack or (b) an explorer's pack
 * A spellbook
+
+---
 
 ## Spellcasting
 *1st-level Ability (Wizard)*
@@ -73,16 +81,17 @@ You know a number of Cantrips equal to the number shown in the Cantrips column o
 
 ### Preparing and Casting Spells
 
+> *You can take time to prepare a new list of wizard spells by studying your spellbook to commit incantations and hand signs to memory.*
+
 The Spell Slots per Spell Level table shows how many spell slots you have to cast your Wizard Spells of 1st-level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a Full Rest.
 
 You prepare the set of Wizard Spells that are available for you to cast. To do so, choose a number of Wizard Spells from your Spellbook (described below) equal to `your Intelligence modifier + your wizard level` (minimum of one). The spells must be of a level for which you have spell slots, as shown on the Wizard table.
 
-___
+---
 > #### Example
+> 
 > *If you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence Score of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell magic missile, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.*
-___
-
-> *You can take time to prepare a new list of wizard spells by studying your spellbook to commit incantations and hand signs to memory.*
+---
 
 **1/long rest:** After you finish a Long Rest, you can change the set of spells you have prepared. Preparing a spell requires 1 minute per spell level for each spell you prepare.
 
@@ -95,42 +104,52 @@ You use your Intelligence whenever a spell refers to your spellcasting ability. 
 **Spell Save DC** = `8 + your proficiency bonus + your Intelligence modifier`
 **Spell Attack Modifier** = `your proficiency bonus + your Intelligence modifier`
 
+---
 
 ## Spellbook
+*1st-level Ability (Wizard)*
 
-At 1st level, as part of your Starting Equipment, you gain a spellbook containing six 1st-level wizard spells of your choice. If you do not have a spellbook, you can turn any non-magical medium you can write on into your spellbook. Your spellbook is the repository of the Wizard Spells you know, except your Cantrips.
+<!-- TODO: edit flavour text. -->
 
-<!-- FIXME: fix spellbook, find what's wrong then fix it. Re-word needed perhaps? - by @plurb -->
+> *Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.*
+
+As part of your Starting Equipment, you gain a spellbook containing six 1st-level wizard spells of your choice. If you do not have a spellbook, you can turn any non-magical medium you can write on into your spellbook. Your spellbook is the repository of the Wizard Spells you know, except your Cantrips.
 
 ### Individual Research
 
 > *The spells that you add to your spellbook as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse.*
 
-Each time you gain a Wizard level, you add two Wizard Spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table.
+Each time you gain a Wizard level, you add two Wizard Spells of your choice to your Spellbook. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table.
 
-### Copying a Spell into the Book
+### Copy Spell
+*1st-level Ability (Wizard)*  
+**Usage:** Varies  
+**Range:** Touch  
+**Requirements:** Your spellbook, a spellbook or spell scroll  
+**Duration:** —  
+
+<!-- TODO: edit flavourtext -->
 
 > *You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard's chest, for example, or in a dusty tome in an ancient library.*
 > 
 > *The time and cost to copy a spell represents material components you expend as you experiment with the spell to master it, the fine inks you need to record it, and the time to decipher and copy it. Copying a spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.*
+> 
+> *If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.*
 
-When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare. For each level of the spell, the process takes 2 hours and costs 50 gp. Once you have spent this time and money, you can prepare the spell just like your other spells.
+If it is a Wizard Spell of a level you can prepare, add one Spell contained in target *spellbook* or *spell scroll* to your Spellbook, or another target *spellbook* in range. For each level of the spell, this process takes 2 hours and costs 50 gp. If you have the spell prepared, or it is already in your spellbook, this process takes half as long and costs half as much.
 
-### Replacing the Book
-
-You can copy a spell from your own spellbook into another book-for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
-
-If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.
-
-### The Book's Appearance
-
-Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.
-
+---
 
 ## Master of Rituals
-*1st-level Ability (Wizard)*
+*1st-level Ability (Wizard)*  
+**Usage:** Passive  
+**Range:** Self  
+**Requirements:** None  
+**Duration:** —  
 
 You can cast a Wizard Spell as a Ritual if that spell has the Ritual tag and the Spell is in your Spellbook. You don't need to have the spell prepared to do so.
+
+---
 
 ## Arcane Tradition
 *2nd-Level Ability (Wizard)*
@@ -148,9 +167,21 @@ Choose an arcane tradition. Your Arcane Tradition grants you features at 2nd lev
 
 **Note:** Necromancy will come with the Evil Player Characters module, not the Player's Handbook
 
-## Ability Score Increase
-*4th-Level Ability (Wizard)*
+---
 
+## Ability Score Improvement
+*4th-level Ability (All Classes)*
+
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or two ability scores by 1. You can't increase one of your ability scores above 20 using this Ability.
+
+---
+
+## Feat
+*4th-level Ability (Wizard)*
+
+You learn a feat. This feat can be either a General, Spellcasting, or Wizard feat. You learn additional feats at 8th, and 12th, 16th, 19th, and 20th level.
+
+---
 
 ## Arcane Recovery
 *7th-Level Ability (Wizard)*
@@ -159,10 +190,10 @@ Choose an arcane tradition. Your Arcane Tradition grants you features at 2nd lev
 
 **1/full rest:** When you finish a Long Rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up). None of the slots can be 6th level or higher.
 
-___
+---
 > #### Example
 > If you're a 7th-level wizard, you can recover up to four levels worth of spell slots. You can recover either one 4th-level spell slot or two 2nd-level spell slots.
-___
+---
 
-
+---
 

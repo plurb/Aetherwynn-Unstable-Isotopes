@@ -2,37 +2,47 @@
 > 
 > *Small Creature (Humanoid, Goblin)*
 > 
-> ___
+> ---
 > 
 > **AC** 15 (leather armour, shield)  
-> **Hit Points** 7  
+> **HP** 7  
 > **Speed** 30 ft.  
 > 
-> ___
+> ---
 > 
 > |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 > | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 > |  8 (-1) | 14 (+2) | 10 (+0) | 10 (+0) |  8 (-1) |  8 (-1) |
 > 
-> ___
+> ---
 > 
 > **Skills** Stealth +6
 > **Senses** darkvision 60 ft., passive Perception 13  
-> **Languages** understands the languages you speak  
+> **Languages** Common (faltering), Goblin (fluent)  
 > **Level** 1  
 > **Proficiency Bonus** +2  
 > 
-> ___
+> ---
 > 
 > ### Abilities
 > 
-> 🔷 ***Attack***. The goblin *Attacks*.  
-> 🔵 ***Nimble Escape.*** The goblin *Disengages* or *Hides*.  
+> 🔷 ***Attack***. The @ *Attacks*.  
 > 
-> ___
+> 🔵 ***Nimble Escape.*** The @ *Dashes* or *Hides*.  
+> 
+> ♾️ ***Sneak Attack.*** **(**`1d6`**)**
+> 
+> ---
 > 
 > ### Weapons
 > 
-> ***Scimitar.*** *To Hit:* `+4`, Reach 5 ft., `1` target. *Hit:* `1d6 + 2` Slashing Damage.
+> ***Scimitar.*** *Melee Weapon:* `+4` to hit, 5 ft. reach, Small, Finesse, Light, `1` target. *Hit:* `1d6 + 2` Slashing Damage.
 > 
-> ***Shortbow.*** *To Hit:* `+4`, Range 80/320 ft., `1` target. *Hit:* `1d6 + 2` Piercing Damage.
+> ***Shortbow.*** *Melee Weapon:* `+4` to hit, Range 80/320 ft., `1` target. *Hit:* `1d6 + 2` Piercing Damage.
+>
+> ### Inventory
+>
+> Leather armour (small, worn)
+> Scimitar (medium, equiped)
+> Shortbow (equiped)
+> `2d10 + 10` arrows

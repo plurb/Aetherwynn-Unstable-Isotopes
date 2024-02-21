@@ -25,7 +25,10 @@
 Hit Dice: 1d12
 Hit Points at 1st Level: `12 + your Constitution modifier` per Barbarian level.
 
+---
+
 ## Proficiencies
+
 **Armor:** Light armor, Medium armor, Shields  
 **Weapons:** Simple Weapons, Martial Weapons  
 **Tools:** None  
@@ -33,22 +36,26 @@ Hit Points at 1st Level: `12 + your Constitution modifier` per Barbarian level.
 **Saving Throws:** Strength, Constitution  
 **Skills:** Choose `1 + your Intelligence modifier` of the following: Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival.  
 
+---
+
 ## Starting Equipment
+
 You start with the following items, plus anything provided by your background.
 
-(a) a greataxe or (b) any martial melee weapon
-(a) two handaxes or (b) any simple weapon
-An explorer's pack, and four javelins
-Alternatively, you may start with 2d4 × 10 gp to buy your own equipment.
+* (a) a greataxe or (b) any martial melee weapon
+* (a) two handaxes or (b) any simple weapon
+* An explorer's pack, and four javelins
 
-___
+Alternatively, you may start with `2d4 × 10` gp to buy your own equipment.
+
+---
 > ### Multiclassing Into This Class
 > 
 > **Ability Score Requirement:** Strength score of 13 or greater.  
 > **Armor Gained:** Shields  
 > **Weapons Gained:** Simple weapons, Martial Weapons  
 > **Skills Gained:** Choose `1 + half your Intelligence modifier (rounded up)` of the following: Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival.  
-___
+---
 
 ## Rage
 *1st-level Ability (Barbarian)*  
@@ -68,6 +75,8 @@ ___
 Your Rage ends early unless you Attack, make a Strength check or Saving Throw, or use a Bonus Action to extend it before the beginning of your next turn.
 
 `X = the number shown in the Rages column of the Barbarian table`.
+
+---
 
 ## Exploits
 *1st-level Ability (Barbarian)*
@@ -89,19 +98,25 @@ To use an Exploit, you must expend a number of Stamina Points equal to the Explo
 For Exploits that modify an Attack, Ability Check, or Saving Throw: you can only use one Exploit per Attack, Ability Check, or Saving Throw.
 
 ### Exploits Known
+
 You learn two Exploits from the Barbarian Exploit List. The Exploits Known column of the Barbarian table shows when you learn more Exploits of your choice. To learn an Exploit, you must be able to learn Exploits of its level, as well as meet any other prerequisites (listed under **Prerequisites** in the Exploit's entry).
 
 Whenever you gain a Barbarian level, you can replace one of the Exploits you learnt from this class with another Exploit from the Barbarian Exploit List.
 
 ### Saving Throws
+
 If one of your Exploits requires a creature to make a saving throw, your Exploit DC is calculated as follows:
 
 **Exploit Save DC** = `8 + your Proficiency Bonus + your Strength modifier`
+
+---
 
 ## Fighting Style
 *1st-level Ability (Barbarian)*
 
 You learn one fighting style from *Barbian Fighting Styles*.
+
+---
 
 ## Reckless Attack
 *2nd-level Ability (Barbarian)*  
@@ -113,6 +128,8 @@ You learn one fighting style from *Barbian Fighting Styles*.
 > *You can throw aside concern for your defense to attack more accurately.*
 
 Once per turn, you may gain advantage on all attacks you make this turn. If you do, all attack rolls targeting you have advantage until the start of your next turn.
+
+---
 
 ## Primal Path
 *3rd-level Ability (Barbarian)*
@@ -129,15 +146,21 @@ Choose one of the following Primal Paths:
 ### Primal Exploits
 Each Primal Path has a list of Primal Exploits you learn at the Barbarian levels noted in your Path's description. They don't count against your total number of Exploits Known and can't be switched out for other Exploits. If you don't meet a Primal Exploit's prerequisites, you learn it regardless.
 
+---
+
 ## Ability Score Improvement
-*4th-level Ability (Barbarian)*
+*4th-level Ability (All Classes)*
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or two ability scores by 1. You can't increase one of your ability scores above 20 using this Ability.
+
+---
 
 ## Feat
 *4th-level Ability (Barbarian)*
 
 You learn a feat. This feat can be either a General, Martial, or Barbarian feat. You learn additional feats at 8th, and 12th level.
+
+---
 
 ## Multiattack
 *5th-level Ability (Barbarian, Fighter, Monk)*  
@@ -152,6 +175,8 @@ You can attack twice, instead of once, whenever you take the Attack action on yo
 
 When you reach certain levels in this class, the number of attacks you can make as part of your Attack action increases; at 11th level (3 attacks), and at 17th level (4 attacks).
 
+---
+
 ## Rage Improvement
 *6th-level Ability (Barbarian)*  
 **Usage:** Passive  
@@ -163,13 +188,23 @@ While you are raging, you gain the following effects:
 * Weapon Attacks you make count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 * You gain immunity to all non-magical bludgeoning, piercing, and slashing damage.
 
+---
+
 ## Evasion
-*7th-level Ability (Barbarian)*
+*7th-level Ability (Barbarian, Monk, Rogue)*
+**Usage:** Passive  
+**Range:** Self  
+**Requirements:** None  
+**Duration:** —  
 
-Whenever you make a Dexterity Saving Throw against an ability with the [Blast]() tag:
+> *You are able to avoid attacks that are otherwise unavoidable.*
 
-**Failure:** You take half the listed damage.
+Whenever you make a Saving Throw against a [Blast](), the ability has the following effects on a Success of Failure:
+
+**Failure:** You take half the listed damage.  
 **Success:** You take no damage.
+
+---
 
 ## Brutality
 *9th-level Ability (Barbarian)*  
@@ -190,6 +225,8 @@ This increases to two additional dice at 13th level in this class, and three add
 > — @plurb
 ---
 
+---
+
 ## Relentless Rage
 *11th-level Ability (Barbarian)*
 **Usage:** Free Action; Triggered  
@@ -201,5 +238,4 @@ This increases to two additional dice at 13th level in this class, and three add
 
 If you drop to 0 hit points, you can make a DC `X` Constitution Saving Throw, where `X = half the damage taken or 10, whichever is greater`. If you succeed, you drop to 1 hit point instead.
 
-
-
+---

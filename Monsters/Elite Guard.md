@@ -52,13 +52,13 @@
 > ___
 > 
 > ### Weapons
-> ***Halberd.*** *Melee Weapon:* `+7` to hit, 10 ft. reach, Large, Two-Handed, Formation, 1 target. *Hit:* `1d10 + 4` Slashing Damage or `1d8 + 4` Piercing Damage.
+> ***Halberd.*** *Melee Weapon:* `+7` to hit, 10 ft. reach, Large, Two-Handed, Formation, `1` target. *Hit:* `1d10 + 4` Slashing Damage or `1d8 + 4` Piercing Damage.
 > 
-> ***Longsword.*** *Melee Weapon:* `+7` to hit, 5 ft. reach, Medium, Finesse, Two-Handed, Long. *Hit:* `1d10 + 4` Slashing Damage or `1d8 + 4` Piercing Damage.
+> ***Longsword.*** *Melee Weapon:* `+7` to hit, 5 ft. reach, Medium, Finesse, Two-Handed, Long, `1` target. *Hit:* `1d10 + 4` Slashing Damage or `1d8 + 4` Piercing Damage.
 > 
-> ***Shortsword.*** *Melee Weapon:* `+7` to hit, 5 ft. reach, Small, Finesse, Light. *Hit:* `1d6 + 4` Slashing Damage or `1d6 + 4` Piercing Damage.
+> ***Shortsword.*** *Melee Weapon:* `+7` to hit, 5 ft. reach, Small, Finesse, Light, `1` target. *Hit:* `1d6 + 4` Slashing Damage or `1d6 + 4` Piercing Damage.
 > 
-> ***Spike.*** *Melee Weapon:* `+7` to hit, 10 ft. reach, Large, Two-Handed, Formation, 1 target. *Hit:* `1d4 + 4` Piercing Damage.
+> ***Spike.*** *Melee Weapon:* `+7` to hit, 10 ft. reach, Large, Two-Handed, Formation, `1` target. *Hit:* `1d4 + 4` Piercing Damage.
 > 
 > ___
 > 
