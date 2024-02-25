@@ -1,6 +1,6 @@
 > ## Goblin
 > 
-> *Small Creature (Humanoid, Goblin)*
+> *Small Creature (Humanoid, Goblinoid)*
 > 
 > ---
 > 
@@ -16,7 +16,7 @@
 > 
 > ---
 > 
-> **Skills** Stealth +6
+> **Skills** Stealth +6  
 > **Senses** darkvision 60 ft., passive Perception 13  
 > **Languages** Common (faltering), Goblin (fluent)  
 > **Level** 1  
@@ -25,12 +25,12 @@
 > ---
 > 
 > ### Abilities
+>
+> ♾️ ***Sneak Attack.*** **(**`1d6`**)**
 > 
 > 🔷 ***Attack***. The @ *Attacks*.  
 > 
 > 🔵 ***Nimble Escape.*** The @ *Dashes* or *Hides*.  
-> 
-> ♾️ ***Sneak Attack.*** **(**`1d6`**)**
 > 
 > ---
 > 
@@ -38,7 +38,7 @@
 > 
 > ***Scimitar.*** *Melee Weapon:* `+4` to hit, 5 ft. reach, Small, Finesse, Light, `1` target. *Hit:* `1d6 + 2` Slashing Damage.
 > 
-> ***Shortbow.*** *Melee Weapon:* `+4` to hit, Range 80/320 ft., `1` target. *Hit:* `1d6 + 2` Piercing Damage.
+> ***Shortbow.*** *Ranged Weapon:* `+4` to hit, Range 80/320 ft., `1` target. *Hit:* `1d6 + 2` Piercing Damage.
 >
 > ### Inventory
 >
