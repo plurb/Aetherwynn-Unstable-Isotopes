@@ -91,7 +91,7 @@ You gain the following Attributes and Abilities.
 
 You have a limited well of stamina represented by a number of Stamina Points. You can calculate the number of Stamina Points you have as follows:
 
-**Stamina Points** = `your Barbarian level + your Constitution modifier`
+**Stamina Points** = `your Barbarian level + your Constitution modifier` (minimum of 0)
 
 To use an Exploit, you must expend a number of Stamina Points equal to the Exploit's level. You regain your expended Stamina Points when you finish a Short or Long Rest.
 

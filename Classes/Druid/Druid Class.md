@@ -8,7 +8,7 @@
 
 | Level | Proficiency | Features                              | Cantrips |
 | ----: | ----------: | :------------------------------------ | -------: |
-|     1 |           2 | Spellcasting                          |        3 |
+|     1 |           2 | Spellcasting, Ritual Caster           |        3 |
 |     2 |           2 | Druidic Circle, Channel Elements (x1) |        3 |
 |     3 |           2 | Harness Elemental Power               |        3 |
 |     4 |           2 | Ability Score Increase, Feat          |        4 |
@@ -21,7 +21,7 @@
 |    11 |           4 |                                       |        5 |
 |    12 |           4 | Ability Score Increase, Feat          |        5 |
 
-## Spell Slots per Spell Level
+## Druid: Spell Slots per Spell Level
 
 | Level |  1st  |  2nd  |  3rd  |  4th  |  5th  |  6th  |  7th  |  8th  |  9th  |
 | ----: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -38,7 +38,7 @@
 |    11 |   4   |   3   |   3   |   3   |   2   |   1   |   -   |   -   |   -   |
 |    12 |   4   |   3   |   3   |   3   |   2   |   1   |   -   |   -   |   -   |
 
-# Class Features
+# Class Abilities
 
 ## Hit Points
 **Hit Points:** 8 + your Constitution modifier per Druid level  
@@ -49,6 +49,7 @@
 **Weapons:** simple weapons  
 **Spellcasting Foci:** component pouch, primal foci  
 **Tools:** herbalism kit  
+**Languages:** Druidic  
 **Saving Throws:** Intelligence, Wisdom  
 **Skills:** Choose `2 + your Intelligence modifier` from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival.
 
