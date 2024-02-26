@@ -8,13 +8,13 @@
 |     2 |           2 | Ki, Fast Movement, Techniques          |         `d6` |               |          3 |        4 |             1 |
 |     3 |           2 | Monastic Tradition                     |         `d6` |               |          3 |        5 |             1 |
 |     4 |           2 | Ability Score Increase, Feat           |         `d6` |               |          4 |        6 |             1 |
-|     5 |           3 | Multiattack                            |         `d8` |               |          4 |        7 |             2 |
+|     5 |           3 | Multiattack (2)                        |         `d8` |               |          4 |        7 |             2 |
 |     6 |           3 | Tradition Feature, Enhanced Strikes    |         `d8` |               |          5 |        8 |             2 |
 |     7 |           3 | Evasion                                |         `d8` |               |          5 |        9 |             2 |
 |     8 |           3 | Ability Score Increase, Feat           |         `d8` |               |          6 |       10 |             2 |
-|     9 |           4 | Tradition Feature                      |         `d8` |               |          6 |       11 |             3 |
-|    10 |           4 |                                        |         `d8` |               |          7 |       11 |             3 |
-|    11 |           4 |                                        |         `d8` |               |          7 |       12 |             3 |
+|     9 |           4 |                                        |         `d8` |               |          6 |       11 |             3 |
+|    10 |           4 | Tradition Feature                      |         `d8` |               |          7 |       11 |             3 |
+|    11 |           4 | Multiattack (3)                        |        `d10` |               |          7 |       12 |             3 |
 |    12 |           4 | Ability Score Increase, Feat           |        `d10` |               |          8 |       12 |             3 |
 
 # Class Abilities
