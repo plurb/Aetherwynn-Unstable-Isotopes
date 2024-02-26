@@ -5,17 +5,17 @@
 | Level | Proficiency | Abilities                              | Martial Arts | Fast Movement | Techniques | Exploits | Exploit Level |
 | ----: | ----------: | :------------------------------------- | -----------: | ------------: | ---------: | -------: | ------------: |
 |     1 |           2 | Martial Arts, Fighting Style, Exploits |         `d6` |             - |          - |        3 |             1 |
-|     2 |           2 | Ki, Fast Movement, Techniques          |         `d6` |       +10 ft. |          3 |        4 |             1 |
+|     2 |           2 | Fast Movement, Ki, Techniques          |         `d6` |       +10 ft. |          3 |        4 |             1 |
 |     3 |           2 | Monastic Tradition                     |         `d6` |       +10 ft. |          3 |        5 |             1 |
-|     4 |           2 | Ability Score Increase, Feat           |         `d6` |       +10 ft. |          4 |        6 |             1 |
+|     4 |           2 | Ability Score Increase, Feat           |         `d6` |       +10 ft. |          3 |        6 |             1 |
 |     5 |           3 | Multiattack (2)                        |         `d8` |       +10 ft. |          4 |        7 |             2 |
-|     6 |           3 | Tradition Feature, Enhanced Strikes    |         `d8` |       +15 ft. |          5 |        8 |             2 |
+|     6 |           3 | Tradition Feature, Enhanced Strikes    |         `d8` |       +15 ft. |          4 |        8 |             2 |
 |     7 |           3 | Evasion                                |         `d8` |       +15 ft. |          5 |        9 |             2 |
-|     8 |           3 | Ability Score Increase, Feat           |         `d8` |       +15 ft. |          6 |       10 |             2 |
-|     9 |           4 |                                        |         `d8` |       +15 ft. |          6 |       11 |             3 |
-|    10 |           4 | Tradition Feature                      |         `d8` |       +20 ft. |          7 |       11 |             3 |
+|     8 |           3 | Ability Score Increase, Feat           |         `d8` |       +15 ft. |          5 |       10 |             2 |
+|     9 |           4 | Mystic Resilience                      |         `d8` |       +15 ft. |          6 |       11 |             3 |
+|    10 |           4 | Tradition Feature                      |         `d8` |       +20 ft. |          6 |       11 |             3 |
 |    11 |           4 | Multiattack (3)                        |        `d10` |       +20 ft. |          7 |       12 |             3 |
-|    12 |           4 | Ability Score Increase, Feat           |        `d10` |       +20 ft. |          8 |       12 |             3 |
+|    12 |           4 | Ability Score Increase, Feat           |        `d10` |       +20 ft. |          7 |       12 |             3 |
 
 ---
 
@@ -83,7 +83,7 @@ For the purpose of your Monk Abilities, *Martial Arts Attacks* are *Unarmed Stri
 ## Fighting Style
 *1st-level Ability (Monk)*
 
-You learn one Fighting Style from *Monk Fighting Styles*.
+You learn one Fighting Style from [*Monk Fighting Styles*](./Monk%20Fighting%20Styles.md).
 
 ---
 
@@ -114,7 +114,7 @@ This rule is a side effect of SRD 5.6.2 "Timing". It's only here since it's unli
 
 ### Exploits Known
 
-You learn `3` Exploits from the *Monk Exploit List*. The "Exploits" column of the Monk Table shows when you learn more Exploits of your choice. To learn a Exploit, you must be able to learn Exploits of its level, as well as meet any other prerequisites (listed under **Pre-requisites** in the Exploit's entry).
+You learn `3` Exploits from the [*Monk Exploit List*](./Monk%20Exploit%20List.md). The "Exploits" column of the Monk Table shows when you learn more Exploits of your choice. To learn a Exploit, you must be able to learn Exploits of its level, as well as meet any other prerequisites (listed under **Pre-requisites** in the Exploit's entry).
 
 Whenever you gain a Monk level, you can replace one of the Exploits you learnt from this class with another Exploit from the *Monk Exploit List*.
 
@@ -122,10 +122,47 @@ Whenever you gain a Monk level, you can replace one of the Exploits you learnt f
 
 If one of your Exploits requires a creature to make a *Saving Throw*, the DC is calculated as follows:
 
-**Exploit Save DC** = `8 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice)`
+**Exploit Save DC** = `8 + your Proficiency Bonus + your Dexterity modifier`
 
 ---
 
+## Fast Movement
+*2nd-level Ability (Monk)*
 
+♾️ — You gain a bonus to your *Movement Speed* equal to the amount shown in the "Fast Movement" column of the Monk Table.
 
+---
+
+## Ki
+*2nd-level Ability (Monk)*
+
+> *You can channel your aura as a mystical energy called 'Ki'.*
+
+You gain the following abilities:
+
+### Ki Points
+
+You have a number of Ki Points calculated as follows:
+
+**Ki Points** = `your Monk level + your Wisdom modifier`
+
+### Ki Abilities
+
+You use your Wisdom whenever an ability refers to your Ki Ability. In addition, you use your Wisdom modifier when calculating the Saving Throw DC for [Techniques](#techniques) and other Monk Abilities you perform and when making an *Attack Roll* for *Ki Attacks*.
+
+**Ki Save DC** = `8 + your proficiency bonus + your Wisdom modifier`
+**Ki Attack Modifier** = `your proficiency bonus + your Wisdom modifier`
+
+### Ki Spells
+
+Some Abilities let you cast Spells using Ki. You use your Wisdom whenever a Spell refers to your Spellcasting Ability. The *Saving Throw* DC and *Attack Roll* modifier are equal to your Ki Save DC and Ki Attack Modifier.
+
+---
+
+## Techniques
+*2nd-level Ability (Monk)*
+
+You learn `3` Techniques from [*Monk Techniques*](./Monk%20Techniques.md). The "Techniques" column of the Monk Table shows when you learn more Techniques of your choice.
+
+---
 
