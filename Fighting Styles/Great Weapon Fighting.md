@@ -1,10 +1,6 @@
 ### Great Weapon Fighting
-*Fighting Style*  
-**Usage:** Passive  
-**Range:** Self  
-**Requirements:** None  
-**Duration:** Passive  
+*Fighting Style (Barbarian, Fighter, Magus, Paladin, Ranger)*  
+**Pre-requisites:** —  
 
-When you make a *Melee Weapon Attack* with a *Heavy*, *Two-Handed*, or *Versatile* weapon that you are wielding with two hands, you can treat a total roll of 4 or lower on the weapon's damage dice as a 5.
-
-**Classes.** Barbarian, Fighter, Magus, Paladin, Ranger
+You gain the following abilities:
+* ♾️ — Whenever you make a *Melee Weapon Attack* with a *Heavy*, *Two-Handed*, or *Versatile* Weapon that you are wielding with two hands, you can treat a total roll of `4` or lower on the weapon's Damage Dice as a `5` instead.

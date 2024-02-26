@@ -1,10 +1,6 @@
 ### Skirmisher
-*3rd-level Fighting Style*  
-**Usage:** 1 Bonus Action  
-**Range:** Self  
-**Requirements:** You are not wearing *Heavy Armour*  
-**Duration:** Instantaneous  
+*Fighting Style (Fighter)*  
+**Pre-requisites:** You are at least 3rd level  
 
-You *Dash*, or *Disengage*.
-
-**Classes.** Barbarian, Fighter, Magus, Monk, Ranger
+You gain the following abilities:
+* 🔵 — If you are not wearing *Heavy Armour*, you may *Dash* or *Hide*.

@@ -1,10 +1,6 @@
 ### Archery
-*Fighting Style*  
-**Usage:** Passive  
-**Range:** Self  
-**Requirements:** None  
-**Duration:** Passive  
+*Fighting Style (Fighter, Magus, Monk, Ranger, Rogue)*  
+**Pre-requisites:** —  
 
-You gain a +2 bonus to attack rolls with ranged weapons.
-
-**Classes.** Fighter, Magus, Monk, Ranger, Rogue
+You gain the following abilities:
+* ♾️ — You gain a `+2` bonus to *Attack Rolls* for *Ranged Weapon Attacks*.

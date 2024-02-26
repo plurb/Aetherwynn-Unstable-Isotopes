@@ -1,10 +1,6 @@
 ### Defensive Fighting
-*Fighting Style*  
-**Usage:** Passive  
-**Range:** Self  
-**Requirements:** You are wearing *Armour* or wielding a *Shield*  
-**Duration:** Passive  
+*Fighting Style (Barbarian, Fighter, Magus, Paladin, Ranger, Rogue)*  
+**Pre-requisites:** Proficiency with at least 1 kind of *Armour* or *Shields*  
 
-You gain a +1 bonus to your AC.
-
-**Classes.** Barbarian, Fighter, Magus, Paladin, Ranger, Rogue
+You gain the following abilities:
+* ♾️ — While You are wearing *Armour* or wielding a *Shield*, you gain a `+1` bonus to your AC.

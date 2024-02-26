@@ -1,14 +1,15 @@
 ### Evasion
-*7th-level Fighting Style*
-**Usage:** Passive  
-**Range:** Self  
-**Requirements:** A Dexterity score of 13 or greater  
-**Duration:** Passive  
+*Fighting Style (Fighter)*  
+**Pre-requisites:** You are at least 9th level, A Dexterity score of 13 or greater  
 
-> *You can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an Ice Storm spell.*
+> *You can nimbly dodge out of the way of certain effects, such as a red dragon's fiery breath or an Ice Storm spell.*
 
-<!-- FIXME: re-work to use the new Blast tag. -->
+You gain the following abilities:
+* You gain Proficiency with *Dexterity Saving Throws*.
+* ♾️ — Whenever you make a *Dexterity Saving Throw* to take only half damage, or a *Saving Throw* against an effect with the *Blast* tag, you instead take no Damage on a success, and only half Damage on a failure.
 
-When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+---
 
-**Classes.** Barbarian, Fighter, Magus, Monk, Ranger, Rogue
+> ### Rulings
+> 
+> (26-02-2024) The "Evasion" Fighting Style is a replacement effect (notice the use of 'instead'). It does not stack with the Rogue's, Barbarian's, or Monk's "Evasion" Ability.

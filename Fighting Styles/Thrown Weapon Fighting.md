@@ -1,10 +1,6 @@
 ### Thrown Weapon Fighting
-*Fighting Style*  
-**Usage:** Passive  
-**Range:** Self  
-**Requirements:** None  
-**Duration:** Passive  
+*Fighting Style (Barbarian, Fighter, Monk, Ranger, Rogue)*  
+**Pre-requisites:** —  
 
-You gain a +2 bonus to damage rolls for *Thrown Weapon Attacks*.
-
-**Classes.** Barbarian, Fighter, Monk, Rogue
+You gain the following abilities:
+* ♾️ — You gain a `+2` bonus to *Damage Rolls* for *Thrown Weapon Attacks* you make.

@@ -1,10 +1,6 @@
 ### Classical Swordplay
-*Fighting Style*  
-**Usage:** Passive  
-**Range:** Self  
-**Requirements:** You are wielding a Sword, and not wearing *Heavy Armour* or using a *Shield*  
-**Duration:** Passive  
+*Fighting Style (Fighter, Magus, Monk, Paladin, Ranger, Rogue)*  
+**Pre-requisites:** Proficiency with at least 1 *Sword*  
 
-You gain a +1 bonus to your Attack Rolls and a +1 to your AC.
-
-**Classes.** Fighter, Magus, Monk, Ranger, Rogue
+You gain the following abilities:
+* ♾️ — While you are not wearing *Heavy Armour* or using a *Shield*, you gain a `+1` bonus to *Attack Rolls* usings *Swords* and a `+1` bonus to your AC.
