@@ -1,7 +1,7 @@
 🔷 - Action  
 🔵 - Bonus Action  
 ⚡ - Reaction  
-🟦 - Free Action  
+◻️ - Free Action  
 ➡️ - Movement  
 ♾️ - Passive  
 ◇ - Action  
