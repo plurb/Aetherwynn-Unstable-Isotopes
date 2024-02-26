@@ -4,20 +4,20 @@
 
 ## Barbarian
 
-| Level | Proficiency | Abilities                      | Rages | Exploits Known | Exploit Level |
-| ----: | ----------: | :----------------------------- | ----: | -------------: | ------------: |
-|     1 |           2 | Rage, Exploits, Fighting Style |     1 |              2 |             1 |
-|     2 |           2 | Reckless Attack                |     1 |              3 |             1 |
-|     3 |           2 | Primal Path                    |     1 |              4 |             1 |
-|     4 |           2 | Ability Score Increase, Feat   |     1 |              5 |             1 |
-|     5 |           3 | Multiattack                    |     2 |              6 |             2 |
-|     6 |           3 | Path Ability, Rage Improvement |     2 |              7 |             2 |
-|     7 |           3 | Evasion                        |     2 |              8 |             2 |
-|     8 |           3 | Ability Score Increase, Feat   |     2 |              9 |             2 |
-|     9 |           4 | Brutality                      |     2 |             10 |             3 |
-|    10 |           4 | Path Ability                   |     2 |             10 |             3 |
-|    11 |           4 | Relentless Rage                |     2 |             11 |             3 |
-|    12 |           4 | Ability Score Increase, Feat   |     2 |             11 |             3 |
+| Level | Proficiency | Abilities                        | Rages | Exploits Known | Exploit Level |
+| ----: | ----------: | :------------------------------- | ----: | -------------: | ------------: |
+|     1 |           2 | Rage, Exploits, Fighting Style   |     1 |              2 |             1 |
+|     2 |           2 | Reckless Attack                  |     1 |              3 |             1 |
+|     3 |           2 | Primal Path                      |     1 |              4 |             1 |
+|     4 |           2 | Ability Score Increase, Feat     |     1 |              5 |             1 |
+|     5 |           3 | Multiattack (2)                  |     2 |              6 |             2 |
+|     6 |           3 | Path Ability, Rage Improvement   |     2 |              7 |             2 |
+|     7 |           3 | Evasion                          |     2 |              8 |             2 |
+|     8 |           3 | Ability Score Increase, Feat     |     2 |              9 |             2 |
+|     9 |           4 | Brutality                        |     2 |             10 |             3 |
+|    10 |           4 | Path Ability                     |     2 |             10 |             3 |
+|    11 |           4 | Relentless Rage, Multiattack (3) |     2 |             11 |             3 |
+|    12 |           4 | Ability Score Increase, Feat     |     2 |             11 |             3 |
 
 # Class Abilities
 
@@ -55,6 +55,8 @@ Alternatively, you may start with `2d4 × 10` gp to buy your own equipment.
 > **Armor Gained:** Shields  
 > **Weapons Gained:** Simple weapons, Martial Weapons  
 > **Skills Gained:** Choose `1 + half your Intelligence modifier (rounded up)` of the following: Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival.  
+---
+
 ---
 
 ## Rage

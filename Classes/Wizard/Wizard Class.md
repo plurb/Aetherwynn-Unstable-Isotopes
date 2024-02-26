@@ -50,7 +50,7 @@
 **Armor:** none  
 **Weapons:** daggers, darts, slings, quarterstaffs  
 **Spellcasting Foci:** arcane foci, component pouch
-**Tools:** none  
+**Tools:** Painter's tools  
 **Saving Throws:** Intelligence, Wisdom  
 **Skills:** Choose `2 + your Intelligence modifier` from Arcana, History, Insight, Investigation, Medicine, Nature, Persuasion, and Religion.
 

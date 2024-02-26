@@ -14,13 +14,13 @@
 |     2 |           2 | Action Surge (x1)                          |               1 |              3 |             1 |
 |     3 |           2 | Martial Archetype                          |               2 |              4 |             1 |
 |     4 |           2 | Ability Score Increase, Feat               |               2 |              5 |             1 |
-|     5 |           3 | Multiattack                                |               3 |              6 |             2 |
+|     5 |           3 | Multiattack (2)                            |               3 |              6 |             2 |
 |     6 |           3 | Ability Score Increase, Enhanced Strikes   |               3 |              7 |             2 |
 |     7 |           3 | Martial Archetype Ability                  |               3 |              8 |             2 |
 |     8 |           3 | Ability Score Increase, Feat               |               3 |              9 |             2 |
-|     9 |           4 | Legendary Might                            |               4 |             10 |             3 |
+|     9 |           4 | Legendary Might (x1)                       |               4 |             10 |             3 |
 |    10 |           4 | Martial Archetype Ability                  |               4 |             10 |             3 |
-|    11 |           4 |                                            |               4 |             11 |             3 |
+|    11 |           4 | Multiattack (3)                            |               4 |             11 |             3 |
 |    12 |           4 | Ability Score Increase, Feat               |               4 |             11 |             3 |
 
 **Note:** Levels beyond 12 aren't ready yet.
@@ -31,12 +31,16 @@
 **Hit Points Per Level:** `10 + your Constitution modifier` per Fighter Level.  
 **Hit Dice:** 1d10 per Fighter Level.  
 
+---
+
 ## Proficiencies
 **Armor:** All Armor, Shields  
 **Weapons:** Simple Weapons, Martial Weapons, Firearms  
 **Tools:** One set of artisan's tools of your choice  
 **Saving Throws:** Strength, Contsitution  
 **Skills:** Choose `2 + your Intelligence modifier` of the following: Acrobatics, Athletics, History, Intimidation, Perception, Stealth, and Survival
+
+---
 
 ## Equipment
 At first level, you start with the following equipment:
@@ -45,21 +49,23 @@ At first level, you start with the following equipment:
 * (a) light crossbow and 20 bolts or (b) two handaxes
 * (a) a dungeoneer's pack or (b) an explorer's pack
 
-___
+---
 > ### Multiclassing Into This Class
 > 
 > **Ability Score Requirement:** Strength score or Dexterity score of 13 or greater.  
 > **Armor Gained:** Light Armor, Medium Armor, Shields  
 > **Weapons Gained:** Simple Weapons, Martial Weapons  
 > **Skills Gained:** Choose `1 + half your Intelligence modifier (rounded up)` of the following: Acrobatics, Athletics, History, Intimidation, Perception, Stealth, and Survival  
-___
+---
 
 ## Fighting Style
 *1st-level Ability (Fighter)*  
 
 You learn one fighting style from *Fighter Fighting Styles*.
 
-You learn one more fighting style of your choice at 7th level, as shown on the Fighter Table.
+You learn additional fighting styles as you gain levels in this class, as shown on the Fighter Table.
+
+---
 
 ## Exploits
 *1st-level Ability (Fighter)*  
@@ -90,8 +96,10 @@ If one of your Exploits requires a creature to make a saving throw, your Exploit
 
 **Exploit Save DC** = `8 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice)`
 
+---
+
 ## Second Wind
-*2nd-level Ability (Fighter)*  
+*1st-level Ability (Fighter)*  
 **Usage:** 1 Bonus Action  
 **Range:** Self  
 **Requirements:** None  
@@ -104,6 +112,8 @@ If one of your Exploits requires a creature to make a saving throw, your Exploit
 If you have no remaining uses of Second Wind, you can expend 2 Stamina Points to use it again.
 
 At 14th level in this class, you can use Second Wind **2/short rest**.
+
+---
 
 ## Action Surge
 *2nd-level Ability (Fighter)*  
@@ -118,6 +128,8 @@ At 14th level in this class, you can use Second Wind **2/short rest**.
 
 At 18th level in this class, you can use Action Surge **2/short rest**.
 
+---
+
 ## Martial Archetype
 *3rd-level Ability (Fighter)*
 
@@ -131,14 +143,16 @@ Choose one of the following Martial Archetypes:
 | Marksman          | Unstable Isotope (0.0) |
 | Battle Master     | Unstable Isotope (0.0) |
 
-___
+---
 > ### Note 
 > 
 > Subclasses are listed seperately.
-___
+---
 
 ### Archetype Exploits
 Each Archetype has a list of Archetype Exploits you learn at the fighter levels noted in your Archetype's description. They don't count against your total number of Exploits Known and can't be switched out for other Exploits. If you don't meet an Archetype Exploit's prerequisites, you learn it regardless.
+
+---
 
 ## Ability Score Increase
 *4th-level Ability (All Classes)*
@@ -147,10 +161,12 @@ You increase one Ability Score of your choice by 2, or you increase two Ability 
 
 You can do so again at 6th, 8th, 12th, 14th, 16th, and 19th level in this class.
 
+---
+
 ## Feat
 *4th-level Ability (All Classes)*
 
-You learn a feat. This feat can be either a General, Martial, or Fighter feat. You learn additional feats at 8th, and 12th level.
+You earn a feat. This feat can be either a General, Martial, or Fighter feat. You earn additional feats at 8th, and 12th level in this class.
 
 ## Multiattack
 *5th-level Ability (Barbarian, Fighter, Monk)*  
