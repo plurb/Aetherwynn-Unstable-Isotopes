@@ -1,6 +1,6 @@
 ### Absorb Elements
-*1st-level Abjuration*  
-**Casting Time:** 1 reaction; When you take acid, cold, fire, lightning, or thunder damage  
+*1st-level Spell (Abjuration)*  
+**Casting Time:** 1 reaction; If you take Acid, Cold, Fire, Lightning, or Thunder Damage  
 **Range:** Self  
 **Components:** S  
 **Duration:** 1 round  
