@@ -1,6 +1,6 @@
 # Monk Techniques
 
-## 1st-4th Level
+## Level 1-2
 
 | **Technique**     | **Pre-requisites** | **Source** |
 | :---------------- | :----------------: | :--------- |
@@ -10,15 +10,22 @@
 | Flurry of Blows   |         —          |            |
 | Patient Defence   |         —          |            |
 | Slow Fall         |         —          |            |
-| Spiritual Defense |         —          |            |
+| Spiritual Defence |         —          |            |
 | Step of The Wind  |         —          |            |
 | Whirlwind Kick    |         —          |            |
 
-## 5th-6th Level
+## Level 3-4
+
+| **Technique**    | **Pre-requisites** | **Source** |
+| :--------------- | :----------------: | :--------- |
+| Art of War       |   3rd-level Monk   |            |
+| Dedicated Weapon |   3rd-level Monk   |            |
+| Ki Blast         |   3rd-level Monk   |            |
+
+## Level 5-6
 
 | **Technique**              | **Pre-requisites** | **Source** |
 | :------------------------- | :----------------: | :--------- |
-| Art of War                 |   5th-level Monk   |            |
 | Crushing Strike            |   5th-level Monk   |            |
 | Deflect Missiles           |   5th-level Monk   |            |
 | Gentling Strike            |   5th-level Monk   |            |
@@ -28,7 +35,7 @@
 | Stunning Strike            |   5th-level Monk   |            |
 | Unshakable Fighting Spirit |   5th-level Monk   |            |
 
-## 7th-8th Level
+## Level 7-8
 
 | **Technique**            | **Pre-requisites** | **Source** |
 | :----------------------- | :----------------: | :--------- |
@@ -37,7 +44,7 @@
 | Practiced Courtesy       |   7th-level Monk   |            |
 | Tongue of the Sun & Moon |   7th-level Monk   |            |
 
-## 9th-12th Level
+## Level 9-12
 
 | **Technique**             | **Pre-requisites** | **Source** |
 | :------------------------ | :----------------: | :--------- |
