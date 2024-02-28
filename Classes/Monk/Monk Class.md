@@ -166,3 +166,38 @@ You learn `3` Techniques from [*Monk Techniques*](./Monk%20Techniques.md). The "
 
 ---
 
+## Monastic Tradition
+*3rd-level Ability (Monk)*
+
+Choose one of the following, it gives you shit occasionally:
+
+| **Tradition**            | **Source** |
+| :----------------------- | :--------- |
+| Way of Light             |            |
+| Way of Perseverance      |            |
+| Way of Shadows           |            |
+| Way of The Dragon        |            |
+| Way of The Elements      |            |
+| Way of The Kensei        |            |
+| Way of The Living Weapon |            |
+| Way of The Open Hand     |            |
+| Way of The Spirit Guide  |            |
+
+## Ability Score Increase
+*4th-level Ability (All Classes)*
+
+
+## Feat
+*4th-level Ability (Monk)*
+
+Earn a General, Martial, or Monk feat which you meet the pre-requisites for.
+
+## Multiattack
+
+## Enhanced Strikes
+
+## Evasion
+
+## Mystic Resilience
+
+
