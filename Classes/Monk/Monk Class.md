@@ -150,7 +150,7 @@ You have a number of Ki Points calculated as follows:
 
 You use your Wisdom whenever an ability refers to your Ki Ability. In addition, you use your Wisdom modifier when calculating the Saving Throw DC for [Techniques](#techniques) and other Monk Abilities you perform and when making an *Attack Roll* for *Ki Attacks*.
 
-**Ki Save DC** = `8 + your proficiency bonus + your Wisdom modifier`
+**Ki Save DC** = `8 + your proficiency bonus + your Wisdom modifier`  
 **Ki Attack Modifier** = `your proficiency bonus + your Wisdom modifier`
 
 ### Ki Spells
