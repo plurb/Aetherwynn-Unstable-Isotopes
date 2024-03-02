@@ -35,7 +35,7 @@
 **Tools:** 1 set of Artisan's Tools, or 1 Musical Instrument  
 **Spellcasting Foci:** —  
 **Saving Throws:** Strength, Dexterity  
-**Skills:** Choose `2 + your Intelligence modifier` of the following: Acrobatics, Athletics, History, INsight, Nature, Religion, Stealth.  
+**Skills:** Choose `2 + your Intelligence modifier (minimum of 0)` of the following: Acrobatics, Athletics, History, INsight, Nature, Religion, Stealth.  
 
 ---
 
@@ -98,19 +98,11 @@ You begin to learn techniques that enhance your martial skill in and out of batt
 
 You have a limited well of stamina represented by a number of Stamina Points. You can calculate the number of Stamina Points you have as follows:
 
-**Stamina Points** = `your Fighter Level + your Constitution modifier`
+**Stamina Points** = `your Monk Level + your Constitution modifier`
 
 To perform an Exploit, you must expend a number of Stamina Points equal to the Exploit's level. You regain your expended Stamina Points when you finish a *Short Rest* or a *Long Rest*.
 
 For Exploits that modify an *Attack*, *Ability Check*, or *Saving Throw*: you can only use one Exploit per *Attack*, *Ability Check*, or *Saving Throw*.
-
-<!--
-NOTE:
-
-> For Exploits that modify an *Attack*, *Ability Check*, or *Saving Throw*:...
-
-This rule is a side effect of SRD 5.6.2 "Timing". It's only here since it's unlikely a new player has read the SRD.
--->
 
 ### Exploits Known
 
