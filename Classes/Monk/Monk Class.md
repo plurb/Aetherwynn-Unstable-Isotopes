@@ -24,7 +24,7 @@
 ## Hit Points
 
 **Hit Dice:** 1d10  
-**Hit Points at 1st Level:** `10 + your Constitution modifier` per Monk level
+**Hit Points:** `10 + your Constitution modifier` per Monk level
 
 ---
 

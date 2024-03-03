@@ -4,11 +4,11 @@
 
 | Level | Proficiency | Abilities                    | Cantrips |
 | ----: | ----------: | :--------------------------- | -------: |
-|     1 |           2 | Fighting Style, Spellcasting |        - |
+|     1 |           2 | Spellcasting                 |        - |
 |     2 |           2 |                              |        - |
 |     3 |           2 |                              |        - |
 |     4 |           2 | Ability Score Increase, Feat |        - |
-|     5 |           3 | Swift Strikes                |        - |
+|     5 |           3 |                              |        - |
 |     6 |           3 |                              |        - |
 |     7 |           3 |                              |        - |
 |     8 |           3 | Ability Score Increase, Feat |        - |

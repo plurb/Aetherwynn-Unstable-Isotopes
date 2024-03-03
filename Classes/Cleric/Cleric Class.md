@@ -2,11 +2,13 @@
 
 > *Clerics draw upon divine powers for their magic.*
 
+<!-- FIXME: convert to new formatting. -->
+
 ## Cleric
 
 | Level | Proficiency | Features                                            | Cantrips |
 | ----: | ----------: | :-------------------------------------------------- | -------: |
-|     1 |           2 | Spellcasting, Divine Domain                         |        3 |
+|     1 |           2 | Blessed Hands, Spellcasting, Divine Domain          |        3 |
 |     2 |           2 | Channel Divinity (x1), Divine Domain Feature        |        3 |
 |     3 |           2 | Harness Divine Power                                |        3 |
 |     4 |           2 | Ability Score Increase, Feat                        |        4 |
@@ -42,6 +44,8 @@
 **Hit Points:** 8 + your Constitution modifier per Cleric level  
 **Hit Dice:** 1d8 per Cleric level  
 
+---
+
 ## Proficiencies
 **Armor:** light armor, shields  
 **Weapons:** simple weapons  
@@ -49,6 +53,8 @@
 **Tools:** prayer set  
 **Saving Throws:** Wisdom, Charisma  
 **Skills:** Choose `2 + your Intelligence modifier` from Arcana, Athletics, History, Insight, Medicine, Persuasion, and Religion.  
+
+---
 
 ## Starting Equipment
 You start with the following items, plus anything provided by your background.
@@ -61,21 +67,50 @@ You start with the following items, plus anything provided by your background.
 
 > Alternatively, you may start with `5d4 × 10` gp to buy your own equipment.
 
-___
-> ### Multiclassing Into This Class
-> 
-> **Ability Requirement:** Wisdom score of 13 or greater.  
-> **Armor Gained:** Light Armor, Shields  
-> **Weapons Gained:** none  
-> **Skills Gained:** Choose 1 + half your Intelligence modifier (rounded up) of the following: Arcana, Athletics, History, Insight, Medicine, Persuasion, and Religion.  
-___
+---
+
+## Multiclassing Into This Class
+
+**Ability Requirement:** Wisdom score of 13 or greater.  
+**Armor Gained:** Light Armor, Shields  
+**Weapons Gained:** none  
+**Skills Gained:** Choose 1 + half your Intelligence modifier (rounded up) of the following: Arcana, Athletics, History, Insight, Medicine, Persuasion, and Religion.  
+
+---
+
+## Blessed Hands
+*1st-level Ability (Cleric)*
+
+> *Your blessed touch can heal wounds or cure diseases.*
+
+### Healing Points
+
+You have a number of **Healing Points.** The number of Healing Points you have is calculated as follows:
+
+**Healing Points** = `your Cleric level * 5`
+
+You regain all expended Healing Points whenever you finish a *Long Rest*.
+
+### Healing Hands
+
+> *You imbue a creature with positive energy, healing any wounds.*
+
+🔷 **(range: Touch)** — You may spend any number of Healing Points. If you do, target creature in range regains `X` HP, where `X = the number of Healing Points spent this way`.
+
+### Curing Hands
+
+> *You imbue a creature with positive energy, curing an ailment.*
+
+🔷 **(range: Touch)** — You may spend `5` Healing Points. If you do, end `1` non-magical Disease or Poison affecting target creature in range. This ability has no effect on Undead and Constructs.
+
+---
 
 ## Spellcasting
 *1st-level Cleric feature*
 
 > *You're a god's special bitch. Congrats.*
 
- See **spellcasting** for the general rules of spellcasting and the [**Cleric Spell List**](https://github.com/plurb/Aetherwynn-Unstable-Isotopes/blob/main/Spells/Cleric%20Spell%20List.md) for the cleric spell list.
+See **spellcasting** for the general rules of spellcasting and the [**Cleric Spell List**](https://github.com/plurb/Aetherwynn-Unstable-Isotopes/blob/main/Spells/Cleric%20Spell%20List.md) for the cleric spell list.
 
 ### Cantrips
 You know three Cantrips of your choice from the Cleric Spell List. You learn additional Cleric Cantrips of your choice at higher levels, as shown in the Cantrips column of the Cleric table.
