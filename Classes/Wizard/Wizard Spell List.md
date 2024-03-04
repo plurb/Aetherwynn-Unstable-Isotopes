@@ -85,7 +85,6 @@
 *Granite Blast*  
 
 ## 6th-Level
-*Soul Transference - (Magic Jar)*  
 *Wormhole - (Arcane Gate)*  
 *Conjure Lesser Devil*  
 *Propaganda - (Mass Suggestion)*  

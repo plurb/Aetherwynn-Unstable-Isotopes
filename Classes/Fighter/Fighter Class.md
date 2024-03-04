@@ -128,7 +128,7 @@ At 14th level in this class, you can use "Second Wind" **2/short rest** without 
 
 > *You can momentarily push yourself beyond human limits.*
 
-◻️ **(1/short rest, 1/turn)** — You take 1 additional Action. This action cannot be used to cast a spell.
+◻️ **(1/short rest, 1/turn)** — You may take 1 additional Major Action this turn. This Action cannot be used to cast a spell.
 
 At 18th level in this class, you can use "Action Surge" **2/short rest**.
 
@@ -149,7 +149,7 @@ Choose one of the following Martial Archetypes:
 
 ### Archetype Exploits
 
-Each Archetype has a list of Archetype Exploits you learn at the Fighter levels noted in the Archetype's description. They do not count against the total number of Exploits you know and can't be switched out for other Exploits. If you don't meet an Archetype Exploit's prerequisites, you learn it regardless.
+Each Archetype has a list of Exploits you learn at the Fighter levels noted in the Archetype's description. They do not count against the total number of Exploits you know and cannot be switched out for other Exploits. If you do not meet an Archetype Exploit's pre-requisites, you learn it anyways.
 
 ---
 
