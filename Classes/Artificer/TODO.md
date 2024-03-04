@@ -9,3 +9,4 @@ TODO:
   * Mechanic
   * Modifier
   * Pilot
+* complete artificer abilities

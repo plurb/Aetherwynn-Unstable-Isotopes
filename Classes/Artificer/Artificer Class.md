@@ -65,6 +65,8 @@
 
 ## Spellcasting
 
+<!-- Vancian spellcasting, AKA spell bullets. -->
+
 ---
 
 ## Artificer Specialisation
