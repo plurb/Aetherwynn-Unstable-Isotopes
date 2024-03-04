@@ -86,7 +86,7 @@ You use your Charisma whenever a spell refers to your spellcasting ability. In a
 
 ## Metamagic
 
-You gain two Metamagic options of your choice from *Sorcerer Metamagics*. You gain another one at 5th, 11th and 17th level in this class.
+You gain two Metamagic options of your choice from *Sorcerer Metamagics*. You gain additional Metamagics at later levels, as shown in the "Metamagics" column of the Sorcerer table.
 
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
 
@@ -107,8 +107,10 @@ Subclass
 | Blazing Soul  | Unstable Isotopes (0.0) |
 | Divine Soul   | Unstable Isotopes (0.0) |
 | Draconic Soul | Unstable Isotopes (0.0) |
+| Heroic Soul   | Unstable Isotopes (0.0) |
 | Oceanic Soul  | Unstable Isotopes (0.0) |
 | Profane Soul  | Unstable Isotopes (0.0) |
+| Spirit Soul   | Unstable Isotopes (0.0) |
 | Storm Soul    | Unstable Isotopes (0.0) |
 | Tectonic Soul | Unstable Isotopes (0.0) |
 
