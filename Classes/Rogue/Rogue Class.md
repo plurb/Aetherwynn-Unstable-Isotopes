@@ -50,7 +50,7 @@
 ## Cunning Action
 *2nd-level Ability (Rogue)*
 
-🔵 — You *Dash*, *Hide*, or *Step*.
+🔵 — You "Dash", "Hide", or "Step".
 
 ---
 
