@@ -36,7 +36,7 @@ The following symbols are often used to represent the various kinds of actions a
 &emsp;&emsp;⚡ - 1 Reaction  
 &emsp;&emsp;♾️ - Passive effects  
 &emsp;&emsp;🔺 - 1 Attack  
-&emsp;&emsp;➡️ - Move Action  
+&emsp;&emsp;➡️ - 1 Move Action  
 &emsp;&emsp;✨ - Cast A Spell  
 &emsp;&emsp;⚔️ - Perform An Exploit  
 
