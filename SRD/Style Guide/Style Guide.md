@@ -64,3 +64,21 @@ In-line Saving throws (like on monster statblocks) are styled as:
 Class name goes in `# Heading 1`.
 
 Class features go in `## Heading 2`.
+
+## References to Abilities
+
+References to specific abilities go in qoutes, "like this".
+
+Examples:
+
+```md
+"Attack" Action
+```
+
+```md
+"Cunning Action"
+```
+
+```md
+"Fireball"
+```
