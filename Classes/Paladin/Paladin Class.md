@@ -34,3 +34,24 @@
 |    11 |   4   |   3   |   3   |   -   |   -   |
 |    12 |   4   |   3   |   3   |   -   |   -   |
 
+---
+
+...
+
+---
+
+## Sacred Oath
+
+| Sacred Oath        | Source                  |
+| :----------------- | :---------------------- |
+| Oath of Ancients   | Unstable Isotopes (0.0) |
+| Oath of Conquest   | Unstable Isotopes (0.0) |
+| Oath of Devotion   | Unstable Isotopes (0.0) |
+| Oath of Fealty     | Unstable Isotopes (0.0) |
+| Oath of Freedom    | Unstable Isotopes (0.0) |
+| Oath of Liberation | Unstable Isotopes (0.0) |
+| Oath of Redemption | Unstable Isotopes (0.0) |
+| Oath of Vengeance  | Unstable Isotopes (0.0) |
+
+
+

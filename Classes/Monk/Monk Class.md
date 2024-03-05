@@ -163,17 +163,17 @@ You learn `3` Techniques from [*Monk Techniques*](./Monk%20Techniques.md). The "
 
 Choose one of the following, it gives you shit occasionally:
 
-| **Tradition**            | **Source** |
-| :----------------------- | :--------- |
-| Way of Light             |            |
-| Way of Perseverance      |            |
-| Way of Shadows           |            |
-| Way of The Dragon        |            |
-| Way of The Elements      |            |
-| Way of The Kensei        |            |
-| Way of The Living Weapon |            |
-| Way of The Open Hand     |            |
-| Way of The Spirit Guide  |            |
+| **Tradition**            | **Source**              |
+| :----------------------- | :---------------------- |
+| Way of Light             | Unstable Isotopes (0.0) |
+| Way of Perseverance      | Unstable Isotopes (0.0) |
+| Way of Shadows           | Unstable Isotopes (0.0) |
+| Way of The Dragon        | Unstable Isotopes (0.0) |
+| Way of The Elements      | Unstable Isotopes (0.0) |
+| Way of The Kensei        | Unstable Isotopes (0.0) |
+| Way of The Living Weapon | Unstable Isotopes (0.0) |
+| Way of The Open Hand     | Unstable Isotopes (0.0) |
+| Way of The Spirit Guide  | Unstable Isotopes (0.0) |
 
 ## Ability Score Increase
 *4th-level Ability (All Classes)*

@@ -70,6 +70,18 @@
 
 ## Bardic College
 
+| Bardic College        | Source                  |
+| :-------------------- | :---------------------- |
+| College of Creation   | Unstable Isotopes (0.0) |
+| College of Dance      | Unstable Isotopes (0.0) |
+| College of Eloquence  | Unstable Isotopes (0.0) |
+| College of Glamour    | Unstable Isotopes (0.0) |
+| College of Lore       | Unstable Isotopes (0.0) |
+| College of Spirits    | Unstable Isotopes (0.0) |
+| College of Swords     | Unstable Isotopes (0.0) |
+| College of Tales      | Unstable Isotopes (0.0) |
+| College of The Prince | Unstable Isotopes (0.0) |
+
 ---
 
 ## Ability Score Increase

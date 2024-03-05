@@ -141,11 +141,17 @@ At 18th level in this class, you can use "Action Surge" **2/short rest**.
 
 Choose one of the following Martial Archetypes:
 
-| Martial Archetype | Source                 |
-| :---------------- | :--------------------- |
-| Champion          | Unstable Isotope (0.0) |
-| Marksman          | Unstable Isotope (0.0) |
-| Battle Master     | Unstable Isotope (0.0) |
+| Martial Archetype | Source                  |
+| :---------------- | :---------------------- |
+| Arcane Knight     | Unstable Isotopes (0.0) |
+| Battle Master     | Unstable Isotopes (0.0) |
+| Bodyguard         | Unstable Isotopes (0.0) |
+| Cataphract        | Unstable Isotopes (0.0) |
+| Champion          | Unstable Isotopes (0.0) |
+| Commander         | Unstable Isotopes (0.0) |
+| Guerilla          | Unstable Isotopes (0.0) |
+| Legionaire        | Unstable Isotopes (0.0) |
+| Marksman          | Unstable Isotopes (0.0) |
 
 ### Archetype Exploits
 

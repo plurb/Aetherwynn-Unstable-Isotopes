@@ -140,10 +140,17 @@ Once per turn, you may gain advantage on all attacks you make this turn. If you 
 
 Choose one of the following Primal Paths:
 
-| Primal Path | Source                 |
-| :---------- | :--------------------- |
-| Berserker   | Unstable Isotope (0.0) |
-| Zealot      | Unstable Isotope (0.0) |
+| Primal Path                 | Source                 |
+| :-------------------------- | :--------------------- |
+| Path of The Beast           | Unstable Isotope (0.0) |
+| Path of The Berserker       | Unstable Isotope (0.0) |
+| Path of The Conduit         | Unstable Isotope (0.0) |
+| Path of The Green Warden    | Unstable Isotope (0.0) |
+| Path of The Spirit Guardian | Unstable Isotope (0.0) |
+| Path of The Storm           | Unstable Isotope (0.0) |
+| Path of The Titan           | Unstable Isotope (0.0) |
+| Path of The Totem Warrior   | Unstable Isotope (0.0) |
+| Path of The Zealot          | Unstable Isotope (0.0) |
 
 ### Primal Exploits
 Each Primal Path has a list of Primal Exploits you learn at the Barbarian levels noted in your Path's description. They don't count against your total number of Exploits Known and can't be switched out for other Exploits. If you don't meet a Primal Exploit's prerequisites, you learn it regardless.

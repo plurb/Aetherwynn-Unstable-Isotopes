@@ -141,15 +141,21 @@ ___
 
 Your choice grants you Domain Spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
 
-| Domain   | Source                  |
-| :------- | :---------------------- |
-| life     | Unstable Isotopes (0.0) |
-| peace    | Unstable Isotopes (0.0) |
-| twilight | Unstable Isotopes (0.0) |
-| war      | Unstable Isotopes (0.0) |
+| Domain          | Source                  |
+| :-------------- | :---------------------- |
+| Arcana Domain   | Unstable Isotopes (0.0) |
+| Death Domain    | Unstable Isotopes (0.0) |
+| Dragon Domain   | Unstable Isotopes (0.0) |
+| Life Domain     | Unstable Isotopes (0.0) |
+| Light Domain    | Unstable Isotopes (0.0) |
+| Peace Domain    | Unstable Isotopes (0.0) |
+| Spirit Domain   | Unstable Isotopes (0.0) |
+| Twilight Domain | Unstable Isotopes (0.0) |
+| War Domain      | Unstable Isotopes (0.0) |
 
 ## Domain Spells
 Each domain has a list of spells—its domain spells—that you gain at the Cleric levels noted in the domain description. Once you gain a domain spell, it is added to your repertoire, and it doesn't count against the number of spells normally added to your repertoire upon gaining a Cleric level.
 
 If you have a domain spell that doesn't appear on the Cleric Spell List, the spell is a Cleric spell for you.
+
 

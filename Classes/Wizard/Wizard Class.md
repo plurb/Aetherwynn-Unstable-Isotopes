@@ -2,6 +2,8 @@
 
 > *Wizards use their mastery of the arcane arts to manipulate mana into spells, which they use to bend reality to their will.*
 
+<!-- FIXME: convert to new formatting. -->
+
 ## Wizard
 
 | Level | Proficiency | Abilities                                  | Cantrips |
@@ -157,12 +159,18 @@ You can cast a Wizard Spell as a Ritual if that spell has the Ritual tag and the
 
 Choose an arcane tradition. Your Arcane Tradition grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
-| Tradition  | Source                  |
-| :--------- | :---------------------- |
-| Abjuration | Unstable Isotopes (0.0) |
-| Divination | Unstable Isotopes (0.0) |
-| Evocation  | Unstable Isotopes (0.0) |
-| Illusion   | Unstable Isotopes (0.0) |
+| Tradition     | Source                  |
+| :------------ | :---------------------- |
+| Abjuration    | Unstable Isotopes (0.0) |
+| Astromancy    | Unstable Isotopes (0.0) |
+| Chronomancy   | Unstable Isotopes (0.0) |
+| Conjuration   | Unstable Isotopes (0.0) |
+| Divination    | Unstable Isotopes (0.0) |
+| Enchantment   | Unstable Isotopes (0.0) |
+| Evocation     | Unstable Isotopes (0.0) |
+| Illusion      | Unstable Isotopes (0.0) |
+| Transmutation | Unstable Isotopes (0.0) |
+| War Magic     | Unstable Isotopes (0.0) |
 
 **Note:** Necromancy will come with the Evil Player Characters module, not the Player's Handbook
 

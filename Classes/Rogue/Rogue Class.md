@@ -60,9 +60,23 @@
 
 ## Roguish Archetype
 
+| Roguish Archetype | Source                  |
+| :---------------- | :---------------------- |
+| Arcane Trickster  | Unstable Isotopes (0.0) |
+| Archeologist      | Unstable Isotopes (0.0) |
+| Assassin          | Unstable Isotopes (0.0) |
+| Doctor            | Unstable Isotopes (0.0) |
+| Investigator      | Unstable Isotopes (0.0) |
+| Mastermind        | Unstable Isotopes (0.0) |
+| Scholar           | Unstable Isotopes (0.0) |
+| Swashbuckler      | Unstable Isotopes (0.0) |
+| Thief             | Unstable Isotopes (0.0) |
+| Tinkerer          | Unstable Isotopes (0.0) |
+| Underdog          | Unstable Isotopes (0.0) |
+
 ---
 
-## ASI
+## Ability Score Increase
 
 ---
 
