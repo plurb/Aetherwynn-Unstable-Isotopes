@@ -8,18 +8,18 @@
 
 | Level | Proficiency | Abilities                                  | Cantrips |
 | ----: | ----------: | :----------------------------------------- | -------: |
-|     1 |           2 | Spellcasting, Spellbook, Master of Rituals |        3 |
-|     2 |           2 | Arcane Tradition                           |        3 |
-|     3 |           2 |                                            |        3 |
-|     4 |           2 | Ability Score Increase, Feat               |        4 |
-|     5 |           3 |                                            |        4 |
-|     6 |           3 | Arcane Tradition Feature                   |        4 |
-|     7 |           3 | Arcane Recovery                            |        4 |
-|     8 |           3 | Ability Score Increase, Feat               |        4 |
-|     9 |           4 |                                            |        4 |
-|    10 |           4 | Arcane Tradition Feature                   |        5 |
-|    11 |           4 |                                            |        5 |
-|    12 |           4 | Ability Score Increase, Feat               |        5 |
+|     1 |          +2 | Spellcasting, Spellbook, Master of Rituals |        3 |
+|     2 |          +2 | Arcane Tradition                           |        3 |
+|     3 |          +2 |                                            |        3 |
+|     4 |          +2 | Ability Score Increase, Feat               |        4 |
+|     5 |          +3 |                                            |        4 |
+|     6 |          +3 | Arcane Tradition Feature                   |        4 |
+|     7 |          +3 | Arcane Recovery                            |        4 |
+|     8 |          +3 | Ability Score Increase, Feat               |        4 |
+|     9 |          +4 |                                            |        4 |
+|    10 |          +4 | Arcane Tradition Feature                   |        5 |
+|    11 |          +4 |                                            |        5 |
+|    12 |          +4 | Ability Score Increase, Feat               |        5 |
 
 ## Wizard: Spell Slots Per Level
 
@@ -42,8 +42,8 @@
 
 ## Hit Points
 
-**Hit Points:** 6 + your Constitution modifier per Wizard Level  
-**Hit Dice:** 1d6 per Wizard Level  
+**Hit Points:** `6 + your Constitution modifier` per Wizard Level  
+**Hit Dice:** `1d6` per Wizard Level  
 
 ---
 
@@ -51,7 +51,7 @@
 
 **Armor:** none  
 **Weapons:** daggers, darts, slings, quarterstaffs  
-**Spellcasting Foci:** arcane foci, component pouch
+**Spellcasting Foci:** arcane foci, component pouch  
 **Tools:** Painter's tools  
 **Saving Throws:** Intelligence, Wisdom  
 **Skills:** Choose `2 + your Intelligence modifier` from Arcana, History, Insight, Investigation, Medicine, Nature, Persuasion, and Religion.
@@ -91,7 +91,7 @@ You prepare the set of Wizard Spells that are available for you to cast. To do s
 ---
 > #### Example
 > 
-> *If you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence Score of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell magic missile, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.*
+> *If you're a 3rd-level Wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence Score of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell magic missile, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.*
 ---
 
 **1/long rest:** After you finish a Long Rest, you can change the set of spells you have prepared. Preparing a spell requires 1 minute per spell level for each spell you prepare.
@@ -159,18 +159,18 @@ You can cast a Wizard Spell as a Ritual if that spell has the Ritual tag and the
 
 Choose an arcane tradition. Your Arcane Tradition grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
-| Tradition     | Source                  |
-| :------------ | :---------------------- |
-| Abjuration    | Unstable Isotopes (0.0) |
-| Astromancy    | Unstable Isotopes (0.0) |
-| Chronomancy   | Unstable Isotopes (0.0) |
-| Conjuration   | Unstable Isotopes (0.0) |
-| Divination    | Unstable Isotopes (0.0) |
-| Enchantment   | Unstable Isotopes (0.0) |
-| Evocation     | Unstable Isotopes (0.0) |
-| Illusion      | Unstable Isotopes (0.0) |
-| Transmutation | Unstable Isotopes (0.0) |
-| War Magic     | Unstable Isotopes (0.0) |
+| Arcane Tradition | Source                  |
+| :--------------- | :---------------------- |
+| Abjuration       | Unstable Isotopes (0.0) |
+| Astromancy       | Unstable Isotopes (0.0) |
+| Chronomancy      | Unstable Isotopes (0.0) |
+| Conjuration      | Unstable Isotopes (0.0) |
+| Divination       | Unstable Isotopes (0.0) |
+| Enchantment      | Unstable Isotopes (0.0) |
+| Evocation        | Unstable Isotopes (0.0) |
+| Illusion         | Unstable Isotopes (0.0) |
+| Transmutation    | Unstable Isotopes (0.0) |
+| War Magic        | Unstable Isotopes (0.0) |
 
 **Note:** Necromancy will come with the Evil Player Characters module, not the Player's Handbook
 
@@ -195,12 +195,10 @@ You learn a feat. This feat can be either a General, Spellcasting, or Wizard fea
 
 > *You have learned to regain some of your mana through rest.*
 
-**1/full rest:** When you finish a Long Rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up). None of the slots can be 6th level or higher.
+**1/full rest:** When you finish a Full Rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up). None of the slots can be 6th level or higher.
 
----
-> #### Example
+> ### Example
 > If you're a 7th-level wizard, you can recover up to four levels worth of spell slots. You can recover either one 4th-level spell slot or two 2nd-level spell slots.
----
 
 ---
 

@@ -13,8 +13,8 @@
 |     7 |           3 | Order Ability                                |        3 |            9 |
 |     8 |           3 | Ability Score Increase, Feat                 |        3 |           10 |
 |     9 |           4 |                                              |        3 |           11 |
-|    10 |           4 | Arcane Strikes                               |        4 |           11 |
-|    11 |           4 |                                              |        4 |           12 |
+|    10 |           4 |                                              |        4 |           11 |
+|    11 |           4 | Arcane Strikes                               |        4 |           12 |
 |    12 |           4 | Ability Score Increase, Feat                 |        4 |           12 |
 
 ## Magus: Spell Slots Per Level
@@ -87,6 +87,17 @@ Concentration. If the spell requires your concentration, you must concentrate on
 
 ## Arcane Order
 
+| Arcane Order            | Source                  |
+| :---------------------- | :---------------------- |
+| Order of Arcane Archers | Unstable Isotopes (0.0) |
+| Order of Arcanists      | Unstable Isotopes (0.0) |
+| Order of Exorcists      | Unstable Isotopes (0.0) |
+| Order of Occultists     | Unstable Isotopes (0.0) |
+| Order of Scales         | Unstable Isotopes (0.0) |
+| Order of Sentinels      | Unstable Isotopes (0.0) |
+| Order of Spellbreakers  | Unstable Isotopes (0.0) |
+| Order of Whispers       | Unstable Isotopes (0.0) |
+
 ---
 
 ## Ability Score Increase
@@ -106,8 +117,9 @@ Concentration. If the spell requires your concentration, you must concentrate on
 ---
 
 ## Arcane Strikes
+*11th-level Ability (Magus)*
 
 <!--
-int/long rest: instead of the magus can make 1 attack + cast any magus spell of 1st level or higher they know.
+int/long rest: the magus can make 1 attack + cast any magus spell of 1st level or higher they know.
 -->
 

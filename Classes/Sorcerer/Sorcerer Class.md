@@ -36,19 +36,21 @@
 |    11 |   4   |   3   |   3   |   3   |   2   |   1   |   -   |   -   |   -   |
 |    12 |   4   |   3   |   3   |   3   |   2   |   1   |   -   |   -   |   -   |
 
+---
+
 # Class Abilities
 
 ## Hit Points
 
-**Hit Points:** 6 + your Constitution modifier per Wizard Level  
-**Hit Dice:** 1d6 per Wizard Level  
+**Hit Points:** `6 + your Constitution modifier` per Sorcerer Level  
+**Hit Dice:** `1d6` per Sorcerer Level  
 
 ---
 
 ## Proficiencies
 
-**Armor:** light armour  
-**Weapons:** daggers, darts, slings, quarterstaffs, light crossbows, hand crossbows  
+**Armor:** Light Armour  
+**Weapons:** Simple Weapons, Swords  
 **Spellcasting Foci:** arcane foci, component pouch  
 **Tools:** none  
 **Saving Throws:** Intelligence, Wisdom  
@@ -113,4 +115,5 @@ Subclass
 | Spirit Soul   | Unstable Isotopes (0.0) |
 | Storm Soul    | Unstable Isotopes (0.0) |
 | Tectonic Soul | Unstable Isotopes (0.0) |
+
 
