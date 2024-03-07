@@ -22,8 +22,8 @@
 # Class Abilities
 
 ## Hit Points
-Hit Dice: 1d12
-Hit Points at 1st Level: `12 + your Constitution modifier` per Barbarian level.
+**Hit Points:** `12 + your Constitution modifier` per Barbarian level  
+**Hit Dice:** `1d12`  
 
 ---
 
@@ -49,34 +49,28 @@ You start with the following items, plus anything provided by your background.
 Alternatively, you may start with `2d4 × 10` gp to buy your own equipment.
 
 ---
-> ### Multiclassing Into This Class
-> 
-> **Ability Score Requirement:** Strength score of 13 or greater.  
-> **Armor Gained:** Shields  
-> **Weapons Gained:** Simple weapons, Martial Weapons  
-> **Skills Gained:** Choose `1 + half your Intelligence modifier (rounded up)` of the following: Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival.  
----
+
+### Multiclassing Into This Class
+
+**Ability Score Requirement:** Strength score of 13 or greater.  
+**Armor Gained:** Shields  
+**Weapons Gained:** Simple weapons, Martial Weapons  
+**Skills Gained:** Choose `1 + half your Intelligence modifier (rounded up)` of the following: Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival.  
 
 ---
 
 ## Rage
 *1st-level Ability (Barbarian)*  
-**Usage:** 1 Bonus Action  
-**Range:** Self  
-**Requirements:** You are not wearing Heavy Armour  
-**Duration:** Up to 10 minutes, or until you are incapacitated or die  
 
 > *You fight with an unchecked primal ferocity in battle.*
 
-**`X`/short rest:** You gain the following effects:
-* You have advantage on any Constitution checks, Strength checks, Constitution Saving Throws, and Strength Saving Throws.
-* When you make a Weapon Attack using Strength, you deal additional damage equal to your Proficiency Bonus.
-* You gain resistance to non-magical bludgeoning, piercing, and slashing damage.
-* You cannot Cast Spells or Concentrate on Spells.
+🔵 **(`X`/short rest, requires: You are not wearing Heavy Armour)** — You are [*Enraged*](../../Rules/Conditions/Enraged.md) until this ability ends. While *Enraged* this way, you gain the following effects:
+* When you make a *Weapon Attack* using your Strength, you deal additional damage equal to your Proficiency Bonus.
+* You gain *Resistance* to non-Magical Bludgeoning, non-Magical Piercing, and non-Magical Slashing Damage.
 
-Your Rage ends early unless you Attack, make a Strength check or Saving Throw, or use a Bonus Action to extend it before the beginning of your next turn.
+This ability lasts for 10 minutes, and ends early unless you *Attack*, make a *Strength* Check or *Saving Throw*, or use a Minor Action to extend it before the beginning of your next turn.
 
-`X = the number shown in the Rages column of the Barbarian table`.
+`X = the number shown in the "Rages" column of the Barbarian table`.
 
 ---
 
@@ -91,45 +85,41 @@ You gain the following Attributes and Abilities.
 
 > *You have stamina greater than a mere outcast, which allows you to perform exploits greater than an ordinary warrior.*
 
-You have a limited well of stamina represented by a number of Stamina Points. You can calculate the number of Stamina Points you have as follows:
+You have a number of Stamina Points calculated as follows:
 
 **Stamina Points** = `your Barbarian level + your Constitution modifier` (minimum of 0)
 
-To use an Exploit, you must expend a number of Stamina Points equal to the Exploit's level. You regain your expended Stamina Points when you finish a Short or Long Rest.
+To perform an Exploit, you expend a number of Stamina Points equal to the Exploit's level. You regain all expended Stamina Points when you finish a Short or Long Rest.
 
 For Exploits that modify an Attack, Ability Check, or Saving Throw: you can only use one Exploit per Attack, Ability Check, or Saving Throw.
 
 ### Exploits Known
 
-You learn two Exploits from the Barbarian Exploit List. The Exploits Known column of the Barbarian table shows when you learn more Exploits of your choice. To learn an Exploit, you must be able to learn Exploits of its level, as well as meet any other prerequisites (listed under **Prerequisites** in the Exploit's entry).
+You learn two Exploits from the Barbarian Exploit List. The Exploits Known column of the Barbarian table shows when you learn more Exploits of your choice. To learn an Exploit, you must be able to learn Exploits of its level (as shown in the "Exploit Level" column of the Barbarian table), as well as meet any other pre-requisites (listed under **Pre-requisites** in the Exploit's entry).
 
 Whenever you gain a Barbarian level, you can replace one of the Exploits you learnt from this class with another Exploit from the Barbarian Exploit List.
 
-### Saving Throws
+### Exploit Ability
 
-If one of your Exploits requires a creature to make a saving throw, your Exploit DC is calculated as follows:
+If one of your Exploits requires a creature to make a *Saving Throw*, your Exploit DC is calculated as follows:
 
 **Exploit Save DC** = `8 + your Proficiency Bonus + your Strength modifier`
 
 ---
 
 ## Fighting Style
-*1st-level Ability (Barbarian)*
+*1st-level Ability (Barbarian)*  
 
-You learn one fighting style from *Barbian Fighting Styles*.
+You learn one fighting style from [*Barbian Fighting Styles*](./Barbarian%20Fighting%20Sytles.md).
 
 ---
 
 ## Reckless Attack
 *2nd-level Ability (Barbarian)*  
-**Usage:** Free Action; When you take the Attack action, but before you make any attacks  
-**Range:** Self  
-**Requirements:** None  
-**Duration:** 1 round  
 
 > *You can throw aside concern for your defense to attack more accurately.*
 
-Once per turn, you may gain advantage on all attacks you make this turn. If you do, all attack rolls targeting you have advantage until the start of your next turn.
+◻️ **(1/turn)** — When you take the [*Attack Action*](../../Rules/Encounters/Actions/Attack.md), but before you make any attacks, you may gain advantage on all attacks you make this turn. If you do, all attack rolls targeting you have advantage until the start of your next turn.
 
 ---
 
@@ -173,78 +163,52 @@ You learn a feat. This feat can be either a General, Martial, or Barbarian feat.
 
 ## Multiattack
 *5th-level Ability (Barbarian, Fighter, Monk)*  
-**Usage:** Passive  
-**Range:** Self  
-**Requirements:** None  
-**Duration:** —  
 
 > *You can strike with inhuman speed.*
 
-You can attack twice, instead of once, whenever you take the Attack action on your turn.
+♾️ — You Attack up to `2` times, instead of once, when you take the *Attack* Action on your turn.
 
-When you reach certain levels in this class, the number of attacks you can make as part of your Attack action increases; at 11th level (3 attacks), and at 17th level (4 attacks).
+The number of attacks you can make when you take the *Attack Action* increases; at 11th level (3 attacks total) and at 17th level (4 attacks total) in this class.
 
 ---
 
 ## Rage Improvement
 *6th-level Ability (Barbarian)*  
-**Usage:** Passive  
-**Range:** Self  
-**Requirements:** You are using Rage  
-**Duration:** Until your Rage ends  
 
-While you are raging, you gain the following effects:
-* Weapon Attacks you make count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+> *Thormund's blood boils. His aura flares from his body like a roaring flame. The sight of seeing Markus lying on the ground half-dead throwing him into a rage like none have seen before.*
+
+♾️ — While you are [*Enraged*](../../Rules/Conditions/Enraged.md), you gain the following effects:
+* *Weapon Attacks* you make count as Magical for the purpose of overcoming *Resistance* and *Immunity* to non-Magical *Attacks* and Damage.
 * You gain immunity to all non-magical bludgeoning, piercing, and slashing damage.
 
 ---
 
 ## Evasion
 *7th-level Ability (Barbarian, Monk, Rogue)*
-**Usage:** Passive  
-**Range:** Self  
-**Requirements:** None  
-**Duration:** —  
 
 > *You are able to avoid attacks that are otherwise unavoidable.*
 
-Whenever you make a Saving Throw against a [Blast](), the ability has the following effects on a Success of Failure:
-
-**Failure:** You take half the listed damage.  
-**Success:** You take no damage.
+You gain the following abilities:
+* You gain Proficiency with *Dexterity Saving Throws*.
+* ♾️ — Whenever you make a *Dexterity Saving Throw* to take only half damage, or a *Saving Throw* against an effect with the *Blast* tag, you instead take no Damage on a success, and only half Damage on a failure.
 
 ---
 
 ## Brutality
 *9th-level Ability (Barbarian)*  
-**Usage:** Passive  
-**Range:** Self  
-**Requirements:** You hit a creature with an Attack for the first time this turn  
-**Duration:** —
 
-You deal additional damage equal to one roll of the weapon's damage die.
+♾️ — Whenever you hit a creature with an *Attack* for the first time during your, you deal additional damage equal to one roll of the weapon's damage die.
 
 This increases to two additional dice at 13th level in this class, and three additional dice at 17th level in this class.
-
----
-> ### Ruling Notice
->
-> The Barbarian's Brutality simply adds the die to the damage roll of the first hit. This is not a triggered ability, and it does not use the stack. Similar to a rogue's sneak attack.
-> 
-> — @plurb
----
 
 ---
 
 ## Relentless Rage
 *11th-level Ability (Barbarian)*
-**Usage:** Free Action; Triggered  
-**Range:** Self  
-**Requirements:** You are using Rage  
-**Duration:** Until your Rage ends  
 
 > *Man literally too angry to die.*
 
-If you drop to 0 hit points, you can make a DC `X` Constitution Saving Throw, where `X = half the damage taken or 10, whichever is greater`. If you succeed, you drop to 1 hit point instead.
+♾️ — While you are *Enraged*, you gain the following effects:
+* If you are reduced to `0` HP, make a DC `X` *Constitution Saving Throw*, where `X = half the damage taken or 10, whichever is greater`. If you succeed, you drop to 1 hit point instead.
 
 ---
