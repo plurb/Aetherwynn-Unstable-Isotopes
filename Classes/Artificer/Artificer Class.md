@@ -10,7 +10,7 @@
 | ----: | ----------: | :------------------------------------------------ | --------: | -------: |
 |     1 |           2 | Infusions, Spellcasting, Artificer Specialisation |         2 |        2 |
 |     2 |           2 | Tool Expertise                                    |         2 |        2 |
-|     3 |           2 | Specialisation  Ability                           |         3 |        2 |
+|     3 |           2 | Specialisation Ability                            |         3 |        2 |
 |     4 |           2 | Ability Score Increase, Feat                      |         3 |        3 |
 |     5 |           3 | Specialisation Ability                            |         4 |        3 |
 |     6 |           3 | Adjustable Infusions                              |         4 |        3 |
@@ -21,7 +21,7 @@
 |    11 |           4 |                                                   |         5 |        4 |
 |    12 |           4 | Ability Score Increase, Feat                      |         5 |        4 |
 
-## Spell Slots per Spell Level
+## Artificer: Spell Slots Per Spell Level
 
 | Level |  1st  |  2nd  |  3rd  |  4th  |  5th  |
 | ----: | :---: | :---: | :---: | :---: | :---: |
@@ -65,7 +65,12 @@
 
 ## Spellcasting
 
-<!-- Vancian spellcasting, AKA spell bullets. -->
+<!-- 
+1/long rest: The artificer "imbues" artificer spells from their repertoire into objects they touch. Restrictions:
+- the total levels of the spells must add to be equal to their artificer level.
+
+a creature can use the object to cast the spell, using the spell's normal casting time.
+-->
 
 ---
 
@@ -74,8 +79,8 @@
 | Specialisation  | Source |
 | :-------------- | :----- |
 | Armourer        |        |
-| Civil Engineer  |        |
 | Construct Smith |        |
+| Constructor     |        |
 | Gunsmith        |        |
 | Hacker          |        |
 | Mechanic        |        |
