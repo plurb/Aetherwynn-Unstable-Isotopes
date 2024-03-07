@@ -1,6 +1,6 @@
 ### Evasion
 *Fighting Style (Fighter)*  
-**Pre-requisites:** You are at least 9th level, A Dexterity score of 13 or greater  
+**Pre-requisites:** At least 9th level Fighter, A Dexterity score of 13 or greater  
 
 > *You can nimbly dodge out of the way of certain effects, such as a red dragon's fiery breath or an Ice Storm spell.*
 
