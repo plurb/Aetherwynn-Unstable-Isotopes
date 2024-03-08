@@ -11,7 +11,7 @@
 | 7th          | Death Ward, Guardian of Faith     |
 | 9th          | Mass Cure Wounds, Wrath of Nature |
 
-## Bonus Proficiency
+## Additional Proficiencies
 *1st-level Ability (Cleric, Life Domain)*
 
 You gain Proficiency with the Herbalsim Kit.
@@ -42,7 +42,7 @@ You gain Proficiency with the Herbalsim Kit.
 
 > *You can infuse your weapon strikes with divine energy.*
 
-♾️ **(1/turn)** — The first time you hit a creature with a *Weapon Attack* each turn, you deal an additional `1d8` Radiant Damage.
+♾️ — The first time you hit a creature with a *Weapon Attack* each turn, you deal an additional `1d8` Radiant Damage.
 
 At 14th level in this class, the additional Damage increases to `2d8`.
 
