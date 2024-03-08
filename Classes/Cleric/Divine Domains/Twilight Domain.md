@@ -1,6 +1,5 @@
 # Twilight Domain
 
-
 ## Twilight Domain Spells
 | Cleric Level | Spells                             |
 | :----------- | :--------------------------------- |
