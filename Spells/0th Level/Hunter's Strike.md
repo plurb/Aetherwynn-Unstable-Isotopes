@@ -1,6 +1,6 @@
 ### Hunter's Strike
 *Cantrip (Transmutation)*  
-**Casting Time:** 1 Action  
+**Casting Time:** 🔺  
 **Range:** Self  
 **Components:** M (A *Ranged* or *Melee Weapon* that costs at least 15 sp)  
 **Duration:** Instantaneous  
