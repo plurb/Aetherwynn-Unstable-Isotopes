@@ -86,7 +86,7 @@ You know a number of Cantrips equal to the number shown in the Cantrips column o
 
 The Spell Slots per Spell Level table shows how many spell slots you have to cast your Wizard Spells of 1st-level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a Full Rest.
 
-You prepare the set of Wizard Spells that are available for you to cast. To do so, choose a number of Wizard Spells from your Spellbook (described below) equal to `your Intelligence modifier + your wizard level` (minimum of one). The spells must be of a level for which you have spell slots, as shown on the Wizard table.
+You prepare the set of Wizard Spells that are available for you to cast. To do so, choose a number of Wizard Spells from your "Spellbook" (described below) equal to `your Intelligence modifier + your wizard level` (minimum of one). The spells must be of a level for which you have spell slots, as shown on the Wizard table.
 
 ---
 > #### Example

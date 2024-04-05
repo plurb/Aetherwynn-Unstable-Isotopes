@@ -5,7 +5,7 @@
 > ---
 > 
 > **AC** 15 (leather armour, shield)  
-> **HP** 7  
+> **HP** 6  
 > **Speed** 30 ft.  
 > 
 > ---
@@ -16,7 +16,7 @@
 > 
 > ---
 > 
-> **Skills** Stealth +6  
+> **Skills** Stealth +6, Perception +3  
 > **Senses** darkvision 60 ft., passive Perception 13  
 > **Languages** Common (faltering), Goblin (fluent)  
 > **Level** 1  
@@ -39,9 +39,9 @@
 > ***Scimitar.*** *Melee Weapon:* `+4` to hit, 5 ft. reach, Small, Finesse, Light, `1` target. *Hit:* `1d6 + 2` Slashing Damage.
 > 
 > ***Shortbow.*** *Ranged Weapon:* `+4` to hit, Range 80/320 ft., `1` target. *Hit:* `1d6 + 2` Piercing Damage.
->
+> 
 > ### Inventory
->
+> 
 > Leather armour (small, worn)
 > Scimitar (medium, equiped)
 > Shortbow (equiped)

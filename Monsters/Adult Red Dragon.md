@@ -42,7 +42,7 @@
 > ◻️ ***Frightful Pressence (1/turn, Range 120 ft.).*** Any number of creatures in range that the @ can see and can see the @ make a `DC 19` *Wisdom Saving Throw*. **Failure:** The creature is *Frightened* for 1 minute, and repeats this Saving Throw at the end of its turn. **Success:** This effect ends for that creature; the creature gains immunity to the @'s ***Frightful Pressence*** for the next 24h.
 > 
 > ✨ ***Innate Spellcasting.*** The @'s Spellcasting Ability is *Charisma* (`DC 19`, `+11` to hit with *Spell Attacks*). The @ can cast the following spells:  
-> &emsp;&emsp;**1/day each:** *Forcecage*, *Fire Storm*, *Earthquake*, *Counterspell (7th-level)*, 
+> >**1/day each:** *Forcecage*, *Fire Storm*, *Earthquake*, *Counterspell (7th-level)*, 
 > 
 > ---
 > 
