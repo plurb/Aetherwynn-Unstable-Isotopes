@@ -1,4 +1,6 @@
-# Aetherwynn, Unstable Isotopes!
+<h1 align="centre"><img src="./Heading.jpg" alt="logo image."/></h1>
+
+# Aetherwynn, Unstable Isotopes
 
 <!-- TODO: update README -->
 

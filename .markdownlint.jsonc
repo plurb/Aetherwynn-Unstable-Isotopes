@@ -44,5 +44,6 @@
         "full": true,
         "collapsed": true,
         "url_inline": false
-    }
+    },
+    "no-inline-html": false
 }
