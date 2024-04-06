@@ -28,13 +28,13 @@
     },
     "emphasis-style":
     {
-        "style": "asterisk"
+        "style": "asterisk"  // Enforce asterisks for emphasis (italics).
     },
     "strong-style":
     {
-        "style": "asterisk"
+        "style": "asterisk"  // Enforce asterisks for strong (bold).
     },
-    "no-emphasis-as-heading": false,  // Tag lines are part of the heading, and are in emphasis.
+    "no-emphasis-as-heading": false,  // Tag lines are part of the heading, and are in italics.
     "first-line-h1": false,           // Allow first line to be H3.
     "link-image-style":
     {
@@ -45,5 +45,12 @@
         "collapsed": true,
         "url_inline": false
     },
-    "no-inline-html": false
+    "no-inline-html":
+    {
+        "allowed_elements":
+        [
+            "h1",
+            "img"
+        ]
+    }
 }
