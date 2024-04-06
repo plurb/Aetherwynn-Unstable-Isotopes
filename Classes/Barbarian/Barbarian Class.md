@@ -22,6 +22,7 @@
 # Class Abilities
 
 ## Hit Points
+
 **Hit Points:** `12 + your Constitution modifier` per Barbarian level  
 **Hit Dice:** `1d12`  
 

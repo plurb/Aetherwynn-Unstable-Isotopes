@@ -1,6 +1,36 @@
 {
-    "single-h1": false,  // allow multiple top-level headings.
-    "line-length": {
-        "line_length": 100  // set maximum line length to 100 characters.
-    }
+    "single-h1": false,    // allow multiple top-level headings.
+    "line-length": false,  // unlimited line length, since the documents soft-wrap long lines.
+    "heading-style":
+    {
+        // 
+        /**
+        * Use ATX headings.
+        * 
+        * # Heading 1
+        * ## Heading 2
+        * ### Heading 3
+        * #### Heading 4
+        */
+        "style": "atx"
+    },
+    "blanks-around-headings":
+    {
+        "lines_above": 1,
+        "lines_below": 0
+    },
+    "blanks-around-lists": false,
+    "code-fence-style":
+    {
+        "style": "backtick"
+    },
+    "emphasis-style":
+    {
+        "style": "asterisk"
+    },
+    "strong-style":
+    {
+        "style": "asterisk"
+    },
+    "no-emphasis-as-heading": false
 }
