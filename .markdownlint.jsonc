@@ -1,0 +1,6 @@
+{
+    "single-h1": false,  // allow multiple top-level headings.
+    "line-length": {
+        "line_length": 100  // set maximum line length to 100 characters.
+    }
+}
