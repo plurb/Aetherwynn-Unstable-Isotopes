@@ -1,32 +1,28 @@
 # Barbarian Fighting Styles
 
-<!-- TODO: convert to list -->
+| Fighting Style              | Source                  |
+|:----------------------------|:------------------------|
+| [Defensive Fighting][1]     | Unstable Isotopes (0.0) |
+| [Dual Wielding][2]          | Unstable Isotopes (0.0) |
+| [Great Weapon Fighting][3]  | Unstable Isotopes (0.0) |
+| [Improvised Fighting][4]    | Unstable Isotopes (0.0) |
+| [Protection][5]             | Unstable Isotopes (0.0) |
+| [Strongbow][6]              | Unstable Isotopes (0.0) |
+| [Thrown Weapon Fighting][7] | Unstable Isotopes (0.0) |
+| [Unarmed Fighting][8]       | Unstable Isotopes (0.0) |
 
-## Defensive Fighting
-So long as you are either wearing armor or wielding a shield, you gain a +1 bonus to your Armor Class.
+---
 
-## Dueling
-When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with it.
+<!-- References. -->
 
-## Great Weapon Fighting
-When you make an attack roll with a heavy two-handed or versatile melee weapon that you are wielding with two hands, you can treat a total roll of 4 or lower on the weapon's damage dice as a 5.
+<!-- External references. -->
+[1]: ../../Fighting%20Styles/Defensive%20Fighting.md
+[2]: ../../Fighting%20Styles/Dual%20Wielding.md
+[3]: ../../Fighting%20Styles/Great%20Weapon%20Fighting.md
+[4]: ../../Fighting%20Styles/Improvised%20Fighting.md
+[5]: ../../Fighting%20Styles/Protection.md
+[6]: ../../Fighting%20Styles/Strongbow.md
+[7]: ../../Fighting%20Styles/Thrown%20Weapon%20Fighting.md
+[8]: ../../Fighting%20Styles/Unarmed%20Fighting.md
 
-## Improvised Fighting
-You are proficient in improvised weapons. Once per turn, when you use an object to make an improvised weapon attack, you can choose to roll the damage die twice and take the higher damage roll. When you do so, the object used to make the improvised attack is destroyed and can not be used for further attacks. You can't use this feature to destroy magical objects.
-
-## Protector
-When a creature you can see attacks you, or a target within 5 feet, you can use your reaction to add your proficiency bonus to the target's Armor Class against that attack. You must be wielding a shield or a melee weapon to gain this benefit.
-
-## Strongbow
-You can use your Strength modifier, in place of Dexterity, for your attack and damage rolls with longbows and shortbows.
-
-## Thrown Weapon Fighting
-You can draw a weapon that has the thrown property as part of the attack you make with the weapon. Moreover, when you hit with a ranged weapon attack using a thrown weapon, you gain a +2 bonus to the damage roll of that attack.
-
-## Unarmed Fighting
-Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier on a hit. If you have two free hands when you make the attack roll, the d6 becomes a d8.
-
-At the beginning of each of your turns, you can deal 1d4 bludgeoning damage to one creature you are grappling.
-
-## Versatile Fighting
-While wielding a single versatile weapon and no shield, you gain a +1 bonus to your attack rolls with that weapon. While doing so, you can also use your bonus action to make a single grapple or shove attack, or to take the Use an Object action.
+<!----------------->

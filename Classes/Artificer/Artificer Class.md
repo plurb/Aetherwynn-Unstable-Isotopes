@@ -110,3 +110,8 @@ a creature can use the object to cast the spell, using the spell's normal castin
 ---
 
 ## Magic Item Mastery
+
+---
+
+<!-- References. -->
+<!----------------->
