@@ -30,17 +30,3 @@ At the beginning of each of your turns, you can deal 1d4 bludgeoning damage to o
 
 ## Versatile Fighting
 While wielding a single versatile weapon and no shield, you gain a +1 bonus to your attack rolls with that weapon. While doing so, you can also use your bonus action to make a single grapple or shove attack, or to take the Use an Object action.
-
-## Evasion
-**Prerequisites: 7th level, Dexterity of 13 or greater.**
-
-> *You can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an Ice Storm spell.*
-
-When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
-
-## Great Weapon Master
-**Prerequisites: 7th level, Strength of 15 or greater.**
-
-> *Your near herculean strength allows you to wield weapons sized for creatures larger than yourself.*
-
-You can wield Large weapons without any drawbacks.

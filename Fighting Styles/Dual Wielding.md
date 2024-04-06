@@ -8,5 +8,5 @@ You gain the following abilities:
 ---
 
 > ### Rulings
-> 
+>
 > (26-02-2024) Dual Wielding is a replacement effect.

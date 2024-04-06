@@ -11,5 +11,5 @@ You gain the following abilities:
 ---
 
 > ### Rulings
-> 
+>
 > (26-02-2024) The "Evasion" Fighting Style is a replacement effect (notice the use of 'instead'). It does not stack with the Rogue's, Barbarian's, or Monk's "Evasion" Ability.
