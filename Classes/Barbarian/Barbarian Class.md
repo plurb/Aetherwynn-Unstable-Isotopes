@@ -4,20 +4,20 @@
 
 ## Barbarian
 
-| Level | Proficiency | Abilities                        | Rages | Exploits Known | Exploit Level |
-| ----: | ----------: | :------------------------------- | ----: | -------------: | ------------: |
-|     1 |           2 | Rage, Exploits, Fighting Style   |     1 |              2 |             1 |
-|     2 |           2 | Reckless Attack                  |     1 |              3 |             1 |
-|     3 |           2 | Primal Path                      |     1 |              4 |             1 |
-|     4 |           2 | Ability Score Increase, Feat     |     1 |              5 |             1 |
-|     5 |           3 | Multiattack (2)                  |     2 |              6 |             2 |
-|     6 |           3 | Path Ability, Rage Improvement   |     2 |              7 |             2 |
-|     7 |           3 | Evasion                          |     2 |              8 |             2 |
-|     8 |           3 | Ability Score Increase, Feat     |     2 |              9 |             2 |
-|     9 |           4 | Brutality                        |     2 |             10 |             3 |
-|    10 |           4 | Path Ability                     |     2 |             10 |             3 |
-|    11 |           4 | Relentless Rage, Multiattack (3) |     2 |             11 |             3 |
-|    12 |           4 | Ability Score Increase, Feat     |     2 |             11 |             3 |
+| Level | Proficiency | Abilities                                  | Rages | Exploits Known | Exploit Level |
+|------:|------------:|:-------------------------------------------|------:|---------------:|--------------:|
+|     1 |           2 | [Rage], [Exploits], [Fighting Style]       |     1 |              2 |             1 |
+|     2 |           2 | [Reckless Attack]                          |     1 |              3 |             1 |
+|     3 |           2 | [Primal Path]                              |     1 |              4 |             1 |
+|     4 |           2 | [Ability Score Increase], [Feat]           |     1 |              5 |             1 |
+|     5 |           3 | [Multiattack (2)][Mult]                    |     2 |              6 |             2 |
+|     6 |           3 | [Path Ability], [Rage Improvement]         |     2 |              7 |             2 |
+|     7 |           3 | [Evasion]                                  |     2 |              8 |             2 |
+|     8 |           3 | [Ability Score Increase], [Feat]           |     2 |              9 |             2 |
+|     9 |           4 | [Brutality]                                |     2 |             10 |             3 |
+|    10 |           4 | [Path Ability]                             |     2 |             10 |             3 |
+|    11 |           4 | [Relentless Rage], [Multiattack (3)][Mult] |     2 |             11 |             3 |
+|    12 |           4 | [Ability Score Increase], [Feat]           |     2 |             11 |             3 |
 
 # Class Abilities
 
@@ -65,7 +65,7 @@ Alternatively, you may start with `2d4 × 10` gp to buy your own equipment.
 
 > *You fight with an unchecked primal ferocity in battle.*
 
-🔵 **(`X`/short rest, requires: You are not wearing Heavy Armour)** — You are [*Enraged*](../../Rules/Conditions/Enraged.md) until this ability ends. While *Enraged* this way, you gain the following effects:
+🔵 **(`X`/short rest, requires: You are not wearing Heavy Armour)** — You are *[Enraged]* until this ability ends. While *[Enraged]* this way, you gain the following effects:
 * When you make a *Weapon Attack* using your Strength, you deal additional damage equal to your Proficiency Bonus.
 * You gain *Resistance* to non-Magical Bludgeoning, non-Magical Piercing, and non-Magical Slashing Damage.
 
@@ -111,7 +111,7 @@ If one of your Exploits requires a creature to make a *Saving Throw*, your Explo
 ## Fighting Style
 *1st-level Ability (Barbarian)*  
 
-You learn one fighting style from [*Barbian Fighting Styles*](./Barbarian%20Fighting%20Sytles.md).
+You learn one fighting style from [*Barbian Fighting Styles*][BF].
 
 ---
 
@@ -120,7 +120,7 @@ You learn one fighting style from [*Barbian Fighting Styles*](./Barbarian%20Figh
 
 > *You can throw aside concern for your defense to attack more accurately.*
 
-◻️ **(1/turn)** — When you take the [*Attack Action*](../../Rules/Encounters/Actions/Attack.md), but before you make any attacks, you may gain advantage on all attacks you make this turn. If you do, all attack rolls targeting you have advantage until the start of your next turn.
+◻️ **(1/turn)** — When you take the [*Attack Action*][AtkAct], but before you make any attacks, you may gain advantage on all attacks you make this turn. If you do, all attack rolls targeting you have advantage until the start of your next turn.
 
 ---
 
@@ -132,7 +132,7 @@ You learn one fighting style from [*Barbian Fighting Styles*](./Barbarian%20Figh
 Choose one of the following Primal Paths:
 
 | Primal Path                 | Source                 |
-| :-------------------------- | :--------------------- |
+|:----------------------------|:-----------------------|
 | Path of The Beast           | Unstable Isotope (0.0) |
 | Path of The Berserker       | Unstable Isotope (0.0) |
 | Path of The Conduit         | Unstable Isotope (0.0) |
@@ -144,11 +144,12 @@ Choose one of the following Primal Paths:
 | Path of The Zealot          | Unstable Isotope (0.0) |
 
 ### Primal Exploits
+
 Each Primal Path has a list of Primal Exploits you learn at the Barbarian levels noted in your Path's description. They don't count against your total number of Exploits Known and can't be switched out for other Exploits. If you don't meet a Primal Exploit's prerequisites, you learn it regardless.
 
 ---
 
-## Ability Score Improvement
+## Ability Score Increase
 *4th-level Ability (All Classes)*
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or two ability scores by 1. You can't increase one of your ability scores above 20 using this Ability.
@@ -178,7 +179,7 @@ The number of attacks you can make when you take the *Attack Action* increases; 
 
 > *Thormund's blood boils. His aura flares from his body like a roaring flame. The sight of seeing Markus lying on the ground half-dead throwing him into a rage like none have seen before.*
 
-♾️ — While you are [*Enraged*](../../Rules/Conditions/Enraged.md), you gain the following effects:
+♾️ — While you are *[Enraged]*, you gain the following effects:
 * *Weapon Attacks* you make count as Magical for the purpose of overcoming *Resistance* and *Immunity* to non-Magical *Attacks* and Damage.
 * You gain immunity to all non-magical bludgeoning, piercing, and slashing damage.
 
@@ -213,3 +214,27 @@ This increases to two additional dice at 13th level in this class, and three add
 * If you are reduced to `0` HP, make a DC `X` *Constitution Saving Throw*, where `X = half the damage taken or 10, whichever is greater`. If you succeed, you drop to 1 hit point instead.
 
 ---
+
+<!-- References. -->
+
+<!-- Internal references. -->
+[Rage]: #rage
+[Exploits]: #exploits
+[Fighting Style]: #fighting-style
+[Reckless Attack]: #reckless-attack
+[Primal Path]: #primal-path
+[Ability Score Increase]: #ability-score-increase
+[Feat]: #feat
+[Mult]: #multiattack
+[Path Ability]: #primal-path
+[Rage Improvement]: #rage-improvement
+[Evasion]: #evasion
+[Brutality]: #brutality
+[Relentless Rage]: #relentless-rage
+
+<!-- External references. -->
+[Enraged]: ../../Rules/Conditions/Enraged.md
+[BF]: ./Barbarian%20Fighting%20Sytles.md
+[AtkAct]: ../../Rules/Encounters/Actions/Attack.md
+
+<!----------------->

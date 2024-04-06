@@ -3,25 +3,27 @@
     "line-length": false,  // unlimited line length, since the documents soft-wrap long lines.
     "heading-style":
     {
-        // 
         /**
-        * Use ATX headings.
+        * Enforce ATX headings.
         * 
         * # Heading 1
         * ## Heading 2
         * ### Heading 3
         * #### Heading 4
+        * ...
         */
         "style": "atx"
     },
     "blanks-around-headings":
     {
+        // Enforce 1 blank line above, and at least 0 blank lines below.
         "lines_above": 1,
         "lines_below": 0
     },
-    "blanks-around-lists": false,
+    "blanks-around-lists": false,  // More natural list positioning.
     "code-fence-style":
     {
+        // Enforce backticks for fenced code blocks.
         "style": "backtick"
     },
     "emphasis-style":
@@ -32,5 +34,15 @@
     {
         "style": "asterisk"
     },
-    "no-emphasis-as-heading": false
+    "no-emphasis-as-heading": false,  // Tag lines are part of the heading, and are in emphasis.
+    "first-line-h1": false,           // Allow first line to be H3.
+    "link-image-style":
+    {
+        // Enforce reference link style.
+        "autolink": false,
+        "inline": false,
+        "full": true,
+        "collapsed": true,
+        "url_inline": false
+    }
 }
