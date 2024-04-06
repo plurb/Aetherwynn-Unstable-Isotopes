@@ -5,4 +5,4 @@
 > *You unleash a single, devastating strike.*
 
 You gain the following abilities:
-* 🔷 - Make a single *Weapon Attack* using a Weapon you are wielding, you have *Advantage* for this *Attack*. If this *Attack* hits, it is treated as a *Critical Hit*.
+* 🔷 - Make a single *Weapon Attack* using a Weapon you are wielding, you have *Advantage* for this *Attack*. If this *Attack* hits, it deals twice as much damage.
