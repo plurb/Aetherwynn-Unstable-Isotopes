@@ -69,9 +69,9 @@ Alternatively, you may start with `2d4 × 10` gp to buy your own equipment.
 * When you make a *Weapon Attack* using your Strength, you deal additional damage equal to your Proficiency Bonus.
 * You gain *Resistance* to non-Magical Bludgeoning, non-Magical Piercing, and non-Magical Slashing Damage.
 
-This ability lasts for 10 minutes, and ends early unless you *Attack*, make a *Strength* Check or *Saving Throw*, or use a Minor Action to extend it before the beginning of your next turn.
+This ability lasts for 10 minutes, and ends early unless you *Attack*, make a Strength *Check* or *Saving Throw*, take *Damage*, or use a *Minor Action* to extend it before the beginning of your next turn.
 
-`X = the number shown in the "Rages" column of the Barbarian table`.
+`X = the number shown in the "Rages" column of the Barbarian table`
 
 ---
 
@@ -80,19 +80,19 @@ This ability lasts for 10 minutes, and ends early unless you *Attack*, make a *S
 
 > *You gain savage abilities that help you gore enemies and aid allies in and out of battle.*
 
-You gain the following Attributes and Abilities.
+You gain the following attributes and abilities.
 
 ### Stamina
 
 > *You have stamina greater than a mere outcast, which allows you to perform exploits greater than an ordinary warrior.*
 
-You have a number of Stamina Points calculated as follows:
+You have a number of "Stamina Points" calculated as follows:
 
-**Stamina Points** = `your Barbarian level + your Constitution modifier` (minimum of 0)
+**Stamina Points** = `your Barbarian level + your Constitution modifier (minimum of 0)`
 
-To perform an Exploit, you expend a number of Stamina Points equal to the Exploit's level. You regain all expended Stamina Points when you finish a Short or Long Rest.
-
-For Exploits that modify an Attack, Ability Check, or Saving Throw: you can only use one Exploit per Attack, Ability Check, or Saving Throw.
+To perform an Exploit, you expend a number of Stamina Points equal to the Exploit's level. You regain all expended Stamina Points when you finish a *Short* or *Long Rest*.
+d
+For Exploits that modify an *Attack*, *Ability Check*, or *Saving Throw*: you can only use one Exploit per *Attack*, *Ability Check*, or *Saving Throw*.
 
 ### Exploits Known
 
@@ -170,7 +170,7 @@ You learn a feat. This feat can be either a General, Martial, or Barbarian feat.
 
 ♾️ — You Attack up to `2` times, instead of once, when you take the *Attack* Action on your turn.
 
-The number of attacks you can make when you take the *Attack Action* increases; at 11th level (3 attacks total) and at 17th level (4 attacks total) in this class.
+The number of attacks you can make when you take the *Attack Action* increases at 11th level (3 attacks total) and at 17th level (4 attacks total) in this class.
 
 ---
 

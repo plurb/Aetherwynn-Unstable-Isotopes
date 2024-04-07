@@ -2,9 +2,7 @@
 
 > *Fighters use their weapons and their physical might to fell their foes.*
 
-
 <!-- FIXME: re-work to new keywords and templating -->
-
 
 ## Fighter
 
@@ -67,8 +65,6 @@ At first level, you start with the following equipment:
 
 You learn one Fighting Style from *[Fighter Fighting Styles]*.
 
-
-
 You learn additional fighting styles as you gain levels in this class, as shown on the Fighter Table.
 
 ---
@@ -100,7 +96,7 @@ This rule is a side effect of SRD 5.6.2 "Timing". It's only here since it's unli
 
 ### Exploits Known
 
-You learn `3` Exploits from the [*Fighter Exploit List*](./Fighter%20Exploit%20List.md). The "Exploits" column of the Fighter Table shows when you learn more Exploits of your choice. To learn a Exploit, you must be able to learn Exploits of its level, as well as meet any other prerequisites (listed under **Pre-requisites** in the Exploit's entry).
+You learn `3` Exploits from the *[Fighter Exploit List]*. The "Exploits" column of the Fighter Table shows when you learn more Exploits of your choice. To learn a Exploit, you must be able to learn Exploits of its level, as well as meet any other prerequisites (listed under **Pre-requisites** in the Exploit's entry).
 
 Whenever you gain a Fighter Level, you can replace one of the Exploits you learnt from this class with another Exploit from the *Fighter Exploit List*.
 
@@ -184,7 +180,7 @@ You earn a Feat. This Feat can be either a *General*, *Martial*, or *Fighter* Fe
 
 ♾️ — You Attack up to `2` times, instead of once, when you take the *Attack* Action on your turn.
 
-The number of attacks you can make when you take the *Attack Action* increases; at 11th level (3 attacks total) and at 17th level (4 attacks total) in this class.
+The number of attacks you can make when you take the *Attack Action* increases at 11th level (3 attacks total), and at 17th level (4 attacks total) in this class.
 
 ---
 
@@ -206,5 +202,6 @@ You can use "Legendary Might" **2/long rest** starting at 13th level, and **3/lo
 
 <!-- External references. -->
 [Fighter Fighting Styles]: ./Fighter%20Fighting%20Styles.md
+[Fighter Exploit List]: ./Fighter%20Exploit%20List.md
 
 <!---------------->

@@ -1,4 +1,4 @@
-# {Class Name}
+# The {Class Name}
 
 ## {Class Name}
 
