@@ -65,7 +65,9 @@ At first level, you start with the following equipment:
 ## Fighting Style
 *1st-level Ability (Fighter)*  
 
-You learn one Fighting Style from [*Fighter Fighting Styles*](./Fighter%20Fighting%20Styles.md).
+You learn one Fighting Style from *[Fighter Fighting Styles]*.
+
+
 
 You learn additional fighting styles as you gain levels in this class, as shown on the Fighter Table.
 
@@ -199,3 +201,10 @@ The number of attacks you can make when you take the *Attack Action* increases; 
 ◻️ **(1/long rest, triggered)** — If you fail a *Saving Throw*, you may succeed instead.
 
 You can use "Legendary Might" **2/long rest** starting at 13th level, and **3/long rest** starting at 17th level in this class.
+
+<!-- References -->
+
+<!-- External references. -->
+[Fighter Fighting Styles]: ./Fighter%20Fighting%20Styles.md
+
+<!---------------->

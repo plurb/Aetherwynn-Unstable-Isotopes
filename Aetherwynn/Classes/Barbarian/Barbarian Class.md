@@ -96,7 +96,7 @@ For Exploits that modify an Attack, Ability Check, or Saving Throw: you can only
 
 ### Exploits Known
 
-You learn two Exploits from the Barbarian Exploit List. The Exploits Known column of the Barbarian table shows when you learn more Exploits of your choice. To learn an Exploit, you must be able to learn Exploits of its level (as shown in the "Exploit Level" column of the Barbarian table), as well as meet any other pre-requisites (listed under **Pre-requisites** in the Exploit's entry).
+You learn two Exploits from the *[Barbarian Exploit List]*. The Exploits Known column of the Barbarian table shows when you learn more Exploits of your choice. To learn an Exploit, you must be able to learn Exploits of its level (as shown in the "Exploit Level" column of the Barbarian table), as well as meet any other pre-requisites (listed under **Pre-requisites** in the Exploit's entry).
 
 Whenever you gain a Barbarian level, you can replace one of the Exploits you learnt from this class with another Exploit from the Barbarian Exploit List.
 
@@ -131,17 +131,17 @@ You learn one fighting style from [*Barbian Fighting Styles*][BF].
 
 Choose one of the following Primal Paths:
 
-| Primal Path                 | Source                 |
-|:----------------------------|:-----------------------|
-| Path of The Beast           | Unstable Isotope (0.0) |
-| Path of The Berserker       | Unstable Isotope (0.0) |
-| Path of The Conduit         | Unstable Isotope (0.0) |
-| Path of The Green Warden    | Unstable Isotope (0.0) |
-| Path of The Spirit Guardian | Unstable Isotope (0.0) |
-| Path of The Storm           | Unstable Isotope (0.0) |
-| Path of The Titan           | Unstable Isotope (0.0) |
-| Path of The Totem Warrior   | Unstable Isotope (0.0) |
-| Path of The Zealot          | Unstable Isotope (0.0) |
+| Primal Path                          | Source                 |
+|:-------------------------------------|:-----------------------|
+| [Path of The Beast][Beast]           | Unstable Isotope (0.0) |
+| [Path of The Berserker][Bersk]       | Unstable Isotope (0.0) |
+| [Path of The Conduit][Condu]         | Unstable Isotope (0.0) |
+| [Path of The Green Warden][GrnWd]    | Unstable Isotope (0.0) |
+| [Path of The Spirit Guardian][SprGd] | Unstable Isotope (0.0) |
+| [Path of The Storm][Storm]           | Unstable Isotope (0.0) |
+| [Path of The Titan][Titan]           | Unstable Isotope (0.0) |
+| [Path of The Totem Warrior][TtmWr]   | Unstable Isotope (0.0) |
+| [Path of The Zealot][Zealt]          | Unstable Isotope (0.0) |
 
 ### Primal Exploits
 
@@ -236,5 +236,17 @@ This increases to two additional dice at 13th level in this class, and three add
 [Enraged]: ../../Rules/Conditions/Enraged.md
 [BF]: ./Barbarian%20Fighting%20Sytles.md
 [AtkAct]: ../../Rules/Encounters/Actions/Attack.md
+[Barbarian Exploit List]: ./Barbarian%20Exploits.md
+
+<!-- Subclasses. -->
+[Beast]: ./Primal%20Paths/Path%20of%20The%20Beast.md
+[Bersk]: ./Primal%20Paths/Path%20of%20The%20Berserker.md
+[Condu]: ./Primal%20Paths/Path%20of%20The%20Conduit.md
+[GrnWd]: ./Primal%20Paths/Path%20of%20The%20Green%20Warden.md
+[SprGd]: ./Primal%20Paths/Path%20of%20The%20Spirit%20Guardian.md
+[Storm]: ./Primal%20Paths/Path%20of%20The%20Storm.md
+[Titan]: ./Primal%20Paths/Path%20of%20The%20Titan.md
+[TtmWr]: ./Primal%20Paths/Path%20of%20The%20Totem%20Warrior.md
+[Zealt]: ./Primal%20Paths/Path%20of%20the%20Zealot.md
 
 <!----------------->
