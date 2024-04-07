@@ -10,6 +10,8 @@
 |      13th       | [Unbreakable][UB], [Subjugate Beast][SB]   |
 |      17th       | ???, ???                                   |
 
+---
+
 ## Bestial Rage
 *3rd-level Ability (Barbarian, Path of The Beast)*
 
@@ -51,7 +53,7 @@
 
 <!-- 2nd level -->
 [EX]: ../../../Exploits/2nd%20Level/Execute.md
-[BC]: ../../../Exploits/2nd%20Level/Bloodthirst%20Cricital.md
+[BC]: ../../../Exploits/2nd%20Level/Bloodthirsty%20Critical.md
 
 <!-- 3rd level -->
 [MR]: ../../../Exploits/3rd%20Level/Menacing%20Roar.md
