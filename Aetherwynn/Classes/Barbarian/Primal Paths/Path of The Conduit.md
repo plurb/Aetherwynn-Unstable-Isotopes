@@ -40,7 +40,15 @@
 
 ---
 
-## s
+## Greater Conduit
+*10th-level Ability (Barbarian, Path of The Conduit)*  
+
+> *Your ability as a spiritual medium grows.*
+
+♾️ — You can cast the following spells, using Wisdom as your Spellcasting Ability:
+> **1/long rest each:** "Clairvoyance", "Commune"
+
+---
 
 <!-- References. -->
 
