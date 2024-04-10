@@ -74,7 +74,9 @@ You start with the following items, plus anything provided by your background.
 
 > *As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power.*
 
-See **spellcasting** for the general rules of spellcasting and the [**Wizard Spell List**](./Wizard%20Spell%20List.md) for the Wizard Spell List.
+See **spellcasting** for the general rules of spellcasting and the [**Wizard Spell List**][WSL] for the Wizard Spell List.
+
+[WSL]: ./Wizard%20Spell%20List.md
 
 ### Cantrips
 
@@ -89,9 +91,11 @@ The Spell Slots per Spell Level table shows how many spell slots you have to cas
 You prepare the set of Wizard Spells that are available for you to cast. To do so, choose a number of Wizard Spells from your "Spellbook" (described below) equal to `your Intelligence modifier + your wizard level` (minimum of one). The spells must be of a level for which you have spell slots, as shown on the Wizard table.
 
 ---
+
 > #### Example
-> 
+>
 > *If you're a 3rd-level Wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence Score of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell magic missile, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.*
+
 ---
 
 **1/long rest:** After you finish a Long Rest, you can change the set of spells you have prepared. Preparing a spell requires 1 minute per spell level for each spell you prepare.
@@ -132,9 +136,9 @@ Each time you gain a Wizard level, you add two Wizard Spells of your choice to y
 <!-- TODO: edit flavourtext -->
 
 > *You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard's chest, for example, or in a dusty tome in an ancient library.*
-> 
+>
 > *The time and cost to copy a spell represents material components you expend as you experiment with the spell to master it, the fine inks you need to record it, and the time to decipher and copy it. Copying a spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.*
-> 
+>
 > *If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.*
 
 If it is a Wizard Spell of a level you can prepare, add one Spell contained in target *spellbook* or *spell scroll* to your Spellbook, or another target *spellbook* in range. For each level of the spell, this process takes 2 hours and costs 50 gp. If you have the spell prepared, or it is already in your spellbook, this process takes half as long and costs half as much.
@@ -197,8 +201,7 @@ You learn a feat. This feat can be either a General, Spellcasting, or Wizard fea
 
 **1/full rest:** When you finish a Full Rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up). None of the slots can be 6th level or higher.
 
-> ### Example
+> ### Example 2
 > If you're a 7th-level wizard, you can recover up to four levels worth of spell slots. You can recover either one 4th-level spell slot or two 2nd-level spell slots.
 
 ---
-
