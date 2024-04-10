@@ -7,9 +7,9 @@
 
 > *A spectral hand tethers your target in place.*
 
-Up to `X` different target Humanoid creatures in range make a Wisdom Saving Throw, where `X = this spell's level - 1`.
+Up to `X` different target Humanoid creatures in range make a *Wisdom Saving Throw*, where `X = this spell's level - 1`.
 
-**Failure:** The creautre is Restrained II until this spell ends, and repeats this Saving Throw at the end of its turn.  
+**Failure:** The creautre is *Restrained II* until this spell ends; It repeats this *Saving Throw* at the end of its next turn.  
 **Success:** This spell ends for that creature.  
 
 **Classes:** Magus, Paladin, Ranger, Sorcerer, Warlock, Wizard
