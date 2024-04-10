@@ -1,5 +1,5 @@
 ### Charger
-*Feat (General)*
+*Feat (General)*  
 **Pre-requisites:** —  
 
 You gain the following abilities:

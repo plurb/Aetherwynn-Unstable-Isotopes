@@ -1,5 +1,5 @@
 ### Elemental Initiate
-*Feat (General)*
+*Feat (General)*  
 **Pre-requisites:** Spellcasting
 
 Choose one from: *Aeromancy*, *Geomancy*, *Hydromancy*, or *Pyromancy*

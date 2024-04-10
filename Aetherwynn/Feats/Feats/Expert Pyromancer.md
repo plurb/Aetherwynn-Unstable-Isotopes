@@ -1,5 +1,5 @@
 ### Expert Pyromancer
-*Feat (Spellcasting)*
+*Feat (Spellcasting)*  
 **Pre-requisites:** At least 8th level, "Adept Pyromancer" Feat
 
 You gain the following abilities:
