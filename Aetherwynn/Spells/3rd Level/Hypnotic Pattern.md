@@ -12,4 +12,4 @@ Each creature in a 20 ft. cube centered on target point in range makes a *Wisdom
 **Failure:** The creautre is *Charmed* until this spell ends; It repeats this *Saving Throw* at the end of its next turn.  
 **Success:** This spell ends for that creature.  
 
-**Classes:** Bard, Magus, Sorcerer, Warlock, Wizard  
+**Classes:** Bard, Magus, Sorcerer, Warlock, Wizard
