@@ -1,6 +1,6 @@
-### Arcanist's Reversal
+### Arcane Reversal
 *4th-Level Spell (Abjuration)*  
-**Casting Time:** Reaction; If you see a creature within range casting a spell  
+**Casting Time:** ⚡; If you see a creature within range casting a spell  
 **Range:** 60 feet  
 **Components:** V, S  
 **Duration:** Instantaneous  

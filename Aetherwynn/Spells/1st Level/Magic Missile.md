@@ -7,6 +7,6 @@
 
 > *Anjali fires out a barrage of arcane projectiles that home in on their target.*
 
-Make `X` *Ranged Spell Attacks: automatic hit* against up to `X` target creatures in range, where `X = 2 + this spell's level.`. *On Hit:* the target takes `1d4 + 1` force damage.
+Make a total of `X` *Ranged Spell Attacks: automatic hit* against up to `X` target creatures in range, where `X = 2 + this spell's level.`. *On Hit:* the target takes `1d4 + 1` force damage.
 
-**Classes:** Artificer, Magus, Paladin, Psion, Shaman, Sorcerer, Warlock, Wizard
+**Classes:** Artificer, Magus, Psion, Sorcerer, Warlock, Wizard
