@@ -137,7 +137,6 @@ Choose one of the following Primal Paths:
 | [Path of The Berserker][Bersk]       | Unstable Isotope (0.0) |
 | [Path of The Conduit][Condu]         | Unstable Isotope (0.0) |
 | [Path of The Green Warden][GrnWd]    | Unstable Isotope (0.0) |
-| [Path of The Spirit Guardian][SprGd] | Unstable Isotope (0.0) |
 | [Path of The Storm][Storm]           | Unstable Isotope (0.0) |
 | [Path of The Titan][Titan]           | Unstable Isotope (0.0) |
 | [Path of The Totem Warrior][TtmWr]   | Unstable Isotope (0.0) |
@@ -243,7 +242,6 @@ This increases to two additional dice at 13th level in this class, and three add
 [Bersk]: ./Primal%20Paths/Path%20of%20The%20Berserker.md
 [Condu]: ./Primal%20Paths/Path%20of%20The%20Conduit.md
 [GrnWd]: ./Primal%20Paths/Path%20of%20The%20Green%20Warden.md
-[SprGd]: ./Primal%20Paths/Path%20of%20The%20Spirit%20Guardian.md
 [Storm]: ./Primal%20Paths/Path%20of%20The%20Storm.md
 [Titan]: ./Primal%20Paths/Path%20of%20The%20Titan.md
 [TtmWr]: ./Primal%20Paths/Path%20of%20The%20Totem%20Warrior.md
