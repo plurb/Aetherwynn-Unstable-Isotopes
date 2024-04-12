@@ -9,7 +9,7 @@
 
 Each creature within a 30 ft. long and 5 ft. wide line originating from you makes a Dexterity Saving Throw.
 
-**Failure:** The creature takes takes `Xd8` Fire Damage, where `X = 1 + this spell's level`.  
+**Failure:** The creature takes `Xd8 [fire]` Damage, where `X = 1 + this spell's level`.  
 **Success:** The creature takes half as much damage.  
 
 **Classes.** ???, ???

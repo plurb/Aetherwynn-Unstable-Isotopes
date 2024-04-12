@@ -9,9 +9,12 @@
 
 Each creature in a 20 ft. cube centered on target point in range makes a *Wisdom Saving Throw*.
 
-**Failure:** The creautre is *Charmed* until this spell ends; It repeats this *Saving Throw* at the end of its next turn.  
+**Failure:** The creautre is *[Charmed]* until this spell ends; It repeats this *Saving Throw* at the end of its next turn.  
 **Success:** This spell ends for that creature.  
 
-A creature *Charmed* this way is *Incapacitated*.
+A creature *[Charmed]* this way is *[Incapacitated]*.
 
 **Classes:** Bard, Magus, Psion, Sorcerer, Warlock, Wizard
+
+[Charmed]: ../../Rules/Conditions/Charmed.md
+[Incapacitated]: ../../Rules/Conditions/Incapacitated.md

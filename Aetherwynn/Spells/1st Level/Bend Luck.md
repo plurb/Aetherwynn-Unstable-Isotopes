@@ -9,4 +9,4 @@
 
 After the creature makes its Attack Roll, Ability Check, or Saving Throw, but before the outcome is determined, roll a d20. The triggering creature uses your choice of the new roll or its previous roll.
 
-**Classes.** Bard, Cleric, Magus, Ranger, Shaman, Sorcerer, Wizard
+**Classes.** Bard, Cleric, Magus, Ranger, Sorcerer, Wizard
