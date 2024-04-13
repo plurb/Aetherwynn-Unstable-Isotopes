@@ -1,10 +1,14 @@
 ### Sleep  
-*1st-level enchantment*  
-**Casting Time:** Action  
-**Range:** 90 ft.  
-**Components:** V, S, M (a pinch of fine sand, rose petals, or a cricket)  
+*1st-level Spell (Enchantment)*  
+**Casting Time:** 🔷  
+**Range:** 60 ft.  
+**Components:** V, S, M (a pinch of fine sand)  
 **Duration:** 1 minute  
 
-> *""*
+> *"Perhaps you'd like a blanket?"*
 
-**Classes.** ???, ???
+The greatest number of creatures in a 10 ft. sphere centered on target point in range whose total remaining HP equals `Xd8` fall *[Asleep]*, where `X = 2 + this Spell's level`.
+
+**Classes.** Bard, Sorcerer, Wizard
+
+[Asleep]: ../../Rules/Conditions/Asleep.md

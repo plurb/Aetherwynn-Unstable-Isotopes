@@ -1,6 +1,6 @@
 ### Shield  
 *1st-level Spell (Abjuration)*  
-**Casting Time:** 1 Reaction; If you are hit by an Attack or targeted by the Magic Missile Spell  
+**Casting Time:** ⚡; If you are hit by an Attack or targeted by the Magic Missile Spell  
 **Range:** Self  
 **Components:** V, S  
 **Duration:** 1 round  

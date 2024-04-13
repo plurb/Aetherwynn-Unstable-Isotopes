@@ -1,6 +1,6 @@
 ### Mental Misstep
 *1st-Level Spell (Abjuration)*  
-**Casting Time:** 1 reaction; If you see a creature within range casting a spell  
+**Casting Time:** ⚡; If you see a creature within range casting a spell  
 **Range:** 60 feet  
 **Components:** V, S  
 **Duration:** Instantaneous  
