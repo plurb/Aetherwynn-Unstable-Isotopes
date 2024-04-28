@@ -9,4 +9,4 @@
 
 Reduce "Fall Damage"  taken by up to `X` target creatures in range to `0`, where `X = your Spellcasting modifier`.
 
-**Classes.** Artificer, Bard, Druid, Magus, Sorcerer, Wizard
+**Classes:** Artificer, Bard, Druid, Magus, Sorcerer, Wizard

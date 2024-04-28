@@ -13,4 +13,4 @@ The area of this sphere is treated as being in magical darkness.
 
 If any of this spell's area overlaps with an area of light created by a spell of level `X` or lower, the spell that created the light is dispelled, where `X = this spell's level`.
 
-**Classes.** ???, ???
+**Classes:** Magus, Sorcerer, Warlock, Wizard

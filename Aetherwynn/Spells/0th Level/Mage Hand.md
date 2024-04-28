@@ -1,5 +1,5 @@
 ### Mage Hand  
-*0th-level Conjuration*  
+*Cantrip (Conjuration)*  
 **Casting Time:** Action  
 **Range:** 30 ft.  
 **Components:** V, S  
@@ -7,4 +7,4 @@
 
 > *""*
 
-**Classes.** ???, ???
+**Classes:** ???, ???

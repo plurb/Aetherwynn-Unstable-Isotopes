@@ -9,4 +9,4 @@
 
 You gain *Resistance* to Bludgeoning, Piercing, and Slashing Damage until the start of your next turn.
 
-**Classes.** Artificer, Magus, Ranger, Sorcerer, Wizard
+**Classes:** Artificer, Magus, Ranger, Sorcerer, Wizard

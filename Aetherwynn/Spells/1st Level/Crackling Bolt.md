@@ -10,4 +10,4 @@
 Until this Spell ends, you gain the following effects:
 * 🔷 — Make a *Ranged Spell Attack* against target creature in range. *On Hit:* You deal `Xd12 [lightning]` Damage to the target, where `X = this Spell's level`.
 
-**Classes.** Artificer, Druid, Ranger, Sorcerer, Wizard
+**Classes:** Artificer, Druid, Ranger, Sorcerer, Wizard

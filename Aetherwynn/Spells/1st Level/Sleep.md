@@ -9,6 +9,6 @@
 
 The greatest number of creatures in a 10 ft. sphere centered on target point in range whose total remaining HP equals `Xd8` fall *[Asleep]*, where `X = 2 + this Spell's level`.
 
-**Classes.** Bard, Sorcerer, Wizard
+**Classes:** Bard, Sorcerer, Wizard
 
 [Asleep]: ../../Rules/Conditions/Asleep.md

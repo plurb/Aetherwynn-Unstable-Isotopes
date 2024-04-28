@@ -12,4 +12,4 @@ Each creature in range makes a *Dexterity Saving Throw*.
 **Failure:** The creature takes `Xd6 [fire]` Damage, where `X = 1 + this Spell's level`.
 **Success:** The creature takes half as much Damage.
 
-**Classes.** Artificer, Druid, Magus, Ranger, Sorcerer, Wizard
+**Classes:** Artificer, Druid, Magus, Ranger, Sorcerer, Wizard
