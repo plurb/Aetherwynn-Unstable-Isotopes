@@ -18,17 +18,18 @@ Choose one:
 **Panels** — Create `X` panels, arranged as you choose, where `X = this spell's level`. Each pannel is a flat plane, and is 5 ft. by 5 ft.; each pannel is an *Invisible* object, with `AC = your Spellcasting DC`, and `10 * X` hp, where `X = this spell's level`. The full statistics are given below.
 
 ---
+
 > ### Wall of Force — Dome
-> 
+>
 > *Huge Object*  
-> 
+>
 > ---
-> 
+>
 > **AC** `your Spellcasting DC`  
 > **HP** `10 * this spell's level`  
-> 
+>
 > ---
-> 
+>
 > |  STR  |  DEX   |  CON  |
 > | :---: | :----: | :---: |
 > |  `S`  | 1 (-5) |  `S`  |
@@ -36,20 +37,20 @@ Choose one:
 > ---
 >
 > ***Invisible.***
----
 
 ---
+
 > ### Wall of Force — Box
-> 
+>
 > *Large Object*  
-> 
+>
 > ---
-> 
+>
 > **AC** `your Spellcasting DC`  
 > **HP** `10 * this spell's level`  
-> 
+>
 > ---
-> 
+>
 > |  STR  |  DEX   |  CON  |
 > | :---: | :----: | :---: |
 > |  `S`  | 1 (-5) |  `S`  |
@@ -57,27 +58,28 @@ Choose one:
 > ---
 >
 > ***Invisible.***
----
 
 ---
+
 > ### Wall of Force — Panel
-> 
+>
 > *Medium Object*  
-> 
+>
 > ---
-> 
+>
 > **AC** `your Spellcasting DC`  
 > **HP** `10 * this spell's level`  
-> 
+>
 > ---
-> 
+>
 > |  STR  |  DEX   |  CON  |
 > | :---: | :----: | :---: |
 > |  `S`  | 1 (-5) |  `S`  |
 >
 > ---
-> 
+>
 > ***Invisible.***
+
 ---
 
 Where `S = your Spellcasting Ability`.

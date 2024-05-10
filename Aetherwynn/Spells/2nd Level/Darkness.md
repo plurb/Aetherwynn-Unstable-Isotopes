@@ -7,10 +7,8 @@
 
 > *"Lights off."*
 
-You create a 15-foot-radius sphere centered on target point or object that is small or smaller within range. This spreads around corners. Completely covering the source of the darkness with an opaque object blocks the darkness.
+You create a 15 ft. radius sphere centered on target point or object that is small or smaller in range. The area inside this sphere is filled with *Magical Darkness*.
 
-The area of this sphere is treated as being in magical darkness.
-
-If any of this spell's area overlaps with an area of light created by a spell of level `X` or lower, the spell that created the light is dispelled, where `X = this spell's level`.
+If any of this Spell's area overlaps with an area of light created by a spell of level `X` or lower, the spell that created the light is *Dispelled*, where `X = this spell's level`.
 
 **Classes:** Magus, Sorcerer, Warlock, Wizard

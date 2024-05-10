@@ -1,7 +1,7 @@
 ### Alarm
 *1st-level Spell (Abjuration, Ritual)*  
 **Casting Time:** 1 minute  
-**Range:** 30 feet  
+**Range:** 30 ft.  
 **Components:** V, S, M (a tiny bell and a piece of fine silver wire)  
 **Duration:** 8 hours  
 

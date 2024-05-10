@@ -7,9 +7,9 @@
 
 > *You release a cone of flame from your hands.*
 
-Each creature in range makes a *Dexterity Saving Throw*.
+Make a *Ranged Spell Attack* vs *Reflex* in a 15 ft. cone originating from you.
 
-**Failure:** The creature takes `Xd6 [fire]` Damage, where `X = 1 + this Spell's level`.
-**Success:** The creature takes half as much Damage.
+**Hit:** The creature takes `Xd6 [fire]` Damage, where `X = 1 + this Spell's level`.
+**Miss:** The creature takes half as much Damage.
 
 **Classes:** Artificer, Druid, Magus, Ranger, Sorcerer, Wizard
