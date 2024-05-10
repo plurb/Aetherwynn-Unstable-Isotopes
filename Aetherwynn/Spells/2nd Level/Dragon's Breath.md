@@ -1,6 +1,6 @@
 ### Dragon's Breath  
 *2nd-level Spell (Transmutation)*  
-**Casting Time:** 1 Bonus Action  
+**Casting Time:** 🔵  
 **Range:** Touch  
 **Components:** C, V, S, M (a hot pepper)  
 **Duration:** Up to 1 minute

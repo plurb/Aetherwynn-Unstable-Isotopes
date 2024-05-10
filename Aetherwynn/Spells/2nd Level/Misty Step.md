@@ -1,6 +1,6 @@
 ### Misty Step  
-*2nd-level Conjuration*  
-**Casting Time:** Bonus Action  
+*2nd-level Spell (Conjuration)*  
+**Casting Time:** 🔵  
 **Range:** Self  
 **Components:** V  
 **Duration:** Instantaneous  

@@ -7,10 +7,10 @@
 
 > *Spiralling colours and geometrics patterns fill a space, bedazzling and confusing those within.*
 
-Each creature in a 20 ft. cube centered on target point in range makes a *Wisdom Saving Throw*.
+Make a *Ranged Spell Attack* vs *Will* in a 20 ft. cube centered on target point in range.
 
-**Failure:** The creautre is *[Charmed]* until this spell ends; It repeats this *Saving Throw* at the end of its next turn.  
-**Success:** This spell ends for that creature.  
+**Hit:** The creautre is *[Charmed]* until this spell ends; You must make this *Attack* again at the end of its next turn.  
+**Miss:** This spell ends for that creature.  
 
 A creature *[Charmed]* this way is *[Incapacitated]*.
 

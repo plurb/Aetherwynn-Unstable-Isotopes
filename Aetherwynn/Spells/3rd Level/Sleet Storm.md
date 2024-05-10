@@ -7,9 +7,9 @@
 
 > *You create an area of cold sleet and strong wind.*
 
-Until this Spell ends, a 20 ft. tall, 40 ft. radius cylinder becomes *[Difficult Terrain I][DT]*, and *[Heavily Obscured][HO]*. A creature that starts its turn in this *[Difficult Terrain][DT]* makes a *Dexterity Saving Throw*.
+Until this Spell ends, a 20 ft. tall, 40 ft. radius cylinder centered on target point in range becomes *[Difficult Terrain I][DT]*, and *[Heavily Obscured][HO]*. At the end of each of your turns, make a *Ranged Spell Attack* vs *Reflex* in this area.
 
-**Failure:** The creature falls *[Prone]*.
+**Hit:** The creature falls *[Prone]*.
 
 **Classes:** Cleric, Druid, Sorcerer, Wizard
 

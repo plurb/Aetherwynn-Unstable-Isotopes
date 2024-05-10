@@ -1,15 +1,15 @@
 ### Hold Person  
-*2nd-Level Spell (Enchantment)*  
-**Casting Time:** Action  
+*2nd-level Spell (Enchantment)*  
+**Casting Time:** 🔷  
 **Range:** 60 ft.  
 **Components:** C, V, S, M (a small, straight piece of iron)  
 **Duration:** Up to 1 minute  
 
 > *A spectral hand tethers your target in place.*
 
-Up to `X` different target Humanoid creatures in range make a *Wisdom Saving Throw*, where `X = this spell's level - 1`.
+Make a *Ranged Spell Attack* vs *Will* against up to `X` different target Humanoid creatures in range, where `X = this spell's level - 1`.
 
-**Failure:** The creautre is *Restrained II* until this spell ends; It repeats this *Saving Throw* at the end of its next turn.  
-**Success:** This spell ends for that creature.  
+**Hit:** The creautre is *Restrained II* until this spell ends; You must make this *Attack* again at the end of its next turn.  
+**Miss:** This spell ends for that creature.  
 
 **Classes:** Magus, Paladin, Ranger, Sorcerer, Warlock, Wizard

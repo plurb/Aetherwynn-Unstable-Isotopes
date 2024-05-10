@@ -1,6 +1,6 @@
 ### Delay
-*2nd-Level Spell (Abjuration)*  
-**Casting Time:** 1 reaction; If you see a creature cast a spell within range  
+*2nd-level Spell (Abjuration)*  
+**Casting Time:** ⚡; If you see a creature cast a Spell within range  
 **Range:** 60 feet  
 **Components:** V, S  
 **Duration:** Instantaneous  

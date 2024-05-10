@@ -8,8 +8,8 @@ Normal activity, such as moving and attacking, doesn't interfere with Concentrat
 
 * **Using another ability that requires Concentration** — You lose Concentration on an ability if you cast another ability that requires Concentration. Generally, you cannot concentrate on two abilities at once.
 
-* **Taking damage** — Whenever you take damage while you are Concentrating on an ability, make a Constitution Saving Throw. The DC equals 10 or half the damage you take, whichever number is higher. **Failure:** you lose Concentration. If you take multiple instances of damage, you make a separate saving throw for each instance of damage.
+* **Maintaining concentration** — Whenever a creature *Attacks* you while you are Concentrating, if the *Attack Roll* is greater than or equal to your *Fortitude*, your Concentration ends.
 
 * **Being incapacitated or killed** — You lose Concentration on an ability if you are Incapacitated or Die.
 
-The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you are on a storm-tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain Concentration on an ability.
+The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you are on a storm-tossed ship, in which case the GM rolls an *Attack* vs your *Fortitude*.

@@ -1,6 +1,6 @@
 ### Darkness  
-*2nd-level Evocation*  
-**Casting Time:** Action  
+*2nd-level Spell (Evocation)*  
+**Casting Time:** 🔷  
 **Range:** 60 ft.  
 **Components:** C, V, S, M (bat fur and a drop of pitch or piece of coal)  
 **Duration:** Up to 1 minute  

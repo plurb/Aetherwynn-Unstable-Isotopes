@@ -1,5 +1,5 @@
 ### Lightning Bolt  
-*3rd-level Spell (Evocation)*  
+*3rd-level Spell (Evocation, Blast)*  
 **Casting Time:** 🔷  
 **Range:** Self (5 ft. wide, 150 ft. long line)  
 **Components:** V, S, M (a bit of fur and a rod of amber, crystal, or glass)  
@@ -7,9 +7,9 @@
 
 > *Anjali pulls aether inwards, focussing it in a single, concentrated blast of electricity.*
 
-Each creature in range makes a *Dexterity Saving Throw*.
+Make a *Ranged Spell Attack* vs *Reflex* in a 150 ft. long 5 ft. wide line originating from you.
 
-**Failure:** The creature takes `Xd6 [lightning]` Damage, where `X = 5 + this Spell's level`.  
-**Success:** The creature takes half as much Damage.
+**Hit:** The creature takes `Xd6 [lightning]` Damage, where `X = 5 + this Spell's level`.  
+**Miss:** The creature takes half as much Damage.
 
 **Classes:** Magus, Sorcerer, Wizard

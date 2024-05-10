@@ -1,10 +1,16 @@
 ### Stun  
-*3rd-level Transmutation*  
-**Casting Time:** Action  
-**Range:** 120 ft.  
-**Components:** C, V, S, M (a drop of molasses)  
-**Duration:** Up to 1 minute  
+*3rd-level Spell (Evocation)*  
+**Casting Time:** 🔷  
+**Range:** 60 ft.  
+**Components:** V, S, M (a drop of molasses)  
+**Duration:** Varies  
 
-> *""*
+> *You create a disorienting flash of light.*
 
-**Classes:** ???, ???
+Make a *Ranged Spell Attack* vs *Fortitude* in a 20 ft. sphere centered on target point in range.
+
+**Critical Hit:** The creature is *Stunned* for 1 minute.
+**Hit:** The creature is *Stunned* until the end of its next turn.
+**Critical Miss:** You are *Blinded* until the start of your next turn.
+
+**Classes:** Artificer, Magus, Psion, Sorcerer, Wizard

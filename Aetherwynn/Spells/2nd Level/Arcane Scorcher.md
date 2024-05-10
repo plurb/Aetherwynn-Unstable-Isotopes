@@ -1,6 +1,6 @@
 ### Arcane Scorcher  
 *2nd-level Spell (Evocation, Blast)*  
-**Casting Time:** Action  
+**Casting Time:** 🔷  
 **Range:** Self (30 ft. line)  
 **Components:** V, S, M (a red dragon's scale)  
 **Duration:** Instantaneous  
