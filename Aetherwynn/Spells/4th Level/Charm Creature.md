@@ -1,11 +1,11 @@
 ### Charm Creature
-*4th-level Enchantment*  
+*4th-level Spell (Enchantment)*  
 **Casting Time:** Action  
 **Range:** 30 feet  
 **Components:** C, V, S  
-**Duration:** Up to 1 hour 
+**Duration:** Up to 1 hour  
 
-You attempt to charm a creature you can see within range. 
+You attempt to charm a creature you can see within range.
 
 Up to `X` target creatures you can see in range make a Wisdom saving throw (they do so with advantage if you or your companions are fighting them), where `X = this spell's level - 3`.
 

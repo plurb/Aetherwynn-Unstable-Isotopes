@@ -1,4 +1,4 @@
-### Alien Tentacles
+### Grasping Tendrils
 *4th-level Spell (Conjuration)*  
 **Casting Time:** 🔷  
 **Range:** 90 ft.  
