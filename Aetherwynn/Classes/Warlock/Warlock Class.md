@@ -88,5 +88,3 @@
 ---
 
 ## Eldritch Gate
-
-

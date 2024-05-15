@@ -3,7 +3,7 @@
 **Casting Time:** 🔷  
 **Range:** 60 ft.  
 **Components:** V, S, M (a drop of molasses)  
-**Duration:** Varies  
+**Duration:** Instantaneous  
 
 > *You create a disorienting flash of light.*
 

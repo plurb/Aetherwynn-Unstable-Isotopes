@@ -5,12 +5,16 @@
 **Components:** C, V, S  
 **Duration:** Up to 1 hour  
 
-You attempt to charm a creature you can see within range.
+> *You attempt to charm a creature you can see within range.*
 
-Up to `X` target creatures you can see in range make a Wisdom saving throw (they do so with advantage if you or your companions are fighting them), where `X = this spell's level - 3`.
+Make a *Ranged Spell Attack* vs *Will* against up to `X` target creatures you can see in range, where `X this Spell's level - 3`. You have Disadvantage on this *Attack* if you or your companions are fighting the target.
 
-**Failure:** The creatures are charmed by you until this spell ends or until you or your companions deal damage to it, or it sees you or your companions deal damage to one of their companions. The charmed creatures are friendly to you.
+**Hit:** The creatures are *[Charmed]* by you until this Spell ends or until you or your companions deal Damage to it, or it sees you or your companions deal Damage to one of their companions.
 
-When the spell ends, the creatures know they were charmed by you.
+A creature *[Charmed]* this way is friendly to you.
+
+When this Spell ends, the creatures know they were *[Charmed]* by you.
 
 **Classes:** ???, ???
+
+[Charmed]: ../../Rules/Conditions/Charmed.md

@@ -7,11 +7,12 @@
 
 > *You accelerate the flow of aether within a creature, blessing it with extreme speed.*
 
-Target willing creature you can see in range gains the following effects until this Spell ends:
-* Its Movement Speed is doubled.
-* It gains a `+2` bonus to its *AC* and *Reflex*.
-* It gains an additional 🔷 on each of its turns. This 🔷 cannot be used to cast a Spell.
+Target willing creature in range becomes *[Quickened]* until this Spell ends.
 
-When this Spell ends, the target makes a *DC* `15` Constitution Check. **Failure:** the target is *Incapacitated* until the end of its next turn.
+When this Spell ends, the target makes a *DC* `15` Constitution Check.
+
+**Failure:** the target is *Incapacitated* until the end of its next turn.
 
 **Classes:** Artificer, Cleric, Paladin, Psion, Ranger, Sorcerer, Wizard
+
+[Quickened]: ../../Rules/Conditions/Quickened.md

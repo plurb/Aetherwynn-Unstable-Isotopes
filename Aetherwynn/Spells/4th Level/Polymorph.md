@@ -1,13 +1,13 @@
 ### Polymorph
-*4th-level Transmutation*
-**Casting Time:** Action  
+*4th-level Spell (Transmutation)*
+**Casting Time:** 🔷  
 **Range:** 60 feet  
 **Components:** C, V, S, M (a caterpillar cocoon)  
 **Duration:** Up to 1 hour  
 
 This spell transforms a creature that you can see within range into a new form.
 
-An unwilling creature must make a Wisdom saving throw to avoid the effect. The spell has no effect on a shapechanger or a creature with 0 hit points.
+An unwilling creature must make a Wisdom saving throw to avoid the effect. The spell has no effect on a creature with the "Change Shape", or "Shapeshift" Ability, or a creature with 0 hit points.
 
 The transformation lasts for the duration, or until the target drops to 0 hit points or dies. The new form can be any beast whose challenge rating is equal to or less than the target's (or the target's level, if it doesn't have a challenge rating). The target's game statistics, including mental ability scores, are replaced by the statistics of the chosen beast. It retains its alignment and personality.
 

@@ -57,7 +57,7 @@
 
 <!-- 3rd level -->
 [MR]: ../../../Exploits/3rd%20Level/Menacing%20Roar.md
-[PT]: ../../../Exploits/3rd%20Level/Pack%20Tactice.md
+[PT]: ../../../Exploits/3rd%20Level/Pack%20Tactics.md
 
 <!-- 4th level -->
 [UB]: ../../../Exploits/4th%20Level/Unbreakable.md
