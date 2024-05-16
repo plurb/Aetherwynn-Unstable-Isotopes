@@ -53,7 +53,9 @@
             "h1",
             "img",
             "sup",
-            "sub"
+            "sub",
+            "small",
+            "span"
         ]
     }
 }

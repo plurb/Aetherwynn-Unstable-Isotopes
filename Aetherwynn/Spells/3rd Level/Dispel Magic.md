@@ -7,8 +7,10 @@
 
 > *You release a strong wave of disruptive aether, dispelling almost any magical effect.*
 
-End target Spell of level `X` or lower affecting a creature in range, where `X = this Spell's level`. If the Spell's level is greater than `X`, make a `DC 10 + Y` *Ability Check* using your Spellcasting Ability, where `Y = target Spell's level`.
+*[Dispel]* target Spell of level `X` or lower affecting a creature in range, where `X = this Spell's level`. If the Spell's level is greater than `X`, make a *DC* `Y` *Ability Check* using your Spellcasting Ability, where `Y = 10 +  target Spell's level`.
 
-**Success:** End the target Spell.
+**Success:** *[Dispel]* the target Spell.
 
 **Classes:** Artificer, Cleric, Druid, Magus, Paladin, Ranger, Sorcerer, Warlock, Wizard
+
+[Dispel]: ../../Rules/Spellcasting/Dispelling%20A%20Spell.md
