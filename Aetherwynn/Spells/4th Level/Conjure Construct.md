@@ -1,7 +1,7 @@
 ### Conjure Construct
 *4th-level Spell (Conjuration)*  
-**Casting Time:** Action  
-**Range:** 30 feet  
+**Casting Time:** 🔷  
+**Range:** 30 ft.  
 **Components:** C, V, S, M (an ornate stone and metal lockbox worth at least 400 gp)  
 **Duration:** Up to 1 minute  
 

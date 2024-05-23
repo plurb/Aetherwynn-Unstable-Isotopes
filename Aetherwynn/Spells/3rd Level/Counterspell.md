@@ -1,7 +1,7 @@
 ### Counterspell
 *3rd-Level Spell (Abjuration)*  
 **Casting Time:** ⚡; If you see a creature in range casting a Spell  
-**Range:** 60 feet  
+**Range:** 60 ft.  
 **Components:** V, S  
 **Duration:** Instantaneous  
 

@@ -7,6 +7,8 @@
 
 > *You magically capture then reverse the effects of a spell just as it is being cast.*
 
-Copy target Spell of level `X` or lower, then counter it, where `X = this spell's level - 1`. You may choose new targets for the copy.
+*[Copy]* target Spell of level `X` or lower, then counter it, where `X = this Spell's level - 1`. You may choose new targets for the copy.
 
 **Classes:** Magus, Sorcerer, Wizard
+
+[Copy]: ../../Rules/Spellcasting/Copying%20A%20Spell.md

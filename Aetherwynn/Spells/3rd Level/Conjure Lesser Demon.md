@@ -13,7 +13,7 @@ You *[Summon]* a Demon of level `X` or lower from the list below, where `X = thi
 
 | **Level** | **Name**      |
 |----------:|:--------------|
-|   &leq; 2 | ???, ???, ... |
+|  $\leq$ 2 | ???, ???, ... |
 |         3 | ???, ???, ... |
 |         4 | ???, ???, ... |
 |         5 | ???, ???, ... |

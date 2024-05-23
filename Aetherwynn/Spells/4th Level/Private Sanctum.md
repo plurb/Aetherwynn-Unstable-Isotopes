@@ -3,14 +3,13 @@
 **Casting Time:** 10 minutes  
 **Range:** 120 feet  
 **Components:** V, S, M (a thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite)  
-**Duration:** 24 hours  
+**Duration:** 24 hrs.  
 
 <!-- TODO: finish formatting -->
 
 You make an area within range magically secure. The area is a cube that can be as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration or until you use an action to dismiss it.
 
-When you cast this spell, you decide what sort of security the spell provides, choosing any or all of the following properties:
-
+When you cast this spell, you decide what sort of security the spell provides, choosing one or more of the following:
 * Sound can't pass through the barrier at the edge of the warded area.
 * The barrier of the warded area appears dark and foggy, preventing vision (including darkvision) through it.
 * Sensors created by divination spells can't appear inside the protected area or pass through the barrier at its perimeter.

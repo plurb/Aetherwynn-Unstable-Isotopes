@@ -104,7 +104,7 @@ Whenever you gain a Barbarian level, you can replace one of the Exploits you lea
 
 If one of your Exploits requires a creature to make a *Saving Throw*, your Exploit DC is calculated as follows:
 
-**Exploit Save DC** = `8 + your Proficiency Bonus + your Strength modifier`
+**Exploit Save DC** = `10 + your Proficiency Bonus + your Strength modifier`
 
 ---
 

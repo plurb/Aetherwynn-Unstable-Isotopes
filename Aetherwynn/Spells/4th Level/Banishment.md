@@ -1,7 +1,7 @@
 ### Banishment
 *4th-level Abjuration*  
-**Casting Time:** Action  
-**Range:** 60 feet  
+**Casting Time:** 🔷  
+**Range:** 60 ft.  
 **Components:** C, V, S, M (an item distasteful to the target)  
 **Duration:** Up to 1 minute  
 

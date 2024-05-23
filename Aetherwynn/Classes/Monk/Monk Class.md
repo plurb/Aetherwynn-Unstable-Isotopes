@@ -76,14 +76,14 @@ For the purpose of your Monk Abilities, *Martial Arts Attacks* are *Unarmed Stri
 
 ♾️ — Your *Unarmed Strikes* are *Martial Melee Weapons* you are Proficient with, and have the *Light* and *Finesse* properties. Their *Damage Die* is `1dM`.
 
-> **Quick Reference:** [Two-Weapon Fighting](../../Rules/Combat/Actions/Two-Weapon%20Fighting.md)
+> **Quick Reference:** [Two-Weapon Fighting][TWF]
 
 ---
 
 ## Fighting Style
 *1st-level Ability (Monk)*
 
-You learn one Fighting Style from [*Monk Fighting Styles*](./Monk%20Fighting%20Styles.md).
+You learn one Fighting Style from [*Monk Fighting Styles*][MFS].
 
 ---
 
@@ -106,7 +106,7 @@ For Exploits that modify an *Attack*, *Ability Check*, or *Saving Throw*: you ca
 
 ### Exploits Known
 
-You learn `3` Exploits from the [*Monk Exploit List*](./Monk%20Exploit%20List.md). The "Exploits" column of the Monk Table shows when you learn more Exploits of your choice. To learn a Exploit, you must be able to learn Exploits of its level, as well as meet any other prerequisites (listed under **Pre-requisites** in the Exploit's entry).
+You learn `3` Exploits from the [*Monk Exploit List*][MEL]. The "Exploits" column of the Monk Table shows when you learn more Exploits of your choice. To learn a Exploit, you must be able to learn Exploits of its level, as well as meet any other prerequisites (listed under **Pre-requisites** in the Exploit's entry).
 
 Whenever you gain a Monk level, you can replace one of the Exploits you learnt from this class with another Exploit from the *Monk Exploit List*.
 
@@ -140,7 +140,7 @@ You have a number of Ki Points calculated as follows:
 
 ### Ki Abilities
 
-You use your Wisdom whenever an ability refers to your Ki Ability. In addition, you use your Wisdom modifier when calculating the Saving Throw DC for [Techniques](#techniques) and other Monk Abilities you perform and when making an *Attack Roll* for *Ki Attacks*.
+You use your Wisdom whenever an ability refers to your Ki Ability. In addition, you use your Wisdom modifier when calculating the Saving Throw DC for [Techniques][T] and other Monk Abilities you perform and when making an *Attack Roll* for *Ki Attacks*.
 
 **Ki Save DC** = `8 + your proficiency bonus + your Wisdom modifier`  
 **Ki Attack Modifier** = `your proficiency bonus + your Wisdom modifier`
@@ -154,7 +154,7 @@ Some Abilities let you cast Spells using Ki. You use your Wisdom whenever a Spel
 ## Techniques
 *2nd-level Ability (Monk)*
 
-You learn `3` Techniques from [*Monk Techniques*](./Monk%20Techniques.md). The "Techniques" column of the Monk Table shows when you learn more Techniques of your choice.
+You learn `3` Techniques from [*Monk Techniques*][MT]. The "Techniques" column of the Monk Table shows when you learn more Techniques of your choice.
 
 ---
 
@@ -178,11 +178,10 @@ Choose one of the following, it gives you shit occasionally:
 ## Ability Score Increase
 *4th-level Ability (All Classes)*
 
-
 ## Feat
 *4th-level Ability (Monk)*
 
-Earn a General, Martial, or Monk feat which you meet the pre-requisites for.
+You earn a General, Martial, or Monk feat which you meet the pre-requisites for.
 
 ## Multiattack
 
@@ -192,4 +191,8 @@ Earn a General, Martial, or Monk feat which you meet the pre-requisites for.
 
 ## Mystic Resilience
 
-
+[MT]: ./Monk%20Techniques.md
+[MFS]: ./Monk%20Fighting%20Styles.md
+[MEL]: ./Monk%20Exploit%20List.md
+[TWF]: ../../Rules/Encounters/Actions/Two-Weapon%20Fighting.md
+[T]: #techniques
