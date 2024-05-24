@@ -36,10 +36,10 @@ You can only take one Move Action per turn. You can only take Move Actions durin
 
 ### Replacing Action Types
 
-Some abilities replace the type of Action an Ability uses (e.g. the Rogue's "Cunning Action"). For those abilities, the Action specified takes the abilitie's Action type, rather than the type it normally does.
+Some abilities replace the type of Action an Ability uses (e.g. the Rogue's "Cunning Action"). For those abilities, the Action specified takes the ability's Action type, rather than the type it normally does.
 
 > ### Example
-> 
+>
 > A rogue uses "🔵 - Cunning Action" to "Dash". The rogue's Major Action is not used, instead, Their Minor Action is used.
 
 ### Action Symbols
@@ -91,4 +91,3 @@ Actions:
 * (➡️) [Take Cover](./Actions/Take%20Cover.md)
 * (🔵) [Two-Weapon Fighting](./Actions/Two-Weapon%20Fighting.md)
 * (🔷) [Use An Object](./Actions/Use%20An%20Object.md)
-

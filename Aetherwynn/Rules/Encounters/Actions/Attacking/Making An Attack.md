@@ -4,6 +4,8 @@ To make an *Attack*, roll a `d20`, then add any appropriate modifiers to the rol
 
 ### Melee Attacks
 
+If you make a *Melee Attack* against a creature outside of the range of the *Attack*, the *Attack* misses and does not apply any effects to the target.
+
 **Unarmed Melee Attacks.** You add your Strength modifier to the `d20` roll.
 
 **Melee Weapon Attacks.** You add your Strength modifier to the `d20` roll.
@@ -19,3 +21,7 @@ You have Disadvantage on *Ranged Attacks* against creatures within 5 ft. of you.
 **Thrown Weapon Attacks.** You add your Strength modifier to the `d20` roll.
 
 **Ranged Spell Attacks.** You add your Spellcasting modifier to the `d20` roll.
+
+### Weapon Attacks
+
+*Melee Weapon Attacks* and *Ranged Weapon Attacks* are *Weapon Attacks*.
