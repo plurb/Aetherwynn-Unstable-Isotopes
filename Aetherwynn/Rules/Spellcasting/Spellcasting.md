@@ -1,5 +1,11 @@
 # Spellcasting
 
+<!-- FIXME: Complete ground-up re-work.
+
+Re-write to be more concrete, more specific to how Spells actually work.
+
+-->
+
 Magic permeates the world of Aetherwynn and most often appears in the form of spellcraft.
 
 This section provides the rules for casting spells. Different classes have distinctive ways of learning and preparing their spells, and monsters use spells in unique ways. Regardless of its source, a spell follows the rules here.
