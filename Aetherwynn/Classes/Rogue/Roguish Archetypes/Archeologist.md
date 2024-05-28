@@ -36,7 +36,7 @@ You gain Proficiency with History and Investigation. If you are already Proficie
 
 You gain the following abilities:
 * ♾️ — Your Climbing Speed is equal to your Walking Speed.
-* ♾️ — Whenever an object makes an *Attack* vs *Reflex* against you, the *Attack* has Disadvantage.
+* ♾️ — Whenever an object makes an *Attack* vs. *Reflex* against you, the *Attack* has Disadvantage.
 * ♾️ — You ignore Class, Race, and Alignment requirements for Attuning to or using Magical Items. <sup><sub>*(Magical Items are Items with the "Magical" tag, such as scrolls, potions, and magical weapons)*</sub><sup>
 
 ---

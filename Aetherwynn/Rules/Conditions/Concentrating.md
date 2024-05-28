@@ -12,4 +12,4 @@ Normal activity, such as moving and attacking, doesn't interfere with Concentrat
 
 * **Being incapacitated or killed** — You lose Concentration on an ability if you are Incapacitated or Die.
 
-The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you are on a storm-tossed ship, in which case the GM rolls an *Attack* vs your *Fortitude*.
+The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you are on a storm-tossed ship, in which case the GM rolls an *Attack* vs. your *Fortitude*.

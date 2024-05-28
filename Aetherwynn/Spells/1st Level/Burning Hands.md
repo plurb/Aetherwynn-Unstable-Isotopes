@@ -7,7 +7,7 @@
 
 > *You release a cone of flame from your hands.*
 
-Make a *Ranged Spell Attack* vs *Reflex* in a 15 ft. cone originating from you.
+Make a *Ranged Spell Attack* vs. *Reflex* in a 15 ft. cone originating from you.
 
 **Hit:** The creature takes `Xd6 [fire]` Damage, where `X = 1 + this Spell's level`.
 **Miss:** The creature takes half as much Damage.

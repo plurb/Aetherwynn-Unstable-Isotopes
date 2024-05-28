@@ -7,7 +7,7 @@
 
 > *You create an image of fear and dread in the mind of your target.*
 
-Make a *Ranged Spell Attack* vs *Will* against up to `X` different target creatures you can see in range, where `X = this spell's level - 1`.
+Make a *Ranged Spell Attack* vs. *Will* against up to `X` different target creatures you can see in range, where `X = this spell's level - 1`.
 
 **Hit:** The creature is *Blinded*, and *Frightened* of itself until this spell ends.  
 

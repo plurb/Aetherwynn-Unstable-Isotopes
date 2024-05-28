@@ -7,7 +7,7 @@
 
 > *A spectral hand tethers your target in place.*
 
-Make a *Ranged Spell Attack* vs *Will* against up to `X` different target Humanoid creatures in range, where `X = this spell's level - 1`.
+Make a *Ranged Spell Attack* vs. *Will* against up to `X` different target Humanoid creatures in range, where `X = this spell's level - 1`.
 
 **Hit:** The creautre is *Restrained II* until this spell ends.  
 **Miss:** This spell ends for that creature.  

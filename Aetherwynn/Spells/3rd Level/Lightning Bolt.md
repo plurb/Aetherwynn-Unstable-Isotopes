@@ -7,7 +7,7 @@
 
 > *Anjali pulls aether inwards, focussing it in a single, concentrated blast of electricity.*
 
-Make a *Ranged Spell Attack* vs *Reflex* in a 5 ft. wide line originating from you and ending at target point in range.
+Make a *Ranged Spell Attack* vs. *Reflex* in a 5 ft. wide line originating from you and ending at target point in range.
 
 **Hit:** The creature takes `Xd6 [lightning]` Damage, where `X = 5 + this Spell's level`.  
 **Miss:** The creature takes half as much Damage.

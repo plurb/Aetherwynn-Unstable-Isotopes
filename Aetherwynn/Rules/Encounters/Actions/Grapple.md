@@ -2,7 +2,7 @@
 
 > *You attempt to grapple a creature.*
 
-🔺 **(range: your Natural Reach, requires: you have at least one free hand)** — Make an *Unarmed Melee Attack* vs *AC* against target creature in range.
+🔺 **(range: your Natural Reach, requires: you have at least one free hand)** — Make an *Unarmed Melee Attack* vs. *AC* against target creature in range.
 
 **Hit:** The creature is [*Grappled*][G] by you.
 

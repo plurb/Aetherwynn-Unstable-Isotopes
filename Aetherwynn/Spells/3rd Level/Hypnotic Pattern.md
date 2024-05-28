@@ -7,7 +7,7 @@
 
 > *Spiralling colours and geometrics patterns fill a space, bedazzling and confusing those within.*
 
-Make a *Ranged Spell Attack* vs *Will* in a 20 ft. cube centered on target point in range.
+Make a *Ranged Spell Attack* vs. *Will* in a 20 ft. cube centered on target point in range.
 
 **Hit:** The creautre is *[Charmed]* until this spell ends; You must make this *Attack* again at the end of its next turn.  
 **Miss:** This spell ends for that creature.  

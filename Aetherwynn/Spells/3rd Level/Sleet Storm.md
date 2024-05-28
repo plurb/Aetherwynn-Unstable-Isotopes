@@ -7,7 +7,7 @@
 
 > *You create an area of cold sleet and strong wind.*
 
-Until this Spell ends, a 40 ft. radius, 20 ft. tall cylinder centered on target point in range becomes *[Difficult Terrain I][DT]*, and *[Heavily Obscured][HO]*. At the end of each of your turns, make a *Ranged Spell Attack* vs *Reflex* in this area.
+Until this Spell ends, a 40 ft. radius, 20 ft. tall cylinder centered on target point in range becomes *[Difficult Terrain I][DT]*, and *[Heavily Obscured][HO]*. At the end of each of your turns, make a *Ranged Spell Attack* vs. *Reflex* in this area.
 
 **Hit:** The creature falls *[Prone]*.
 

@@ -7,7 +7,7 @@
 
 > *You release a directed bullet of flame.*
 
-Make a *Ranged Spell Attack* vs *AC* against target creature in range.
+Make a *Ranged Spell Attack* vs. *AC* against target creature in range.
 
 **Hit:** you deal `Xd10 [fire]` Damage, where `X = 1`.
 

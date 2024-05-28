@@ -7,7 +7,7 @@
 
 > *You conjrue a mass of sticky webs, making an area difficult to cross.*
 
-Until this Spell ends, your choice of a 20 ft. cube centered on target point in range, or a 20 ft. × 20 ft. × 5 ft. prism becomes *[Difficult Terrain]* and *Lightly Obscured*. When you cast this Spell, make a *Ranged Spell Attack* vs *Reflex* in this area.
+Until this Spell ends, your choice of a 20 ft. cube centered on target point in range, or a 20 ft. × 20 ft. × 5 ft. prism becomes *[Difficult Terrain]* and *Lightly Obscured*. When you cast this Spell, make a *Ranged Spell Attack* vs. *Reflex* in this area.
 
 **Hit:** The creature is *[Restrained I][r]*.
 
