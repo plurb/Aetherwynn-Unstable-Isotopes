@@ -1,5 +1,5 @@
-### **Weapon Name**
-*\[Rarity\] \[Weapon/Item Type\] (Weapon/Item Tags separated by commas)*
+### {Weapon Name}
+*{Rarity} {Weapon/Item Type} ({Weapon/Item Tags separated by commas})*
 **Value:** (# in gold pieces)
 **Weight:** (# in kilograms)
 **Damage:** (XdY (+ Modifiers, *when applicable*))
