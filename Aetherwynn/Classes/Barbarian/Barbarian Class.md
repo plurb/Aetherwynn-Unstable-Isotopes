@@ -182,11 +182,11 @@ You earn an additional Feat at 8th, 12th, 16th, and 19th level.
 ## Rage Improvement
 *6th-level Ability (Barbarian)*  
 
-> *Thormund's blood boils. His aura flares from his body like a roaring flame. The sight of seeing Markus lying on the ground half-dead throwing him into a rage like none have seen before.*
+> *"Thormund's blood boils. His aura flares from his body like a roaring flame. The sight of seeing Markus lying on the ground half-dead throwing him into a rage like none have seen before."*
 
 ♾️ — While you are *[Enraged]*, you gain the following effects:
 * *Weapon Attacks* you make count as Magical for the purpose of overcoming *Resistance* and *Immunity* to non-Magical *Attacks* and Damage.
-* You gain immunity to all non-magical bludgeoning, piercing, and slashing damage.
+* You gain *Immunity* to all non-Magical Bludgeoning, Piercing, and Slashing Damage.
 
 ---
 
@@ -195,16 +195,14 @@ You earn an additional Feat at 8th, 12th, 16th, and 19th level.
 
 > *You are able to avoid attacks that are otherwise unavoidable.*
 
-You gain the following abilities:
-* You gain Proficiency with *Dexterity Saving Throws*.
-* ♾️ — Whenever you make a *Dexterity Saving Throw* to take only half damage, or a *Saving Throw* against an effect with the *Blast* tag, you instead take no Damage on a success, and only half Damage on a failure.
+♾️ — Whenever a creature makes an *Attack* vs *Reflex* against you, or the ability has the "Blast" tag, you take no Damage if the *Attack* misses, and only half as much Damage if it hits.
 
 ---
 
 ## Brutality
 *9th-level Ability (Barbarian)*  
 
-♾️ — Whenever you hit a creature with an *Attack* for the first time during your, you deal additional damage equal to one roll of the weapon's damage die.
+♾️ — Whenever you hit a creature with a *Weapon Attack* for the first time during your turn, you deal additional Damage equal to one roll of the Weapon's "Damage Die".
 
 This increases to two additional dice at 13th level in this class, and three additional dice at 17th level in this class.
 
@@ -216,7 +214,7 @@ This increases to two additional dice at 13th level in this class, and three add
 > *Man literally too angry to die.*
 
 ♾️ — While you are *Enraged*, you gain the following effects:
-* If you are reduced to `0` HP, make a DC `X` *Constitution Saving Throw*, where `X = half the damage taken or 10, whichever is greater`. If you succeed, you drop to 1 hit point instead.
+* If your HP is reduced to `0`, make a *DC* `X` *Constitution Check*, where `X = half the damage taken or 10, whichever is greater`. **Success:** Your HP is reduced to `1` instead.
 
 ---
 
