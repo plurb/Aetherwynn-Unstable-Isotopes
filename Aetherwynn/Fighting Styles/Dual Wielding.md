@@ -3,7 +3,7 @@
 **Pre-requisites:** —  
 
 You gain the following abilities:
-* ♾️ — After you take the *Attack* Action while *Two-Weapon Fighting*, you can make a *Melee Weapon Attack* with your off-hand weapon using a *Free Action* instead of a *Bonus Action*.
+* ♾️ — After you "Attack" while *Two-Weapon Fighting*, you can make a *Melee Weapon Attack* with your off-hand weapon using ◻️ instead of 🔵.
 
 ---
 

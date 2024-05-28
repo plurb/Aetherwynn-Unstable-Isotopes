@@ -10,6 +10,7 @@
 | [Strongbow][6]              | Unstable Isotopes (0.0) |
 | [Thrown Weapon Fighting][7] | Unstable Isotopes (0.0) |
 | [Unarmed Fighting][8]       | Unstable Isotopes (0.0) |
+| [Unarmoured Defence][9]     | Unstable Isotopes (0.0) |
 
 ---
 
@@ -24,5 +25,6 @@
 [6]: ../../Fighting%20Styles/Strongbow.md
 [7]: ../../Fighting%20Styles/Thrown%20Weapon%20Fighting.md
 [8]: ../../Fighting%20Styles/Unarmed%20Fighting.md
+[9]: ../../Fighting%20Styles/Unarmoured%20Defence.md
 
 <!----------------->

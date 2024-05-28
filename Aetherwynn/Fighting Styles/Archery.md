@@ -3,4 +3,4 @@
 **Pre-requisites:** —  
 
 You gain the following abilities:
-* ♾️ — You gain a `+2` bonus to *Attack Rolls* for *Ranged Weapon Attacks*.
+* ♾️ — *Ranged Weapon Attacks* you make deal an additional `+2` Damage.

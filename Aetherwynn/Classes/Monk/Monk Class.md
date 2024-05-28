@@ -3,7 +3,7 @@
 ## Monk
 
 | Level | Proficiency | Abilities                              | Martial Arts | Fast Movement | Techniques | Exploits | Exploit Level |
-| ----: | ----------: | :------------------------------------- | -----------: | ------------: | ---------: | -------: | ------------: |
+|------:|------------:|:---------------------------------------|-------------:|--------------:|-----------:|---------:|--------------:|
 |     1 |           2 | Martial Arts, Fighting Style, Exploits |         `d6` |             - |          - |        3 |             1 |
 |     2 |           2 | Fast Movement, Ki, Techniques          |         `d6` |       +10 ft. |          3 |        4 |             1 |
 |     3 |           2 | Monastic Tradition                     |         `d6` |       +10 ft. |          3 |        5 |             1 |
@@ -12,7 +12,7 @@
 |     6 |           3 | Tradition Feature, Enhanced Strikes    |         `d8` |       +15 ft. |          4 |        8 |             2 |
 |     7 |           3 | Evasion                                |         `d8` |       +15 ft. |          5 |        9 |             2 |
 |     8 |           3 | Ability Score Increase, Feat           |         `d8` |       +15 ft. |          5 |       10 |             2 |
-|     9 |           4 | Mystic Resilience                      |         `d8` |       +15 ft. |          6 |       11 |             3 |
+|     9 |           4 |                                        |         `d8` |       +15 ft. |          6 |       11 |             3 |
 |    10 |           4 | Tradition Feature                      |         `d8` |       +20 ft. |          6 |       11 |             3 |
 |    11 |           4 | Multiattack (3)                        |        `d10` |       +20 ft. |          7 |       12 |             3 |
 |    12 |           4 | Ability Score Increase, Feat           |        `d10` |       +20 ft. |          7 |       12 |             3 |
@@ -23,8 +23,8 @@
 
 ## Hit Points
 
-**Hit Dice:** 1d10  
 **Hit Points:** `10 + your Constitution modifier` per Monk level
+**Hit Dice:** `1d10`  
 
 ---
 
@@ -35,7 +35,7 @@
 **Tools:** 1 set of Artisan's Tools, or 1 Musical Instrument  
 **Spellcasting Foci:** —  
 **Saving Throws:** Strength, Dexterity  
-**Skills:** Choose `2 + your Intelligence modifier (minimum of 0)` of the following: Acrobatics, Athletics, History, INsight, Nature, Religion, Stealth.  
+**Skills:** Choose `2 + your Intelligence modifier (minimum of 0)` of the following: Acrobatics, Athletics, History, Insight, Nature, Religion, Stealth  
 
 ---
 
@@ -164,7 +164,7 @@ You learn `3` Techniques from [*Monk Techniques*][MT]. The "Techniques" column o
 Choose one of the following, it gives you shit occasionally:
 
 | **Tradition**            | **Source**              |
-| :----------------------- | :---------------------- |
+|:-------------------------|:------------------------|
 | Way of Light             | Unstable Isotopes (0.0) |
 | Way of Perseverance      | Unstable Isotopes (0.0) |
 | Way of Shadows           | Unstable Isotopes (0.0) |
@@ -183,13 +183,22 @@ Choose one of the following, it gives you shit occasionally:
 
 You earn a General, Martial, or Monk feat which you meet the pre-requisites for.
 
+---
+
 ## Multiattack
+*5th-level Ability (Barbarian, Fighter, Monk)*  
+
+> *You can strike with inhuman speed.*
+
+♾️ — You *Attack* up to `X` times, instead of once, when you "Attack" on your turn, where `X = 2`.
+
+`X = 3` at 11th level, and `X = 4` at 17th level in this class.
+
+---
 
 ## Enhanced Strikes
 
 ## Evasion
-
-## Mystic Resilience
 
 [MT]: ./Monk%20Techniques.md
 [MFS]: ./Monk%20Fighting%20Styles.md

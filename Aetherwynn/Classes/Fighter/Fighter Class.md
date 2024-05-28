@@ -28,12 +28,14 @@
 # Class Abilities
 
 ## Hit Points
-**Hit Points Per Level:** `10 + your Constitution modifier` per Fighter Level.  
-**Hit Dice:** 1d10 per Fighter Level.  
+
+**Hit Points:** `10 + your Constitution modifier` per Fighter Level.  
+**Hit Dice:** `1d10` per Fighter Level.  
 
 ---
 
 ## Proficiencies
+
 **Armor:** All Armor, Shields  
 **Weapons:** Simple Weapons, Martial Weapons, Firearms  
 **Tools:** One set of artisan's tools of your choice  
@@ -178,9 +180,9 @@ You earn a Feat. This Feat can be either a *General*, *Martial*, or *Fighter* Fe
 
 > *You can strike with inhuman speed.*
 
-♾️ — You Attack up to `2` times, instead of once, when you take the *Attack* Action on your turn.
+♾️ — You *Attack* up to `X` times, instead of once, when you "Attack" on your turn, where `X = 2`.
 
-The number of attacks you can make when you take the *Attack Action* increases at 11th level (3 attacks total), and at 17th level (4 attacks total) in this class.
+`X = 3` at 11th level, and `X = 4` at 17th level in this class.
 
 ---
 

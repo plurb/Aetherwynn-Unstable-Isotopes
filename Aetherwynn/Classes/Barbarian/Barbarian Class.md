@@ -30,18 +30,18 @@
 
 ## Proficiencies
 
-**Armor:** Light armor, Medium armor, Shields  
+**Armor:** Light armour, Medium armour, Shields  
 **Weapons:** Simple Weapons, Martial Weapons  
-**Tools:** None  
-**Spellcasting Foci:** None  
-**Saving Throws:** Strength, Constitution  
-**Skills:** Choose `1 + your Intelligence modifier` of the following: Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival.  
+**Tools:** —  
+**Spellcasting Foci:** —  
+**Defences:** *Reflex*, *Fortitude*  
+**Skills:** Choose `1 + your Intelligence modifier` of the following: Animal Handling, Athletics, Intimidation, Nature, Perception, Survival  
 
 ---
 
 ## Starting Equipment
 
-You start with the following items, plus anything provided by your background.
+You start with the following items, in addition to anything provided by your background.
 
 * (a) a greataxe or (b) any martial melee weapon
 * (a) two handaxes or (b) any simple weapon
@@ -51,12 +51,12 @@ Alternatively, you may start with `2d4 × 10` gp to buy your own equipment.
 
 ---
 
-### Multiclassing Into This Class
+### Multiclassing
 
 **Ability Score Requirement:** Strength score of 13 or greater.  
-**Armor Gained:** Shields  
+**Armour Gained:** Shields  
 **Weapons Gained:** Simple weapons, Martial Weapons  
-**Skills Gained:** Choose `1 + half your Intelligence modifier (rounded up)` of the following: Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival.  
+**Skills Gained:** Choose `1 + half your Intelligence modifier (rounded up)` of the following: Animal Handling, Athletics, Intimidation, Nature, Perception Survival  
 
 ---
 
@@ -66,10 +66,10 @@ Alternatively, you may start with `2d4 × 10` gp to buy your own equipment.
 > *You fight with an unchecked primal ferocity in battle.*
 
 🔵 **(`X`/short rest, requires: You are not wearing Heavy Armour)** — You are *[Enraged]* until this ability ends. While *[Enraged]* this way, you gain the following effects:
-* When you make a *Weapon Attack* using your Strength, you deal additional damage equal to your Proficiency Bonus.
+* When you make a *Weapon Attack* using your Strength, you deal additional Damage equal to your Proficiency Bonus.
 * You gain *Resistance* to non-Magical Bludgeoning, non-Magical Piercing, and non-Magical Slashing Damage.
 
-This ability lasts for 10 minutes, and ends early unless you *Attack*, make a Strength *Check* or *Saving Throw*, take *Damage*, or use a *Minor Action* to extend it before the beginning of your next turn.
+This ability lasts for 10 minutes, and ends early unless you make an *Attack*, Check using Strength, take *Damage*, or use a 🔵 to extend it before the beginning of your next turn.
 
 `X = the number shown in the "Rages" column of the Barbarian table`
 
@@ -91,27 +91,28 @@ You have a number of "Stamina Points" calculated as follows:
 **Stamina Points** = `your Barbarian level + your Constitution modifier (minimum of 0)`
 
 To perform an Exploit, you expend a number of Stamina Points equal to the Exploit's level. You regain all expended Stamina Points when you finish a *Short* or *Long Rest*.
-d
-For Exploits that modify an *Attack*, *Ability Check*, or *Saving Throw*: you can only use one Exploit per *Attack*, *Ability Check*, or *Saving Throw*.
+
+For Exploits that modify an *Attack*, or *Ability Check*: you can only use one Exploit per *Attack*, or *Ability Check*.
 
 ### Exploits Known
 
-You learn two Exploits from the *[Barbarian Exploit List]*. The Exploits Known column of the Barbarian table shows when you learn more Exploits of your choice. To learn an Exploit, you must be able to learn Exploits of its level (as shown in the "Exploit Level" column of the Barbarian table), as well as meet any other pre-requisites (listed under **Pre-requisites** in the Exploit's entry).
+You know `X` Exploits from the *[Barbarian Exploit List]*, where `X = the number shown in the "Exploits Known" column of the Barbarian table`. To learn an Exploit, you must be able to learn Exploits of its level (as shown in the "Exploit Level" column of the Barbarian table), as well as meet any other pre-requisites (listed under **Pre-requisites** in tags of the Exploit's entry).
 
-Whenever you gain a Barbarian level, you can replace one of the Exploits you learnt from this class with another Exploit from the Barbarian Exploit List.
+Whenever you gain a Barbarian level, you can replace one Exploit you learnt from this class with another Exploit from the *[Barbarian Exploit List]*.
 
 ### Exploit Ability
 
-If one of your Exploits requires a creature to make a *Saving Throw*, your Exploit DC is calculated as follows:
+If one of your Exploits requires you to make an *Exploit Attack*, or a creature to make a Check, your "Exploit Attack Modifier", and "Exploit DC" are calculated as follows:
 
-**Exploit Save DC** = `10 + your Proficiency Bonus + your Strength modifier`
+**Exploit Attack Modifier** = `+ your Proficiency Bonus + your Strength modifier`
+**Exploit DC** = `10 + your Proficiency Bonus + your Strength modifier`
 
 ---
 
 ## Fighting Style
 *1st-level Ability (Barbarian)*  
 
-You learn one fighting style from [*Barbian Fighting Styles*][BF].
+You learn one Fighting Style from [*Barbian Fighting Styles*][BF].
 
 ---
 
@@ -120,7 +121,7 @@ You learn one fighting style from [*Barbian Fighting Styles*][BF].
 
 > *You can throw aside concern for your defense to attack more accurately.*
 
-◻️ **(1/turn)** — When you take the [*Attack Action*][AtkAct], but before you make any attacks, you may gain advantage on all attacks you make this turn. If you do, all attack rolls targeting you have advantage until the start of your next turn.
+◻️ **(1/turn)** — When you ["Attack"][AtkAct], but before you make any *Attacks*, you may gain Advantage on all *Attacks* you make this turn. If you do, all *Attacks* against you have Advantage until the start of your next turn.
 
 ---
 
@@ -131,16 +132,17 @@ You learn one fighting style from [*Barbian Fighting Styles*][BF].
 
 Choose one of the following Primal Paths:
 
-| Primal Path                          | Source                 |
-|:-------------------------------------|:-----------------------|
-| [Path of The Beast][Beast]           | Unstable Isotope (0.0) |
-| [Path of The Berserker][Bersk]       | Unstable Isotope (0.0) |
-| [Path of The Conduit][Condu]         | Unstable Isotope (0.0) |
-| [Path of The Green Warden][GrnWd]    | Unstable Isotope (0.0) |
-| [Path of The Storm][Storm]           | Unstable Isotope (0.0) |
-| [Path of The Titan][Titan]           | Unstable Isotope (0.0) |
-| [Path of The Totem Warrior][TtmWr]   | Unstable Isotope (0.0) |
-| [Path of The Zealot][Zealt]          | Unstable Isotope (0.0) |
+| Primal Path                        | Source                 |
+|:-----------------------------------|:-----------------------|
+| [Path of Flames][PoF]              | Unstable Isotope (0.0) |
+| [Path of The Beast][Beast]         | Unstable Isotope (0.0) |
+| [Path of The Berserker][Bersk]     | Unstable Isotope (0.0) |
+| [Path of The Conduit][Condu]       | Unstable Isotope (0.0) |
+| [Path of The Green Warden][GrnWd]  | Unstable Isotope (0.0) |
+| [Path of The Storm][Storm]         | Unstable Isotope (0.0) |
+| [Path of The Titan][Titan]         | Unstable Isotope (0.0) |
+| [Path of The Totem Warrior][TtmWr] | Unstable Isotope (0.0) |
+| [Path of The Zealot][Zealt]        | Unstable Isotope (0.0) |
 
 ### Primal Exploits
 
@@ -151,14 +153,18 @@ Each Primal Path has a list of Primal Exploits you learn at the Barbarian levels
 ## Ability Score Increase
 *4th-level Ability (All Classes)*
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or two ability scores by 1. You can't increase one of your ability scores above 20 using this Ability.
+Increase one Ability Score of your choice by `2`, or two Ability Scores by `1`. You cannot increase one of your Ability Scores above `20` using this Ability.
+
+Do this again when you reach 8th, 12th, 16th, and 19th level in this class.
 
 ---
 
 ## Feat
 *4th-level Ability (Barbarian)*
 
-You learn a feat. This feat can be either a General, Martial, or Barbarian feat. You learn additional feats at 8th, and 12th level.
+You earn a Feat. This Feat can be either a General, Martial, or Barbarian Feat.
+
+You earn an additional Feat at 8th, 12th, 16th, and 19th level.
 
 ---
 
@@ -167,9 +173,9 @@ You learn a feat. This feat can be either a General, Martial, or Barbarian feat.
 
 > *You can strike with inhuman speed.*
 
-♾️ — You Attack up to `2` times, instead of once, when you take the *Attack* Action on your turn.
+♾️ — You *Attack* up to `X` times, instead of once, when you "Attack" on your turn, where `X = 2`.
 
-The number of attacks you can make when you take the *Attack Action* increases at 11th level (3 attacks total) and at 17th level (4 attacks total) in this class.
+`X = 3` at 11th level, and `X = 4` at 17th level in this class.
 
 ---
 
@@ -233,7 +239,7 @@ This increases to two additional dice at 13th level in this class, and three add
 
 <!-- External references. -->
 [Enraged]: ../../Rules/Conditions/Enraged.md
-[BF]: ./Barbarian%20Fighting%20Sytles.md
+[BF]: ./Barbarian%20Fighting%20Styles.md
 [AtkAct]: ../../Rules/Encounters/Actions/Attack.md
 [Barbarian Exploit List]: ./Barbarian%20Exploits.md
 
@@ -246,5 +252,6 @@ This increases to two additional dice at 13th level in this class, and three add
 [Titan]: ./Primal%20Paths/Path%20of%20The%20Titan.md
 [TtmWr]: ./Primal%20Paths/Path%20of%20The%20Totem%20Warrior.md
 [Zealt]: ./Primal%20Paths/Path%20of%20the%20Zealot.md
+[PoF]: ./Primal%20Paths/Path%20of%20Flames.md
 
 <!----------------->
