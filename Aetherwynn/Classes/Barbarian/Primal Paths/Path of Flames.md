@@ -2,20 +2,20 @@
 
 ## Primal Exploits
 
-| Barbarian Level | Exploits |
-|:---------------:|:---------|
-|       3rd       |          |
-|       5th       |          |
-|       9th       |          |
-|      13th       |          |
-|      17th       |          |
+| Barbarian Level | Exploits                  |
+|:---------------:|:--------------------------|
+|       3rd       | Rush In, Savage Rebuke    |
+|       5th       | Aura Burst, Wind Slash    |
+|       9th       | Destructive Slam, War Cry |
+|      13th       |                           |
+|      17th       |                           |
 
 ---
 
 ## Burning Fury
 *3rd-level Ability (Barbarian, Path of Flames)*
 
-◻️ **(1/turn)** — At the end of your turn, if you are *[Enraged]*, then target creature takes `1d6 + X [fire]` Damage, where `X = your Constitution modifier`.
+◻️ **(1/turn, range: 10 ft.)** — At the end of your turn, if you are *[Enraged]*, then target creature in range takes `1d6 + X [fire]` Damage, where `X = your Constitution modifier`.
 
 ---
 
@@ -28,9 +28,11 @@
 
 ---
 
-## Wrathful Strike
-*10th-level Ability (Barbarian, Path of Flames)*
+## Wrathful Strikes
+*10th-level Ability (Barbarian, Path of Flames, Blast)*
 
-🔺 — a
+♾️ — While you are *[Enraged]*, whenever you make a *Melee Weapon Attack*, make a *Melee Exploit Attack* vs *Fortitude* in a 15 ft. cone originating from you. **Hit:** The creature takes `3d6 [fire]` Damage. **Miss:** The creature takes half as much damage.
+
+---
 
 [Enraged]: ../../../Rules/Conditions/Enraged.md

@@ -17,20 +17,20 @@
 
 > *Your rage is bestial and animalistic. When you rage, you shift into an animalistic form.*
 
-♾️ — You gain the following abilities while [*Enraged*][ENRGD]:
-* 🔺 ***Bite (1/turn).*** *Melee Weapon Attack:* `your Proficiency modifier + your Strength modifier` to hit, same Size as you, Reach 5 ft., `1` target. *On Hit:* `1d10 + your Strength modifier [piercing]` Damage.
-* 🔺 ***Claw.*** *Melee Weapon Attack:* `your Proficiency modifier + your Strength modifier` to hit, same Size as you, Reach 5 ft., `1` target. *On Hit:* `2d4 + your Strength modifier [slashing]` Damage.
+♾️ — You gain the following abilities while *[Enraged]*:
+* 🔺 ***Bite (1/turn).*** *Melee Weapon Attack* vs. *AC*: `your Proficiency modifier + your Strength modifier` to hit, same Size as you, Reach 5 ft., `1` target. *On Hit:* `1d10 + your Strength modifier [piercing]` Damage.
+* 🔺 ***Claw.*** *Melee Weapon Attack* vs. *AC*: `your Proficiency modifier + your Strength modifier` to hit, same Size as you, Reach 5 ft., `1` target. *On Hit:* `2d4 + your Strength modifier [slashing]` Damage.
 
 ---
 
 ## Bestial Adaptation
 *6th-level Ability (Barbarian, Path of The Beast)*  
 
-♾️ — Whenever you finish a *Short* or *Long Rest*, choose one adaptation, these effects last until you finish a *Short* or *Long Rest*:
+♾️ — Whenever you finish a *Short Rest*, choose one of the following, these effects last until you finish a *Short Rest**:
 
-*Aquatic.* — You gain a Swimming Speed equal to your Walking Speed; You gain the "Amphibious" ability.  
-*Insectile.* — You gain a Climbing Speed equal to your Walking Speed; You gain the "Spider Climb" ability.  
-*Predatory.* — 🔵 ***Pounce.*** You can leap up to `10 * your Strength modifier` ft. in any direction.  
+* *Aquatic.* — You gain a Swimming Speed equal to your Walking Speed; You gain the "Amphibious" ability.  
+* *Insectile.* — You gain a Climbing Speed equal to your Walking Speed; You gain the "Spider Climb" ability.  
+* *Predatory.* — 🔵 ***Pounce.*** You may leap up to `10 * your Strength modifier` ft. in any direction.  
 
 ---
 
@@ -65,7 +65,7 @@
 
 <!--------------------->
 
-[ENRGD]: ../../../Rules/Conditions/Enraged.md
+[Enraged]: ../../../Rules/Conditions/Enraged.md
 [TR]: ../../../Rules/Conditions/Transformed.md
 [BST]: ../../../Rules/Creatures/Creature%20Types.md
 

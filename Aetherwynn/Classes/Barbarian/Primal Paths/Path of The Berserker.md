@@ -10,12 +10,14 @@
 |      13th       | ???, ???                                          |
 |      17th       | ???, ???                                          |
 
+---
+
 ## Frenzy
 *3rd-level Ability (Barbarian, Path of The Berserker)*  
 
 > *Your wrath is so vicious, you damage yourself in order to destroy your foes.*
 
-🔵 ***(requires: you are [*Enraged*][E])*** — You may deal `1d6 [necrotic]` Damage to yourself. If you do, make a *Melee Weapon Attack* using a Melee Weapon you are wielding.
+🔵 **(requires: you are [*Enraged*][E])** — You may deal `1d6 [necrotic]` Damage to yourself. If you do, make a *Melee Weapon Attack* vs. *AC* using a Melee Weapon you are wielding.
 
 ---
 
@@ -29,10 +31,14 @@
 ## Frightful Presence
 *10th-level Ability (Barbarian, Path of The Berserker)*  
 
-◻️ ***(1/turn, range: 60 ft.)*** — Any number of other target creatures in range that you can see and can see you make a `DC X` *Wisdom Saving Throw*, where `X = your Exploit DC`.
+◻️ **(1/turn, range: 60 ft.)** — Make a *Melee Exploit Attack* vs. *Will* against any number of other target creatures in range that you can see and can see you.
 
-**Failure:** The creature is *Frightened* of you for 1 minute; it repeats this *Saving Throw* at the end of its next turn.  
-**Success:** This effect ends for that creature; the creature gains immunity to your "Frightful Pressence" for the next 24h.  
+**Hit:** The creature is *Frightened* of you for 1 minute.  
+**Miss:** This effect ends for that creature; the creature gains *Immunity* to your "Frightful Pressence" for the next `24` hrs..  
+
+A creature *Frightened* this way makes an *Insight (Wisdom) Check* at the end of each of its turns.
+
+**Success:** The creature is no longer *Frightened*; the creature gains *Immunity* to your "Frightful Pressence" for the next `24` hrs..  
 
 ---
 

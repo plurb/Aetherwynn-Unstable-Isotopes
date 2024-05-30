@@ -2,37 +2,41 @@
 
 ## Primal Exploits
 
-| Barbarian Level | Exploits |
-|:---------------:|:---------|
-|       3rd       |          |
-|       5th       |          |
-|       9th       |          |
-|      13th       |          |
-|      17th       |          |
+| Barbarian Level | Exploits                          |
+|:---------------:|:----------------------------------|
+|       3rd       | Run Like Wind, Savage Rebuke      |
+|       5th       | Menacing Shout, Thunderous Strike |
+|       9th       | Destructive Slam, Gale Slash      |
+|      13th       |                                   |
+|      17th       |                                   |
 
 ---
 
 ## Eye of The Storm
 *3rd-level Ability (Barbarian, Path of The Storm)*  
 
-♾️ — When you become *[Enraged]*, choose one:
-* *Monsoon* — ◻️ **(1/turn, range: 10 ft.):** Target creature in range makes a *Dexterity Saving Throw*. **Failure:** the creature is knocked *[Prone]*.
+◻️ **(1/turn, range: 10 ft., requires: you are [Enraged])** — Make a *Melee Exploit Attack* vs. *Reflex* against target creature in range.
 
-While you are *[Enraged]*, you gain the benefits from your choice.
+**Hit:** the creature is knocked *[Prone]*.
 
 ---
 
 ## Conduit of The Elements
 *6th-level Ability (Barbarian, Path of The Storm)*  
 
-♾️ —  You gain Resistance to Thunder Damage and Lightning Damage.
+♾️ — You gain *Resistance* to Thunder Damage and Lightning Damage.
 
-♾️ — While you are *[Enraged]*, if you hit a creature with a *Melee Weapon Attack*, that creature takes an additional `2d8 [thunder]` damage, and is pushed 10 ft. away from you.
+♾️ **(requires: you are *[Enraged]*)** — If you hit a creature with a *Melee Weapon Attack*, that creature takes an additional `2d8 [thunder]` Damage, and is pushed 10 ft. away from you.
 
 ---
 
 ## Living Disaster
 *10th-level Ability (Barbarian, Path of The Storm)*  
+
+◻️ **(1/short rest, Blast)** — When you become *[Enraged]*, make a *Melee Exploit Attack* vs. *Reflex* against creatures in a 20 ft. sphere centered on you.
+
+**Hit:** The creature takes `4d8 [lightning] + 4d8 [thunder]` Damage.
+**Miss:** The creature takes half as much Damage.
 
 ---
 

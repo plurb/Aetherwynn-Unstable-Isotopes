@@ -24,7 +24,7 @@ You gain proficiency with Primal Spellcasting Foci.
 
 > *You are able to channel the aether which naturally exists in the world.*
 
-See [**spellcasting**][SP] for the general rules of spellcasting and the ["Green Warden Spell List"][GWSL] for the Green Warden Spell List.
+See [**Spellcasting**][SP] for the general rules of spellcasting and the ["Green Warden Spell List"][GWSL] for the Green Warden Spell List.
 
 ### Cantrips
 
@@ -42,10 +42,10 @@ You know a number of spells as shown in the "Spells Known" column of the "Green 
 
 > *You channel your magic through instinct and intuition.*
 
-You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when calculating the Saving Throw DC for a Green Warden Spell you cast and when making an Attack Roll with one.
+You use your Wisdom whenever a Spell refers to your "Spellcasting Ability". In addition, you use your Wisdom modifier when calculating the *DC* for Green Warden Spells you cast and when making an *Attack Roll* with one.
 
-**Spell Save DC** = `8 + your proficiency bonus + your Wisdom modifier`
 **Spell Attack Modifier** = `your proficiency bonus + your Wisdom modifier`
+**Spell DC** = `8 + your proficiency bonus + your Wisdom modifier`
 
 ### Green Warden Spellcasting
 
@@ -82,7 +82,7 @@ You use your Wisdom whenever a spell refers to your spellcasting ability. In add
 ## Extension of The Self
 *10th-level Ability (Barbarian, Path of The Green Warden)*
 
-🔵 — If you used your 🔷 to cast a Spell, you may make a *Weapon Attack* with a Weapon you are wielding.
+🔵 — If you used your 🔷 to cast a Spell, you may make a *Weapon Attack* vs. *AC* using a Weapon you are wielding.
 
 ---
 

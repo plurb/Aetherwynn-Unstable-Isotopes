@@ -17,8 +17,8 @@
 
 > *Your body is a medium for the spirits, and a gateway to the spirit realm.*
 
-🔵 ***(duration: 10 minutes)*** — You may expend a usage of your "Rage" ability. If you do, you gain the following effects until this ability ends, or until you fall unconscious or use a 🔵 to end it:
-* Whenever you make an *Ability Check* using Intelligence or Wisdom, you gain a `+X` bonus to the roll, where `X = your Constitution modifier`.
+🔵 **(duration: 10 minutes)** — You may expend a usage of your "Rage" ability. If you do, you gain the following effects until this ability ends, or until you fall unconscious or use a 🔵 to end it:
+* You gain a `+X` bonus to *Intelligence* and *Wisdom Checks* you make, where `X = your Constitution modifier`.
 
 ---
 
@@ -27,7 +27,9 @@
 
 > *You call forth the spirits of your ancestors to force enemies to attack you.*
 
-◻️ ***(1/turn, requires: you are [*Enraged*][E]).*** When you hit a creature with a *Melee Attack*, you [*Goad*][GD] that creature until the start of your turn. If a creature [*Goaded*][GD] by you this way hits another creature with an *Attack*, it deals half as much Damage.
+◻️ **(1/turn, requires: you are [*Enraged*][E])** — When you hit a creature with a *Melee Attack*, you may [*Goad*][GD] that creature until the start of your turn.
+
+If a creature [*Goaded*][GD] this way hits another creature with an *Attack*, it deals half as much Damage.
 
 ---
 
@@ -36,7 +38,7 @@
 
 > *You command your spirits to protect your allies.*
 
-⚡ ***(range: 30 ft., requires: you are [*Enraged*][E])*** — When another target creature you can see in range would take Damage, you grant them `3d8` Temporary HP until the start of your next turn.
+⚡ **(range: 30 ft., requires: you are [*Enraged*][E])** — If another target creature you can see in range would take Damage, you may grant them `3d8` Temporary HP until the start of your next turn.
 
 ---
 
