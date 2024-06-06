@@ -3,8 +3,8 @@
 **Pre-requisites:** —  
 
 You gain the following abilities:
-* ♾️ — Whenever you hit a creature with an *Attack of Opportunity*, that creature's *Movement Speed* is reduced to `0` until the start of your next turn.
-* ⚡ — If a creature attempts to leave your reach, you may make an *Attack of Opportunity* against that creature.
+* ♾️ — Whenever you hit a creature with an "Attack of Opportunity", that creature's *Movement Speed* is reduced to `0` until the start of your next turn.
+* ⚡ — If a creature attempts to leave your reach, you may make an "Attack of Opportunity" against that creature.
 
 > ### Rulings
 >

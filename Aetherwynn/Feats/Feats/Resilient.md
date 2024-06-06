@@ -2,8 +2,14 @@
 *Feat (General)*  
 **Pre-requisites:** You are at least 4th level  
 
-You gain the following abilities:
-* Increase one of your *Ability Scores* by `1`.
-* You gain *Proficiency* in *Saving Throws* for the chosen *Ability Score*.
+Choose one:
+* *Speed* — Increase your Dexterity Score by `1`.
+* *Toughness* — Increase your Contsitution Score by `1`.
+* *Willpower* — Increase your Wisdom Score by `1`.
 
-You can take this *Feat* multiple times. You must choose a different *Ability Score* each time you do so.
+You gain the following abilities, based on your choice:
+* *Speed* — You gain a `+X` bonus to your *Reflex*.
+* *Toughness* — You gain a `+X` bonus to your *Fortitude*.
+* *Willpower* — You gain a `+X` bonus to your *Will*.
+
+Where `X = your Proficiency Bonus / 2 (rounded down)`.
