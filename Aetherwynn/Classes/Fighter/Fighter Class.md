@@ -7,8 +7,8 @@
 ## Fighter
 
 | Level | Proficiency | Abilities                                  | Fighting Styles | Exploits | Exploit Level |
-| ----: | ----------: | :----------------------------------------- | --------------: | -------: | ------------: |
-|     1 |           2 | Fighting Style, Exploits, Second Wind (x1) |               1 |        3 |             1 |
+|------:|------------:|:-------------------------------------------|----------------:|---------:|--------------:|
+|     1 |           2 | Second Wind (x1), Fighting Style, Exploits |               1 |        3 |             1 |
 |     2 |           2 | Action Surge (x1)                          |               1 |        4 |             1 |
 |     3 |           2 | Martial Archetype                          |               2 |        5 |             1 |
 |     4 |           2 | Ability Score Increase, Feat               |               2 |        6 |             1 |
@@ -62,6 +62,19 @@ At first level, you start with the following equipment:
 
 ---
 
+## Second Wind
+*1st-level Ability (Fighter)*  
+
+> *You draw a long and weary breath, steeling your resolve and pushing forwards.*
+
+🔵 **(1/short rest)** — You regain `1d10 + X` hp, where `X = your Fighter level`.
+
+If you have no remaining uses of "Second Wind", you can expend `2` *Stamina Points* to use it again.
+
+At 14th level in this class, you can use "Second Wind" **2/short rest** without expending *Stamina Points*.
+
+---
+
 ## Fighting Style
 *1st-level Ability (Fighter)*  
 
@@ -72,7 +85,7 @@ You learn additional fighting styles as you gain levels in this class, as shown 
 ---
 
 ## Exploits
-*1st-level Ability (Fighter)*  
+*1st-level Ability (Fighter, Explois)*  
 
 You begin to learn techniques that enhance your martial skill in and out of battle. You gain the following Abilities:
 
@@ -86,15 +99,7 @@ You have a limited well of stamina represented by a number of Stamina Points. Yo
 
 To perform an Exploit, you must expend a number of Stamina Points equal to the Exploit's level. You regain your expended Stamina Points when you finish a *Short Rest* or a *Long Rest*.
 
-For Exploits that modify an *Attack*, *Ability Check*, or *Saving Throw*: you can only use one Exploit per *Attack*, *Ability Check*, or *Saving Throw*.
-
-<!--
-NOTE:
-
-> For Exploits that modify an *Attack*, *Ability Check*, or *Saving Throw*:...
-
-This rule is a side effect of SRD 5.6.2 "Timing". It's only here since it's unlikely a new player has read the SRD.
--->
+For Exploits that modify an *Attack*, or *Ability Check*: you can only use one Exploit per *Attack*, or *Ability Check*.
 
 ### Exploits Known
 
@@ -110,25 +115,12 @@ If one of your Exploits requires a creature to make a saving throw, your Exploit
 
 ---
 
-## Second Wind
-*1st-level Ability (Fighter)*  
-
-> *You draw a long and weary breath, steeling your resolve and pushing forwards.*
-
-🔵 **(1/short rest)** — You regain `1d10 + X` hp, where `X = your Fighter level`.
-
-If you have no remaining uses of "Second Wind", you can expend `2` *Stamina Points* to use it again.
-
-At 14th level in this class, you can use "Second Wind" **2/short rest** without expending *Stamina Points*.
-
----
-
 ## Action Surge
 *2nd-level Ability (Fighter)*  
 
 > *You can momentarily push yourself beyond human limits.*
 
-◻️ **(1/short rest, 1/turn)** — You may take 1 additional Major Action this turn. This Action cannot be used to cast a spell.
+◻️ **(1/short rest, 1/turn)** — You may take 1 additional 🔷 this turn. This 🔷 cannot be used to cast a Spell.
 
 At 18th level in this class, you can use "Action Surge" **2/short rest**.
 
@@ -142,7 +134,7 @@ At 18th level in this class, you can use "Action Surge" **2/short rest**.
 Choose one of the following Martial Archetypes:
 
 | Martial Archetype | Source                  |
-| :---------------- | :---------------------- |
+|:------------------|:------------------------|
 | Arcane Knight     | Unstable Isotopes (0.0) |
 | Battle Master     | Unstable Isotopes (0.0) |
 | Bodyguard         | Unstable Isotopes (0.0) |
@@ -196,7 +188,7 @@ You earn a Feat. This Feat can be either a *General*, *Martial*, or *Fighter* Fe
 ## Legendary Might
 *9th-level Ability (Fighter)*  
 
-◻️ **(1/long rest, triggered)** — If you fail a *Saving Throw*, you may succeed instead.
+◻️ **(1/long rest)** — If you are hit by an *Attack* or fail an *Ability Check*, you may cause the *Attack* to miss, or succeed on the *Check* instead.
 
 You can use "Legendary Might" **2/long rest** starting at 13th level, and **3/long rest** starting at 17th level in this class.
 
