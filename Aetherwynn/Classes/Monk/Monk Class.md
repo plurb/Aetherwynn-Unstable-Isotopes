@@ -23,14 +23,14 @@
 
 ## Hit Points
 
-**Hit Points:** `10 + your Constitution modifier` per Monk level
+**Hit Points:** `10 + your Constitution modifier` per Monk level  
 **Hit Dice:** `1d10`  
 
 ---
 
 ## Proficiencies
 
-**Armor:** —  
+**Armour:** —  
 **Weapons:** Simple Weapons, Shortswords  
 **Tools:** 1 set of Artisan's Tools, or 1 Musical Instrument  
 **Spellcasting Foci:** —  
@@ -55,7 +55,7 @@ Alternatively, you may start with `2d4 × 10` gp to buy your own equipment.
 ### Multiclassing Into This Class
 
 **Ability Score Requirement:** Dexterity score of 13 or greater, and a Wisdom score of 13 or greater.  
-**Armor Gained:** —  
+**Armour Gained:** —  
 **Weapons Gained:** —  
 **Skills Gained:** Choose `1 + half your Intelligence modifier (rounded up)` of the following: Acrobatics, Athletics, History, INsight, Nature, Religion, Stealth.
 
@@ -190,15 +190,19 @@ You earn a General, Martial, or Monk feat which you meet the pre-requisites for.
 
 > *You can strike with inhuman speed.*
 
-♾️ — You *Attack* up to `X` times, instead of once, when you "Attack" on your turn, where `X = 2`.
+♾️ — You *Attack* up to `X` times, instead of once, when you "Attack" on your turn.
 
-`X = 3` at 11th level, and `X = 4` at 17th level in this class.
+Where `X = 2` at 5th level, `X = 3` at 11th level, and `X = 4` at 17th level in this class.
 
 ---
 
 ## Enhanced Strikes
 
+---
+
 ## Evasion
+
+---
 
 [MT]: ./Monk%20Techniques.md
 [MFS]: ./Monk%20Fighting%20Styles.md

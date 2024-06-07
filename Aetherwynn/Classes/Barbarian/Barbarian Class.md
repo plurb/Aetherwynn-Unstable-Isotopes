@@ -119,7 +119,7 @@ You learn one Fighting Style from [*Barbian Fighting Styles*][BF].
 ## Reckless Attack
 *2nd-level Ability (Barbarian)*  
 
-> *You can throw aside concern for your defense to attack more accurately.*
+> *You can throw aside concern for your Defence to attack more accurately.*
 
 ◻️ **(1/turn)** — When you ["Attack"][AtkAct], but before you make any *Attacks*, you may gain Advantage on all *Attacks* you make this turn. If you do, all *Attacks* against you have Advantage until the start of your next turn.
 
@@ -173,9 +173,9 @@ You earn an additional Feat at 8th, 12th, 16th, and 19th level.
 
 > *You can strike with inhuman speed.*
 
-♾️ — You *Attack* up to `X` times, instead of once, when you "Attack" on your turn, where `X = 2`.
+♾️ — You *Attack* up to `X` times, instead of once, when you "Attack" on your turn.
 
-`X = 3` at 11th level, and `X = 4` at 17th level in this class.
+Where `X = 2` at 5th level, `X = 3` at 11th level, and `X = 4` at 17th level in this class.
 
 ---
 

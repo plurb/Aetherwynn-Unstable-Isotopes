@@ -2,7 +2,7 @@
 
 | Fighting Style              | Source                  |
 |:----------------------------|:------------------------|
-| [Defensive Fighting][1]     | Unstable Isotopes (0.0) |
+| [Defencive Fighting][1]     | Unstable Isotopes (0.0) |
 | [Dual Wielding][2]          | Unstable Isotopes (0.0) |
 | [Great Weapon Fighting][3]  | Unstable Isotopes (0.0) |
 | [Improvised Fighting][4]    | Unstable Isotopes (0.0) |
@@ -17,7 +17,7 @@
 <!-- References. -->
 
 <!-- External references. -->
-[1]: ../../Fighting%20Styles/Defensive%20Fighting.md
+[1]: ../../Fighting%20Styles/Defencive%20Fighting.md
 [2]: ../../Fighting%20Styles/Dual%20Wielding.md
 [3]: ../../Fighting%20Styles/Great%20Weapon%20Fighting.md
 [4]: ../../Fighting%20Styles/Improvised%20Fighting.md
