@@ -6,20 +6,20 @@
 
 ## Fighter
 
-| Level | Proficiency | Abilities                                  | Fighting Styles | Exploits | Exploit Level |
-|------:|------------:|:-------------------------------------------|----------------:|---------:|--------------:|
-|     1 |           2 | Second Wind (x1), Fighting Style, Exploits |               1 |        3 |             1 |
-|     2 |           2 | Action Surge (x1)                          |               1 |        4 |             1 |
-|     3 |           2 | Martial Archetype                          |               2 |        5 |             1 |
-|     4 |           2 | Ability Score Increase, Feat               |               2 |        6 |             1 |
-|     5 |           3 | Multiattack (2)                            |               3 |        7 |             2 |
-|     6 |           3 | Enhanced Strikes                           |               3 |        8 |             2 |
-|     7 |           3 | Martial Archetype Ability                  |               3 |        9 |             2 |
-|     8 |           3 | Ability Score Increase, Feat               |               3 |       10 |             2 |
-|     9 |           4 | Legendary Might (x1)                       |               4 |       11 |             3 |
-|    10 |           4 | Martial Archetype Ability                  |               4 |       11 |             3 |
-|    11 |           4 | Multiattack (3)                            |               4 |       12 |             3 |
-|    12 |           4 | Ability Score Increase, Feat               |               4 |       12 |             3 |
+| Level | Proficiency | Abilities                                       | Fighting Styles | Exploits | Exploit Level |
+|------:|------------:|:------------------------------------------------|----------------:|---------:|--------------:|
+|     1 |           2 | Fighting Styles, Exploits, Momentary Pause (x1) |               1 |        3 |             1 |
+|     2 |           2 | Action Surge (x1)                               |               1 |        4 |             1 |
+|     3 |           2 | Martial Archetype                               |               2 |        5 |             1 |
+|     4 |           2 | Ability Score Increase, Feat                    |               2 |        6 |             1 |
+|     5 |           3 | Multiattack (2)                                 |               3 |        7 |             2 |
+|     6 |           3 | Enhanced Strikes                                |               3 |        8 |             2 |
+|     7 |           3 | Martial Archetype Ability                       |               3 |        9 |             2 |
+|     8 |           3 | Ability Score Increase, Feat                    |               3 |       10 |             2 |
+|     9 |           4 | Legendary Might (x1)                            |               4 |       11 |             3 |
+|    10 |           4 | Martial Archetype Ability                       |               4 |       11 |             3 |
+|    11 |           4 | Multiattack (3)                                 |               4 |       12 |             3 |
+|    12 |           4 | Ability Score Increase, Feat                    |               4 |       12 |             3 |
 
 **Note:** Levels beyond 12 aren't ready yet.
 
@@ -36,17 +36,18 @@
 
 ## Proficiencies
 
-**Armor:** All Armor, Shields  
+**Armour:** All Armour, Shields  
 **Weapons:** Simple Weapons, Martial Weapons, Firearms  
 **Tools:** One set of artisan's tools of your choice  
-**Saving Throws:** Strength, Contsitution  
+**Defences:** *Reflex*, *Fortitude*  
 **Skills:** Choose `2 + your Intelligence modifier` of the following: Acrobatics, Athletics, History, Intimidation, Perception, Stealth, and Survival
 
 ---
 
 ## Equipment
+
 At first level, you start with the following equipment:
-* (a) chain mail or (b) leather armor, a longbow, 20 arrows
+* (a) chain mail or (b) leather Armour, a longbow, 20 arrows
 * (a) martial weapon and shield or (b) two martial weapons
 * (a) light crossbow and 20 bolts or (b) two handaxes
 * (a) a dungeoneer's pack or (b) an explorer's pack
@@ -56,36 +57,21 @@ At first level, you start with the following equipment:
 ## Multiclassing Into This Class
 
 **Ability Score Requirement:** Strength score or Dexterity score of 13 or greater.  
-**Armor Gained:** Light Armor, Medium Armor, Shields  
+**Armour Gained:** Light Armour, Medium Armour, Shields  
 **Weapons Gained:** Simple Weapons, Martial Weapons  
-**Skills Gained:** Choose `1 + half your Intelligence modifier (rounded up)` of the following: Acrobatics, Athletics, History, Intimidation, Perception, Stealth, and Survival  
+**Skills Gained:** Choose `1 + your Intelligence modifier (rounded up)` of the following: Acrobatics, Athletics, History, Intimidation, Perception, Stealth, and Survival  
 
 ---
 
-## Second Wind
+## Fighting Styles
 *1st-level Ability (Fighter)*  
 
-> *You draw a long and weary breath, steeling your resolve and pushing forwards.*
-
-🔵 **(1/short rest)** — You regain `1d10 + X` hp, where `X = your Fighter level`.
-
-If you have no remaining uses of "Second Wind", you can expend `2` *Stamina Points* to use it again.
-
-At 14th level in this class, you can use "Second Wind" **2/short rest** without expending *Stamina Points*.
-
----
-
-## Fighting Style
-*1st-level Ability (Fighter)*  
-
-You learn one Fighting Style from *[Fighter Fighting Styles]*.
-
-You learn additional fighting styles as you gain levels in this class, as shown on the Fighter Table.
+You know `X` Fighting Styles from *[Fighter Fighting Styles]*, where `X = the number shown in the "Fighting Styles" column of the Fighter table`.
 
 ---
 
 ## Exploits
-*1st-level Ability (Fighter, Explois)*  
+*1st-level Ability (Fighter, Exploits)*  
 
 You begin to learn techniques that enhance your martial skill in and out of battle. You gain the following Abilities:
 
@@ -103,15 +89,27 @@ For Exploits that modify an *Attack*, or *Ability Check*: you can only use one E
 
 ### Exploits Known
 
-You learn `3` Exploits from the *[Fighter Exploit List]*. The "Exploits" column of the Fighter Table shows when you learn more Exploits of your choice. To learn a Exploit, you must be able to learn Exploits of its level, as well as meet any other prerequisites (listed under **Pre-requisites** in the Exploit's entry).
+You know `X` Exploits from the *[Fighter Exploit List]*, where `X = the number shown in the "Exploits Known" column of the Fighter table`. To learn a Exploit, you must be able to learn Exploits of its level, as well as meet any other prerequisites (listed under **Pre-requisites** in the tags of the Exploit's entry).
 
 Whenever you gain a Fighter Level, you can replace one of the Exploits you learnt from this class with another Exploit from the *Fighter Exploit List*.
 
-### Saving Throws
+### Exploit Ability
 
-If one of your Exploits requires a creature to make a saving throw, your Exploit DC is calculated as follows:
+If one of your Exploits requires you to make an *Exploit Attack*, or a creature to make a *Check*, your "Exploit Attack Modifier", and "Exploit DC" are calculated as follows:
 
-**Exploit Save DC** = `8 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice)`
+**Exploit Attack Modifier** = `your Proficiency Bonus + your Strength or Dexterity modifier (your choice)`
+**Exploit DC** = `8 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice)`
+
+---
+
+## Momentary Pause
+*1st-level Ability (Fighter)*  
+
+> *You draw a long and weary breath, steeling your resolve and pushing forwards.*
+
+🔵 **(1/long rest)** — You regain `X` "Stamina Points", where `X = your Constitution modifier`.
+
+At 14th level in this class, you can use "Momentary Pause" **2/long rest**.
 
 ---
 
@@ -120,9 +118,9 @@ If one of your Exploits requires a creature to make a saving throw, your Exploit
 
 > *You can momentarily push yourself beyond human limits.*
 
-◻️ **(1/short rest, 1/turn)** — You may take 1 additional 🔷 this turn. This 🔷 cannot be used to cast a Spell.
+◻️ **(`X`/short rest, 1/turn)** — You may take an additional 🔷 this turn. This 🔷 cannot be used to cast a Spell.
 
-At 18th level in this class, you can use "Action Surge" **2/short rest**.
+Where `X = 1` at 2nd level in the class, and `X = 2` at 18th level in this class.
 
 ---
 
@@ -163,18 +161,18 @@ You can do so again at 8th, 12th, 14th, 16th, and 19th level in this class.
 ## Feat
 *4th-level Ability (All Classes)*
 
-You earn a Feat. This Feat can be either a *General*, *Martial*, or *Fighter* Feat. You earn additional Feats at 8th, and 12th level in this class.
+You earn a Feat. This Feat can be either a *General*, *Martial*, or *Fighter* Feat. You earn additional Feats at 8th, and 12th 14th, 16th, and 19th level in this class.
 
 ---
 
 ## Multiattack
-*5th-level Ability (Barbarian, Fighter, Monk)*  
+*5th-level Ability ({Barbarian, Fighter, Monk, ...})*  
 
 > *You can strike with inhuman speed.*
 
-♾️ — You *Attack* up to `X` times, instead of once, when you "Attack" on your turn, where `X = 2`.
+♾️ — You *Attack* up to `X` times, instead of once, when you "Attack" on your turn.
 
-`X = 3` at 11th level, and `X = 4` at 17th level in this class.
+Where `X = 2` at 5th level, `X = 3` at 11th level, and `X = 4` at 17th level in this class.
 
 ---
 
@@ -188,9 +186,11 @@ You earn a Feat. This Feat can be either a *General*, *Martial*, or *Fighter* Fe
 ## Legendary Might
 *9th-level Ability (Fighter)*  
 
-◻️ **(1/long rest)** — If you are hit by an *Attack* or fail an *Ability Check*, you may cause the *Attack* to miss, or succeed on the *Check* instead.
+◻️ **(`X`/long rest)** — If you are hit by an *Attack* or fail an *Ability Check*, you may cause the *Attack* to miss, or succeed on the *Check* instead.
 
-You can use "Legendary Might" **2/long rest** starting at 13th level, and **3/long rest** starting at 17th level in this class.
+Where `X = 1` at 9th level in this class, `X = 2` at 13th level in this class, and `X = 3` at 17th level in this class.
+
+---
 
 <!-- References -->
 
