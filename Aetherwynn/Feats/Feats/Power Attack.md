@@ -1,6 +1,6 @@
 ### Power Attack
-*Feat (Martial)*
-**Pre-requisites:** "Exploits", 8th-level or greater  
+*Feat (Barbarian, Fighter)*  
+**Pre-requisites:** "Exploits" Ability, at least 8th-level or greater  
 
 > *You unleash a single, devastating strike.*
 
