@@ -6,7 +6,6 @@ Weapon sizes
 
 Long - longer weapon, but still the same size (like longsword is longer than greataxe)
 
-
 examples:
 
 spear: 1d6/1d8 piercing; medium, versatile, reach
