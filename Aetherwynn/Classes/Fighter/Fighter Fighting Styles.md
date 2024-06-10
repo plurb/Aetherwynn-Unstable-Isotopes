@@ -27,9 +27,9 @@
 
 ## 5th Level Fighter
 
-| Fighting Style | Source |
-|:---------------|:-------|
-|                |        |
+| Fighting Style | Source                  |
+|:---------------|:------------------------|
+| Flow Fighting  | Unstable Isotopes (0.0) |
 
 ## 7th Level Fighter
 
@@ -38,6 +38,12 @@
 | Evasion        | Unstable Isotopes (0.0) |
 
 ## 9th Level Fighter
+
+| Fighting Style | Source |
+|:---------------|:-------|
+|                |        |
+
+## 11th Level Fighter
 
 | Fighting Style | Source |
 |:---------------|:-------|
