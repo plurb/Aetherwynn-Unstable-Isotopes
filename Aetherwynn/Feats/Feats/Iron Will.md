@@ -5,4 +5,4 @@
 > *Your will is as hard as iron.*
 
 You gain the following abilities:
-* ◻️ **(1/short rest, triggered)** — If you fail a *Wisdom Saving Throw* or a *Charisma Saving Throw*, you can replace the number rolled on the d20 with your level.
+* ◻️ **(1/short rest)** — If you would be hit by an *Attack* vs. *Will*, you may gain a `+X` bonus against the *Attack*, where `X = half your level (rounded down)`.

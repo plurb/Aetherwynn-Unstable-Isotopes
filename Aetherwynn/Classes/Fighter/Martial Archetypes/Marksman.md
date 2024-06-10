@@ -37,7 +37,7 @@ You gain Proficiency in Initiative. If you are already Proficient, you may gain 
 
 ---
 
-## Reposition
+## Tactical Reposition
 *10th-level Ability (Fighter, Marksman Archetype)*  
 
 ◻️ **(1/turn)** — After you "Attack", you may move up to `15` ft., even if your Movement Speed is `0` due to using "Marksman's Focus".

@@ -1,12 +1,11 @@
 ### Evasion
 *Fighting Style (Fighter)*  
-**Pre-requisites:** At least 9th level Fighter, A Dexterity score of 13 or greater  
+**Pre-requisites:** At least 7th level Fighter, A Dexterity score of 13 or greater  
 
 > *You can nimbly dodge out of the way of certain effects, such as a red dragon's fiery breath or an Ice Storm spell.*
 
 You gain the following abilities:
-* You gain Proficiency with *Dexterity Saving Throws*.
-* ♾️ — Whenever you make a *Dexterity Saving Throw* to take only half damage, or a *Saving Throw* against an effect with the *Blast* tag, you instead take no Damage on a success, and only half Damage on a failure.
+* ♾️ — Whenever a creature makes an *Attack* vs. *Reflex* against you, or the ability has the "Blast" tag, you take no Damage if the *Attack* misses, and only half as much Damage if it hits.
 
 ---
 

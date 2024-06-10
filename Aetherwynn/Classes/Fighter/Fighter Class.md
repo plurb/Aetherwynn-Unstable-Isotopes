@@ -47,7 +47,7 @@
 ## Equipment
 
 At first level, you start with the following equipment:
-* (a) chain mail or (b) leather Armour, a longbow, 20 arrows
+* (a) chain mail or (b) leather armour, a longbow, 20 arrows
 * (a) martial weapon and shield or (b) two martial weapons
 * (a) light crossbow and 20 bolts or (b) two handaxes
 * (a) a dungeoneer's pack or (b) an explorer's pack

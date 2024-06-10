@@ -1,4 +1,4 @@
-### Defencive Fighting
+### Defensive Fighting
 *Fighting Style (Barbarian, Fighter, Magus, Paladin, Ranger, Rogue)*  
 **Pre-requisites:** Proficiency with at least 1 kind of *Armour* or *Shields*  
 
