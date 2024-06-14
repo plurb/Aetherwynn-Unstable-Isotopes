@@ -179,7 +179,7 @@ Where `X = 2` at 5th level, `X = 3` at 11th level, and `X = 4` at 17th level in 
 ## Enhanced Strikes
 *6th-level Ability (Barbarian, Fighter, Monk, Rogue)*  
 
-♾️ — *Weapon Attacks* you make count as *Magical* for the purpose of overcoming *Resistance* and *Immunity* to Non-*Magical* *Attacks* and Damage.
+♾️ — *Weapon Attacks*, and *Exploit Attacks* you make count as *Magical* for the purpose of overcoming *Resistance*, and *Immunity* to Non-Magical *Attacks* and Damage.
 
 ---
 
