@@ -9,11 +9,11 @@
 |     3 |           2 | Arcane Order                              |        2 |            5 |
 |     4 |           2 | Ability Score Increase, Feat              |        3 |            6 |
 |     5 |           3 | Swift Strikes                             |        3 |            7 |
-|     6 |           3 | Spell Cleave                              |        3 |            8 |
+|     6 |           3 | Magical Strikes                           |        3 |            8 |
 |     7 |           3 | Order Ability                             |        3 |            9 |
 |     8 |           3 | Ability Score Increase, Feat              |        3 |           10 |
 |     9 |           4 |                                           |        3 |           11 |
-|    10 |           4 |                                           |        4 |           11 |
+|    10 |           4 | Order Ability                             |        4 |           11 |
 |    11 |           4 | Arcane Strikes                            |        4 |           12 |
 |    12 |           4 | Ability Score Increase, Feat              |        4 |           12 |
 
@@ -52,11 +52,10 @@
 
 ---
 
-## Arcane Armoury
-
----
-
 ## Fighting Style
+*1st-level Ability (Magus)*  
+
+You learn one Fighting Style from [*Magus Fighting Styles*][MF].
 
 ---
 
@@ -64,25 +63,30 @@
 
 ---
 
+## Battle Mage
+*1st-level Ability (Magus)*
+
+> *You are accustomed to casting spells in battle. To you, your weapon and magic are extensions of yourself. One and the same.*
+
+♾️ — You can use a Weapon as a Spellcasting Focus for Magus Spells you cast.
+
+---
+
 ## Spellstrike
+*2nd-level Ability (Magus)*
 
-<!--
+🔵 — If you have at least one free hand, you may choose a Magus Spell you know that meets the following criterea. If you do, then the next time you hit a creature with a *Melee Attack*, the Spell is cast as a ◻️, with the following specifications.
 
-you learn to blend arcane spells and martial skills as only a Magi can. As a bonus action, you can imbue a Magus spell of 1st-level or higher into an Arcane Armory weapon you touch until the start of your next turn, so long as it meets the requirements below:
+The Spell must meet the following critera:
+* The Spell must have a "Casting Time" of 🔷 or 🔵.
+* The Spell must target a creature or point.
+* The Spell must require an *Attack*.
 
-The spell must have a casting time of 1 action. The spell must require a single attack roll, force a target to make a saving throw, or affect a total number of hit points worth of creatures. If you hit a target with the imbued weapon before the beginning of your next turn, you can expend a spell slot to cast the imbued spell as part of that attack, causing the target to become the target of both the imbued spell and the damage of your attack. The spell is instantly cast and immediately takes effect at the level of the spell slot you spent, with the following changes:
-
-Area of Effect. If the spell would normally target an area greater than a 5-foot cube, it either takes effect as a 15-foot cone originating from you, which must include your target, or it is contained to only effect the target of your attack.
-
-Saving Throws. If the spell requires a saving throw, it makes its saving throw on hit, when the spell is cast. If you score a critical hit, it automatically fails its saving throw.
-
-Spell Attacks. If the spell requires a spell attack roll, it instantly takes effect when you hit with the weapon attack.
-
-Concentration. If the spell requires your concentration, you must concentrate on the spell as soon as it is cast.
-
--->
-
-🔵 — If you have at least one free hand.
+The Spell is cast with the following specifications:
+* **Targetting A Creature.** — If the Spell targets a creature, then the Spell targets the target of the *Melee Attack*.
+* **Areas of Effect/Targetting a Point.** — If the Spell creates an Area of Effect (i.e. it targets a point), then it creates either a `15` ft. cone originating from you which must include the target, or it only affects the target of the *Melee Attack* (your choice).
+* **Attacks.** — If the Spell requires an *Attack*, then the *Spell Attack* automatically hits.
+* **Concentration.** — If the Spell requires Concentration, you must Concentrate on the Spell as soon as it is cast as if you had cast it normally.
 
 ---
 
@@ -102,24 +106,44 @@ Concentration. If the spell requires your concentration, you must concentrate on
 ---
 
 ## Ability Score Increase
+*4th-level Ability (All Classes)*
+
+Increase one Ability Score of your choice by `2`, or two Ability Scores by `1`. You cannot increase one of your Ability Scores above `20` using this Ability.
+
+Do this again when you reach 8th, 12th, 16th, and 19th level in this class.
 
 ---
 
 ## Feat
+*4th-level Ability (Magus)*
+
+You earn a Feat. This Feat can be either a General, Martial, Spellcasting, or Magus Feat.
+
+You earn an additional Feat at 8th, 12th, 16th, and 19th level.
 
 ---
 
 ## Swift Strikes
+*5th-level Ability (Magus)*  
+
+🔷 — "Attack", if you do, you make `2` *Attacks*. You may cast a Magus Cantrip with a Casting Time of 🔷 you know instead of one of these *Attacks*.
 
 ---
 
-## Spell Cleave
+## Magical Strikes
+*6th-level Ability (Magus, Paladin, Ranger)*  
+
+♾️ — *Weapon Attacks* you make count as *Magical* for the purpose of overcoming *Resistance* and *Immunity* to Non-*Magical* *Attacks* and Damage.
 
 ---
 
 ## Arcane Strikes
-*11th-level Ability (Magus)*
+*11th-level Ability (Magus)*  
 
 <!--
 int/long rest: the magus can make 1 attack + cast any magus spell of 1st level or higher they know.
 -->
+
+---
+
+[MF]: ./Magus%20Fighting%20Styles.md
