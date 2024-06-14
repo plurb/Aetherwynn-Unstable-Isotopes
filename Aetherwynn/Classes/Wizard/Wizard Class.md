@@ -7,14 +7,14 @@
 ## Wizard
 
 | Level | Proficiency | Abilities                                  | Cantrips |
-| ----: | ----------: | :----------------------------------------- | -------: |
+|------:|------------:|:-------------------------------------------|---------:|
 |     1 |          +2 | Spellcasting, Spellbook, Master of Rituals |        3 |
 |     2 |          +2 | Arcane Tradition                           |        3 |
 |     3 |          +2 |                                            |        3 |
 |     4 |          +2 | Ability Score Increase, Feat               |        4 |
 |     5 |          +3 |                                            |        4 |
 |     6 |          +3 | Arcane Tradition Feature                   |        4 |
-|     7 |          +3 | Arcane Recovery                            |        4 |
+|     7 |          +3 |                                            |        4 |
 |     8 |          +3 | Ability Score Increase, Feat               |        4 |
 |     9 |          +4 |                                            |        4 |
 |    10 |          +4 | Arcane Tradition Feature                   |        5 |
@@ -23,20 +23,20 @@
 
 ## Wizard: Spell Slots Per Level
 
-| Level |  1st  |  2nd  |  3rd  |  4th  |  5th  |  6th  |  7th  |  8th  |  9th  |
-| ----: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|     1 |   2   |   -   |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
-|     2 |   3   |   -   |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
-|     3 |   4   |   2   |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
-|     4 |   4   |   3   |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
-|     5 |   4   |   3   |   2   |   -   |   -   |   -   |   -   |   -   |   -   |
-|     6 |   4   |   3   |   3   |   -   |   -   |   -   |   -   |   -   |   -   |
-|     7 |   4   |   3   |   3   |   1   |   -   |   -   |   -   |   -   |   -   |
-|     8 |   4   |   3   |   3   |   2   |   -   |   -   |   -   |   -   |   -   |
-|     9 |   4   |   3   |   3   |   3   |   1   |   -   |   -   |   -   |   -   |
-|    10 |   4   |   3   |   3   |   3   |   2   |   -   |   -   |   -   |   -   |
-|    11 |   4   |   3   |   3   |   3   |   2   |   1   |   -   |   -   |   -   |
-|    12 |   4   |   3   |   3   |   3   |   2   |   1   |   -   |   -   |   -   |
+| Level | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|     1 |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|     2 |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|     3 |  4  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|     4 |  4  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|     5 |  4  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |
+|     6 |  4  |  3  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |
+|     7 |  4  |  3  |  3  |  1  |  -  |  -  |  -  |  -  |  -  |
+|     8 |  4  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |
+|     9 |  4  |  3  |  3  |  3  |  1  |  -  |  -  |  -  |  -  |
+|    10 |  4  |  3  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |
+|    11 |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |  -  |
+|    12 |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |  -  |
 
 # Class Features
 
@@ -124,14 +124,10 @@ As part of your Starting Equipment, you gain a spellbook containing six 1st-leve
 
 > *The spells that you add to your spellbook as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse.*
 
-Each time you gain a Wizard level, you add two Wizard Spells of your choice to your Spellbook. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table.
+Each time you gain a Wizard level, you add two Spells from the "Wizard Spell List" of your choice to your Spellbook. Each of these spells must be of a level for which you have "Spell Slots", as shown on the Wizard table.
 
 ### Copy Spell
 *1st-level Ability (Wizard)*  
-**Usage:** Varies  
-**Range:** Touch  
-**Requirements:** Your spellbook, a spellbook or spell scroll  
-**Duration:** —  
 
 <!-- TODO: edit flavourtext -->
 
@@ -141,18 +137,14 @@ Each time you gain a Wizard level, you add two Wizard Spells of your choice to y
 >
 > *If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.*
 
-If it is a Wizard Spell of a level you can prepare, add one Spell contained in target *spellbook* or *spell scroll* to your Spellbook, or another target *spellbook* in range. For each level of the spell, this process takes 2 hours and costs 50 gp. If you have the spell prepared, or it is already in your spellbook, this process takes half as long and costs half as much.
+⏳ *varies* **(range: Touch, requires: your "Spellbook", and a spellbook, or a spell scroll)** — Add one Spell contained in target *spellbook* or *spell scroll* in range to your "Spellbook" if it is a Spell from the "Wizard Spell List" of a level you can prepare. For each level of the Spell, this ability takes 2 hours and costs 50 gp. If you have the Spell prepared, or it is already in your "Spellbook", this process takes half as long and costs half as much.
 
 ---
 
 ## Master of Rituals
 *1st-level Ability (Wizard)*  
-**Usage:** Passive  
-**Range:** Self  
-**Requirements:** None  
-**Duration:** —  
 
-You can cast a Wizard Spell as a Ritual if that spell has the Ritual tag and the Spell is in your Spellbook. You don't need to have the spell prepared to do so.
+You can cast Wizard Spells as a *Ritual* if that spell has the "Ritual" tag and the Spell is in your "Spellbook". <sup><sub>*(You do not need to have the spell prepared to do so.)*</sub></sup>
 
 ---
 
@@ -164,7 +156,7 @@ You can cast a Wizard Spell as a Ritual if that spell has the Ritual tag and the
 Choose an arcane tradition. Your Arcane Tradition grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
 | Arcane Tradition | Source                  |
-| :--------------- | :---------------------- |
+|:-----------------|:------------------------|
 | Abjuration       | Unstable Isotopes (0.0) |
 | Astromancy       | Unstable Isotopes (0.0) |
 | Chronomancy      | Unstable Isotopes (0.0) |
@@ -191,17 +183,5 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 *4th-level Ability (Wizard)*
 
 You learn a feat. This feat can be either a General, Spellcasting, or Wizard feat. You learn additional feats at 8th, and 12th, 16th, 19th, and 20th level.
-
----
-
-## Arcane Recovery
-*7th-Level Ability (Wizard)*
-
-> *You have learned to regain some of your mana through rest.*
-
-**1/full rest:** When you finish a Full Rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up). None of the slots can be 6th level or higher.
-
-> ### Example 2
-> If you're a 7th-level wizard, you can recover up to four levels worth of spell slots. You can recover either one 4th-level spell slot or two 2nd-level spell slots.
 
 ---
