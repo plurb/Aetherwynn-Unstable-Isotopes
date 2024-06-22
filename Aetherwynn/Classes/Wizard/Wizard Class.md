@@ -10,7 +10,7 @@
 |------:|------------:|:-------------------------------------------|---------:|
 |     1 |          +2 | Spellcasting, Spellbook, Master of Rituals |        3 |
 |     2 |          +2 | Arcane Tradition                           |        3 |
-|     3 |          +2 |                                            |        3 |
+|     3 |          +2 | Arcane Versatility                         |        3 |
 |     4 |          +2 | Ability Score Increase, Feat               |        4 |
 |     5 |          +3 |                                            |        4 |
 |     6 |          +3 | Arcane Tradition Feature                   |        4 |
@@ -38,7 +38,7 @@
 |    11 |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |  -  |
 |    12 |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |  -  |
 
-# Class Features
+# Class Abilities
 
 ## Hit Points
 
@@ -98,15 +98,15 @@ You prepare the set of Wizard Spells that are available for you to cast. To do s
 
 ---
 
-**1/long rest:** After you finish a Long Rest, you can change the set of spells you have prepared. Preparing a spell requires 1 minute per spell level for each spell you prepare.
+**1/long rest:** After you finish a *Long Rest*, you can change the set of spells you have prepared. Preparing a spell requires 1 minute per spell level for each spell you prepare.
 
 ### Spellcasting Ability
 
 > *Intelligence is your spellcasting ability for your wizard spells, since you learn your wizard spells through dedicated study and memorization.*
 
-You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when calculating the Saving Throw DC for a Wizard Spell you cast and when making an Attack Roll with one.
+You use your Intelligence whenever a spell refers to your Spellcasting Ability. In addition, you use your Intelligence modifier when calculating the Saving Throw DC for a Wizard Spell you cast and when making an Attack Roll with one.
 
-**Spell Save DC** = `8 + your proficiency bonus + your Intelligence modifier`
+**Spell Save DC** = `10 + your proficiency bonus + your Intelligence modifier`
 **Spell Attack Modifier** = `your proficiency bonus + your Intelligence modifier`
 
 ---
@@ -118,7 +118,7 @@ You use your Intelligence whenever a spell refers to your spellcasting ability. 
 
 > *Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.*
 
-As part of your Starting Equipment, you gain a spellbook containing six 1st-level wizard spells of your choice. If you do not have a spellbook, you can turn any non-magical medium you can write on into your spellbook. Your spellbook is the repository of the Wizard Spells you know, except your Cantrips.
+As part of your "Starting Equipment", you gain a spellbook containing six 1st-level wizard spells of your choice. If you do not have a spellbook, you can turn any non-magical medium you can write on into your spellbook. Your spellbook is the repository of the Wizard Spells you know, except your Cantrips.
 
 ### Individual Research
 
@@ -169,6 +169,19 @@ Choose an arcane tradition. Your Arcane Tradition grants you features at 2nd lev
 | War Magic        | Unstable Isotopes (0.0) |
 
 **Note:** Necromancy will come with the Evil Player Characters module, not the Player's Handbook
+
+### Tradition Spells
+
+Each Tradition has a list of Tradition Spells you add to your "Spellbook" at the Wizard levels noted in your Tradition's description. They don't count against the number of Spells you add to your "Spellbook" when you gain a Wizard level.
+
+---
+
+## Arcane Versatility
+*3rd-level Ability (Wizard)*  
+
+> *You are able to quickly review and prepare spells.*
+
+◻️ **(1/short rest)** — Before a Short Rest, you may change up to `X` Spells you have prepared and prepare that many Spells from your "Spellbook", where `X = your Intelligence modifier`.
 
 ---
 
