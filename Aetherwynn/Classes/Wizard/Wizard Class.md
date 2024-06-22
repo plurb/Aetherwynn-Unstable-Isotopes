@@ -49,11 +49,11 @@
 
 ## Proficiencies
 
-**Armor:** none  
+**Armour:** –  
 **Weapons:** daggers, darts, slings, quarterstaffs  
 **Spellcasting Foci:** arcane foci, component pouch  
-**Tools:** Painter's tools  
-**Saving Throws:** Intelligence, Wisdom  
+**Tools:** Scribe's tools, and either Painter's or Caligrapher's tools  
+**Defences:** Reflex, Will  
 **Skills:** Choose `2 + your Intelligence modifier` from Arcana, History, Insight, Investigation, Medicine, Nature, Persuasion, and Religion.
 
 ---
@@ -98,7 +98,7 @@ You prepare the set of Wizard Spells that are available for you to cast. To do s
 
 ---
 
-**1/long rest:** After you finish a Long Rest, you can change the set of spells you have prepared. Preparing a spell requires 1 minute per spell level for each spell you prepare.
+**1/long rest:** After you finish a *Long Rest*, you can change the set of spells you have prepared. Preparing a spell requires 1 minute per spell level for each spell you prepare.
 
 ### Spellcasting Ability
 
@@ -106,7 +106,7 @@ You prepare the set of Wizard Spells that are available for you to cast. To do s
 
 You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when calculating the Saving Throw DC for a Wizard Spell you cast and when making an Attack Roll with one.
 
-**Spell Save DC** = `8 + your proficiency bonus + your Intelligence modifier`
+**Spell Save DC** = `10 + your proficiency bonus + your Intelligence modifier`
 **Spell Attack Modifier** = `your proficiency bonus + your Intelligence modifier`
 
 ---
@@ -118,7 +118,7 @@ You use your Intelligence whenever a spell refers to your spellcasting ability. 
 
 > *Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.*
 
-As part of your Starting Equipment, you gain a spellbook containing six 1st-level wizard spells of your choice. If you do not have a spellbook, you can turn any non-magical medium you can write on into your spellbook. Your spellbook is the repository of the Wizard Spells you know, except your Cantrips.
+As part of your Starting Equipment, you gain a "Spellbook" containing six 1st-level wizard spells of your choice. If you do not have a spellbook, you can turn any non-magical medium you can write on into your spellbook. Your spellbook is the repository of the Wizard Spells you know, except your Cantrips.
 
 ### Individual Research
 
