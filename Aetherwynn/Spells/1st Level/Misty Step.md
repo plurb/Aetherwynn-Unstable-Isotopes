@@ -1,5 +1,5 @@
 ### Misty Step  
-*2nd-level Spell (Conjuration)*  
+*1st-level Spell (Conjuration)*  
 **Casting Time:** 🔵  
 **Range:** Self  
 **Components:** V  

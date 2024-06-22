@@ -26,7 +26,7 @@ You gain the following attributes and abilities.
 
 You have a number of "Ward Charges" calculated as follows:
 
-**War Charges** = `your Wizard level + your Intelligence modifier`
+**Ward Charges** = `your Wizard level + your Intelligence modifier`
 
 You regain all expended "Ward Charges" when you complete a *Long Rest*.
 
