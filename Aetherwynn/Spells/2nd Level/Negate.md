@@ -7,6 +7,6 @@
 
 > *"No." — Plutonius, Archmage.*
 
-Counter target Abjuration or Evocation spell if its level is `X` or lower, where `X = 1 + this spell's level`.
+Counter target "Abjuration" or "Evocation" Spell if its level is `X` or lower, where `X = 1 + this spell's level`.
 
 **Classes:** Artificer, Magus, Sorcerer, Warlock, Wizard

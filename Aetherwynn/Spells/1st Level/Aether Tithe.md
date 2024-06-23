@@ -5,7 +5,7 @@
 **Components:** V, S, M (an envelope)  
 **Duration:** Instantaneous  
 
-*[Counter]* target Spell unless its caster expends a "Spell Slot" of 1st-level or greater.
+*[Counter]* target Spell of level `X` or lower unless its caster expends a "Spell Slot" of 1st-level or greater, where `X = this Spell's level`.
 
 **Classes:** Cleric
 
