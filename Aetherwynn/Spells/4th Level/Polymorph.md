@@ -1,7 +1,7 @@
 ### Polymorph
 *4th-level Spell (Transmutation)*
 **Casting Time:** 🔷  
-**Range:** 60 feet  
+**Range:** 60 ft.  
 **Components:** C, V, S, M (a caterpillar cocoon)  
 **Duration:** Up to 1 hour  
 

@@ -1,19 +1,17 @@
 ### Disintegrate  
 *6th-level Transmutation*  
-**Casting Time:** Action  
-**Range:** 60 feet  
+**Casting Time:** 🔷  
+**Range:** 60 ft.  
 **Components:** V, S, M (a lodestone and a pinch of dust)  
 **Duration:** Instantaneous  
 
 >*You fire a green desintagrating ray from your finger tips.*
 
-A creature targeted by this spell must make a Dexterity saving throw and takes `Xd6 + 40` force damage, where `X = 4 + this spell's level`. The target is disintegrated if this damage leaves it with 0 hit points.
+Make a *Ranged Spell Attack* vs. *Reflex* against target creature, non-"Magical" object, or object created by a "Magical" ability in range. This *Attack* automatically hits objects.
 
-A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust. The creature can be restored to life only by means of a true resurrection or a wish spell.
+**Hit:** It takes `Xd6 + 40 [force]` Damage, where `X = 4 + this spell's level`. Then, if the target was a creature and has `0` HP remaining, it [becomes dust][BD]. If the target was an object and is Large or smaller, it [becomes dust][BD]. If it was an object that is Huge or larger, a 10 ft.<sup>3</sup> portion of it [becomes dust][BD].  
+**Miss:** It takes half as much Damage.
 
-This spell automatically disintegrates a Large or smaller nonmagical object or a creation of magical force. If the target is a Huge or larger object or creation of force, this spell disintegrates a 10-foot-cube portion of it. A magic item is unaffected by this spell.
+**Classes.** Artificer, Psion, Sorcerer, Warlock, Wizard
 
-**Failure:** The creature takes full damage.  
-**Success:** The creature takes half damage.  
-
-**Classes.** Wizard, ???
+[BD]: ../../Rules/Conditions/Become%20Dust.md

@@ -7,7 +7,6 @@
 
 > *Objects come to life at your command.*
 
-
 <!-- TODO: re-word and re-balance -->
 
 <!--
