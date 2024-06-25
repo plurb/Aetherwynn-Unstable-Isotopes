@@ -34,7 +34,7 @@
 **Weapons:** Simple Weapons, Shortswords  
 **Tools:** 1 set of Artisan's Tools, or 1 Musical Instrument  
 **Spellcasting Foci:** —  
-**Defenses:** Strength, Dexterity  
+**Defenses:** *Reflex*, *Fortitude*  
 **Skills:** Choose `2 + your Intelligence modifier (minimum of 0)` of the following: Acrobatics, Athletics, History, Insight, Nature, Religion, Stealth  
 
 ---
@@ -65,23 +65,31 @@ Alternatively, you may start with `2d4 × 10` gp to buy your own equipment.
 *1st-level Ability (Monk)*
 
 ### Martial Arts Die
+*Attribute (Monk, Martial Arts)*  
 
 Your Martial Arts Die is a `d6`. It increases at certain levels, as shown in the "Martial Arts" column of the Monk table. Some abilities reference this die as `NdM`, where `N = the number of dice` and `M = the size of your Martial Arts Die`.
 
 ### Martial Arts Attacks
 
-For the purpose of your Monk Abilities, *Martial Arts Attacks* are *Unarmed Strikes*, or *Attacks* with a *Melee Weapon* without the *Heavy* or *Special* properties.
+For the purpose of your Monk abilities, *Martial Arts Attacks* are *Unarmed Strikes*, or *Attacks* using a *Melee Weapon* you are Proficient with without the "Heavy" or "Special" properties.
 
-### Deadly Strikes
+### Unarmoured Defense
+*Ability (Monk)*
 
-♾️ — Your *Unarmed Strikes* are *Martial Melee Weapons* you are Proficient with, and have the *Light* and *Finesse* properties. Their *Damage Die* is `1dM`.
+While not wearing Armour, your *AC* is calculated as follows:
+
+**AC** = `10 + your Proficiency Bonus + your Dexterity modifier`
+
+### Deadly Strikes  
+
+♾️ — Your *Unarmed Strikes* are *Martial Melee Weapons* you are Proficient with, and have the "Light" and "Finesse" properties. Their *Damage Die* is `1dM`.
 
 > **Quick Reference:** [Two-Weapon Fighting][TWF]
 
 ---
 
 ## Fighting Style
-*1st-level Ability (Monk)*
+*1st-level Ability (Monk)*  
 
 You learn one Fighting Style from [*Monk Fighting Styles*][MFS].
 
