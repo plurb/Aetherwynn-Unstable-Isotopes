@@ -34,7 +34,7 @@
 **Weapons:** Simple Weapons, Shortswords  
 **Tools:** 1 set of Artisan's Tools, or 1 Musical Instrument  
 **Spellcasting Foci:** —  
-**Saving Throws:** Strength, Dexterity  
+**Defenses:** Strength, Dexterity  
 **Skills:** Choose `2 + your Intelligence modifier (minimum of 0)` of the following: Acrobatics, Athletics, History, Insight, Nature, Religion, Stealth  
 
 ---

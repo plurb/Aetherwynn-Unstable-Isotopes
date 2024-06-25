@@ -51,7 +51,7 @@ It also doesn't expend a spell slot, which means the ritual version of a spell c
 
 To cast a spell as a ritual, a spellcaster must have a feature that grants the ability to do so. The cleric and the druid, for example, have such a feature. The caster must also have the spell prepared or on his or her list of spells known, unless the character's ritual feature specifies otherwise, as the wizard's does.
 
-## Casting in Armor
+## Casting in Armour
 Because of the mental focus and precise gestures required for spellcasting, you must be proficient with the armor you are wearing to cast a spell. You are otherwise too distracted and physically hampered by your armor for spellcasting.
 
 # Casting a Spell
@@ -90,7 +90,7 @@ Most spells require the chanting of mystic words. The words themselves aren't th
 Spellcasting gestures might include a forceful gesticulation or an intricate set of gestures. If a spell requires a somatic component, the caster must have free use of at least one hand to perform these gestures.
 
 ### Material (M)
-Casting some spells requires particular objects, specified in parentheses in the component entry. A character can use a component pouch or a spellcasting focus (found in chapter 5) in place of the components specified for a spell. But if a cost is indicated for a component, a character must have that specific component before he or she can cast the spell.
+Casting some spells requires particular objects, specified in parentheses in the component entry. A character can use a Component Pouch or a spellcasting focus (found in chapter 5) in place of the components specified for a spell. But if a cost is indicated for a component, a character must have that specific component before he or she can cast the spell.
 
 If a spell states that a material component is consumed by the spell, the caster must provide this component for each casting of the spell.
 

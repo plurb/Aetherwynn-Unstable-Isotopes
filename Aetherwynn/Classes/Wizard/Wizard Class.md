@@ -51,7 +51,7 @@
 
 **Armour:** –  
 **Weapons:** daggers, darts, slings, quarterstaffs  
-**Spellcasting Foci:** arcane foci, component pouch  
+**Spellcasting Foci:** Arcane Foci, Component Pouch  
 **Tools:** Scribe's tools, and either Painter's or Caligrapher's tools  
 **Defences:** Reflex, Will  
 **Skills:** Choose `2 + your Intelligence modifier` from Arcana, History, Insight, Investigation, Medicine, Nature, Persuasion, and Religion.
@@ -63,7 +63,7 @@
 You start with the following items, plus anything provided by your background.
 
 * (a) a quarterstaff or (b) a dagger
-* (a) a component pouch or (b) an arcane focus
+* (a) a Component Pouch or (b) an arcane focus
 * (a) a scholar's pack or (b) an explorer's pack
 * A spellbook
 

@@ -45,12 +45,12 @@
 ---
 
 ## Proficiencies
-**Armor:** light armor, shields  
+**Armour:** light armor, shields  
 **Weapons:** simple weapons  
-**Spellcasting Foci:** component pouch, primal foci  
+**Spellcasting Foci:** Component Pouch, primal foci  
 **Tools:** herbalism kit  
 **Languages:** Druidic  
-**Saving Throws:** Intelligence, Wisdom  
+**Defenses:** Intelligence, Wisdom  
 **Skills:** Choose `2 + your Intelligence modifier` from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival.
 
 ---

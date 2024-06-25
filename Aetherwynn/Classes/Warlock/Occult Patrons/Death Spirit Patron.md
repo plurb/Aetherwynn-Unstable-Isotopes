@@ -98,7 +98,7 @@ ___
 > ## Shinigami
 > *Huge Creature (Spirit, Neutral)*
 >___
-> **Armor Class** 10 + your Proficiency Bonus (natural armor)  
+> **Armour Class** 10 + your Proficiency Bonus (natural armor)  
 > **Hit Points** 15 * your Warlock level  
 > **Speed** 30 ft., fly 30 ft. (hover)  
 >___
