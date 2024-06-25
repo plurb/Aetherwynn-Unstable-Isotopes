@@ -27,6 +27,7 @@ def search(path: str, classname: str) -> list[str]:
                 raise Exception(f"Expected one tag list, found: {len(result_list)}")
             result: str = result_list[0][1:-1]
 
+            # tags are seperated by a comma, then a space. if there is not space, then the comma was delimited a number for a gold cost (eg: a diamond worth 15,000 gp)
             tags = result.split(", ")
 
             if classname in tags:
@@ -34,4 +35,4 @@ def search(path: str, classname: str) -> list[str]:
 
 
 if __name__ == "__main__":
-    print(*search(FIGHTING_STYLES_PATH, sys.argv[1]), sep='\n')
+    print(*search(FIGHTING_STYLES_PATH, classname=sys.argv[1]), sep='\n')
