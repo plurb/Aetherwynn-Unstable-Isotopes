@@ -98,7 +98,7 @@ Whenever you gain a Fighter Level, you can replace one of the Exploits you learn
 To perform an Exploit, you expend a number of Stamina Points equal to the Exploit's level. For Exploits that modify an *Attack*, or *Ability Check*: you can only use one Exploit per *Attack*, or *Ability Check*.
 
 ### Exploit Ability
-*Attribute (Fighter, Exploits)*
+*Attribute (Fighter, Exploits)*  
 
 If one of your Exploits requires you to make an *Exploit Attack*, or a creature to make a *Check*, your "Exploit Attack Modifier", and "Exploit DC" are calculated as follows:
 
