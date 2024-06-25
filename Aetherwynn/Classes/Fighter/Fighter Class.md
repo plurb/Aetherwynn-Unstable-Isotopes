@@ -73,32 +73,37 @@ You know `X` Fighting Styles from *[Fighter Fighting Styles]*, where `X = the nu
 ## Exploits
 *1st-level Ability (Fighter, Exploits)*  
 
-You begin to learn techniques that enhance your martial skill in and out of battle. You gain the following Abilities:
+> *You begin to learn techniques that enhance your martial skill in and out of battle.*
 
-### Stamina
+You gain the following attributes and abilities.
 
-> *You have stamina greater than a mere common soldier, which allows you to perform exploits greater than an ordinary warrior.*
+### Stamina Points
+*Attribute (Fighter, Exploits, Stamina Points)*  
 
-You have a limited well of stamina represented by a number of Stamina Points. You can calculate the number of Stamina Points you have as follows:
+> *You have stamina greater than a common soldier, allowing you to perform exploits greater than an ordinary warrior.*
 
-**Stamina Points** = `your Fighter Level + your Constitution modifier`
+You have a number of "Stamina Points" calculated as follows:
 
-To perform an Exploit, you must expend a number of Stamina Points equal to the Exploit's level. You regain your expended Stamina Points when you finish a *Short Rest* or a *Long Rest*.
+**Stamina Points** = `your Fighter level + your Constitution modifier (minimum of 0)`
 
-For Exploits that modify an *Attack*, or *Ability Check*: you can only use one Exploit per *Attack*, or *Ability Check*.
+You regain all expended "Stamina Points" when you finish a *Short* or *Long Rest*.
 
 ### Exploits Known
+*Attribute (Fighter, Exploits)*  
 
 You know `X` Exploits from the *[Fighter Exploit List]*, where `X = the number shown in the "Exploits Known" column of the Fighter table`. To learn a Exploit, you must be able to learn Exploits of its level, as well as meet any other prerequisites (listed under **Pre-requisites** in the tags of the Exploit's entry).
 
 Whenever you gain a Fighter Level, you can replace one of the Exploits you learnt from this class with another Exploit from the *Fighter Exploit List*.
 
+To perform an Exploit, you expend a number of Stamina Points equal to the Exploit's level. For Exploits that modify an *Attack*, or *Ability Check*: you can only use one Exploit per *Attack*, or *Ability Check*.
+
 ### Exploit Ability
+*Attribute (Fighter, Exploits)*
 
 If one of your Exploits requires you to make an *Exploit Attack*, or a creature to make a *Check*, your "Exploit Attack Modifier", and "Exploit DC" are calculated as follows:
 
 **Exploit Attack Modifier** = `your Proficiency Bonus + your Strength or Dexterity modifier (your choice)`
-**Exploit DC** = `8 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice)`
+**Exploit DC** = `10 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice)`
 
 ---
 
