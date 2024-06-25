@@ -2,6 +2,8 @@
 
 > *You've formed a contract with a death spirit, gaining a portion of its might. You channel this fragment through a weapon granted to you by your patron, which you use to cleanse the world.*
 
+<!-- FIXME: use new templating for non-spell/exploit abilities. -->
+
 ## Bonus Proficiencies
 
 You gain proficiency with Martial Weapons.
