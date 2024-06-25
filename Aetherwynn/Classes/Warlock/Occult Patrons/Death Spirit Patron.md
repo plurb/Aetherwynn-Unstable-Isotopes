@@ -44,7 +44,7 @@ Your AC equals `10 + your Dexterity modifier + your Charisma modifier`.
 **1/long rest:** Target weapon in range gains the Purifying Weapon property.
 
 > ### Purifying Weapon
-> 
+>
 > You can use your Charisma modifier instead of your Strength or Dexterity modifier for attack and damage rolls with this weapons.
 
 ## Spirit's Wrath
@@ -136,5 +136,6 @@ If a creature targets you with an *Attack*, it makes a Charisma Saving Throw (`D
 >
 > ### Weapons
 >
-> ***Purifyer.*** *Melee Weapon:* Your Spell Attack modifier to hit (with advantage), reach 15 ft.. *Hit:* 3d8 + 3 + your Charisma modifier necrotic damage.  
-___
+> ***Purifyer.*** *Melee Weapon:* Your Spell Attack modifier to hit (with advantage), reach 15 ft.. *Hit:* 3d8 + 3 + your Charisma modifier necrotic damage.
+  
+---
