@@ -92,6 +92,9 @@ If one of your Exploits requires a creature to make an *Ability Check*, your Exp
 ---
 
 ## Expertise
+*2nd-level Ability (Rogue)*
+
+You gain *Expertise* in `2` Skills you have *Profiency* with.
 
 ---
 
@@ -114,30 +117,59 @@ If one of your Exploits requires a creature to make an *Ability Check*, your Exp
 ---
 
 ## Ability Score Increase
+*4th-level Ability (All Classes)*
+
+Increase one Ability Score of your choice by `2`, or two Ability Scores by `1`. You cannot increase one of your Ability Scores above `20` using this Ability.
+
+Do this again when you reach 8th, 12th, 16th, and 19th level in this class.
 
 ---
 
 ## Feat
+*4th-level Ability ({class})*
+
+You earn a Feat. This Feat can be either a General, Martial, or Rogue Feat.
+
+You earn an additional Feat at 8th, 12th, 16th, and 19th level.
 
 ---
 
 ## Uncanny Dodge
+*5th-level Ability (Rogue)*  
+
+⚡ — When a creature or object you can see makes an *Attack* vs. *AC*, or *Reflex* against you, you may have that *Attack* automatically miss.
 
 ---
 
 ## Enhanced Strikes
+*6th-level Ability (Barbarian, Fighter, Monk, Rogue)*  
+
+♾️ — *Weapon Attacks*, and *Exploit Attacks* you make count as *Magical* for the purpose of overcoming *Resistance*, and *Immunity* to Non-Magical *Attacks* and Damage.
 
 ---
 
 ## Additional Expertise
+*6th-level Ability (Rogue)*  
+
+You gain *Expertise* in `2` more Skills you have *Proficiency* with.
 
 ---
 
 ## Evasion
+*7th-level Ability (Barbarian, Monk, Rogue)*
+
+> *You are able to avoid attacks that are otherwise unavoidable.*
+
+♾️ — Whenever a creature makes an *Attack* vs. *Reflex* against you, or the ability has the "Blast" tag, you take no Damage if the *Attack* misses, and only half as much Damage if it hits.
 
 ---
 
 ## Fast Reactions
+*9th-level Ability (Rogue)*  
+
+♾️ — You may take up to `X` additional '⚡'-s per round.
+
+Where `X = 1` at 9th level in this class, `X = 2` at 13th level in this class, and `X = 3` at 17th level in this class.
 
 ---
 
