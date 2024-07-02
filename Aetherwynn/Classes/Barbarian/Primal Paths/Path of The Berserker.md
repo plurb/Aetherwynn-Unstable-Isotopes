@@ -17,7 +17,7 @@
 
 > *Your wrath is so vicious, you damage yourself in order to destroy your foes.*
 
-🔵 **(requires: you are [*Enraged*][E])** — You may deal `1d6 [necrotic]` Damage to yourself. If you do, make a *Melee Weapon Attack* vs. *AC* using a Melee Weapon you are wielding.
+🔵 **(requires: you are [*Enraged*][E])** — You may deal `1d6 [necrotic]` Damage to yourself. If you do, make a *Melee Weapon Attack* vs. *AC* using a "Melee Weapon" you are wielding.
 
 ---
 
