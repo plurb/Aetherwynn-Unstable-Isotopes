@@ -46,6 +46,6 @@ You regain all expended "Ward Charges" when you complete a *Long Rest*.
 ## Proficient Dispeller
 *10th-level Ability (Wizard, Abjuration Tradition)*  
 
-You gain Advantage on Spellcasting Checks you make to *Counter* or *Dispel* Spells.
+You gain *Advantage* on Spellcasting Checks you make to *Counter* or *Dispel* Spells.
 
 ---

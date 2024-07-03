@@ -7,7 +7,7 @@
 
 > *You attempt to charm a creature you can see within range.*
 
-Make a *Ranged Spell Attack* vs. *Will* against up to `X` target creatures you can see in range, where `X = this Spell's level - 3`. You have Disadvantage on this *Attack* if you or your companions are fighting the target.
+Make a *Ranged Spell Attack* vs. *Will* against up to `X` target creatures you can see in range, where `X = this Spell's level - 3`. You have *Disadvantage* on this *Attack* if you or your companions are fighting the target.
 
 **Hit:** The creatures are *[Charmed]* by you until this Spell ends or until you or your companions deal Damage to it, or it sees you or your companions deal Damage to one of their companions.
 

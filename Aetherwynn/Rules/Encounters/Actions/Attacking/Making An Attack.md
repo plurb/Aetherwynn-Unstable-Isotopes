@@ -14,7 +14,7 @@ If you make a *Melee Attack* against a creature outside of the range of the *Att
 
 ### Ranged Attacks
 
-You have Disadvantage on *Ranged Attacks* against creatures within 5 ft. of you.
+You have *Disadvantage* on *Ranged Attacks* against creatures within 5 ft. of you.
 
 **Ranged Weapon Attacks.** You add your Dexterity modifier to the `d20` roll.
 

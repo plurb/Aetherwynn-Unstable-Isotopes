@@ -121,7 +121,7 @@ You learn one Fighting Style from [*Barbian Fighting Styles*][BF].
 
 > *You can throw aside concern for your Defence to attack more accurately.*
 
-◻️ **(1/turn)** — When you ["Attack"][AtkAct], but before you make any *Attacks*, you may gain Advantage on all *Attacks* you make this turn. If you do, you have Disadvantage against *Attacks* vs. *AC*, or *Reflex* until the start of your next turn.
+◻️ **(1/turn)** — When you ["Attack"][AtkAct], but before you make any *Attacks*, you may gain *Advantage* on all *Attacks* you make this turn. If you do, you have *Disadvantage* against *Attacks* vs. *AC*, or *Reflex* until the start of your next turn.
 
 ---
 

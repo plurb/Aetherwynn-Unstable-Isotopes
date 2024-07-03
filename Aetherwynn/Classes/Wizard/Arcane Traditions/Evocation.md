@@ -42,6 +42,6 @@ You take half as much time, and gold to use your "Copy Spell" on "Evocation" Spe
 ## Precise Blasts
 *10th-level Ability (Wizard, Evocation Tradition)*  
 
-◻️ **(2/short rest)** — If you cast an "Evocation" Wizard Spell that makes *Spell Attack*, you may gain Advantage on the next *Spell Attack* you make.
+◻️ **(2/short rest)** — If you cast an "Evocation" Wizard Spell that makes *Spell Attack*, you may gain *Advantage* on the next *Spell Attack* you make.
 
 ---

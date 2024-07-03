@@ -28,7 +28,7 @@ You have `2` "Foresight Charges". You regain all expended "Foresight Charges" wh
 
 ### Knots of Fate
 
-⚡ **(range: 60 ft.)** — If a creature within range makes an *Attack* or an *Ability Check*, you may expend `1` "Foresight Charge". If you do, that creature gains Advantage or Disadvantage (your choice) on that *Attack* or *Ability Check*.
+⚡ **(range: 60 ft.)** — If a creature within range makes an *Attack* or an *Ability Check*, you may expend `1` "Foresight Charge". If you do, that creature gains *Advantage* or *Disadvantage* (your choice) on that *Attack* or *Ability Check*.
 
 ---
 
