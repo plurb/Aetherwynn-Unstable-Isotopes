@@ -14,7 +14,7 @@
 |     8 |           3 | Ability Score Increase, Feat           |        `4d6` |       10 |             2 |
 |     9 |           4 | Archetype Ability, Fast Reactions (1)  |        `5d6` |       11 |             3 |
 |    10 |           4 | Reliable Talent                        |        `5d6` |       11 |             3 |
-|    11 |           4 | [something]                            |        `6d6` |       12 |             3 |
+|    11 |           4 | Cunning Strike                         |        `6d6` |       12 |             3 |
 |    12 |           4 | Ability Score Increase, Feat           |        `6d6` |       12 |             3 |
 
 # Class Abilities
@@ -24,6 +24,12 @@
 ---
 
 ## Proficiencies
+
+**Armour:** Light Armour, Bucklers  
+**Weapons:** Simple Weapons, Ranged Weapons, Firearms, Dueling Weapons, Whips  
+**Tools:** One set of artisan's tools of your choice  
+**Defences:** *Reflex*, *Fortitude*  
+**Skills:** Choose `2 + your Intelligence modifier` of the following: Acrobatics, Athletics, History, Intimidation, Perception, Stealth, and Survival
 
 ---
 
@@ -40,7 +46,7 @@
 
 > *You exploit a target's weakness, and land a decisive strike.*
 
-◻️ **(1/turn)** — When you hit a creature using a Finesse Weapon or a *Ranged Weapon Attack*, you deal additional Damage equal to your "Sneark Attack" dice.
+◻️ **(1/turn, requires: you have *Advantage* on the *Attack* or an ally is within 5 ft. of the target)** — When you hit a creature using a Finesse Weapon or a *Ranged Weapon Attack*, you deal additional Damage equal to your "Sneak Attack" dice.
 
 ---
 
@@ -52,35 +58,39 @@ You learn one fighting style from [*Rogue Fighting Styles*][RF].
 ---
 
 ## Exploits
-*1st-level Ability (Rogue)*
+*1st-level Ability (Rogue, Exploits)*
 
-> *{Rogue exploit flavour text.}*
+> *Flavour text.*
 
 You gain the following attributes and abilities.
 
-### Stamina
+### Stamina Points
+*Attribute (Rogue, Exploits, Stamina Points)*
 
-> *You have stamina greater than a mere common crook, which allows you to perform exploits greater than an ordinary individual.*
+> *Flavour text.*
 
 You have a number of "Stamina Points" calculated as follows:
 
 **Stamina Points** = `your Rogue level + your Constitution modifier (minimum of 0)`
 
-To perform an Exploit, you expend a number of "Stamina Points" equal to the Exploit's level. You regain all expended "Stamina Points" when you finish a *Short* or *Long Rest*.
-
-For Exploits that modify an *Attack*, or *Ability Check*: you can only use one Exploit per *Attack*, or *Ability Check*.
+You regain all expended "Stamina Points" when you finish a *Short Rest*.
 
 ### Exploits Known
+*Attribute (Rogue, Exploits)*  
 
-You learn three Exploits from the *[Rogue Exploit List][REL]*. The "Exploits Known" column of the Rogue table shows when you learn more Exploits of your choice. To learn an Exploit, you must be able to learn Exploits of its level (as shown in the "Exploit Level" column of the Barbarian table), as well as meet any other pre-requisites (listed under **Pre-requisites** in the Exploit's entry).
+You know `X` Exploits from the *[Rogue Exploit List][REL]*, where `X = the number shown in the "Exploits Known" column of the Rogue table`. To learn an Exploit, you must be able to learn Exploits of its level (as shown in the "Exploit Level" column of the Rogue table), as well as meet any other pre-requisites (listed under **Pre-requisites** in tags of the Exploit's entry).
 
-Whenever you gain a Rogue level, you can replace one of the Exploits you learnt from this class with another Exploit from the *[Rogue Exploit List][REL]*.
+Whenever you gain a Rogue level, you can replace one Exploit you learnt from this class with another Exploit from the *[Rogue Exploit List][REL]*.
+
+To perform an Exploit, you expend a number of "Stamina Points" equal to the Exploit's level. For Exploits that modify an *Attack*, or *Ability Check*: you can only use one Exploit per *Attack*, or *Ability Check*.
 
 ### Exploit Ability
+*Attribute (Rogue, Exploits)*  
 
-If one of your Exploits requires a creature to make an *Ability Check*, your Exploit DC is calculated as follows:
+If one of your Exploits requires you to make an *Exploit Attack*, or a creature to make a *Check*, your "Exploit Attack Modifier", and "Exploit DC" are calculated as follows:
 
-**Exploit Save DC** = `10 + your Proficiency Bonus + your Dexterity modifier`
+**Exploit Attack Modifier** = `+ your Proficiency Bonus + your Dexterity modifier`
+**Exploit DC** = `10 + your Proficiency Bonus + your Dexterity modifier`
 
 ---
 
@@ -94,7 +104,7 @@ If one of your Exploits requires a creature to make an *Ability Check*, your Exp
 ## Expertise
 *2nd-level Ability (Rogue)*
 
-You gain *Expertise* in `2` Skills you have *Profiency* with.
+You gain *Expertise* in `2` *Skills* you have *Profiency* with.
 
 ---
 
@@ -126,7 +136,7 @@ Do this again when you reach 8th, 12th, 16th, and 19th level in this class.
 ---
 
 ## Feat
-*4th-level Ability ({class})*
+*4th-level Ability (Rogue)*
 
 You earn a Feat. This Feat can be either a General, Martial, or Rogue Feat.
 
@@ -137,7 +147,7 @@ You earn an additional Feat at 8th, 12th, 16th, and 19th level.
 ## Uncanny Dodge
 *5th-level Ability (Rogue)*  
 
-⚡ — When a creature or object you can see makes an *Attack* vs. *AC*, or *Reflex* against you, you may have that *Attack* automatically miss.
+⚡ — If a creature or object you can see makes an *Attack* vs. *AC*, or *Reflex* against you, you may have that *Attack* automatically miss.
 
 ---
 
@@ -151,7 +161,7 @@ You earn an additional Feat at 8th, 12th, 16th, and 19th level.
 ## Additional Expertise
 *6th-level Ability (Rogue)*  
 
-You gain *Expertise* in `2` more Skills you have *Proficiency* with.
+You gain *Expertise* in `2` more *Skills* you have *Proficiency* with.
 
 ---
 
@@ -174,6 +184,18 @@ Where `X = 1` at 9th level in this class, `X = 2` at 13th level in this class, a
 ---
 
 ## Reliable Talent
+*10th-level Ability (Rogue)*  
+
+♾️ — Whenever you make a *Skill Check* using a *Skill* you have at least *Profiency* with, you treat any roll on the 'd20' of `9` or less as `10`.
+
+---
+
+## Cunning Prediction
+*11th-level Ability (Rogue)*  
+
+> *You predict an enemy's attack and alert your allies.*
+
+⚡ — If target creature you can see makes an *Attack* against you or one or more of your allies, that creature gains *Disadvantage* on that *Attack*, and the next *Attack* made against that creature has *Advantage*.
 
 ---
 
