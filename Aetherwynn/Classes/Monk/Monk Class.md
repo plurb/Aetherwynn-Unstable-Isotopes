@@ -67,7 +67,7 @@ Alternatively, you may start with `2d4 × 10` gp to buy your own equipment.
 ### Martial Arts Die
 *Attribute (Monk, Martial Arts)*  
 
-Your Martial Arts Die is a `d6`. It increases at certain levels, as shown in the "Martial Arts" column of the Monk table. Some abilities reference this die as `NdM`, where `N = the number of dice` and `M = the size of your Martial Arts Die`.
+Your "Martial Arts Die" is a `d6`. It increases at certain levels, as shown in the "Martial Arts" column of the Monk table. Some abilities reference this die as `NdM`, where `N = the number of dice` and `M = the size of your "Martial Arts Die"`.
 
 ### Martial Arts Attacks
 
