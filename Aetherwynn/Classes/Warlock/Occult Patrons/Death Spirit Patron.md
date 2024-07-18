@@ -76,6 +76,8 @@ Make up to two attacks with a Purifying Weapon. You can a Warlock Cantrip with a
 >
 > While Swift Strikes is an Attack Action. It does *not* benefit from Multiattack, and does *not* increase the number of attacks you make using Multiattack. However, it does meet the condition for using abilities that require you use *an* Attack Action, vs *the* Attack Action.
 
+<!-- Who the fuck thought the above ^^^ was a good way of doing this. (it was me) -->
+
 ---
 
 ## Spiritual Armour
