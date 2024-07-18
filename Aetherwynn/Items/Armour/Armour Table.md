@@ -20,8 +20,8 @@
 
 ## Heavy Armour
 
-| Armour     |    Cost | *AC* | Strength |      Stealth | *Reflex* | Tags         |  Weight |
-|:-----------|--------:|:----:|:--------:|-------------:|---------:|:-------------|--------:|
+| Armour     |    Cost | *AC* | Strength |        Stealth | *Reflex* | Tags         |  Weight |
+|:-----------|--------:|:----:|:--------:|---------------:|---------:|:-------------|--------:|
 | Ring Mail  |   30 gp | `15` |    —     | *Disadvantage* |     `-2` | Heavy Armour | 20 lbs. |
 | Chain Mail |   75 gp | `16` |  Str 13  | *Disadvantage* |     `-2` | Heavy Armour | 30 lbs. |
 | Splint     |  200 gp | `17` |  Str 14  | *Disadvantage* |     `-2` | Heavy Armour | 45 lbs. |
