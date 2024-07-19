@@ -15,5 +15,3 @@ Use the DnD 5e cleric spell list for now.
 ## 5th-Level
 
 ## 6th-Level
-
-
