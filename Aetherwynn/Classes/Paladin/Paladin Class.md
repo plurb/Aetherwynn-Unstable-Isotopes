@@ -52,6 +52,3 @@
 | Oath of Liberation | Unstable Isotopes (0.0) |
 | Oath of Redemption | Unstable Isotopes (0.0) |
 | Oath of Vengeance  | Unstable Isotopes (0.0) |
-
-
-
