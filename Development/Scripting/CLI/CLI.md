@@ -69,12 +69,13 @@ Aetherwynn CLI:
 * `--sql` - search using SQL syntax. Only works when using the `-[reqfile|req|f]` flag.
 
 ## `aether newchar`
+
 `aether newchar` - creates new empty character sheet (dicecloud v2 character)
 * `--pdf` - creates a fillable PDF.
 
 ## `aether loadchar`
 
-`aether loadchar [path|URL]` - loads character for aetherwynn automations (default format is DiceBox)
+`aether loadchar [path|URL]` - loads character for aetherwynn automations
 * `--dicecloud` - loads a Dicecloud v2 character, requires URL to the sheet.
 * `--dicecloudv1` - loads a Dicecloud v1 character, gives the following warning when used:
   * `WARNING: Dicecloud v1 is at EOL, and is out of date. Use Dicecloud v2 instead geezer.`
