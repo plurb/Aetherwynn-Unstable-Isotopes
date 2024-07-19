@@ -3,4 +3,6 @@
 **Pre-requisites:** —  
 
 You gain the following abilities:
-* 🔵 — If you have moved 10 or more ft. this turn, make a *Melee Weapon Attack* at the end of your *Movement*.
+* 🔵 **(requires: if you "[Dashed]" this turn)** — Make an *Unarmed Strike*, or a *Melee Weapon Attack* using a "Weapon" you are wielding.
+
+[Dashed]: ../../Rules/Encounters/Actions/Dash.md
