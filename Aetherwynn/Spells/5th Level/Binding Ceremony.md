@@ -5,7 +5,6 @@
 **Components:** V, S, M (incense worth 15 gp, a brass-handled fly-whisk worth 10 gp, fruits worth 20 gp \[consumed\], raw rice worth 1 gp \[consumed\], brass candle holders worth 200 gp, ceremonial candles worth 50 gp \[consumed\], holy water worth 1 gp \[consumed\], flowers worth 50 gp \[consumed\], an obsidian idol worth 2500 gp, silver bowls, plates, and cups worth 500 gp, a brass bell worth 25 gp, a brass hand gong worth 25 gp, sugar worth 15 gp \[consumed\], lentils worth 5 gp \[consumed\], two red string bracelets worth 1 gp each, a peacock feather fan worth 2000 gp)  
 **Duration:** Varies  
 
-
 <!--
 Planar Binding
 PHB
@@ -22,4 +21,3 @@ A bound creature must follow your instructions to the best of its ability. You m
 
 At Higher Levels. When you cast this spell using a spell slot of a higher level, the duration increases to 10 days with a 6th-level slot, to 30 days with a 7th-level slot, to 180 days with an 8th-level slot, and to a year and a day with a 9th-level spell slot.
 -->
-

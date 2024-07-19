@@ -13,9 +13,9 @@ Up to `1` target creature in range gains the following effects until this Spell 
 **Classes:** Artificer, Cleric, Druid, Magus, Paladin, Ranger, Sorcerer, Wizard
 
 > ### Rulings
-> 
+>
 > (20-02-2024) Mystical Shroud does not end its own effects.
-> 
+>
 > (20-02-2024) Mystical Shroud prevents *all* spells from targetting the creature affected. Whether the target is willing or not.
-> 
+>
 > (20-02-2024) Mystical Shroud does not end spells that were already placed on the affected creature.
