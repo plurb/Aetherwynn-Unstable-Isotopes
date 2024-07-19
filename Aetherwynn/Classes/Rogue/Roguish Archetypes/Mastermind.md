@@ -24,7 +24,7 @@ You are able to speak all languages you know at the level of a native speaker, a
 ## Master Tactitian
 *3rd-level Ability (Rogue, Mastermind Archetype)*
 
-🔵 **(range: 30 ft.)** — Another target creature in range gains Advantage on the next *Attack* it makes before the start of your next turn. If the *Attack* hits, it deals additional Damage equal to your "Sneak Attack" dice. <sup><sub>*(If an attack does not deal damage, then it does not deal additional damage.)*</sub></sup>
+🔵 **(range: 30 ft.)** — Another target creature in range gains *Advantage* on the next *Attack* it makes before the start of your next turn. If the *Attack* hits, it deals additional Damage equal to your "Sneak Attack" dice. <sup><sub>*(If an attack does not deal damage, then it does not deal additional damage.)*</sub></sup>
 
 ---
 

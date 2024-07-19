@@ -30,7 +30,7 @@
 
 ## Proficiencies
 
-**Armor:** Light armour, Medium armour, Shields  
+**Armour:** Light armour, Medium armour, Shields  
 **Weapons:** Simple Weapons, Martial Weapons  
 **Tools:** —  
 **Spellcasting Foci:** —  
@@ -82,7 +82,7 @@ This ability lasts for 10 minutes, and ends early unless you make an *Attack*, C
 
 You gain the following attributes and abilities.
 
-### Stamina
+### Stamina Points
 
 > *You have stamina greater than a mere outcast, which allows you to perform exploits greater than an ordinary warrior.*
 
@@ -90,15 +90,15 @@ You have a number of "Stamina Points" calculated as follows:
 
 **Stamina Points** = `your Barbarian level + your Constitution modifier (minimum of 0)`
 
-To perform an Exploit, you expend a number of Stamina Points equal to the Exploit's level. You regain all expended Stamina Points when you finish a *Short* or *Long Rest*.
-
-For Exploits that modify an *Attack*, or *Ability Check*: you can only use one Exploit per *Attack*, or *Ability Check*.
+You regain all expended "Stamina Points" when you finish a *Short* or *Long Rest*.
 
 ### Exploits Known
 
 You know `X` Exploits from the *[Barbarian Exploit List]*, where `X = the number shown in the "Exploits Known" column of the Barbarian table`. To learn an Exploit, you must be able to learn Exploits of its level (as shown in the "Exploit Level" column of the Barbarian table), as well as meet any other pre-requisites (listed under **Pre-requisites** in tags of the Exploit's entry).
 
 Whenever you gain a Barbarian level, you can replace one Exploit you learnt from this class with another Exploit from the *[Barbarian Exploit List]*.
+
+To perform an Exploit, you expend a number of Stamina Points equal to the Exploit's level. For Exploits that modify an *Attack*, or *Ability Check*: you can only use one Exploit per *Attack*, or *Ability Check*.
 
 ### Exploit Ability
 
@@ -119,14 +119,14 @@ You learn one Fighting Style from [*Barbian Fighting Styles*][BF].
 ## Reckless Attack
 *2nd-level Ability (Barbarian)*  
 
-> *You can throw aside concern for your defense to attack more accurately.*
+> *You can throw aside concern for your Defence to attack more accurately.*
 
-◻️ **(1/turn)** — When you ["Attack"][AtkAct], but before you make any *Attacks*, you may gain Advantage on all *Attacks* you make this turn. If you do, all *Attacks* against you have Advantage until the start of your next turn.
+◻️ **(1/turn)** — When you ["Attack"][AtkAct], but before you make any *Attacks*, you may gain *Advantage* on all *Attacks* you make this turn. If you do, you have *Disadvantage* against *Attacks* vs. *AC*, or *Reflex* until the start of your next turn.
 
 ---
 
 ## Primal Path
-*3rd-level Ability (Barbarian)*
+*3rd-level Ability (Barbarian)*  
 
 > *Flavor text*
 
@@ -173,9 +173,9 @@ You earn an additional Feat at 8th, 12th, 16th, and 19th level.
 
 > *You can strike with inhuman speed.*
 
-♾️ — You *Attack* up to `X` times, instead of once, when you "Attack" on your turn, where `X = 2`.
+♾️ — You *Attack* up to `X` times, instead of once, when you ["Attack"][AtkAct] on your turn.
 
-`X = 3` at 11th level, and `X = 4` at 17th level in this class.
+Where `X = 2` at 5th level, `X = 3` at 11th level, and `X = 4` at 17th level in this class.
 
 ---
 

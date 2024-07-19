@@ -1,18 +1,18 @@
 ### Thermal Shield
 *4th-level Evocation*  
-**Casting Time:** Action  
+**Casting Time:** 🔷  
 **Range:** Self  
 **Components:** V, S, M (a bit of phosphorus or a firefly)  
 **Duration:** 10 minutes  
 
 > *Thin and wispy flames wreathe your body for the duration. The flames defend you, and rebuke attackers.*
 
-You emit bright light centered on you in a 10-foot radius and dim light for an additional 10 feet. You can end this spell early by using a bonus action to dismiss it.
+You emit Bright Light in a 10 ft. sphere centered on you, and Dim Light in a 20 ft. sphere centered on you.
 
-The flames provide you with a warm shield or a chill shield, as you choose.
-* **Warm.** You have resistance to cold damage.
-* **Chill.** You have resistance to fire damage.
+Choose one:
+* *Warm.* — You gain Resistance to Cold Damage. If a creature within 30 ft. of you hits you with an *Attack*, the creature takes `2d8 [fire]` Damage.
+* *Chill.* — You gain Resistance to Fire Damage. If a creature within 30 ft. of you hits you with an *Attack*, the creature takes `2d8 [cold]` Damage.
 
-If a creature within 30 feet of you hits you with an attack, the attacker takes `2d8` fire damage from a warm shield, or `2d8` cold damage from a cold shield.
+You may end this Spell early by using a "🔵" to dismiss it.
 
 **Classes:** Sorcerer, Wizard

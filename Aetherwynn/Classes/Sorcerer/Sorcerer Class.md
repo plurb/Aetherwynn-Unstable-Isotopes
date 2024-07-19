@@ -49,12 +49,12 @@
 
 ## Proficiencies
 
-**Armor:** Light Armour  
+**Armour:** Light Armour  
 **Weapons:** Simple Weapons, Swords  
-**Spellcasting Foci:** arcane foci, component pouch  
-**Tools:** none  
-**Saving Throws:** Intelligence, Wisdom  
-**Skills:** Choose `2 + your Intelligence modifier` from Arcana, Deception, History, Insight, Nature, Performance, Persuasion
+**Spellcasting Foci:** Arcane Foci, Component Pouch  
+**Tools:** —  
+**Defenses:** *Fortitude*, *Will*  
+**Skills:** Choose `2 + your Intelligence modifier` from Arcana, Deception, History, Insight, Nature, Performance, Persuasion  
 
 ---
 
@@ -63,7 +63,7 @@
 You start with the following items, plus anything provided by your background.
 
 * (a) a light crossbow and 20 bolts or (b) any simple weapon
-* (a) a component pouch or (b) an arcane focus
+* (a) a Component Pouch or (b) an arcane focus
 * (a) a dungeoneer's pack or (b) an explorer's pack
 * Two daggers
 
@@ -92,11 +92,15 @@ You gain two Metamagic options of your choice from *Sorcerer Metamagics*. You ga
 
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
 
-### Sorcery Points
+### Stamina
 
-You use Metamagic by expending a number of Sorcery Points. You can calculate the number of Sorcery Points you have as follows:
+You have a number of "Stamina Points" calculated as follows:
 
-**Sorcery Points** = `your Sorcerer level + your Charisma modifier` (minimum of 0)
+**Stamina Points** = `your Fighter Level + your Constitution modifier (minimum of 0)`
+
+You regain all expended "Stamina Points" when you finish a *Short* or *Long Rest*.
+
+### Metamagic Known
 
 ---
 
@@ -115,5 +119,3 @@ Subclass
 | Spirit Soul   | Unstable Isotopes (0.0) |
 | Storm Soul    | Unstable Isotopes (0.0) |
 | Tectonic Soul | Unstable Isotopes (0.0) |
-
-

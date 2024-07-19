@@ -2,7 +2,7 @@
 *Cantrip (Transumtation)*  
 **Casting Time:** 🔷  
 **Range:** Self  
-**Components:** S, M (a Melee Weapon worth at least 1 sp)  
+**Components:** S, M (a "Melee Weapon" worth at least 1 sp)  
 **Duration:** 1 round  
 
 > *You imbue a weapon with thunderous aether, and make an attack with it.*

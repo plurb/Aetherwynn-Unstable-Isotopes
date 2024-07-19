@@ -23,18 +23,18 @@
 
 ## Hit Points
 
-**Hit Points:** `10 + your Constitution modifier` per Monk level
+**Hit Points:** `10 + your Constitution modifier` per Monk level  
 **Hit Dice:** `1d10`  
 
 ---
 
 ## Proficiencies
 
-**Armor:** —  
+**Armour:** —  
 **Weapons:** Simple Weapons, Shortswords  
 **Tools:** 1 set of Artisan's Tools, or 1 Musical Instrument  
 **Spellcasting Foci:** —  
-**Saving Throws:** Strength, Dexterity  
+**Defenses:** *Reflex*, *Fortitude*  
 **Skills:** Choose `2 + your Intelligence modifier (minimum of 0)` of the following: Acrobatics, Athletics, History, Insight, Nature, Religion, Stealth  
 
 ---
@@ -55,7 +55,7 @@ Alternatively, you may start with `2d4 × 10` gp to buy your own equipment.
 ### Multiclassing Into This Class
 
 **Ability Score Requirement:** Dexterity score of 13 or greater, and a Wisdom score of 13 or greater.  
-**Armor Gained:** —  
+**Armour Gained:** —  
 **Weapons Gained:** —  
 **Skills Gained:** Choose `1 + half your Intelligence modifier (rounded up)` of the following: Acrobatics, Athletics, History, INsight, Nature, Religion, Stealth.
 
@@ -65,23 +65,31 @@ Alternatively, you may start with `2d4 × 10` gp to buy your own equipment.
 *1st-level Ability (Monk)*
 
 ### Martial Arts Die
+*Attribute (Monk, Martial Arts)*  
 
-Your Martial Arts Die is a `d6`. It increases at certain levels, as shown in the "Martial Arts" column of the Monk table. Some abilities reference this die as `NdM`, where `N = the number of dice` and `M = the size of your Martial Arts Die`.
+Your "Martial Arts Die" is a `d6`. It increases at certain levels, as shown in the "Martial Arts" column of the Monk table. Some abilities reference this die as `NdM`, where `N = the number of dice` and `M = the size of your "Martial Arts Die"`.
 
 ### Martial Arts Attacks
 
-For the purpose of your Monk Abilities, *Martial Arts Attacks* are *Unarmed Strikes*, or *Attacks* with a *Melee Weapon* without the *Heavy* or *Special* properties.
+For the purpose of your Monk abilities, *Martial Arts Attacks* are *Unarmed Strikes*, or *Attacks* using a *Melee Weapon* you are Proficient with without the "Heavy" or "Special" properties.
 
-### Deadly Strikes
+### Unarmoured Defense
+*Ability (Monk)*
 
-♾️ — Your *Unarmed Strikes* are *Martial Melee Weapons* you are Proficient with, and have the *Light* and *Finesse* properties. Their *Damage Die* is `1dM`.
+While not wearing Armour, your *AC* is calculated as follows:
+
+**AC** = `10 + your Proficiency Bonus + your Dexterity modifier`
+
+### Deadly Strikes  
+
+♾️ — Your *Unarmed Strikes* are *Martial Melee Weapons* you are Proficient with, and have the "Light" and "Finesse" properties. Their *Damage Die* is `1dM`.
 
 > **Quick Reference:** [Two-Weapon Fighting][TWF]
 
 ---
 
 ## Fighting Style
-*1st-level Ability (Monk)*
+*1st-level Ability (Monk)*  
 
 You learn one Fighting Style from [*Monk Fighting Styles*][MFS].
 
@@ -190,15 +198,19 @@ You earn a General, Martial, or Monk feat which you meet the pre-requisites for.
 
 > *You can strike with inhuman speed.*
 
-♾️ — You *Attack* up to `X` times, instead of once, when you "Attack" on your turn, where `X = 2`.
+♾️ — You *Attack* up to `X` times, instead of once, when you "Attack" on your turn.
 
-`X = 3` at 11th level, and `X = 4` at 17th level in this class.
+Where `X = 2` at 5th level, `X = 3` at 11th level, and `X = 4` at 17th level in this class.
 
 ---
 
 ## Enhanced Strikes
 
+---
+
 ## Evasion
+
+---
 
 [MT]: ./Monk%20Techniques.md
 [MFS]: ./Monk%20Fighting%20Styles.md

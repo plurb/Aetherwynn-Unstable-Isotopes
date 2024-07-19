@@ -39,7 +39,7 @@
 
 ## Mystic Physique
 
-### Unarmoured Defense
+### Unarmoured Defence
 
 ♾️ — While you are not wearing Armour, your AC = `10 + your Dexterity modifier + your Intelligence modifier`
 
@@ -78,7 +78,6 @@ Your *Spellcasting Ability* is your Intelligence.
 **Spell Save DC** = `8 + your Proficiency Bonus + your Intelligence modifier`
 **Spell Attack Modifier** = `your Proficiency Bonus + your Intelligence modifier`  
 
-
 ---
 
 ## Psionic Archetype
@@ -96,4 +95,3 @@ Your *Spellcasting Ability* is your Intelligence.
 |                 |        |
 
 ---
-

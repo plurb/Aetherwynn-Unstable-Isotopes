@@ -47,7 +47,7 @@
 **Armour:** Light Armour  
 **Weapons:** Simple Weapons, Hand Crossbows, Longswords, Rapiers, Shortswords  
 **Tools:** `3 + your Intelligence modifier` *Musical Instruments* of your choice  
-**Saving Throws:** Dexterity, Charisma  
+**Defenses:** Dexterity, Charisma  
 **Skills:** Choose any `3 + your Intelligence modifier`  
 
 ---

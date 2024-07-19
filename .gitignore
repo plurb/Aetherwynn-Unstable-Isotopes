@@ -7,3 +7,6 @@
 
 # just notes 'n stuff
 .future
+
+# ignore .env
+.env

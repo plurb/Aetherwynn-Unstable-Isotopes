@@ -38,7 +38,7 @@
 |    11 |   4   |   3   |   3   |   3   |   2   |   1   |   -   |   -   |   -   |
 |    12 |   4   |   3   |   3   |   3   |   2   |   1   |   -   |   -   |   -   |
 
-# Class Features
+# Class Abilities
 
 ## Hit Points
 **Hit Points:** 8 + your Constitution modifier per Cleric level  
@@ -47,11 +47,11 @@
 ---
 
 ## Proficiencies
-**Armor:** light armor, shields  
+**Armour:** light armor, shields  
 **Weapons:** simple weapons  
-**Spellcasting Foci:** component pouch, divine foci  
+**Spellcasting Foci:** Component Pouch, divine foci  
 **Tools:** prayer set  
-**Saving Throws:** Wisdom, Charisma  
+**Defenses:** Wisdom, Charisma  
 **Skills:** Choose `2 + your Intelligence modifier` from Arcana, Athletics, History, Insight, Medicine, Persuasion, and Religion.  
 
 ---
@@ -72,7 +72,7 @@ You start with the following items, plus anything provided by your background.
 ## Multiclassing Into This Class
 
 **Ability Requirement:** Wisdom score of 13 or greater.  
-**Armor Gained:** Light Armor, Shields  
+**Armour Gained:** Light Armour, Shields  
 **Weapons Gained:** none  
 **Skills Gained:** Choose 1 + half your Intelligence modifier (rounded up) of the following: Arcana, Athletics, History, Insight, Medicine, Persuasion, and Religion.  
 

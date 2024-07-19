@@ -1,4 +1,4 @@
-### Mage Armor  
+### Mage Armour  
 *1st-level Spell (Abjuration)*  
 **Casting Time:** 🔷  
 **Range:** Touch  

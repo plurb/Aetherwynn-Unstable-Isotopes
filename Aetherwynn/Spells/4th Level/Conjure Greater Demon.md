@@ -13,7 +13,7 @@ At the beginning of each of the demon's turns, make a *DC* `Y` Spellcasting Chec
 
 **Failure:** This Spell ends.  
 
-If this Spell ends before it completes its full duration, you lose control of the demon, and it **does not disappear** for `2d6` rounds if it still has *HP*. The demon spends its turns pursuing and attacking the nearest Humanoid creature.
+If this Spell ends before it completes its full duration, you lose control of the demon, and it **does not disappear** for `2d6` rounds if it still has HP. The demon spends its turns pursuing and attacking the nearest Humanoid creature.
 
 **Classes:** Sorcerer, Warlock, Wizard
 

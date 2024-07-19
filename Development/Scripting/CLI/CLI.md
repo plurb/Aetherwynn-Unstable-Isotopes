@@ -62,30 +62,21 @@ Aetherwynn CLI:
 * `--noprogress` - disables the progress bar.
 * `--regex` - searches for the document w/ the specified name using regex matching.
 * `--fetchall` - gets **all** matches, not just the first one.
-* `--nocache` - disables search result caching for this search (this options does nothing it `-remote` is used).
+* `--nocache` - disables search result caching for this search (this options does nothing if `-remote` is used).
 * `-remote=[url]` - uses remote server for the fetch.
 * `-[o|out|output] [filename]` - puts the search result into the specified file. if the file doesn't exist, it creates a new one.
-* `-[reqfile|req|f]` - file containing search flags in JSON format (or SQL format if `-sql` is used).
+* `-[reqfile|req|f] [filename]` - file containing search flags in JSON format (or SQL format if `--sql` is used).
 * `--sql` - search using SQL syntax. Only works when using the `-[reqfile|req|f]` flag.
 
-
 ## `aether newchar`
-<!-- TODO: Fix to use Avrae/DiceCloud V2 as DiceBox is an abandoned project -->
-`aether newchar` - creates new empty character sheet (default is DiceBox)
-* `--dicebox` - (default) creates the new character in DiceBox format.
+`aether newchar` - creates new empty character sheet (dicecloud v2 character)
 * `--pdf` - creates a fillable PDF.
-
 
 ## `aether loadchar`
 
 `aether loadchar [path|URL]` - loads character for aetherwynn automations (default format is DiceBox)
-* `--dicebox` - (default) loads a DiceBox character.
 * `--dicecloud` - loads a Dicecloud v2 character, requires URL to the sheet.
 * `--dicecloudv1` - loads a Dicecloud v1 character, gives the following warning when used:
-  * `WARNING: Dicecloud v1 is at EOL, and is out of date. Use Dicecloud v2 or DiceBox instead geezer.`
-  * FUTURE: After DiceBox development is complete, deprecate this feature. Then remove in the next stable release.
+  * `WARNING: Dicecloud v1 is at EOL, and is out of date. Use Dicecloud v2 instead geezer.`
 * `--tableplop` - loads a tableplop sheet.
 * `--critterdb` - loads a CritterDB monster.
-
-
-

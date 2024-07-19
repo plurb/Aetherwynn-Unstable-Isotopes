@@ -5,4 +5,4 @@
 > *You're a master of fighting in tight formation. No creature can slip past your guard.*
 
 You gain the following abilities:
-* 🔵 — You may enter a defensive stance. If you do, then whenever you would make an *Attack of Opportunity* as a Reaction, you do so as a Free Action instead. This stance lasts until you move `5` or more ft., become *Prone*, or are *Incapacitated* or die.
+* 🔵 **(requires: Concentration)** — Until this ability ends, whenever you would make an *Attack of Opportunity* as a ⚡, you may do so as a ◻️ instead. This ability lasts until you move `5` or more ft., become *Prone*, become *Incapacitated*, or die.
