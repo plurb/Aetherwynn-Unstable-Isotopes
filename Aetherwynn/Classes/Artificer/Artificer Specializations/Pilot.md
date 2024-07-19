@@ -23,6 +23,3 @@ As a general idea, the vehicle looks a bit like this:
 
 Note, it looks similar to a creature statblock. That's because it basically is, though the mental stats are omitted cuz... It's an innanimate object.
 -->
-
-
-
