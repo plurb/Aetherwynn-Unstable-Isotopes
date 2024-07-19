@@ -22,5 +22,3 @@ Encounters:
 4. 6x 'Goblin'
 5. 1x 'Bugbear'
 6. 3x 'Goblin'
-
-

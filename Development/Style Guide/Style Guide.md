@@ -3,9 +3,11 @@
 ## General
 
 References to ability scores looks like:
+
 ```md
 ... Constitution Saving Throw ...
 ```
+
 ```md
 ... Strength ...
 ```
@@ -17,11 +19,13 @@ Since the ability score used by a skill check can change, the check to be made i
 ```
 
 Flavor text looks like:
+
 ```md
 > *This is flavor text.*
 ```
 
 Formulas are in inline code:
+
 ```md
 ... `2d8 + 2` ...
 ```
@@ -33,6 +37,7 @@ Formulas are in inline code:
 ```
 
 Keywords can be links to the appropriate keyword's description:
+
 ```md
 [keyword](https://www.example.com)
 ```
@@ -44,6 +49,7 @@ They can also be capitalised.
 ```
 
 Saving throws are styled as:
+
 ```md
 [Affected creatures] make a(n) [Ability] Saving Throw.
 

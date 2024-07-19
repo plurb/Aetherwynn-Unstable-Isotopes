@@ -32,5 +32,3 @@ You learn two Cantrips from the [*Wizard Spell List*](../../Wizard/Wizard%20Spel
 
 ## Arcane Mastery
 *17th-level Ability (Cleric, Arcana Domain)*
-
-

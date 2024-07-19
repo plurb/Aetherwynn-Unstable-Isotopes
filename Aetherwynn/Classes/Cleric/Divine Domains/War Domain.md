@@ -8,5 +8,3 @@
 | 5th          | Crusader's Mantle, Spirit Guardians |
 | 7th          | Freedom of Movement, Stoneskin      |
 | 9th          | Flame Strike, Hold Monster          |
-
-

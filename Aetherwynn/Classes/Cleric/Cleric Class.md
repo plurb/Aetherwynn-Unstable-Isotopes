@@ -126,6 +126,7 @@ The Spell Slots per Spell Level table shows how many spell slots you have to cas
 You prepare the set of Cleric spells that are available for you to cast. To do so, choose a number of Cleric spells from your repertoire equal to `your Wisdom modifier + your Cleric level` (minimum of one). The spells must be of a level for which you have spell slots.
 
 ___
+
 > #### Example
 > For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 ___
@@ -157,5 +158,3 @@ Your choice grants you Domain Spells and other features when you choose it at 1s
 Each domain has a list of spells—its domain spells—that you gain at the Cleric levels noted in the domain description. Once you gain a domain spell, it is added to your repertoire, and it doesn't count against the number of spells normally added to your repertoire upon gaining a Cleric level.
 
 If you have a domain spell that doesn't appear on the Cleric Spell List, the spell is a Cleric spell for you.
-
-

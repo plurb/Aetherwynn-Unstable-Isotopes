@@ -10,12 +10,10 @@
 | 7th          | Elemental Bane,  Polymorph              |
 | 9th          | Conjure Lesser Dragon, Destructive Wave |
 
-## 
+## Alpha
 
-## 
+## Beta
 
-## 
+## Gamma
 
-##
-
-
+## Delta

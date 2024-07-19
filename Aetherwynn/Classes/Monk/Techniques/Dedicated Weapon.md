@@ -12,5 +12,5 @@ You gain the following abilites:
 
 > ### Dedicated Weapon
 > *Property (Monk, Dedicated Weapon)*  
-> 
+>
 > ♾️ — Attacks made with this *Weapon* are *Martial Arts Attacks*.

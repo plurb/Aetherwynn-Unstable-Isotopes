@@ -1,5 +1,4 @@
 
-
 ## Spirit Domain Spells
 *Ability (Cleric, Spirit Domain)*
 
@@ -10,4 +9,3 @@
 | 5th          | Blink, Counterspell            |
 | 7th          | Dimension Door, Polymorph      |
 | 9th          | Legend Lore, Scrying           |
-

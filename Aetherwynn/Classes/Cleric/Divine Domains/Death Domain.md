@@ -24,4 +24,3 @@
 
 ## Potent Cantrips
 *8th-level Ability (Cleric, Death)*
-
