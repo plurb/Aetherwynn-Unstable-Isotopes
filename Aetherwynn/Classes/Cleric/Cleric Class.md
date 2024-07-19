@@ -110,7 +110,9 @@ You regain all expended Healing Points whenever you finish a *Long Rest*.
 
 > *You're a god's special bitch. Congrats.*
 
-See **spellcasting** for the general rules of spellcasting and the [**Cleric Spell List**](https://github.com/plurb/Aetherwynn-Unstable-Isotopes/blob/main/Spells/Cleric%20Spell%20List.md) for the cleric spell list.
+See **spellcasting** for the general rules of spellcasting and the [**Cleric Spell List**][CSL] for the cleric spell list.
+
+[CSL]: Cleric%20Spell%20List.md
 
 ### Cantrips
 You know three Cantrips of your choice from the Cleric Spell List. You learn additional Cleric Cantrips of your choice at higher levels, as shown in the Cantrips column of the Cleric table.
@@ -125,11 +127,13 @@ The Spell Slots per Spell Level table shows how many spell slots you have to cas
 
 You prepare the set of Cleric spells that are available for you to cast. To do so, choose a number of Cleric spells from your repertoire equal to `your Wisdom modifier + your Cleric level` (minimum of one). The spells must be of a level for which you have spell slots.
 
-___
+---
 
 > #### Example
+>
 > For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
-___
+
+---
 
 > *You can take time to prepare a new list of cleric spells through prayer and meditation.*
 

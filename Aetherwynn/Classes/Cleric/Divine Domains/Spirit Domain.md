@@ -1,3 +1,4 @@
+# Spirit Domain
 
 ## Spirit Domain Spells
 *Ability (Cleric, Spirit Domain)*

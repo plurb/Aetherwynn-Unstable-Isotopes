@@ -1,5 +1,7 @@
 # Aetherwynn Style Guide
 
+<!-- TODO: update the style guide. -->
+
 ## General
 
 References to ability scores looks like:
@@ -71,9 +73,9 @@ Class name goes in `# Heading 1`.
 
 Class features go in `## Heading 2`.
 
-## References to Abilities
+## References to Abilities and Tags
 
-References to specific abilities go in qoutes, "like this".
+References to specific abilities or tags go in qoutes, "like this".
 
 Examples:
 
