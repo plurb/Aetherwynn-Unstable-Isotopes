@@ -10,5 +10,3 @@
 | 5th          | Daylight, Fireball              |
 | 7th          | Guardian of Faith, Wall of Fire |
 | 9th          | Flame Strike, Scrying           |
-
-

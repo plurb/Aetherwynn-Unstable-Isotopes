@@ -19,7 +19,7 @@ You gain Proficiency with Arcana. If you are already Profienct, then you gain Pr
 ## Arcane Initiate
 *1st-level Ability (Cleric, Arcana Domain)*
 
-You learn two Cantrips from the [*Wizard Spell List*](../../Wizard/Wizard%20Spell%20List.md). They are Cleric Spells for you.
+You learn two Cantrips from the [*Wizard Spell List*][WSL]. They are Cleric Spells for you.
 
 ## Channel Divinity: Arcane Abjuration
 *2nd-level Ability (Cleric, Arcana Domain)*
@@ -33,4 +33,4 @@ You learn two Cantrips from the [*Wizard Spell List*](../../Wizard/Wizard%20Spel
 ## Arcane Mastery
 *17th-level Ability (Cleric, Arcana Domain)*
 
-
+[WSL]: ../../Wizard/Wizard%20Spell%20List.md

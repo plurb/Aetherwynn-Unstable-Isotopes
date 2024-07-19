@@ -11,4 +11,3 @@ Encounters:
 6. 2 x 'Necromancer Cultist'
 7. 1 x 'Curse Bringer'
 8. 1 x 'Wight' (final encoutner)
-
