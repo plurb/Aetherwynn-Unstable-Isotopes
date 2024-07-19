@@ -29,7 +29,7 @@
 **Weapons:** Simple Weapons, Ranged Weapons, Firearms, Dueling Weapons, Whips  
 **Tools:** One set of artisan's tools of your choice  
 **Defences:** *Reflex*, *Fortitude*  
-**Skills:** Choose any `4 + your Intelligence modifier` Skill  
+**Skills:** Choose any `4 + your Intelligence modifier` Skills  
 
 ---
 
