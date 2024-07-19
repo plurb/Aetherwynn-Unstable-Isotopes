@@ -72,7 +72,7 @@ You start with the following items, plus anything provided by your background.
 ---
 
 ## Infused Magic
-*1th-level Ability (Aethersmith, Spellcasting)*  
+*1st-level Ability (Aethersmith, Spellcasting)*  
 
 During a *Short Rest*, if you have access to a set of tinker's tools, you can infuse up to `X` items with Aethersmith Spells you know, where `X = Infused Items` which can be found on the class table. The spell infused in the item is called an infused spell.
 
@@ -85,7 +85,7 @@ When you cast a spell infused into an item, the infusion ends.
 ---
 
 ## Blueprints
-*1th-level Ability (Aethersmith)*  
+*1st-level Ability (Aethersmith)*  
 <!--
 
 Blueprints Known: `5 + your aethersmith level`
@@ -111,7 +111,7 @@ Blueprints Prepared: `your Intelligence modifier + your aethersmith level` (mini
 ---
 
 ## Master of Tools
-*2th-level Ability (Aethersmith)*  
+*2nd-level Ability (Aethersmith)*  
 <!-- 2nd level, 2 Expertise in artisan's tools. Int mod half proficiencies (round down). -->
 
 ---
