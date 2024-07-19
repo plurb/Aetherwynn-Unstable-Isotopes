@@ -5,7 +5,7 @@
 ## Sorcerer
 
 | Level | Proficiency | Abilities                                 | Cantrips | Metamagics | Spells Known |
-| ----: | ----------: | :---------------------------------------- | -------: | ---------: | -----------: |
+|------:|------------:|:------------------------------------------|---------:|-----------:|-------------:|
 |     1 |           2 | Spellcasting, Metamagic, Sorcerous Origin |        3 |          2 |            4 |
 |     2 |           2 |                                           |        3 |          2 |            5 |
 |     3 |           2 | Origin Feature                            |        3 |          2 |            6 |
@@ -21,20 +21,20 @@
 
 ## Sorcerer: Spell Slots Per Level
 
-| Level |  1st  |  2nd  |  3rd  |  4th  |  5th  |  6th  |  7th  |  8th  |  9th  |
-| ----: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|     1 |   2   |   -   |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
-|     2 |   3   |   -   |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
-|     3 |   4   |   2   |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
-|     4 |   4   |   3   |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
-|     5 |   4   |   3   |   2   |   -   |   -   |   -   |   -   |   -   |   -   |
-|     6 |   4   |   3   |   3   |   -   |   -   |   -   |   -   |   -   |   -   |
-|     7 |   4   |   3   |   3   |   1   |   -   |   -   |   -   |   -   |   -   |
-|     8 |   4   |   3   |   3   |   2   |   -   |   -   |   -   |   -   |   -   |
-|     9 |   4   |   3   |   3   |   3   |   1   |   -   |   -   |   -   |   -   |
-|    10 |   4   |   3   |   3   |   3   |   2   |   -   |   -   |   -   |   -   |
-|    11 |   4   |   3   |   3   |   3   |   2   |   1   |   -   |   -   |   -   |
-|    12 |   4   |   3   |   3   |   3   |   2   |   1   |   -   |   -   |   -   |
+| Level | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|     1 |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|     2 |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|     3 |  4  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|     4 |  4  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|     5 |  4  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |
+|     6 |  4  |  3  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |
+|     7 |  4  |  3  |  3  |  1  |  -  |  -  |  -  |  -  |  -  |
+|     8 |  4  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |
+|     9 |  4  |  3  |  3  |  3  |  1  |  -  |  -  |  -  |  -  |
+|    10 |  4  |  3  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |
+|    11 |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |  -  |
+|    12 |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |  -  |
 
 ---
 
@@ -88,19 +88,18 @@ You use your Charisma whenever a spell refers to your spellcasting ability. In a
 
 ## Metamagic
 
-You gain two Metamagic options of your choice from *Sorcerer Metamagics*. You gain additional Metamagics at later levels, as shown in the "Metamagics" column of the Sorcerer table.
+You know a number of "Metamagics" equal to the number shown in the "Metamagics" column of the Sorcerer table.
 
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
 
 ### Stamina
+*Attribute (Sorcerer, Stamina)*
 
 You have a number of "Stamina Points" calculated as follows:
 
-**Stamina Points** = `your Fighter Level + your Constitution modifier (minimum of 0)`
+**Stamina Points** = `your Sorcerer Level + your Constitution modifier (minimum of 0)`
 
 You regain all expended "Stamina Points" when you finish a *Short* or *Long Rest*.
-
-### Metamagic Known
 
 ---
 
@@ -109,7 +108,7 @@ You regain all expended "Stamina Points" when you finish a *Short* or *Long Rest
 Subclass
 
 | Origin        | Source                  |
-| :------------ | :---------------------- |
+|:--------------|:------------------------|
 | Blazing Soul  | Unstable Isotopes (0.0) |
 | Divine Soul   | Unstable Isotopes (0.0) |
 | Draconic Soul | Unstable Isotopes (0.0) |
