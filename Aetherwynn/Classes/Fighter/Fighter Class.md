@@ -102,8 +102,8 @@ To perform an Exploit, you expend a number of Stamina Points equal to the Exploi
 
 If one of your Exploits requires you to make an *Exploit Attack*, or a creature to make a *Check*, your "Exploit Attack Modifier", and "Exploit DC" are calculated as follows:
 
-**Exploit Attack Modifier** = `your Proficiency Bonus + your Strength or Dexterity modifier (your choice)`
-**Exploit DC** = `10 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice)`
+**Exploit Attack Modifier** = `your Proficiency Bonus + your Strength or Dexterity modifier (your choice)`  
+**Exploit DC** = `10 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice)`  
 
 ---
 

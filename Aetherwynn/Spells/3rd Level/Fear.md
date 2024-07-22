@@ -1,6 +1,6 @@
 ### Fear  
 *3rd-level Spell (Illusion)*  
-**Casting Time:** Action  
+**Casting Time:** 🔷  
 **Range:** Self (30 ft. cone)  
 **Components:** C, V, S, M (a white feather or the heart of a hen)  
 **Duration:** Up to 1 minute  

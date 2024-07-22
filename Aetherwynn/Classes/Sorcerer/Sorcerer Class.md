@@ -8,14 +8,14 @@
 |------:|------------:|:------------------------------------------|---------:|-----------:|-------------:|
 |     1 |           2 | Spellcasting, Metamagic, Sorcerous Origin |        3 |          2 |            4 |
 |     2 |           2 |                                           |        3 |          2 |            5 |
-|     3 |           2 | Origin Feature                            |        3 |          2 |            6 |
+|     3 |           2 | Origin Ability                            |        3 |          2 |            6 |
 |     4 |           2 | Ability Score Increase, Feat              |        4 |          2 |            7 |
 |     5 |           3 |                                           |        4 |          3 |            8 |
-|     6 |           3 | Origin Feature                            |        4 |          3 |            9 |
+|     6 |           3 | Origin Ability                            |        4 |          3 |            9 |
 |     7 |           3 |                                           |        4 |          3 |           10 |
 |     8 |           3 | Ability Score Increase, Feat              |        4 |          3 |           11 |
 |     9 |           4 |                                           |        4 |          3 |           12 |
-|    10 |           4 | Origin Feature                            |        5 |          3 |           13 |
+|    10 |           4 | Origin Ability                            |        5 |          3 |           13 |
 |    11 |           4 |                                           |        5 |          4 |           14 |
 |    12 |           4 | Ability Score Increase, Feat              |        5 |          4 |           15 |
 
@@ -70,7 +70,7 @@ You start with the following items, plus anything provided by your background.
 ---
 
 ## Spellcasting
-*1st-level Ability (Sorcerer)*
+*1st-level Ability (Sorcerer, Spellcasting)*
 
 <!-- TODO: complete sorcerer spellcasting -->
 
@@ -78,19 +78,19 @@ You start with the following items, plus anything provided by your background.
 
 > *Your spellcasting is an extension of your being, and is driven by your emotions and will. Your spellcasting is directly proportional to your ability to express your will.*
 
-You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when calculating the Saving Throw DC for a Sorcerer Spell you cast and when making an Attack Roll with one.
+If one of your Spells requires you to make a *Spell Attack*, or a creature to make a *Check*, your "Spell Attack Modifier", and "Spell DC" are calculated as follows:
 
-**Spell Save DC** = `8 + your proficiency bonus + your Charisma modifier`
-
-**Spell Attack Modifier** = `your proficiency bonus + your Charisma modifier`
+**Exploit Attack Modifier** = `your Proficiency Bonus + your Strength or Dexterity modifier (your choice)`  
+**Exploit DC** = `10 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice)`  
 
 ---
 
 ## Metamagic
 
-You know a number of "Metamagics" equal to the number shown in the "Metamagics" column of the Sorcerer table.
+### Metamagics Known
+*Attribute (Sorcerer)*
 
-You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
+You know a number of "Metamagics" equal to the number shown in the "Metamagics" column of the Sorcerer table.
 
 ### Stamina
 *Attribute (Sorcerer, Stamina)*
@@ -101,6 +101,10 @@ You have a number of "Stamina Points" calculated as follows:
 
 You regain all expended "Stamina Points" when you finish a *Short* or *Long Rest*.
 
+### Using Metamagic
+
+You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
+
 ---
 
 ## Sorcerous Origin
@@ -108,7 +112,7 @@ You regain all expended "Stamina Points" when you finish a *Short* or *Long Rest
 Subclass
 
 | Origin        | Source                  |
-|:--------------|:------------------------|
+| :------------ | :---------------------- |
 | Blazing Soul  | Unstable Isotopes (0.0) |
 | Divine Soul   | Unstable Isotopes (0.0) |
 | Draconic Soul | Unstable Isotopes (0.0) |
