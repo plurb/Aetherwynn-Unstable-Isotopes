@@ -1,5 +1,5 @@
 ### Crossbow Adept
-*Feat (General)*  
+*Feat (Martial)*  
 **Pre-requisites:** *Proficiency* in "Crossbows"  
 
 > *You are able to quickly fire and load crossbows.*
