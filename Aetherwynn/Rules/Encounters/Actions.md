@@ -62,43 +62,72 @@ Actions:
 * (⚡) [Arrest A Fall][AAF]
 * (🔷) [Attack][ATK]
 * (⚡) [Attack of Opportunity][AOO]
-* (✨) [Cast A Spell][CAS]
 * (➡️) [Climb][CLB]
 * (➡️) [Dash][DSH]
 * (🔷 or 🔵) [Distract][DCT]
 * (◻️) [Drop Item][DIM]
-* (🔷) [Escape](./Actions/Escape.md)
-* (◻️ or ⚡) [Fall Prone](./Actions/Fall%20Prone.md)
-* (➡️) [Fly](./Actions/Fly.md)
-* (🔺) [Goad](./Actions/Goad.md)
-* (⚡) [Grab A Ledge](./Actions/Grab%20A%20Ledge.md)
-* (🔺) [Grapple](./Actions/Grapple.md)
-* (🔷) [Help](./Actions/Help.md)
-* (🔺) [Intimidate](./Actions/Intimidate.md)
-* (🔷) [Intuit](./Actions/Intuit.md)
-* (➡️) [Jump](./Actions/Jump.md)
-* (➡️ or 🔵) [Leap](./Actions/Leap.md)
-* (➡️) [Mount](./Actions/Mount.md)
-* (⚔️) [Perform An Exploit](./Actions/Perform%20An%20Exploit.md)
-* (🔷 or 🔵) [Point Out](./Actions/Point%20Out.md)
-* (🔷) [Ready](./Actions/Ready.md)
-* (🔷) [Search](./Actions/Search.md)
-* (🔺) [Shove/Trip](./Actions/Shove%20or%20Trip.md)
-* (◻️) [Signal](./Actions/Signal.md)
-* (🔷) [Speak](./Actions/Speak.md)
-* (➡️) [Stand From Prone](./Actions/Stand%20From%20Prone.md)
-* (➡️) [Step](./Actions/Step.md)
-* (➡️) [Take Cover](./Actions/Take%20Cover.md)
-* (🔵) [Two-Weapon Fighting](./Actions/Two-Weapon%20Fighting.md)
-* (🔷) [Use An Object](./Actions/Use%20An%20Object.md)
+* (🔷) [Escape][ESC]
+* (◻️ or ⚡) [Fall Prone][FAP]
+* (➡️) [Fly][FLY]
+* (🔺) [Goad][GOD]
+* (⚡) [Grab A Ledge][GAL]
+* (🔺) [Grapple][GPL]
+* (🔷) [Help][HLP]
+* (🔺) [Intimidate][ITD]
+* (🔷) [Intuit][INT]
+* (➡️) [Jump][JMP]
+* (➡️ or 🔵) [Leap][LEP]
+* (➡️) [Mount][MNT]
+* (🔷 or 🔵) [Point Out][POT]
+* (🔷) [Ready][RDY]
+* (🔷) [Search][SCH]
+* (🔺) [Shove/Trip][SHP]
+* (◻️) [Signal][SGL]
+* (🔷) [Speak][SPK]
+* (➡️) [Stand From Prone][SFP]
+* (➡️) [Step][STP]
+* (➡️) [Take Cover][TKC]
+* (🔵) [Two-Weapon Fighting][TWF]
+
+Special Actions:
+* (✨) [Cast A Spell][CAS]
+* (⚔️) [Perform An Exploit][PAE]
+* (📦) [Use An Object][UAO]
+
+<!-- links. -->
 
 [ADE]: #actions-during-encounters
 
-[AAF]: ./Actions/Arrest%20A%20Fall.md
-[ATK]: ./Actions/Attack.md
-[AOO]: ./Actions/Attacks%20of%20Opportunity.md
-[CAS]: ./Actions/Cast%20A%20Spell.md
-[CLB]: ./Actions/Climb.md
-[DSH]: ./Actions/Dash.md
-[DCT]: ./Actions/Distract.md
-[DIM]: ./Actions/Drop%20Item.md
+[AAF]: ./Basic%20Actions/Arrest%20A%20Fall.md
+[ATK]: ./Basic%20Actions/Attack.md
+[AOO]: ./Basic%20Actions/Attacks%20of%20Opportunity.md
+[CLB]: ./Basic%20Actions/Climb.md
+[DSH]: ./Basic%20Actions/Dash.md
+[DCT]: ./Basic%20Actions/Distract.md
+[DIM]: ./Basic%20Actions/Drop%20Item.md
+[ESC]: ./Basic%20Actions/Escape.md
+[FAP]: ./Basic%20Actions/Fall%20Prone.md
+[FLY]: ./Basic%20Actions/Fly.md
+[GOD]: ./Basic%20Actions/Goad.md
+[GAL]: ./Basic%20Actions/Grab%20A%20Ledge.md
+[GPL]: ./Basic%20Actions/Grapple.md
+[HLP]: ./Basic%20Actions/Help.md
+[ITD]: ./Basic%20Actions/Intimidate.md
+[INT]: ./Basic%20Actions/Intuit.md
+[JMP]: ./Basic%20Actions/Jump.md
+[LEP]: ./Basic%20Actions/Leap.md
+[MNT]: ./Basic%20Actions/Mount.md
+[POT]: ./Basic%20Actions/Point%20Out.md
+[RDY]: ./Basic%20Actions/Ready.md
+[SCH]: ./Basic%20Actions/Search.md
+[SHP]: ./Basic%20Actions/Shove%20or%20Trip.md
+[SGL]: ./Basic%20Actions/Signal.md
+[SPK]: ./Basic%20Actions/Speak.md
+[SFP]: ./Basic%20Actions/Stand%20From%20Prone.md
+[STP]: ./Basic%20Actions/Step.md
+[TKC]: ./Basic%20Actions/Take%20Cover.md
+[TWF]: ./Basic%20Actions/Two-Weapon%20Fighting.md
+
+[CAS]: ./Basic%20Actions/Cast%20A%20Spell.md
+[PAE]: ./Special%20Actions/Perform%20An%20Exploit.md
+[UAO]: ./Special%20Actions/Use%20An%20Object.md
