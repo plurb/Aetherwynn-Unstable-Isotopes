@@ -1,7 +1,4 @@
 ### Attacks of Opportunity
-**Usage:** 1 Reaction; If a creature enters your reach  
-**Range:** —  
-**Requirements:** None  
-**Duration:** Instantaneous  
+*Ability (Basic Action)*  
 
-If the creature is wielding a Weapon that has less Reach, or is `1` or more sizes smaller than the Weapon you are wielding, you can make one *Melee Weapon Attack* against that creature.
+⚡ — An "Attack of Opportunity" is a special reaction you can take when an ability tells you to. To make an "Attack of Opportunity", make a *Melee Weapon Attack* vs. *AC* using a "Melee Weapon" you are wielding.

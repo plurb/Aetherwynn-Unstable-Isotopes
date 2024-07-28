@@ -78,6 +78,7 @@ Actions:
 * (➡️) [Jump][JMP]
 * (➡️ or 🔵) [Leap][LEP]
 * (➡️) [Mount][MNT]
+* (⚡) [Overreach][OVR]
 * (🔷 or 🔵) [Point Out][POT]
 * (🔷) [Ready][RDY]
 * (🔷) [Search][SCH]
@@ -117,6 +118,7 @@ Special Actions:
 [JMP]: ./Basic%20Actions/Jump.md
 [LEP]: ./Basic%20Actions/Leap.md
 [MNT]: ./Basic%20Actions/Mount.md
+[OVR]: ./Basic%20Actions/Overreach.md
 [POT]: ./Basic%20Actions/Point%20Out.md
 [RDY]: ./Basic%20Actions/Ready.md
 [SCH]: ./Basic%20Actions/Search.md
