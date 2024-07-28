@@ -1,4 +1,4 @@
-### Shield of Faith
+### Holy Shield
 *Cantrip (Abjuration)*  
 **Casting Time:** 🔵  
 **Range:** Self  
@@ -7,6 +7,6 @@
 
 > *You create an ethereal shield to defend yourself.*
 
-You gain a `+2` bonus to your AC until the start of your next turn.
+You gain a `+2` bonus to your *AC* until the start of your next turn.
 
 **Classes:** Cleric, Paladin
