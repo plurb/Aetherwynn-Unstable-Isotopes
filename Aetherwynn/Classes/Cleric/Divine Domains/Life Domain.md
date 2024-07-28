@@ -4,7 +4,7 @@
 *Ability (Cleric, Life Domain)*
 
 | Cleric Level | Spells                            |
-| :----------- | :-------------------------------- |
+|:-------------|:----------------------------------|
 | 1st          | Cure Wounds, Entangle             |
 | 3rd          | Lesser Restoration, Conjure Beast |
 | 5th          | Plant Growth, Revivify            |
