@@ -5,7 +5,7 @@
 ## Aethersmith
 
 | Level | Proficiency | Abilities                                 | Cantrips Known | Spells Known | Infused Items | Max Spell Level |
-| ----: | ----------: | :---------------------------------------- | -------------: | -----------: | ------------: | --------------: |
+|------:|------------:|:------------------------------------------|---------------:|-------------:|--------------:|----------------:|
 |     1 |           2 | Infused Magic, Blueprints, Specialization |              1 |            2 |             1 |               1 |
 |     2 |           2 | Master of Tools                           |              1 |            3 |             2 |               1 |
 |     3 |           2 | Discipline Ability                        |              2 |            4 |             2 |               2 |
@@ -98,7 +98,7 @@ Blueprints Prepared: `your Intelligence modifier + your aethersmith level` (mini
 ## Specialization
 
 | Specialization  | Source                  |
-| :-------------- | :---------------------- |
+|:----------------|:------------------------|
 | Armourer        | Unstable Isotopes (0.0) |
 | Construct Smith | Unstable Isotopes (0.0) |
 | Constructor     | Unstable Isotopes (0.0) |
