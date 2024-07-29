@@ -9,10 +9,10 @@
 
 Target willing creature in range becomes *[Quickened]* until this Spell ends.
 
-When this Spell ends, the target makes a *DC* `15` Constitution Check.
+When this Spell ends, the target makes a *DC* `15` *Constitution Check*.
 
 **Failure:** the target is *Incapacitated* until the end of its next turn.
 
-**Classes:** Artificer, Cleric, Paladin, Psion, Ranger, Sorcerer, Wizard
+**Classes:** Artificer, Cleric, Paladin, Psion, Sorcerer, Wizard
 
 [Quickened]: ../../Rules/Conditions/Quickened.md
