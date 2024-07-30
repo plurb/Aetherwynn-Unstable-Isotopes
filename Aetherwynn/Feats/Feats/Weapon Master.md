@@ -6,4 +6,4 @@ Increase your *Strength* or *Dexterity* score by `1`, to a maximum of `20`.
 
 Choose one type of "Weapon" you have *Proficiency* in (e.g. spears, light crossbows, longswords, etc.).
 
-♾️ — While wielding the chosen type of "Weapon", you gain a `+2` bonus to *Melee Weapon Attack* rolls you make using that "Weapon".
+♾️ — While wielding the chosen type of "Weapon", you gain a `+2` bonus to *Weapon Attack* rolls you make using that "Weapon".

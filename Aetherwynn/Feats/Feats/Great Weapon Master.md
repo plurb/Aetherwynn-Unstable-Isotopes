@@ -6,7 +6,6 @@
 
 <!-- FIXME: re-word to be more specific. -->
 
-You gain the following abilities:
-* ♾️ — You can wield weapons up to two sizes larger than yourself without any drawbacks.
+♾️ — You can wield weapons up to two sizes larger than yourself without any drawbacks.
 
 <!-- TODO: define drawbacks of wielding weapons that are too large. -->

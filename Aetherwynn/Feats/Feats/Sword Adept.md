@@ -2,9 +2,9 @@
 *Feat (General)*  
 **Pre-requisite:** Proficiency with "Swords"  
 
-You gain the following abilities:
-* ♾️ **(requires: you are wielding a "Sword")** — You gain a `+1` bonus to your *AC*.
-* 🔵 **(requires: you "Attacked" using a "Sword" this turn)** — Make a *Melee Weapon Attack* vs. *AC* using a "Sword" you are wielding.
+♾️ **(requires: you are wielding a "Sword")** — You gain a `+1` bonus to your *AC*.
+
+🔵 **(requires: you "Attacked" using a "Sword" this turn)** — Make a *Melee Weapon Attack* vs. *AC* using a "Sword" you are wielding.
 
 > ### Notes
 >

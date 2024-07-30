@@ -4,6 +4,6 @@
 
 Choose one from: *Aeromancy*, *Geomancy*, *Hydromancy*, or *Pyromancy*
 
-You gain the following abilities:
-* ♾️ — Spells of the chosen School you cast ignore *Resistance*.
-* ♾️ — Whenever you deal damage using a spell from your chosen school, you can treat a `1` on a damage die as a `2` instead.
+♾️ — Spells of the chosen School you cast ignore *Resistance*.
+
+♾️ — Whenever you deal damage using a spell from your chosen school, you can treat a `1` on a damage die as a `2` instead.

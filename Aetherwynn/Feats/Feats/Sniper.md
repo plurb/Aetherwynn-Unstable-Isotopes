@@ -4,5 +4,4 @@
 
 > *You make even impossible shots with ease.*
 
-You gain the following abilities:
-* ♾️ — The normal and long range for your *Ranged Weapons* is doubled.
+♾️ — The normal and long range for your *Ranged Weapons* is doubled.

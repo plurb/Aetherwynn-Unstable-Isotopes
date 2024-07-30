@@ -2,9 +2,9 @@
 *Feat (Magus, Paladin, Ranger)*  
 **Pre-requisites:** Proficiency with at least one kind of Shield  
 
-You gain the following abilities:
-* ♾️ — You can cast *Spells* with Somatic components while using a "Shield".
-* ⚡ — Whenever you make an *Attack of Opportunity*, you may cast a Cantrip with a "Casting Time" of '🔷' targetting that creature instead.
+♾️ — You can cast *Spells* with Somatic components while using a "Shield".
+
+⚡ — Whenever you make an *Attack of Opportunity*, you may cast a Cantrip with a "Casting Time" of '🔷' targetting that creature instead.
 
 ---
 
