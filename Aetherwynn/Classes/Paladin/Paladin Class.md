@@ -61,3 +61,35 @@
 ◻️ **(1/turn)** — When you hit a creature with a *Melee Attack*, you may expend a "Spell Slot" of any level. If you do, the *Attack* deals an additional `Xd8 [radiant]` Damage, where `X = 1 + the expended "Spell Slot"-'s level.`
 
 ---
+
+## Harness Oath
+*3rd-level Ability (Paladin)*  
+
+---
+
+## Ability Score Increase
+*4th-level Ability (All Classes)*
+
+Increase one Ability Score of your choice by `2`, or two Ability Scores by `1`. You cannot increase one of your Ability Scores above `20` using this Ability.
+
+Do this again when you reach 8th, 12th, 16th, and 19th level in this class.
+
+---
+
+## Feat
+*4th-level Ability (Paladin)*
+
+You earn a Feat. This Feat can be either a General, Spellcasting, Martial, or Paladin Feat.
+
+You earn an additional Feat at 8th, 12th, 16th, and 19th level.
+
+---
+
+## Swift Strikes
+*5th-level Ability (Magus, Paladin, Ranger)*  
+
+♾️ — Whenever you "Attack", you may make up to `2` *Attacks* instead of `1`.
+
+🔵 — If you used your '🔷' to "Cast a Spell" of 1st-level or greater, you may make a *Weapon Attack* using a "Weapon" you are wielding.
+
+---

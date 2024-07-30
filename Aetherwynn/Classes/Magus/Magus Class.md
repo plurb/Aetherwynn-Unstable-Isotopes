@@ -9,7 +9,7 @@
 |     3 |           2 | Arcane Order                              |        2 |            5 |
 |     4 |           2 | Ability Score Increase, Feat              |        3 |            6 |
 |     5 |           3 | Swift Strikes                             |        3 |            7 |
-|     6 |           3 | Magical Strikes                           |        3 |            8 |
+|     6 |           3 | Mystic Strikes                            |        3 |            8 |
 |     7 |           3 | Order Ability                             |        3 |            9 |
 |     8 |           3 | Ability Score Increase, Feat              |        3 |           10 |
 |     9 |           4 |                                           |        3 |           11 |
@@ -75,9 +75,9 @@ You learn one Fighting Style from [*Magus Fighting Styles*][MF].
 ## Spellstrike
 *2nd-level Ability (Magus)*
 
-🔵 — If you have at least one free hand, you may choose a Magus Spell you know that meets the following criterea. If you do, then the next time you hit a creature with a *Melee Attack*, the Spell is cast as a ◻️, with the following specifications.
+🔵 — If you have at least one free hand, you may choose a Magus Spell you know that meets the following criterea. If you do, then the next time you hit a creature with a *Melee Attack* this turn, the Spell is cast as a ◻️, with the following specifications.
 
-The Spell must meet the following critera:
+The Spell must meet the following criterea:
 * The Spell must have a "Casting Time" of 🔷 or 🔵.
 * The Spell must target a creature or point.
 * The Spell must require an *Attack*.
@@ -115,7 +115,7 @@ Do this again when you reach 8th, 12th, 16th, and 19th level in this class.
 ---
 
 ## Feat
-*4th-level Ability (Magus)*
+*4th-level Ability (Magus)*  
 
 You earn a Feat. This Feat can be either a General, Martial, Spellcasting, or Magus Feat.
 
@@ -124,14 +124,16 @@ You earn an additional Feat at 8th, 12th, 16th, and 19th level.
 ---
 
 ## Swift Strikes
-*5th-level Ability (Magus)*  
+*5th-level Ability (Magus, Paladin, Ranger)*  
 
-🔷 — "Attack", if you do, you make `2` *Attacks*. You may cast a Magus Cantrip with a Casting Time of 🔷 you know instead of one of these *Attacks*.
+♾️ — Whenever you "Attack", you may make up to `2` *Attacks* instead of `1`.
+
+🔵 — If you used your '🔷' to "Cast a Spell" of 1st-level or greater, you may make a *Weapon Attack* using a "Weapon" you are wielding.
 
 ---
 
-## Magical Strikes
-*6th-level Ability (Magus, Paladin, Ranger)*  
+## Mystic Strikes
+*6th-level Ability (Magus)*  
 
 ♾️ — *Weapon Attacks* you make count as *Magical* for the purpose of overcoming *Resistance* and *Immunity* to Non-*Magical* *Attacks* and Damage.
 
