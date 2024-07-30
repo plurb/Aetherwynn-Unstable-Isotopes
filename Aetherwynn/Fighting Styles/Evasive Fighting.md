@@ -1,4 +1,4 @@
-### Evasion
+### Evasive Fighting
 *Fighting Style (Fighter)*  
 **Pre-requisites:** At least 7th level Fighter, A Dexterity score of 13 or greater  
 
@@ -11,4 +11,4 @@ You gain the following abilities:
 
 > ### Rulings
 >
-> (26-02-2024) The "Evasion" Fighting Style is a replacement effect (notice the use of 'instead'). It does not stack with the Rogue's, Barbarian's, or Monk's "Evasion" Ability.
+> (26-02-2024) The "Evasive Fighting" Fighting Style is a replacement effect (notice the use of 'instead'). It does not stack with the Rogue's, Barbarian's, or Monk's "Evasion" Ability.
