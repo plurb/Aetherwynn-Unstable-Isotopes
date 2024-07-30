@@ -1,4 +1,4 @@
-### Chromatic Aspect I
+### Chromatic Aspect III
 *Item (Enchantment, Generic Variant)*  
 **Value:** 4000 GP
 **Weight:** 2 lbs.  
