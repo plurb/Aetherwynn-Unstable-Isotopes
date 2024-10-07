@@ -81,6 +81,7 @@ While not wearing Armour, your *AC* is calculated as follows:
 **AC** = `10 + your Proficiency Bonus + your Dexterity modifier`
 
 ### Deadly Strikes  
+*Ability (Monk)*
 
 ♾️ — Your *Unarmed Strikes* are *Martial Melee Weapons* you are Proficient with, and have the "Light" and "Finesse" properties. Their *Damage Die* is `1dM`.
 

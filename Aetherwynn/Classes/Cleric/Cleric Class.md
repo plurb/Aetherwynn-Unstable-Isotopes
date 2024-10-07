@@ -74,7 +74,7 @@ You start with the following items, plus anything provided by your background.
 **Ability Requirement:** Wisdom score of 13 or greater.  
 **Armour Gained:** Light Armour, Shields  
 **Weapons Gained:** none  
-**Skills Gained:** Choose 1 + half your Intelligence modifier (rounded up) of the following: Arcana, Athletics, History, Insight, Medicine, Persuasion, and Religion.  
+**Skills Gained:** Choose 2 + half your Intelligence modifier (rounded up) of the following: Arcana, Athletics, History, Insight, Medicine, Persuasion, and Religion.  
 
 ---
 
@@ -85,17 +85,17 @@ You start with the following items, plus anything provided by your background.
 
 ### Healing Points
 
-You have a number of **Healing Points.** The number of Healing Points you have is calculated as follows:
+You have a number of "Healing Points". The number of Healing Points you have is calculated as follows:
 
 **Healing Points** = `your Cleric level * 5`
 
-You regain all expended Healing Points whenever you finish a *Long Rest*.
+You regain all expended "Healing Points" whenever you finish a *Long Rest*.
 
 ### Healing Hands
 
 > *You imbue a creature with positive energy, healing any wounds.*
 
-🔷 **(range: Touch)** — You may spend any number of Healing Points. If you do, target creature in range regains `X` HP, where `X = the number of Healing Points spent this way`.
+🔷 **(range: Touch)** — You may spend any number of "Healing Points". If you do, target creature in range regains `X` HP, where `X = the number of "Healing Points" spent this way`.
 
 ### Curing Hands
 

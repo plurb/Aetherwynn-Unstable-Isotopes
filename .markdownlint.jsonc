@@ -51,6 +51,9 @@
         "allowed_elements":
         [
             "h1",
+            "h2",
+            "h3",
+            "h4",
             "img",
             "sup",
             "sub",
