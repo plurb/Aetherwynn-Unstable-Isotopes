@@ -58,7 +58,7 @@ The following symbols are often used to represent the various kinds of actions a
 
 ### Actions During Encounters
 
-Actions:
+Basic Actions:
 * (⚡) [Arrest A Fall][AAF]
 * (🔷) [Attack][ATK]
 * (⚡) [Attack of Opportunity][AOO]
