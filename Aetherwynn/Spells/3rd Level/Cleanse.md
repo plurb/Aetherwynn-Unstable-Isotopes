@@ -7,7 +7,7 @@
 
 Make a *Ranged Spell Attack* vs. *Will* against "Fey", "Fiends", and "Undead" in a 30 ft. sphere centred on target point in range.
 
-**Hit:** It takes `Xd8 [radiant]` Damage ignoring *Resistance* and *Immunity*, where `X = 2 * this Spell's level`.
-**Miss:** It takes half as much Damage ignoring *Resistance*, and *Immunity*.
+**Success:** It takes `Xd8 [radiant]` Damage ignoring *Resistance* and *Immunity*, where `X = 2 * this Spell's level`.
+**Failure:** It takes half as much Damage ignoring *Resistance*, and *Immunity*.
 
 **Classes:** Cleric, Paladin

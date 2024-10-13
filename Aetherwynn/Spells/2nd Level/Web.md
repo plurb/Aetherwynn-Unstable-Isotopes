@@ -9,7 +9,7 @@
 
 Until this Spell ends, your choice of a 20 ft. cube centered on target point in range, or a 20 ft. × 20 ft. × 5 ft. prism becomes *[Difficult Terrain]* and *Lightly Obscured*. Make a *Ranged Spell Attack* vs. *Reflex* against creatures in this area.
 
-**Hit:** The creature is *[Restrained I][r]*.
+**Success:** The creature is *[Restrained I][r]*.
 
 If you chose a cube, and the area is not attached to at least two supporting structures, this Spell ends at the end of your turn.
 

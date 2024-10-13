@@ -17,7 +17,7 @@
 
 ◻️ **(1/turn, range: 10 ft., requires: you are [Enraged])** — Make a *Melee Exploit Attack* vs. *Reflex* against target creature in range.
 
-**Hit:** the creature is knocked *[Prone]*.
+**Success:** the creature is knocked *[Prone]*.
 
 ---
 
@@ -35,8 +35,8 @@
 
 ◻️ **(1/short rest, Blast)** — When you become *[Enraged]*, make a *Melee Exploit Attack* vs. *Reflex* against creatures in a 20 ft. sphere centered on you.
 
-**Hit:** The creature takes `4d8 [lightning] + 4d8 [thunder]` Damage.
-**Miss:** The creature takes half as much Damage.
+**Success:** The creature takes `4d8 [lightning] + 4d8 [thunder]` Damage.
+**Failure:** The creature takes half as much Damage.
 
 ---
 

@@ -6,4 +6,4 @@
 
 🔷 — Make a *Weapon Attack* vs. *AC* against target creature using a "Weapon" you are wielding, you have *Advantage* on this *Attack*.
 
-**Hit:** The *Attack* deals twice as much Damage.
+**Success:** The *Attack* deals twice as much Damage.

@@ -7,6 +7,6 @@
 
 Make a total of up to `X` *Ranged Spell Attacks* vs. *AC*, ignoring *Magical Bonuses* to AC, against up to `X` target creatures in range, where `X = 1 + this spell's level`.
 
-**Hit:** the creature takes `2d4 [force]` Damage.
+**Success:** the creature takes `2d4 [force]` Damage.
 
 **Classes:** Magus, Wizard

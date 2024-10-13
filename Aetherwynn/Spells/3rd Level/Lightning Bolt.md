@@ -9,7 +9,7 @@
 
 Make a *Ranged Spell Attack* vs. *Reflex* against creatures in a 5 ft. wide line originating from you and ending at target point in range.
 
-**Hit:** It takes `Xd6 [lightning]` Damage, where `X = 5 + this Spell's level`.  
-**Miss:** It takes half as much Damage.
+**Success:** It takes `Xd6 [lightning]` Damage, where `X = 5 + this Spell's level`.  
+**Failure:** It takes half as much Damage.
 
 **Classes:** Magus, Sorcerer, Wizard

@@ -7,8 +7,8 @@
 
 Make a *Ranged Spell Attack* vs. *Fortitude* in a 20 ft. cube centered on target point in range.
 
-**Hit:** The creature takes `2d6 [psychic]` Damage, and until this Spell ends, the creature is *[Slowed]*.
-**Miss:** The creature takes half as much Damage, and is not *[Slowed]*.
+**Success:** The creature takes `2d6 [psychic]` Damage, and until this Spell ends, the creature is *[Slowed]*.
+**Failure:** The creature takes half as much Damage, and is not *[Slowed]*.
 
 **Classes:** Artificer, Psion, Sorcerer, Wizard
 

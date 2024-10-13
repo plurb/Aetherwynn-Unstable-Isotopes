@@ -11,7 +11,7 @@ Each creature in range makes a *Wisdom Saving Throw*.
 
 Make a *Melee Spell Attack* vs. *Will* in a 30 ft. cone originating from you.
 
-**Hit:** The creature is *[Frightened]* until this Spell ends.  
+**Success:** The creature is *[Frightened]* until this Spell ends.  
 
 A creature *[Frightened]* this way must use its 🔷, and ➡️ to move as far away from you as possible.
 

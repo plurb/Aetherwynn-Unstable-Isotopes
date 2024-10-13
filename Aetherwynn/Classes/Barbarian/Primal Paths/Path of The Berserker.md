@@ -33,8 +33,8 @@
 
 ◻️ **(1/turn, range: 60 ft.)** — Make a *Melee Exploit Attack* vs. *Will* against any number of other target creatures in range that you can see and can see you.
 
-**Hit:** The creature is *Frightened* of you for 1 minute.  
-**Miss:** This effect ends for that creature; the creature gains *Immunity* to your "Frightful Pressence" for the next `24` hrs..  
+**Success:** The creature is *Frightened* of you for 1 minute.  
+**Failure:** This effect ends for that creature; the creature gains *Immunity* to your "Frightful Pressence" for the next `24` hrs..  
 
 A creature *Frightened* this way makes an *Insight (Wisdom) Check* at the end of each of its turns.
 

@@ -9,7 +9,7 @@
 
 Make a *Ranged Spell Attack* vs. *Reflex* in a 15 ft. cone originating from you.
 
-**Hit:** The creature takes `Xd6 [fire]` Damage, where `X = 1 + this Spell's level`.
-**Miss:** The creature takes half as much Damage.
+**Success:** The creature takes `Xd6 [fire]` Damage, where `X = 1 + this Spell's level`.
+**Failure:** The creature takes half as much Damage.
 
 **Classes:** Artificer, Druid, Magus, Ranger, Sorcerer, Wizard

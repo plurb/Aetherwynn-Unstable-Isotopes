@@ -31,7 +31,7 @@
 ## Wrathful Strikes
 *10th-level Ability (Barbarian, Path of Flames, Blast)*
 
-♾️ — While you are *[Enraged]*, whenever you make a *Melee Weapon Attack*, make a *Melee Exploit Attack* vs *Fortitude* in a 15 ft. cone originating from you. **Hit:** The creature takes `3d6 [fire]` Damage. **Miss:** The creature takes half as much damage.
+♾️ — While you are *[Enraged]*, whenever you make a *Melee Weapon Attack*, make a *Melee Exploit Attack* vs *Fortitude* in a 15 ft. cone originating from you. **Success:** The creature takes `3d6 [fire]` Damage. **Failure:** The creature takes half as much damage.
 
 ---
 

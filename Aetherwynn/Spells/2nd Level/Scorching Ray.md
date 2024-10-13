@@ -9,6 +9,6 @@
 
 Make a total of up to `X` *Ranged Spell Attacks* vs. *AC* against up to `X` target creatures or objects that aren't being worn or carried in range, where `X = 1 + this spell's level`.
 
-**Hit:** the target takes `2d6 [fire]` Damage.
+**Success:** the target takes `2d6 [fire]` Damage.
 
 **Classes:** Artificer, Magus, Sorcerer, Wizard, Paladin

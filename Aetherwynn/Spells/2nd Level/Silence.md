@@ -9,7 +9,7 @@
 
 Make a *Ranged Spell Attack* vs. *Will* against up to `X` target creatures in range, where `X = this Spell's level - 1`. You gain *Disadvantage* on this *Attack* if the creature cannot hear you. You gain *Advantage* on this *Attack* if the creature has "Keen Hearing".
 
-**Hit:** The creature is *Silenced* until this Spell ends.  
-**Miss:** The creature takes `2d6 [psychic]` Damage.  
+**Success:** The creature is *Silenced* until this Spell ends.  
+**Failure:** The creature takes `2d6 [psychic]` Damage.  
 
 **Classes:** Cleric, Paladin
