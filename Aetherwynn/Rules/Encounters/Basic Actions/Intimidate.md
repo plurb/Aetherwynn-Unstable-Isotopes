@@ -1,0 +1,2 @@
+### Intimidate
+*Ability (Basic Action)*  

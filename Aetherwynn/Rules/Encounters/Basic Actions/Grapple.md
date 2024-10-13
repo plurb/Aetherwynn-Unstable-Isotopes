@@ -1,4 +1,5 @@
 ### Grapple
+*Ability (Basic Action)*  
 
 > *You attempt to grapple a creature.*
 

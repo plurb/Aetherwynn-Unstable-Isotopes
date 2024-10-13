@@ -1,4 +1,5 @@
 ### Two-Weapon Fighting
+*Ability (Basic Action)*  
 
 When you "Attack" and make a *Melee Weapon Attack* using a Weapon with the "Light" property that you are wielding in one hand, you may use a "🔵" to make a *Melee Weapon Attack* using a different "Melee Weapon" with the "Light" property that you are wielding in another hand.
 
