@@ -1,2 +1,4 @@
-### Intuit
+### Sense Motive
 *Ability (Basic Action)*  
+
+🔷 —

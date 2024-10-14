@@ -1,2 +1,0 @@
-### Signal
-*Ability (Basic Action)*  
