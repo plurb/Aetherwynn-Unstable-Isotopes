@@ -82,13 +82,14 @@ Basic Actions:
 * (🔷 or 🔵) [Point Out][POT]
 * (🔷) [Ready][RDY]
 * (🔷) [Search][SCH]
-* (🔺) [Shove/Trip][SHP]
+* (🔺) [Shove][SHP]
 * (◻️) [Signal][SGL]
 * (🔷) [Speak][SPK]
 * (➡️) [Stand From Prone][SFP]
 * (➡️) [Step][STP]
 * (➡️) [Take Cover][TKC]
-* (🔵) [Two-Weapon Fighting][TWF]
+* (🔺) [Trip]
+* (🔵) [Off-Hand Attack][TWF]
 
 Special Actions:
 * (✨) [Cast A Spell][CAS]
