@@ -1,7 +1,5 @@
 # Aetherwynn Style Guide
 
-<!-- TODO: update the style guide. -->
-
 ## General
 
 References to ability scores looks like:
@@ -71,7 +69,7 @@ In-line Saving throws (like on monster statblocks) are styled as:
 
 Class name goes in `# Heading 1`.
 
-Class features go in `## Heading 2`.
+Class abilities go in `## Heading 2`.
 
 ## References to Abilities and Tags
 
