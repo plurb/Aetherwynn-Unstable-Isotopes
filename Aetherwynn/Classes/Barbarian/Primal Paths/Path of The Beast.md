@@ -30,14 +30,14 @@
 
 * *Aquatic.* — You gain a Swimming Speed equal to your Walking Speed; You gain the "Amphibious" ability.  
 * *Insectile.* — You gain a Climbing Speed equal to your Walking Speed; You gain the "Spider Climb" ability.  
-* *Predatory.* — 🔵 ***Pounce.*** You may leap up to `10 * your Strength modifier` ft. in any direction.  
+* *Predatory.* — 🔵 **Pounce.** You may "Leap" up to `10 * your Strength modifier` ft. in any direction.  
 
 ---
 
 ## Everchanging
 *10th-level Ability (Barbarian, Path of The Beast)*
 
-🔷 ***(duration: 1 minute, requires: Concentration)*** — You may expend a usage of your "Rage" ability. If you do, you [*Transform*][TR] into a [*Beast*][BST] of level `X` or lower until this ability ends, where `X = your Barbarian level / 3 (rounded down)`.
+🔷 **(duration: 1 minute, requires: Concentration)** — You may expend one usage of your "Rage" ability. If you do, you [*Transform*][TR] into a [*Beast*][BST] of level `X` or lower until this ability ends, where `X = your Barbarian level / 3 (rounded down)`.
 
 ---
 
