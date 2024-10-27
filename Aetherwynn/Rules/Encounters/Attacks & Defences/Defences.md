@@ -6,19 +6,19 @@
 
 You have four *Defences*: *AC*, *Reflex*, *Fortitude*, and *Will*.
 
+---
+
 ## Armour Class (AC)
 
 > *Your **AC** represents your ability to ward off conventional weapons. Attacks using a melee/ranged weapon are typically made against your **AC**.*
 
----
+<span></span>
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > ### Wearing Armour
 >
 > Many adventurers wear armour to better defend themselves. Wearing armour can change the way your AC is calculated. How the calculation is modified is specified in the armour's item description. This section does not concern itself with items and their consequences.
-
----
 
 Your *AC* is calculated as follows:
 
