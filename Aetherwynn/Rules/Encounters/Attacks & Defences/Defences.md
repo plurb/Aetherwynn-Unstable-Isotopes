@@ -16,7 +16,7 @@ You have four *Defences*: *AC*, *Reflex*, *Fortitude*, and *Will*.
 >
 > ### Wearing Armour
 >
-> *Many adventurers wear armour to better defend themselves. Wearing armour can change the way your AC is calculated. How the calculation is modified is specified in the armour's item description. This section does not concern itself with items and their consequences.*
+> Many adventurers wear armour to better defend themselves. Wearing armour can change the way your AC is calculated. How the calculation is modified is specified in the armour's item description. This section does not concern itself with items and their consequences.
 
 ---
 
