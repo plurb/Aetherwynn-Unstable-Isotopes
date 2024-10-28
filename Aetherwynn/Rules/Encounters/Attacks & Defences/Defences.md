@@ -49,3 +49,5 @@ Your *Will* is calculated as follows:
 `Will = 10 + your Wisdom modifier`
 
 ## Proficiency With Defences
+
+Having "Proficiency" in a *Defence* means you add your "Proficiency Bonus" to the specified *Defence*.
