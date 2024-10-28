@@ -2,6 +2,10 @@
 
 # Aetherwynn, Unstable Isotopes
 
+[![Discord](https://img.shields.io/discord/1300206551058878594.svg?label=Discord&logo=discord)](https://discord.gg/tkPCw4FmWM)
+
+---
+
 Here lies the develpment branch of the Aetherwynn TTRPG!!!
 
 Aetherwynn is no longer compatible with DnD 5e.
