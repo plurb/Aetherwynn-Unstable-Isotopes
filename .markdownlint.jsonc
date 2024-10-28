@@ -50,6 +50,7 @@
         // Allow these elements.
         "allowed_elements":
         [
+            "br",
             "h1",
             "h2",
             "h3",
