@@ -2,7 +2,7 @@
 
 # Aetherwynn, Unstable Isotopes
 
-[![Discord](https://img.shields.io/discord/1300206551058878594.svg?label=Discord&logo=discord)](https://discord.gg/tkPCw4FmWM)
+<iframe src="https://discord.com/widget?id=1300206551058878594&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ---
 
