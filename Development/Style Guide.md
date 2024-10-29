@@ -1,5 +1,7 @@
 # Aetherwynn Style Guide
 
+<!--
+
 ## General
 
 References to ability scores looks like:
@@ -88,3 +90,5 @@ Examples:
 ```md
 "Fireball"
 ```
+
+-->
