@@ -2,7 +2,7 @@
 
 # Aetherwynn, Unstable Isotopes
 
-[![Discord](https://img.shields.io/discord/1300206551058878594.svg?label=Discord&logo=discord)](https://discord.gg/tkPCw4FmWM)
+[![Discord][ImgShield]][DS]
 
 ---
 
@@ -15,6 +15,8 @@ Aetherwynn is no longer compatible with DnD 5e.
 We have a discord server: [invite][IL]
 
 [IL]: https://discord.gg/tkPCw4FmWM
+[ImgShield]: https://img.shields.io/discord/1300206551058878594.svg?label=Discord&logo=discord
+[DS]: https://discord.gg/tkPCw4FmWM
 
 <!-- TODO: add 'getting started' section. -->
 <!-- TODO: add 'quick start' section.     -->
