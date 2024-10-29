@@ -13,6 +13,10 @@ Remember to put your code through a spell checker before committing/submitting a
 ### Add These To Your Spellchecker's Dictionary
 
 * Aetherwynn
+* Multiclass
+* Multiclassing
+* Pyromancy
+* Spellcasting
 * TTRPG
 * ... More to come...
 
