@@ -21,13 +21,14 @@ git checkout -b <branch>
 
 **Step 3.** Make your changes according to the style and wording guides. Ensure that all of your changes comply with markdown linter rules.
 
-**Step 4.** Push your changes to remote, remaining in your branch.
+**Step 4.** Commit your changes and publish your branch.
 
 ```bash
+git commit ...
 git push -u origin <branch>
 ```
 
-**Step 5.** Once you are done working on your branch, create a pull request to merge your branch.
+**Step 5.** Once you are done working on your branch, create a pull request to merge your branch. Once your branch has been approved, it will be merged into the main branch.
 
 ## Style Guide
 
