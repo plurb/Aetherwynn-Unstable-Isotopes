@@ -1,4 +1,4 @@
-### Mystical Shroud
+### Arcane Shroud
 *5th-level Spell (Abjuration)*
 **Casting Time:** 1 Action  
 **Range:** 30 ft.  
