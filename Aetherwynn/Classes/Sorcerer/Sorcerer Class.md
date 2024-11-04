@@ -4,37 +4,28 @@
 
 ## Sorcerer
 
-| Level | Proficiency | Abilities                                 | Cantrips | Metamagics | Spells Known |
-|------:|------------:|:------------------------------------------|---------:|-----------:|-------------:|
-|     1 |           2 | Spellcasting, Metamagic, Sorcerous Origin |        3 |          2 |            4 |
-|     2 |           2 |                                           |        3 |          2 |            5 |
-|     3 |           2 | Origin Ability                            |        3 |          2 |            6 |
-|     4 |           2 | Ability Score Increase, Feat              |        4 |          2 |            7 |
-|     5 |           3 |                                           |        4 |          3 |            8 |
-|     6 |           3 | Origin Ability                            |        4 |          3 |            9 |
-|     7 |           3 |                                           |        4 |          3 |           10 |
-|     8 |           3 | Ability Score Increase, Feat              |        4 |          3 |           11 |
-|     9 |           4 |                                           |        4 |          3 |           12 |
-|    10 |           4 | Origin Ability                            |        5 |          3 |           13 |
-|    11 |           4 |                                           |        5 |          4 |           14 |
-|    12 |           4 | Ability Score Increase, Feat              |        5 |          4 |           15 |
-
-## Sorcerer: Spell Slots Per Level
-
-| Level | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|     1 |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-|     2 |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-|     3 |  4  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-|     4 |  4  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-|     5 |  4  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |
-|     6 |  4  |  3  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |
-|     7 |  4  |  3  |  3  |  1  |  -  |  -  |  -  |  -  |  -  |
-|     8 |  4  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |
-|     9 |  4  |  3  |  3  |  3  |  1  |  -  |  -  |  -  |  -  |
-|    10 |  4  |  3  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |
-|    11 |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |  -  |
-|    12 |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |  -  |
+| Level | Proficiency | Abilities                                 | Cantrips | Metamagics | Spells Known | Max Spell Level | Mana |
+|------:|------------:|:------------------------------------------|---------:|-----------:|-------------:|:---------------:|-----:|
+|     1 |           2 | Spellcasting, Metamagic, Sorcerous Origin |        3 |          2 |            4 |       1st       |    4 |
+|     2 |           2 | —                                         |        3 |          2 |            5 |       1st       |    8 |
+|     3 |           2 | Origin Ability                            |        3 |          2 |            6 |       2nd       |   12 |
+|     4 |           2 | Ability Score Increase, Feat              |        4 |          2 |            7 |       2nd       |   16 |
+|     5 |           3 | —                                         |        4 |          3 |            8 |       3rd       |   20 |
+|     6 |           3 | Origin Ability                            |        4 |          3 |            9 |       3rd       |   24 |
+|     7 |           3 | —                                         |        4 |          3 |           10 |       4th       |   28 |
+|     8 |           3 | Ability Score Increase, Feat              |        4 |          3 |           11 |       4th       |   32 |
+|     9 |           4 | —                                         |        5 |          3 |           12 |       5th       |   36 |
+|    10 |           4 | Origin Ability                            |        5 |          3 |           13 |       5th       |   40 |
+|    11 |           4 | Aether Surge (x1)                         |        5 |          4 |           14 |       6th       |   44 |
+|    12 |           4 | Ability Score Increase, Feat              |        5 |          4 |           15 |       6th       |   48 |
+|    13 |           5 | Aether Surge (x2)                         |        5 |          4 |           16 |       7th       |   52 |
+|    14 |           5 | Origin Ability                            |        5 |          4 |           17 |       7th       |   56 |
+|    15 |           5 | Aether Surge (x2)                         |        5 |          4 |           18 |       8th       |   60 |
+|    16 |           5 | Ability Score Increase, Feat              |        6 |          4 |           19 |       8th       |   64 |
+|    17 |           6 | Aether Surge (x2)                         |        6 |          5 |           20 |       9th       |   68 |
+|    18 |           6 | Origin Ability                            |        6 |          5 |           21 |       9th       |   72 |
+|    19 |           6 | Ability Score Increase, Feat              |        6 |          5 |           23 |       9th       |   76 |
+|    20 |           6 | Sorcerer Capstone Feat                    |        6 |          5 |           24 |       9th       |   80 |
 
 ---
 
@@ -53,7 +44,7 @@
 **Weapons:** Simple Weapons, Swords  
 **Spellcasting Foci:** Arcane Foci, Component Pouch  
 **Tools:** —  
-**Defenses:** *Fortitude*, *Will*  
+**Defences:** *Fortitude*, *Will*  
 **Skills:** Choose `2 + your Intelligence modifier` from Arcana, Deception, History, Insight, Nature, Performance, Persuasion  
 
 ---
@@ -78,10 +69,10 @@ You start with the following items, plus anything provided by your background.
 
 > *Your spellcasting is an extension of your being, and is driven by your emotions and will. Your spellcasting is directly proportional to your ability to express your will.*
 
-If one of your Spells requires you to make a *Spell Attack*, or a creature to make a *Check*, your "Spell Attack Modifier", and "Spell DC" are calculated as follows:
+If one of your "Spells" requires you to make a *Spell Attack*, or a creature to make a *Check*, your "Spell Attack Modifier", and "Spell DC" are calculated as follows:
 
-**Exploit Attack Modifier** = `your Proficiency Bonus + your Strength or Dexterity modifier (your choice)`  
-**Exploit DC** = `10 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice)`  
+**Spell Attack Modifier** = `your Proficiency Bonus + your Strength or Dexterity modifier (your choice)`  
+**Spell DC** = `10 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice)`  
 
 ---
 
@@ -90,7 +81,7 @@ If one of your Spells requires you to make a *Spell Attack*, or a creature to ma
 ### Metamagics Known
 *Attribute (Sorcerer)*
 
-You know a number of "Metamagics" equal to the number shown in the "Metamagics" column of the Sorcerer table.
+You know a number of "Metamagics" equal to the number shown in the "Metamagics" column of the "Sorcerer" table.
 
 ### Stamina
 *Attribute (Sorcerer, Stamina)*
@@ -103,7 +94,7 @@ You regain all expended "Stamina Points" when you finish a *Short* or *Long Rest
 
 ### Using Metamagic
 
-You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
+You can use only one "Metamagic" option on a "Spell" when you cast it, unless otherwise noted.
 
 ---
 
@@ -112,7 +103,7 @@ You can use only one Metamagic option on a spell when you cast it, unless otherw
 Subclass
 
 | Origin        | Source                  |
-| :------------ | :---------------------- |
+|:--------------|:------------------------|
 | Blazing Soul  | Unstable Isotopes (0.0) |
 | Divine Soul   | Unstable Isotopes (0.0) |
 | Draconic Soul | Unstable Isotopes (0.0) |

@@ -47,11 +47,11 @@
 ---
 
 ## Proficiencies
-**Armour:** light armor, shields  
+**Armour:** light armour, shields  
 **Weapons:** simple weapons  
 **Spellcasting Foci:** Component Pouch, divine foci  
 **Tools:** prayer set  
-**Defenses:** Wisdom, Charisma  
+**Defences:** Wisdom, Charisma  
 **Skills:** Choose `2 + your Intelligence modifier` from Arcana, Athletics, History, Insight, Medicine, Persuasion, and Religion.  
 
 ---
@@ -60,7 +60,7 @@
 You start with the following items, plus anything provided by your background.
 
 * (a) a mace or (b) a warhammer (if proficient)
-* (a) scale mail, (b) leather armor, or (c) chain mail (if proficient)
+* (a) scale mail, (b) leather Armour, or (c) chain mail (if proficient)
 * (a) a light crossbow and 20 bolts or (b) any simple weapon
 * (a) a priest's pack or (b) an explorer's pack
 * A shield and a holy symbol
@@ -84,6 +84,7 @@ You start with the following items, plus anything provided by your background.
 > *Your blessed touch can heal wounds or cure diseases.*
 
 ### Healing Points
+*Attribute*  
 
 You have a number of "Healing Points". The number of Healing Points you have is calculated as follows:
 
@@ -92,12 +93,14 @@ You have a number of "Healing Points". The number of Healing Points you have is 
 You regain all expended "Healing Points" whenever you finish a *Long Rest*.
 
 ### Healing Hands
+*Ability*  
 
 > *You imbue a creature with positive energy, healing any wounds.*
 
 🔷 **(range: Touch)** — You may spend any number of "Healing Points". If you do, target creature in range regains `X` HP, where `X = the number of "Healing Points" spent this way`.
 
 ### Curing Hands
+*Ability*  
 
 > *You imbue a creature with positive energy, curing an ailment.*
 
@@ -106,7 +109,7 @@ You regain all expended "Healing Points" whenever you finish a *Long Rest*.
 ---
 
 ## Spellcasting
-*1st-level Cleric feature*
+*1st-level Ability (Cleric)*  
 
 > *You're a god's special bitch. Congrats.*
 
@@ -140,7 +143,7 @@ You prepare the set of Cleric spells that are available for you to cast. To do s
 **1/Long Rest:** After you finish a Long Rest, you can change the set of spells you have prepared. Preparing a spell requires 1 minute per spell level for each spell you prepare.
 
 ## Divine Domain
-*1st-level Cleric feature*
+*1st-level Ability (Cleric)*  
 
 > *you choose a domain shaped by your choice of Deity and the gifts they grant you.*
 
