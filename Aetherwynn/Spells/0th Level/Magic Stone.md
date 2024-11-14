@@ -1,6 +1,6 @@
 ### Magic Stone
 *Cantrip (Transmutation)*  
-**Casting Time:** 🔵  
+**Casting Time:** 🔷  
 **Range:** Touch  
 **Components:** V, S  
 **Duration:** 1 minute  

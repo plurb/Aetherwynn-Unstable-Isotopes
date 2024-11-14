@@ -33,7 +33,7 @@ At 15th level in the Fighter class, you score a critical hit when you roll a `18
 
 ♾️ — You gain a Climbing Speed, and Swimming Speed equal to your Walking Speed.
 
-🔵 — "Dash", or "Step".
+🔷 — "Dash", or "Step".
 
 ---
 

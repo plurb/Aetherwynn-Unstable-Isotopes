@@ -1,6 +1,6 @@
 ### Aura of Protection
 *2nd-level Spell (Abjuration, Aura)*  
-**Casting Time:** 🔵  
+**Casting Time:** 🔷  
 **Range:** Self (30 ft. sphere)  
 **Components:** V, M (a "Shield")  
 **Duration:** Up to 1 minute  

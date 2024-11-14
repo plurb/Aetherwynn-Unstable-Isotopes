@@ -1,6 +1,6 @@
 ### Misty Step  
 *1st-level Spell (Conjuration)*  
-**Casting Time:** 🔵  
+**Casting Time:** 🔷  
 **Range:** Self  
 **Components:** V  
 **Duration:** Instantaneous  

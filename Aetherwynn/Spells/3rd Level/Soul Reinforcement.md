@@ -1,6 +1,6 @@
 ### Soul Reinforcement
 *3rd-level Spell (Abjuration, Transmutation)*  
-**Casting Time:** 🔵  
+**Casting Time:** 🔷  
 **Range:** Self  
 **Components:** —  
 **Duration:** 1 minute  

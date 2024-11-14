@@ -1,6 +1,6 @@
 ### Holy Shield
 *Cantrip (Abjuration)*  
-**Casting Time:** 🔵  
+**Casting Time:** 🔷  
 **Range:** Self  
 **Components:** S  
 **Duration:** 1 round  

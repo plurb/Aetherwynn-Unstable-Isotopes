@@ -6,22 +6,28 @@
 
 ## Fighter
 
-| Level | Proficiency | Abilities                                       | Fighting Styles | Exploits | Exploit Level |
-|------:|------------:|:------------------------------------------------|----------------:|---------:|--------------:|
-|     1 |           2 | Fighting Styles, Exploits, Momentary Pause (x1) |               1 |        3 |             1 |
-|     2 |           2 | Action Surge (x1)                               |               1 |        4 |             1 |
-|     3 |           2 | Martial Archetype                               |               2 |        5 |             1 |
-|     4 |           2 | Ability Score Increase, Feat                    |               2 |        6 |             1 |
-|     5 |           3 | Multiattack (2)                                 |               3 |        7 |             2 |
-|     6 |           3 | Enhanced Strikes                                |               3 |        8 |             2 |
-|     7 |           3 | Martial Archetype Ability                       |               3 |        9 |             2 |
-|     8 |           3 | Ability Score Increase, Feat                    |               3 |       10 |             2 |
-|     9 |           4 | Legendary Might (x1)                            |               4 |       11 |             3 |
-|    10 |           4 | Martial Archetype Ability                       |               4 |       11 |             3 |
-|    11 |           4 | Multiattack (3)                                 |               4 |       12 |             3 |
-|    12 |           4 | Ability Score Increase, Feat                    |               4 |       12 |             3 |
-
-**Note:** Levels beyond 12 aren't ready yet.
+| Level | Proficiency | Abilities                                       | Fighting Styles | Exploits | Max Exploit Level |
+|------:|------------:|:------------------------------------------------|----------------:|---------:|------------------:|
+|     1 |          +2 | Fighting Styles, Exploits, Momentary Pause (x1) |               1 |        3 |               1st |
+|     2 |          +2 | Action Surge (x1)                               |               1 |        4 |               1st |
+|     3 |          +2 | Martial Archetype                               |               2 |        5 |               1st |
+|     4 |          +2 | Ability Score Increase, Feat                    |               2 |        6 |               1st |
+|     5 |          +3 | Multiattack (2)                                 |               3 |        7 |               2nd |
+|     6 |          +3 | Enhanced Strikes                                |               3 |        8 |               2nd |
+|     7 |          +3 | Archetype Ability                               |               3 |        9 |               2nd |
+|     8 |          +3 | Ability Score Increase, Feat                    |               3 |       10 |               2nd |
+|     9 |          +4 | Legendary Might (x1)                            |               4 |       11 |               3rd |
+|    10 |          +4 | Archetype Ability                               |               4 |       11 |               3rd |
+|    11 |          +4 | Multiattack (3)                                 |               4 |       12 |               3rd |
+|    12 |          +4 | Ability Score Increase, Feat                    |               4 |       12 |               3rd |
+|    13 |          +5 | Legendary Might (x2)                            |               5 |       13 |               4th |
+|    14 |          +5 | Ability Score Increase, Feat                    |               5 |       13 |               4th |
+|    15 |          +5 | Archetype Ability                               |               5 |       14 |               4th |
+|    16 |          +5 | Ability Score Increase, Feat                    |               5 |       14 |               4th |
+|    17 |          +6 | Multiattack (4), Legendary Might (x3)           |               5 |       15 |               5th |
+|    18 |          +6 | Archetype Ability, Action Surge (x2)            |               6 |       15 |               5th |
+|    19 |          +6 | Ability Score Increase, Feat                    |               6 |       16 |               5th |
+|    20 |          +6 | Fighter Capstone Feat                           |               6 |       16 |               5th |
 
 ---
 
@@ -112,7 +118,7 @@ If one of your Exploits requires you to make an *Exploit Attack*, or a creature 
 
 > *You draw a long and weary breath, steeling your resolve and pushing forwards.*
 
-🔵 **(1/long rest)** — You regain `X` "Stamina Points", where `X = your Constitution modifier`.
+🔷 **(1/long rest)** — You regain `X` "Stamina Points", where `X = your Constitution modifier`.
 
 At 14th level in this class, you can use "Momentary Pause" **2/long rest**.
 

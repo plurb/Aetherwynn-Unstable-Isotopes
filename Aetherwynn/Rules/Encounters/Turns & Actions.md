@@ -1,6 +1,6 @@
 ## Turns
 
-A creature's turn is when it acts during an encounter. During its turn, a creature can take a Major Action (🔷), a Minor Action (🔵), a Move Action (➡️), any number of Free Actions (◻️), and potentially Reactions (⚡). See [Actions] for more information.
+A creature's turn is when it acts during an encounter. During its turn, a creature can take three *Major Actions* (🔷), any number of *Free Actions* (◻️), and potentially *Reactions* (⚡). See [Actions] for more information.
 
 Taking your turn can be split into 4 steps.
 
@@ -19,7 +19,7 @@ If you haven't spent your reaction from your last turn, you do not gain another 
 
 ### Main Step
 
-You can take 1 Major Action (🔷), 1 Minor Action (🔵), 1 Move Action (➡️), and any number of Free Actions (◻️). You can take these Actions in any order. You can even take Reactions (⚡), provided you meet the conditions to use one. See [Actions] for more information.
+You can take three *Major Actions* (🔷), and any number of *Free Actions* (◻️). You can take these *Actions* in any order. You can even take *Reactions* (⚡), provided you meet the conditions to use one. See [Actions] for more information.
 
 ### End of Turn
 

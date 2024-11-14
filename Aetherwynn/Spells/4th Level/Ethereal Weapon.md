@@ -1,6 +1,6 @@
 ### Ethereal Weapon
 *4th-level Spell (Transmutation)*  
-**Casting Time:** 🔵  
+**Casting Time:** 🔷  
 **Range:** Touch  
 **Components:** C, V, M (A Melee Weapon worth at least 5 sp)  
 **Duration:** Up to 1 minute  

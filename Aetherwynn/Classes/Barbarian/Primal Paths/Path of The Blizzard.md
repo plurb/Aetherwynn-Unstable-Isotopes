@@ -22,7 +22,7 @@
 ## Snow
 *6th-level Ability (Barbarian, Path of The Blizzard)*
 
-🔵 **(range: Self (10 ft. sphere), requries: you are [Enraged])** — Make a *Melee Exploit Attack* vs. *Reflex* in a 10 ft. sphere against creatures other than yourself. **Success:** The creature takes `3d8 [cold]` Damage. **Failure:** It takes half as much Damage.
+🔷 **(range: Self (10 ft. sphere), requries: you are [Enraged])** — Make a *Melee Exploit Attack* vs. *Reflex* in a 10 ft. sphere against creatures other than yourself. **Success:** The creature takes `3d8 [cold]` Damage. **Failure:** It takes half as much Damage.
 
 ---
 

@@ -82,7 +82,7 @@ You use your Wisdom whenever a Spell refers to your "Spellcasting Ability". In a
 ## Extension of The Self
 *10th-level Ability (Barbarian, Path of The Green Warden)*
 
-🔵 — If you used your 🔷 to cast a Spell, you may make a *Weapon Attack* vs. *AC* using a Weapon you are wielding.
+🔷 — If you used your 🔷 to cast a Spell, you may make a *Weapon Attack* vs. *AC* using a Weapon you are wielding.
 
 ---
 

@@ -2,59 +2,51 @@
 
 ### Types of Actions
 
-There are various types of actions you can take. Notably, Major Actions, Minor Actions, Reaction, and Free Actions.
+There are various types of *Actions* you can take. Notably, *Major Actions*, *Reactions*, and *Free Actions*.
 
-#### Major Action (🔷)
+#### Action (🔷)
 
-You can only take one Major Action per turn. You can only take Major Actions during your own turn. You can take any of the actions listed in [Actions During Encounters][ADE] that use '🔷'. Many abilities also use your Major Action.
-
-Whenever you can take a Major Action (🔷), you may take a Move Action (➡️) instead. However, you cannot replace a Move Action (➡️) with a Major Action (🔷).
-
-#### Minor Action (🔵)
-
-You can only take one Minor Action per turn. You can only take Minor Actions during your own turn. You can take any of the actions listed in [Actions During Encounters][ADE] that use '🔵'. Many abilities also use your Minor Action.
+You can only take three Major Action per turn. You can only take Major Actions during your own turn. You can take any of the actions listed in [Actions During Encounters][ADE] that use '🔷'. Almost all abilities use one or more *Major Actions*.
 
 #### Free Action (◻️)
 
-You can take any number of Free Actions per turn, so long as you meet the conditions required to use them. You can also take Free Actions on other creatures' turns, provided you meet the condition to use them. You can take any of the actions listed in [Actions During Encounters][ADE] that use '◻️'. Many abilities also use a Free Action.
+You can take any number of *Free Actions* per turn, so long as you meet the condition(s) required to use them. You can also take *Free Actions* on other creatures' turns during encounters, again provided you meet the condition(s) to use them. You can take any of the actions listed in [Actions During Encounters][ADE] that use a ◻️. Many abilities also use a *Free Action*.
 
 #### Reaction (⚡)
 
-You can only take one Reaction per round. You can take your Reaction on any creature's turn, provided you meet the condition to use it. You can take any of the actions listed in [Actions During Encounters][ADE] that use '⚡'. Many abilities also use your Reaction.
+You can only take one *Reaction* per round. You can take your *Reaction* on any creature's turn, provided you meet the condition to use it. You can take any of the actions listed in [Actions During Encounters][ADE] that use '⚡'. Many abilities also use your *Reaction*.
 
 #### Passive Effect (♾️)
 
-Passive effects do not require any Action to use. Instead, they apply their effects passively.
+Passive effects do not require any *Action* to use. Instead, they apply their effects passively.
 
 #### Attack (🔺)
 
-An *Attack* is a single *Attack* made when you take the "Attack" Action, or make an "Attack of Opportunity". An ability that takes '🔺' replaces one *Attack* you make through the "Attack" Action. You cannot replace an *Attack* made using any abilities other than the "Attack" Action or an "Attack of Opportunity".
-
-#### Move Action (➡️)
-
-You can only take one Move Action per turn. You can only take Move Actions during your own turn. You can take any of the actions listed in [Actions During Encounters][ADE] that use '➡️'. The most common usage of a Move Action are the "Dash" Action and the "Step" Action. Some Move Actions don't use your entire Move Action that turn, instead they only take a part (for example: Taking Cover).
+An *Attack* is a single *Attack* made when you use the "Attack" action, or make an "Attack of Opportunity". An ability that takes '🔺' replaces one *Attack* you make through the "Attack" action or an "Attack of Opportunity". You cannot replace an *Attack* made using any abilities other than the "Attack" Action or an "Attack of Opportunity".
 
 ### Replacing Action Types
 
-Some abilities replace the type of Action an Ability uses (e.g. the Rogue's "Cunning Action"). For those abilities, the Action specified takes the ability's Action type, rather than the type it normally does.
+Some abilities replace the type of *Action* an ability uses (e.g. the Rogue's "Cunning Action"). For those abilities, the *Action* specified takes the ability's *Action* type, rather than the type it normally does.
 
 > ### Example
 >
-> A rogue uses "🔵 - Cunning Action" to "Dash". The rogue's Major Action is not used, instead, Their Minor Action is used.
+> A rogue uses "◻️ - Cunning Action" to "Dash". The rogue doesn't use one of their *Major Actions*, instead, a *Free Action* is used.
 
 ### Action Symbols
 
 The following symbols are often used to represent the various kinds of actions an ability uses:
 
-&emsp;&emsp;🔷 - 1 Major Action  
-&emsp;&emsp;🔵 - 1 Minor Action  
-&emsp;&emsp;◻️ - 1 Free Action  
-&emsp;&emsp;⚡ - 1 Reaction  
-&emsp;&emsp;♾️ - Passive effects  
-&emsp;&emsp;🔺 - 1 Attack  
-&emsp;&emsp;➡️ - 1 Move Action  
-&emsp;&emsp;✨ - Cast A Spell  
-&emsp;&emsp;⚔️ - Perform An Exploit  
+<!-- This looks ugly but it works. -->
+
+| Symbol | Meaning         |
+|:------:|:----------------|
+|   🔷   | 1 Major Action  |
+|  🔷🔷  | 2 Major Actions |
+| 🔷🔷🔷 | 3 Major Actions |
+|   ◻️   | 1 Free Action   |
+|   ⚡    | 1 Reaction      |
+|   ♾️   | Passive effects |
+|   🔺   | 1 Attack        |
 
 ### Actions During Encounters
 
@@ -62,34 +54,34 @@ Basic Actions:
 * (⚡) [Arrest A Fall][AAF]
 * (🔷) [Attack][ATK]
 * (⚡) [Attack of Opportunity][AOO]
-* (➡️) [Climb][CLB]
-* (➡️) [Dash][DSH]
-* (🔷 or 🔵) [Distract][DCT]
+* (🔷) [Climb][CLB]
+* (🔷) [Dash][DSH]
+* (🔷) [Distract][DCT]
 * (◻️) [Drop Item][DIM]
 * (🔷) [Escape][ESC]
 * (◻️ or ⚡) [Fall Prone][FAP]
-* (➡️) [Fly][FLY]
-* (🔺) [Goad][GOD]
+* (🔷) [Fly][FLY]
+* (🔷) [Goad][GOD]
 * (⚡) [Grab A Ledge][GAL]
-* (🔺) [Grapple][GPL]
+* (🔷) [Grapple][GPL]
 * (🔷) [Help][HLP]
-* (🔺) [Intimidate][ITD]
+* (🔷) [Intimidate][ITD]
 * (🔷) [Intuit][INT]
-* (➡️) [Jump][JMP]
-* (➡️ or 🔵) [Leap][LEP]
-* (➡️) [Mount][MNT]
+* (🔷) [Jump][JMP]
+* (🔷) [Leap][LEP]
+* (🔷) [Mount][MNT]
 * (⚡) [Overreach][OVR]
-* (🔷 or 🔵) [Point Out][POT]
+* (🔷) [Point Out][POT]
 * (🔷) [Ready][RDY]
 * (🔷) [Search][SCH]
-* (🔺) [Shove][SHP]
+* (🔷) [Shove][SHP]
 * (◻️) [Signal][SGL]
 * (🔷) [Speak][SPK]
-* (➡️) [Stand From Prone][SFP]
-* (➡️) [Step][STP]
-* (➡️) [Take Cover][TKC]
-* (🔺) [Trip]
-* (🔵) [Off-Hand Attack][TWF]
+* (🔷) [Stand From Prone][SFP]
+* (🔷) [Step][STP]
+* (🔷) [Take Cover][TKC]
+* (🔷) [Trip]
+* (🔷) [Off-Hand Attack][TWF]
 
 Special Actions:
 * (✨) [Cast A Spell][CAS]

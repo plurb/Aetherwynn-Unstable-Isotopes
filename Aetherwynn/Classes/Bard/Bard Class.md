@@ -2,37 +2,30 @@
 
 ## Bard
 
-| Level | Proficiency | Abilities                                                 | Inspiration | Cantrips |
-|------:|------------:|:----------------------------------------------------------|------------:|---------:|
-|     1 |           2 | Bardic Inspiration (x1), Jack of All Trades, Spellcasting |        `d6` |        - |
-|     2 |           2 | Song of Rest                                              |        `d6` |        - |
-|     3 |           2 | Bardic College                                            |        `d6` |        - |
-|     4 |           2 | Ability Score Increase, Feat                              |        `d6` |        - |
-|     5 |           3 | Expertise                                                 |        `d8` |        - |
-|     6 |           3 | College Ability                                           |        `d8` |        - |
-|     7 |           3 | Countercharm                                              |        `d8` |        - |
-|     8 |           3 | Ability Score Increase, Feat                              |        `d8` |        - |
-|     9 |           4 | Font of Inspiration                                       |        `d8` |        - |
-|    10 |           4 | College Ability                                           |        `d8` |        - |
-|    11 |           4 | Additional Expertise                                      |       `d10` |        - |
-|    12 |           4 | Ability Score Increase, Feat                              |       `d10` |        - |
+| Level | Proficiency | Abilities                                                 | Inspiration | Cantrips | Max Spell Level | Mana |
+|------:|------------:|:----------------------------------------------------------|------------:|---------:|:---------------:|-----:|
+|     1 |          +2 | Bardic Inspiration (x1), Jack of All Trades, Spellcasting |        `d6` |        2 |       1st       |    3 |
+|     2 |          +2 | Song of Rest                                              |        `d6` |        2 |       1st       |    6 |
+|     3 |          +2 | Bardic College                                            |        `d6` |        2 |       2nd       |    9 |
+|     4 |          +2 | Ability Score Increase, Feat                              |        `d6` |        3 |       2nd       |   12 |
+|     5 |          +3 | Expertise                                                 |        `d8` |        3 |       3rd       |   15 |
+|     6 |          +3 | College Ability                                           |        `d8` |        3 |       3rd       |   18 |
+|     7 |          +3 | Countercharm                                              |        `d8` |        3 |       4th       |   21 |
+|     8 |          +3 | Ability Score Increase, Feat                              |        `d8` |        3 |       4th       |   24 |
+|     9 |          +4 | Font of Inspiration                                       |        `d8` |        3 |       5th       |   27 |
+|    10 |          +4 | College Ability, Additional Expertise                     |        `d8` |        3 |       5th       |   30 |
+|    11 |          +4 | Aether Surge (x1)                                         |       `d10` |        3 |       6th       |   33 |
+|    12 |          +4 | Ability Score Increase, Feat                              |       `d10` |        3 |       6th       |   36 |
+|    13 |          +5 | Aether Surge (x2)                                         |       `d10` |        4 |       7th       |   39 |
+|    14 |          +5 | College Ability                                           |       `d10` |        4 |       7th       |   42 |
+|    15 |          +5 | Aether Surge (x3)                                         |       `d10` |        4 |       8th       |   45 |
+|    16 |          +5 | Ability Score Increase, Feat                              |       `d10` |        4 |       8th       |   48 |
+|    17 |          +6 | Aether Surge (x4)                                         |       `d12` |        5 |       9th       |   51 |
+|    18 |          +6 | College Ability                                           |       `d12` |        5 |       9th       |   54 |
+|    19 |          +6 | Ability Score Increase, Feat                              |       `d12` |        5 |       9th       |   57 |
+|    20 |          +6 | Bard Capstone Feat                                        |       `d12` |        5 |       9th       |   60 |
 
-## Bard: Spell Slots Per Level
-
-| Level | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|     1 |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-|     2 |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-|     3 |  4  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-|     4 |  4  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-|     5 |  4  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |
-|     6 |  4  |  3  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |
-|     7 |  4  |  3  |  3  |  1  |  -  |  -  |  -  |  -  |  -  |
-|     8 |  4  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |
-|     9 |  4  |  3  |  3  |  3  |  1  |  -  |  -  |  -  |  -  |
-|    10 |  4  |  3  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |
-|    11 |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |  -  |
-|    12 |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |  -  |
+---
 
 # Class Abilities
 
@@ -44,11 +37,11 @@
 
 ## Proficiencies
 
-**Armour:** Light Armour  
-**Weapons:** Simple Weapons, Hand Crossbows, Longswords, Rapiers, Shortswords  
+**Armour:** "Light Armour"  
+**Weapons:** "Simple Weapons", "Hand Crossbows", "Longswords", "Rapiers", "Shortswords"  
 **Tools:** `3 + your Intelligence modifier` *Musical Instruments* of your choice  
-**Defenses:** *Reflex*, *Will*  
-**Skills:** Choose any `3 + your Intelligence modifier`  
+**Defences:** *Reflex*, *Will*  
+**Skills:** Choose `3 + your Intelligence modifier` from {...}  
 
 ---
 
@@ -80,6 +73,12 @@ Your "Inspiration Die" is a `d6`. It increases at certain levels, as shown in th
 
 ## Spellcasting
 
+### Cantrips
+
+### Repertoire
+
+### Preparing & Casting Spells
+
 ---
 
 ## Song of Rest
@@ -88,17 +87,17 @@ Your "Inspiration Die" is a `d6`. It increases at certain levels, as shown in th
 
 ## Bardic College
 
-| Bardic College        | Source                  |
-|:----------------------|:------------------------|
-| College of Creation   | Unstable Isotopes (0.0) |
-| College of Dance      | Unstable Isotopes (0.0) |
-| College of Eloquence  | Unstable Isotopes (0.0) |
-| College of Glamour    | Unstable Isotopes (0.0) |
-| College of Lore       | Unstable Isotopes (0.0) |
-| College of Spirits    | Unstable Isotopes (0.0) |
-| College of Swords     | Unstable Isotopes (0.0) |
-| College of Tales      | Unstable Isotopes (0.0) |
-| College of The Prince | Unstable Isotopes (0.0) |
+| Bardic College       | Source                  |
+|:---------------------|:------------------------|
+| College of Creation  | Unstable Isotopes (0.0) |
+| College of Dance     | Unstable Isotopes (0.0) |
+| College of Eloquence | Unstable Isotopes (0.0) |
+| College of Glamour   | Unstable Isotopes (0.0) |
+| College of Lore      | Unstable Isotopes (0.0) |
+| College of Spirits   | Unstable Isotopes (0.0) |
+| College of Swords    | Unstable Isotopes (0.0) |
+| College of Tales     | Unstable Isotopes (0.0) |
+| College of Princes   | Unstable Isotopes (0.0) |
 
 ---
 

@@ -2,20 +2,28 @@
 
 ## Monk
 
-| Level | Proficiency | Abilities                              | Martial Arts | Fast Movement | Techniques | Exploits | Exploit Level |
-|------:|------------:|:---------------------------------------|-------------:|--------------:|-----------:|---------:|--------------:|
-|     1 |           2 | Martial Arts, Fighting Style, Exploits |         `d6` |             - |          - |        3 |             1 |
-|     2 |           2 | Fast Movement, Ki, Techniques          |         `d6` |       +10 ft. |          3 |        4 |             1 |
-|     3 |           2 | Monastic Tradition                     |         `d6` |       +10 ft. |          3 |        5 |             1 |
-|     4 |           2 | Ability Score Increase, Feat           |         `d6` |       +10 ft. |          3 |        6 |             1 |
-|     5 |           3 | Multiattack (2)                        |         `d8` |       +10 ft. |          4 |        7 |             2 |
-|     6 |           3 | Tradition Feature, Enhanced Strikes    |         `d8` |       +15 ft. |          4 |        8 |             2 |
-|     7 |           3 | Evasion                                |         `d8` |       +15 ft. |          5 |        9 |             2 |
-|     8 |           3 | Ability Score Increase, Feat           |         `d8` |       +15 ft. |          5 |       10 |             2 |
-|     9 |           4 |                                        |         `d8` |       +15 ft. |          6 |       11 |             3 |
-|    10 |           4 | Tradition Feature                      |         `d8` |       +20 ft. |          6 |       11 |             3 |
-|    11 |           4 | Multiattack (3)                        |        `d10` |       +20 ft. |          7 |       12 |             3 |
-|    12 |           4 | Ability Score Increase, Feat           |        `d10` |       +20 ft. |          7 |       12 |             3 |
+| Level | Proficiency | Abilities                              | Martial Arts | Fast Movement | Techniques | Exploits | Max Exploit Level |
+|------:|------------:|:---------------------------------------|-------------:|--------------:|-----------:|---------:|------------------:|
+|     1 |          +2 | Martial Arts, Fighting Style, Exploits |         `d6` |             - |          - |        3 |               1st |
+|     2 |          +2 | Fast Movement, Techniques              |         `d6` |       +10 ft. |          3 |        4 |               1st |
+|     3 |          +2 | Monastic Tradition                     |         `d6` |       +10 ft. |          3 |        5 |               1st |
+|     4 |          +2 | Ability Score Increase, Feat           |         `d6` |       +10 ft. |          3 |        6 |               1st |
+|     5 |          +3 | Multiattack (2)                        |         `d8` |       +10 ft. |          4 |        7 |               2nd |
+|     6 |          +3 | Tradition Feature, Enhanced Strikes    |         `d8` |       +15 ft. |          4 |        8 |               2nd |
+|     7 |          +3 | Evasion                                |         `d8` |       +15 ft. |          4 |        9 |               2nd |
+|     8 |          +3 | Ability Score Increase, Feat           |         `d8` |       +15 ft. |          4 |       10 |               2nd |
+|     9 |          +4 | Tranquil Mind                          |         `d8` |       +15 ft. |          5 |       11 |               3rd |
+|    10 |          +4 | Tradition Ability                      |         `d8` |       +20 ft. |          5 |       11 |               3rd |
+|    11 |          +4 | Multiattack (3)                        |        `d10` |       +20 ft. |          5 |       12 |               3rd |
+|    12 |          +4 | Ability Score Increase, Feat           |        `d10` |       +20 ft. |          5 |       12 |               3rd |
+|    13 |          +5 | {Poison Immunity}                      |        `d10` |       +20 ft. |          6 |       13 |               4th |
+|    14 |          +5 | Honed Mind                             |        `d10` |       +25 ft. |          6 |       13 |               4th |
+|    15 |          +5 | Tradition Ability                      |        `d10` |       +25 ft. |          6 |       14 |               4th |
+|    16 |          +5 | Ability Score Increase, Feat           |        `d10` |       +25 ft. |          6 |       14 |               4th |
+|    17 |          +6 | Multiattack (4)                        |        `d12` |       +25 ft. |          7 |       15 |               5th |
+|    18 |          +6 | Tradition Ability                      |        `d12` |       +30 ft. |          7 |       15 |               5th |
+|    19 |          +6 | Ability Score Increase, Feat           |        `d12` |       +30 ft. |          7 |       16 |               5th |
+|    20 |          +6 | Monk Capstone Feat                     |        `d12` |       +30 ft. |          8 |       16 |               5th |
 
 ---
 
@@ -34,7 +42,7 @@
 **Weapons:** Simple Weapons, Shortswords  
 **Tools:** 1 set of Artisan's Tools, or 1 Musical Instrument  
 **Spellcasting Foci:** —  
-**Defenses:** *Reflex*, *Fortitude*  
+**Defences:** *Reflex*, *Fortitude*  
 **Skills:** Choose `2 + your Intelligence modifier (minimum of 0)` of the following: Acrobatics, Athletics, History, Insight, Nature, Religion, Stealth  
 
 ---
@@ -67,63 +75,62 @@ Alternatively, you may start with `2d4 × 10` gp to buy your own equipment.
 ### Martial Arts Die
 *Attribute (Monk, Martial Arts)*  
 
-Your "Martial Arts Die" is a `d6`. It increases at certain levels, as shown in the "Martial Arts" column of the Monk table. Some abilities reference this die as `NdM`, where `N = the number of dice` and `M = the size of your "Martial Arts Die"`.
+Your "Martial Arts Die" is a `d6`. It increases at certain levels, as shown in the "Martial Arts" column of the "Monk" table. Some abilities reference this die as `NdM`, where `N = the number of dice` and `M = the size of your "Martial Arts Die"`.
 
 ### Martial Arts Attacks
 
-For the purpose of your Monk abilities, *Martial Arts Attacks* are *Unarmed Strikes*, or *Attacks* using a *Melee Weapon* you are Proficient with without the "Heavy" or "Special" properties.
+For the purpose of your "Monk" abilities, *Martial Arts Attacks* are *Unarmed Strikes*, or *Attacks* using a *Melee Weapon* you are *Proficient* with without the "Heavy" or "Special" properties.
 
-### Unarmoured Defense
-*Ability (Monk)*
+### Deadly Strikes
+*Ability (Monk, Martial Arts)*  
+
+♾️ — Your *Unarmed Strikes* are "Martial" "Melee Weapons" you are *Proficient* with, and have the "Finesse" property. Their "Damage Die" is `1dM [bludgeoning]`.
+
+♾️ — Whenever you "Attack" and make one or more "Martial Arts Attacks", make one additional "Martial Arts Attack".
+
+### Unarmoured Defence
+*Ability (Monk, Martial Arts)*  
 
 While not wearing Armour, your *AC* is calculated as follows:
 
 **AC** = `10 + your Proficiency Bonus + your Dexterity modifier`
-
-### Deadly Strikes  
-*Ability (Monk)*
-
-♾️ — Your *Unarmed Strikes* are *Martial Melee Weapons* you are Proficient with, and have the "Light" and "Finesse" properties. Their *Damage Die* is `1dM`.
-
-> **Quick Reference:** [Two-Weapon Fighting][TWF]
 
 ---
 
 ## Fighting Style
 *1st-level Ability (Monk)*  
 
-You learn one Fighting Style from [*Monk Fighting Styles*][MFS].
+You learn one "Fighting Style" from [*Monk Fighting Styles*][MFS].
 
 ---
 
 ## Exploits
 *1st-level Ability (Monk)*  
 
-You begin to learn techniques that enhance your martial skill in and out of battle. You gain the following Abilities:
+> *You begin to learn techniques that enhance your martial skill in and out of battle.*
 
 ### Stamina
 
 > *You have stamina greater than a mere common soldier, which allows you to perform exploits greater than an ordinary warrior.*
 
-You have a limited well of stamina represented by a number of Stamina Points. You can calculate the number of Stamina Points you have as follows:
+You have a number of "Stamina Points" calculated as follows:
 
 **Stamina Points** = `your Monk Level + your Constitution modifier`
 
-To perform an Exploit, you must expend a number of Stamina Points equal to the Exploit's level. You regain your expended Stamina Points when you finish a *Short Rest* or a *Long Rest*.
+To perform an "Exploit", you must expend a number of "Stamina Points" equal to the "Exploit's" level. You regain your expended "Stamina Points" when you finish a *Short Rest* or a *Long Rest*.
 
-For Exploits that modify an *Attack*, *Ability Check*, or *Saving Throw*: you can only use one Exploit per *Attack*, *Ability Check*, or *Saving Throw*.
+For "Exploits" that modify an *Attack*, or *Check*: you can only use one "Exploit" per *Attack*, or *Check*.
 
 ### Exploits Known
 
-You learn `3` Exploits from the [*Monk Exploit List*][MEL]. The "Exploits" column of the Monk Table shows when you learn more Exploits of your choice. To learn a Exploit, you must be able to learn Exploits of its level, as well as meet any other prerequisites (listed under **Pre-requisites** in the Exploit's entry).
+You learn `3` "Exploits" from the [*Monk Exploit List*][MEL]. The "Exploits" column of the Monk Table shows when you learn more "Exploits" of your choice. To learn an "Exploit", you must be able to learn "Exploits" of its level, as well as meet any other prerequisites (listed under **Pre-requisites** in the "Exploit's" entry).
 
-Whenever you gain a Monk level, you can replace one of the Exploits you learnt from this class with another Exploit from the *Monk Exploit List*.
+Whenever you gain a "Monk" level, you can replace one of the "Exploits" you learnt from this class with another "Exploit" from the *Monk Exploit List*.
 
-### Saving Throws
+### Exploit Attacks & Checks
 
-If one of your Exploits requires a creature to make a *Saving Throw*, the DC is calculated as follows:
-
-**Exploit Save DC** = `8 + your Proficiency Bonus + your Dexterity modifier`
+**Exploit Attack Modifier** = `your Proficiency Bonus + your Dexterity modifier`  
+**Exploit DC** = `8 + your Proficiency Bonus + your Dexterity modifier`  
 
 ---
 
@@ -134,36 +141,22 @@ If one of your Exploits requires a creature to make a *Saving Throw*, the DC is 
 
 ---
 
-## Ki
-*2nd-level Ability (Monk)*
-
-> *You can channel your aura as a mystical energy called 'Ki'.*
-
-You gain the following abilities:
-
-### Ki Points
-
-You have a number of Ki Points calculated as follows:
-
-**Ki Points** = `your Monk level + your Wisdom modifier`
-
-### Ki Abilities
-
-You use your Wisdom whenever an ability refers to your Ki Ability. In addition, you use your Wisdom modifier when calculating the Saving Throw DC for [Techniques][T] and other Monk Abilities you perform and when making an *Attack Roll* for *Ki Attacks*.
-
-**Ki Save DC** = `8 + your proficiency bonus + your Wisdom modifier`  
-**Ki Attack Modifier** = `your proficiency bonus + your Wisdom modifier`
-
-### Ki Spells
-
-Some Abilities let you cast Spells using Ki. You use your Wisdom whenever a Spell refers to your Spellcasting Ability. The *Saving Throw* DC and *Attack Roll* modifier are equal to your Ki Save DC and Ki Attack Modifier.
-
----
-
 ## Techniques
 *2nd-level Ability (Monk)*
 
 You learn `3` Techniques from [*Monk Techniques*][MT]. The "Techniques" column of the Monk Table shows when you learn more Techniques of your choice.
+
+### Ki Attacks & Ki DC
+*Attribute*  
+
+<!-- You use your *Wisdom* whenever an ability refers to your Ki Ability. In addition, you use your *Wisdom modifier* when calculating the Saving Throw DC for [Techniques][T] and other Monk Abilities you perform and when making an *Attack Roll* for *Ki Attacks*. -->
+
+**Ki Attack Modifier** = `your proficiency bonus + your Wisdom modifier`  
+**Ki DC** = `8 + your proficiency bonus + your Wisdom modifier`  
+
+### Ki Spells
+
+Ki Spells use your "Ki Attack Modifier" for "Spell Attacks" and your "Ki DC" for their "Spell DC".
 
 ---
 
@@ -213,8 +206,10 @@ Where `X = 2` at 5th level, `X = 3` at 11th level, and `X = 4` at 17th level in 
 
 ---
 
+## Tranquil Mind
+
+---
+
 [MT]: ./Monk%20Techniques.md
 [MFS]: ./Monk%20Fighting%20Styles.md
 [MEL]: ./Monk%20Exploit%20List.md
-[TWF]: ../../Rules/Encounters/Actions/Two-Weapon%20Fighting.md
-[T]: #techniques

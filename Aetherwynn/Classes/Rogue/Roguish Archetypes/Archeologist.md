@@ -46,4 +46,4 @@ You gain the following abilities:
 
 > *You are able to quickly activate magical items.*
 
-🔵 — You use a Spell Scroll, deliver a Potion, or Activate a Magic Item that requires 🔷 to Activate.
+🔷 — You use a Spell Scroll, deliver a Potion, or Activate a Magic Item that requires 🔷 to Activate.

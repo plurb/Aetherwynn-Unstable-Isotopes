@@ -17,7 +17,7 @@
 
 > *Your body is a medium for the spirits, and a gateway to the spirit realm.*
 
-🔵 **(duration: 10 minutes)** — You may expend a usage of your "Rage" ability. If you do, you gain the following effects until this ability ends, or until you fall unconscious or use a 🔵 to end it:
+🔷 **(duration: 10 minutes)** — You may expend a usage of your "Rage" ability. If you do, you gain the following effects until this ability ends, or until you fall unconscious or use a 🔷 to end it:
 * You gain a `+X` bonus to *Intelligence* and *Wisdom Checks* you make, where `X = your Constitution modifier`.
 
 ---

@@ -1,4 +1,4 @@
 ### Mount
 *Ability (Basic Action)*  
 
-➡️ — You *Mount* a creature.
+🔷 — You *Mount* a creature.

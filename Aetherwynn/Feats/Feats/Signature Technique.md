@@ -1,5 +1,5 @@
 ### Signature Technique
 *Feat (Fighter)*  
-**Pre-requisites:** At least 4th-level Fighter
+**Pre-requisites:** At least 12th-level Fighter
 
-Choose one Exploit you know. You can perform that Exploit at its lowest level at-will.
+Choose one "Exploit" you know. You can perform that "Exploit" at its lowest "Level" without spending "Stamina Points".

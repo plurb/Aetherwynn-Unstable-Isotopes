@@ -4,20 +4,30 @@
 
 ## Barbarian
 
-| Level | Proficiency | Abilities                                  | Rages | Exploits Known | Exploit Level |
-|------:|------------:|:-------------------------------------------|------:|---------------:|--------------:|
-|     1 |           2 | [Rage], [Exploits], [Fighting Style]       |     1 |              2 |             1 |
-|     2 |           2 | [Reckless Attack]                          |     1 |              3 |             1 |
-|     3 |           2 | [Primal Path]                              |     1 |              4 |             1 |
-|     4 |           2 | [Ability Score Increase], [Feat]           |     1 |              5 |             1 |
-|     5 |           3 | [Multiattack (2)][Mult]                    |     2 |              6 |             2 |
-|     6 |           3 | [Path Ability], [Rage Improvement]         |     2 |              7 |             2 |
-|     7 |           3 | [Evasion]                                  |     2 |              8 |             2 |
-|     8 |           3 | [Ability Score Increase], [Feat]           |     2 |              9 |             2 |
-|     9 |           4 | [Brutality]                                |     2 |             10 |             3 |
-|    10 |           4 | [Path Ability]                             |     2 |             10 |             3 |
-|    11 |           4 | [Relentless Rage], [Multiattack (3)][Mult] |     2 |             11 |             3 |
-|    12 |           4 | [Ability Score Increase], [Feat]           |     2 |             11 |             3 |
+| Level | Proficiency | Abilities                        |     Rages | Exploits Known | Max Exploit Level |
+|------:|------------:|:---------------------------------|----------:|---------------:|------------------:|
+|     1 |          +2 | Rage, Exploits, Fighting Style   |         1 |              2 |               1st |
+|     2 |          +2 | Reckless Attack                  |         1 |              3 |               1st |
+|     3 |          +2 | Primal Path                      |         1 |              4 |               1st |
+|     4 |          +2 | Ability Score Increase, Feat     |         1 |              5 |               1st |
+|     5 |          +3 | Multiattack (2)                  |         2 |              6 |               2nd |
+|     6 |          +3 | Path Ability, Rage Improvement   |         2 |              7 |               2nd |
+|     7 |          +3 | Evasion                          |         2 |              8 |               2nd |
+|     8 |          +3 | Ability Score Increase, Feat     |         2 |              9 |               2nd |
+|     9 |          +4 | Brutality (1)                    |         2 |             10 |               3rd |
+|    10 |          +4 | Path Ability                     |         2 |             10 |               3rd |
+|    11 |          +4 | Relentless Rage, Multiattack (3) |         2 |             11 |               3rd |
+|    12 |          +4 | Ability Score Increase, Feat     |         2 |             11 |               3rd |
+|    13 |          +5 | Brutality (2)                    |         3 |             12 |               4th |
+|    14 |          +5 | Path Ability                     |         3 |             12 |               4th |
+|    15 |          +5 | Persistent Rage                  |         3 |             13 |               4th |
+|    16 |          +5 | Ability Score Increase, Feat     |         3 |             13 |               4th |
+|    17 |          +6 | Brutality (3), Multiattack (4)   |         4 |             14 |               5th |
+|    18 |          +6 | Incomparable Might               |         4 |             14 |               5th |
+|    19 |          +6 | Ability Score Increase, Feat     |         4 |             15 |               5th |
+|    20 |          +6 | Primal Champion                  | Unlimited |             15 |               5th |
+
+---
 
 # Class Abilities
 
@@ -65,11 +75,11 @@ Alternatively, you may start with `2d4 × 10` gp to buy your own equipment.
 
 > *You fight with an unchecked primal ferocity in battle.*
 
-🔵 **(`X`/short rest, requires: You are not wearing Heavy Armour)** — You are *[Enraged]* until this ability ends. While *[Enraged]* this way, you gain the following effects:
+🔷 **(`X`/short rest, requires: You are not wearing Heavy Armour)** — You are *[Enraged]* until this ability ends. While *[Enraged]* this way, you gain the following effects:
 * When you make a *Weapon Attack* using your Strength, you deal additional Damage equal to your Proficiency Bonus.
 * You gain *Resistance* to non-Magical Bludgeoning, non-Magical Piercing, and non-Magical Slashing Damage.
 
-This ability lasts for 10 minutes, and ends early unless you make an *Attack*, Check using Strength, take *Damage*, or use a 🔵 to extend it before the beginning of your next turn.
+This ability lasts for 10 minutes, and ends early unless you make an *Attack*, Check using Strength, take *Damage*, or use a 🔷 to extend it before the beginning of your next turn.
 
 `X = the number shown in the "Rages" column of the Barbarian table`
 
@@ -202,7 +212,7 @@ Where `X = 2` at 5th level, `X = 3` at 11th level, and `X = 4` at 17th level in 
 ## Brutality
 *9th-level Ability (Barbarian)*  
 
-♾️ — Whenever you hit a creature with a *Weapon Attack* for the first time during your turn, you deal additional Damage equal to one roll of the Weapon's "Damage Die".
+♾️ — Whenever you hit a creature with a *Weapon Attack* for the first time during your turn, you deal additional Damage equal to one roll of the "Weapon's" "Damage Die".
 
 This increases to two additional dice at 13th level in this class, and three additional dice at 17th level in this class.
 
@@ -219,21 +229,6 @@ This increases to two additional dice at 13th level in this class, and three add
 ---
 
 <!-- References. -->
-
-<!-- Internal references. -->
-[Rage]: #rage
-[Exploits]: #exploits
-[Fighting Style]: #fighting-style
-[Reckless Attack]: #reckless-attack
-[Primal Path]: #primal-path
-[Ability Score Increase]: #ability-score-increase
-[Feat]: #feat
-[Mult]: #multiattack
-[Path Ability]: #primal-path
-[Rage Improvement]: #rage-improvement
-[Evasion]: #evasion
-[Brutality]: #brutality
-[Relentless Rage]: #relentless-rage
 
 <!-- External references. -->
 [Enraged]: ../../Rules/Conditions/Enraged.md

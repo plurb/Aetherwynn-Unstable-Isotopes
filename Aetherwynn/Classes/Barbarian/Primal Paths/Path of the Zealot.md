@@ -26,14 +26,14 @@
 
 > *Your indomitable spirit allows you to push through harsh opposition.*
 
-🔵 **(1/short rest)** — You may expend any number of "Hit Dice" up to your Proficiency Bonus. If you do, you regain `Xd12 + Y` HP, where `X = the number of "Hit Dice" spent this way`, and `Y = your Constitution modifier`. Or `X * (12 + Y)` HP if you are *Enraged*.
+🔷 **(1/short rest)** — You may expend any number of "Hit Dice" up to your Proficiency Bonus. If you do, you regain `Xd12 + Y` HP, where `X = the number of "Hit Dice" spent this way`, and `Y = your Constitution modifier`. Or `X * (12 + Y)` HP if you are *Enraged*.
 
 ---
 
 ## Unyielding Fury
 *6th Level Ability (Barbarian, Path of The Zealot)*  
 
-♾️ — You can extend your "Rage" using a '◻️' instead of a '🔵'.
+♾️ — You can extend your "Rage" using a '◻️' instead of a '🔷'.
 
 ♾️ **(1/short rest, requires: you are *Enraged*)** — If you are targetted by an *Attack*, you gain a `+X` bonus against the *Attack Roll*, where `X = your Charisma modifier`.
 

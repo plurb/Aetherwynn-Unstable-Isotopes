@@ -3,4 +3,4 @@
 **Pre-requisites:** —  
 
 You gain the following abilities:
-* 🔵 — You may *Dash*.
+* 🔷 — You may *Dash*.

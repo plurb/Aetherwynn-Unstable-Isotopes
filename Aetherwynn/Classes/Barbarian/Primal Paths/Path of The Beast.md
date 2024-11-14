@@ -30,7 +30,7 @@
 
 * *Aquatic.* — You gain a Swimming Speed equal to your Walking Speed; You gain the "Amphibious" ability.  
 * *Insectile.* — You gain a Climbing Speed equal to your Walking Speed; You gain the "Spider Climb" ability.  
-* *Predatory.* — 🔵 **Pounce.** You may "Leap" up to `10 * your Strength modifier` ft. in any direction.  
+* *Predatory.* — 🔷 **Pounce.** You may "Leap" up to `10 * your Strength modifier` ft. in any direction.  
 
 ---
 

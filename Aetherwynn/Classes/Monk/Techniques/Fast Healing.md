@@ -3,4 +3,4 @@
 **Pre-requisites:** —  
 
 You gain the following abilities:
-* 🔵 — You may spend `2` Ki Points. If you do, you regain `2dM + your Wisdom modifier` HP.
+* 🔷 — You may spend `2` Ki Points. If you do, you regain `2dM + your Wisdom modifier` HP.

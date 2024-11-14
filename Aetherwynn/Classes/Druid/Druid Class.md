@@ -1,56 +1,50 @@
 # The Druid
 
-> *Flavor text.*
+> *Flavour text.*
 
 ## Druid
 
-| Level | Proficiency | Features                                       | Cantrips |
-| ----: | ----------: | :--------------------------------------------- | -------: |
-|     1 |           2 | Channel Elements (x1), Wildshape, Spellcasting |        3 |
-|     2 |           2 | Druidic Circle                                 |        3 |
-|     3 |           2 | Harness Elemental Power                        |        3 |
-|     4 |           2 | Ability Score Increase, Feat                   |        4 |
-|     5 |           3 |                                                |        4 |
-|     6 |           3 | Channel Elements (x2), Circle Ability          |        4 |
-|     7 |           3 |                                                |        4 |
-|     8 |           3 | Ability Score Increase, Feat                   |        4 |
-|     9 |           4 |                                                |        4 |
-|    10 |           4 | Circle Ability                                 |        5 |
-|    11 |           4 |                                                |        5 |
-|    12 |           4 | Ability Score Increase, Feat                   |        5 |
+| Level | Proficiency | Features                                       | Cantrips | Max Spell Level | Mana |
+|------:|------------:|:-----------------------------------------------|---------:|:---------------:|-----:|
+|     1 |          +2 | Channel Elements (x1), Wildshape, Spellcasting |        3 |       1st       |    3 |
+|     2 |          +2 | Druidic Circle                                 |        3 |       1st       |    6 |
+|     3 |          +2 | Harness Elemental Power                        |        3 |       2nd       |    9 |
+|     4 |          +2 | Ability Score Increase, Feat                   |        3 |       2nd       |   12 |
+|     5 |          +3 | —                                              |        4 |       3rd       |   15 |
+|     6 |          +3 | Circle Ability                                 |        4 |       3rd       |   18 |
+|     7 |          +3 | Channel Elements (x2)                          |        4 |       4th       |   21 |
+|     8 |          +3 | Ability Score Increase, Feat                   |        4 |       4th       |   24 |
+|     9 |          +4 | —                                              |        4 |       5th       |   27 |
+|    10 |          +4 | Circle Ability                                 |        5 |       5th       |   30 |
+|    11 |          +4 | Aether Surge (x1)                              |        5 |       6th       |   33 |
+|    12 |          +4 | Ability Score Increase, Feat                   |        5 |       6th       |   36 |
+|    13 |          +5 | Aether Surge (x2)                              |        5 |       7th       |   39 |
+|    14 |          +5 | Circle Ability, Channel Elements (x3)          |        5 |       7th       |   42 |
+|    15 |          +5 | Aether Surge (x3)                              |        5 |       8th       |   45 |
+|    16 |          +5 | Ability Score Increase, Feat                   |        6 |       8th       |   48 |
+|    17 |          +6 | Aether Surge (x4)                              |        6 |       9th       |   51 |
+|    18 |          +6 | Circle Ability, Channel Elements (x4)          |        6 |       9th       |   54 |
+|    19 |          +6 | Ability Score Increase, Feat                   |        6 |       9th       |   57 |
+|    20 |          +6 | Cleric Capstone Feat                           |        6 |       9th       |   60 |
 
-## Druid: Spell Slots per Spell Level
-
-| Level |  1st  |  2nd  |  3rd  |  4th  |  5th  |  6th  |  7th  |  8th  |  9th  |
-| ----: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|     1 |   2   |   -   |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
-|     2 |   3   |   -   |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
-|     3 |   4   |   2   |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
-|     4 |   4   |   3   |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
-|     5 |   4   |   3   |   2   |   -   |   -   |   -   |   -   |   -   |   -   |
-|     6 |   4   |   3   |   3   |   -   |   -   |   -   |   -   |   -   |   -   |
-|     7 |   4   |   3   |   3   |   1   |   -   |   -   |   -   |   -   |   -   |
-|     8 |   4   |   3   |   3   |   2   |   -   |   -   |   -   |   -   |   -   |
-|     9 |   4   |   3   |   3   |   3   |   1   |   -   |   -   |   -   |   -   |
-|    10 |   4   |   3   |   3   |   3   |   2   |   -   |   -   |   -   |   -   |
-|    11 |   4   |   3   |   3   |   3   |   2   |   1   |   -   |   -   |   -   |
-|    12 |   4   |   3   |   3   |   3   |   2   |   1   |   -   |   -   |   -   |
+---
 
 # Class Abilities
 
 ## Hit Points
-**Hit Points:** 8 + your Constitution modifier per Druid level  
-**Hit Dice:** 1d8 per Druid level  
+**Hit Points:** `8 + your Constitution modifier` per Druid level  
+**Hit Dice:** `1d8` per Druid level  
 
 ---
 
 ## Proficiencies
-**Armour:** light armor, shields  
+
+**Armour:** light armour, shields  
 **Weapons:** simple weapons  
 **Spellcasting Foci:** Component Pouch, primal foci  
 **Tools:** herbalism kit  
 **Languages:** Druidic  
-**Defenses:** Intelligence, Wisdom  
+**Defences:** *Fortitude*, *Will*  
 **Skills:** Choose `2 + your Intelligence modifier` from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival.
 
 ---
@@ -60,21 +54,24 @@
 ---
 
 ## Channel Elements
+*1st-level Attribute (Druid)*  
+
+You have `X` *Charges* of "Channel Elements", where `X = 1` at 1st-level in this class, `X = 2` at 7th-level in this class, `X = 3` at 14th-level in this class, and `X = 4` at 18th-level in this class.
+
+You expend `1` *Charge* of "Channel Elements" whenever you "Channel Elements". You regain all expended charges whenever you finish a *Long Rest*.
 
 ---
 
 ## Wildshape
 
-small/tiny only
+🔷 — You may "Channel Elements". If you do, you may *Transform* into a "Beast" without a *Flying*, *Swimming*, or *Burrowing Speed* of level `X` or lower, where `X = 1/4 * your "Druid" level (rounded up)`.
 
 ---
 
 ## Druidic Circle
 
-subclass
-
 | Circle                 | Source                 |
-| :--------------------- | :--------------------- |
+|:-----------------------|:-----------------------|
 | Circle of Autumn       | Unstable Isotope (0.0) |
 | Circle of Decay        | Unstable Isotope (0.0) |
 | Circle of Ferocity     | Unstable Isotope (0.0) |
@@ -98,3 +95,5 @@ subclass
 ## Feat
 
 ---
+
+## Aether Surge

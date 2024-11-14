@@ -13,7 +13,7 @@ Make a *Melee Spell Attack* vs. *Will* in a 30 ft. cone originating from you.
 
 **Success:** The creature is *[Frightened]* until this Spell ends.  
 
-A creature *[Frightened]* this way must use its 🔷, and ➡️ to move as far away from you as possible.
+A creature *[Frightened]* this way must use its 🔷, and 🔷 to move as far away from you as possible.
 
 **Classes:** Cleric, Paladin, Sorcerer, Warlock, Wizard
 

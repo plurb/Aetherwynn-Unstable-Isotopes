@@ -97,7 +97,7 @@ If one of your Exploits requires you to make an *Exploit Attack*, or a creature 
 ## Cunning Action
 *2nd-level Ability (Rogue)*
 
-🔵 — You "Dash", "Hide", or "Step".
+🔷 — You "Dash", "Hide", or "Step".
 
 ---
 

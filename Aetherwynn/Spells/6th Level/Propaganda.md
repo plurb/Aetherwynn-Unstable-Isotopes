@@ -2,7 +2,7 @@
 *6th-Level Spell (Enchantment)*  
 **Cost:** 8 "Mana", Aether Surge  
 **Casting Time:** 🔷🔷  
-**Range:** 60 ft.  
+**Range:** Varies  
 **Components:** C, V  
 **Duration:** Up to 8 hours  
 
@@ -10,7 +10,7 @@
 
 > *You plant thoughts into the minds of people who hear your voice, causing them to unwittingly obey your will.*
 
-Make a *Ranged Spell Attack* vs. *Will* against any number of target Humanoid creatures who understand a language and can hear you. Creatures targetted by this "Spell" are unaware of this *Attack*.
+Make a *Ranged Spell Attack* vs. *Will* against any number of Humanoid creatures who understand a language and can hear you. Creatures affected by this "Spell" are unaware of this *Attack*. You have *Advantage* on this *Attack* if the creature can also see you.
 
 **Success:** It is *[Charmed]* by you until this "Spell" ends.  
 **Failure:** The creature becomes aware you tried to *[Charm]* it.  

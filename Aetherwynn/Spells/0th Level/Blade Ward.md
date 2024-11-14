@@ -1,6 +1,6 @@
 ### Blade Ward  
 *Cantrip (Abjuration)*  
-**Casting Time:** 🔵  
+**Casting Time:** 🔷  
 **Range:** Self  
 **Components:** V, S  
 **Duration:** 1 round  

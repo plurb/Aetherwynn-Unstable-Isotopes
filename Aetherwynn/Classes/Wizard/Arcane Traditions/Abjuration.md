@@ -32,14 +32,14 @@ You regain all expended "Ward Charges" when you complete a *Long Rest*.
 
 ### Protective Ward
 
-🔵 — You may expend any number of "Ward Charges". If you do, you gain `X` Temporary HP, where `X = the number of "Ward Charges" expended this way`.
+🔷 — You may expend any number of "Ward Charges". If you do, you gain `X` Temporary HP, where `X = the number of "Ward Charges" expended this way`.
 
 ---
 
 ## Improved Ward
 *6th-level Ability (Wizard, Abjuration Tradition)*  
 
-🔵 **(range: Touch)** — You may spend any number of "Ward Charges". If you do, target creature in range gains `X` Temporary HP, where `X = the number of "Ward Charges" expended this way`.
+🔷 **(range: Touch)** — You may spend any number of "Ward Charges". If you do, target creature in range gains `X` Temporary HP, where `X = the number of "Ward Charges" expended this way`.
 
 ---
 
