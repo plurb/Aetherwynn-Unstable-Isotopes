@@ -14,6 +14,26 @@
 
 ---
 
+## Height & Weight by Age
+
+### Age 8-11
+
+**Size:** *Small*
+
+### Age 12-14
+
 | Base Height | Base Weight | Height Modifier | Weight Modifier |
 |:-----------:|:-----------:|:---------------:|:---------------:|
-|    4'8"     |  110 lbs.   |     `+2d10`     |     `* 2d4`     |
+|             |             |                 |                 |
+
+### Age 15-17
+
+| Base Height | Base Weight | Height Modifier | Weight Modifier |
+|:-----------:|:-----------:|:---------------:|:---------------:|
+|    3'8"     |             |                 |                 |
+
+### Age 18-25
+
+| Base Height | Base Weight | Height Modifier |  Weight Modifier  |
+|:-----------:|:-----------:|:---------------:|:-----------------:|
+|    4'8"     |  140 lbs.   |     `+2d10`     | `+4d6 - 4d6` lbs. |

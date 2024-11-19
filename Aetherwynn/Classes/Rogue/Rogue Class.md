@@ -46,7 +46,7 @@
 
 > *You exploit a target's weakness, and land a decisive strike.*
 
-◻️ **(1/turn, requires: you have *Advantage* on the *Attack* or an ally is within 5 ft. of the target)** — When you hit a creature using a Finesse Weapon or a *Ranged Weapon Attack*, you deal additional Damage equal to your "Sneak Attack" dice.
+◻️ **(1/turn, requires: you have *Advantage* on the *Attack* or an ally is within 5 ft. of the target)** — When you hit a creature using a Finesse Weapon or a *Ranged Weapon Attack*, you deal additional *Damage* equal to your "Sneak Attack" dice.
 
 ---
 
@@ -154,7 +154,7 @@ You earn an additional Feat at 8th, 12th, 16th, and 19th level.
 ## Enhanced Strikes
 *6th-level Ability (Barbarian, Fighter, Monk, Rogue)*  
 
-♾️ — *Weapon Attacks*, and *Exploit Attacks* you make count as *Magical* for the purpose of overcoming *Resistance*, and *Immunity* to Non-Magical *Attacks* and Damage.
+♾️ — *Weapon Attacks*, and *Exploit Attacks* you make count as *Magical* for the purpose of overcoming *Resistance*, and *Immunity* to Non-Magical *Attacks* and *Damage*.
 
 ---
 
@@ -170,7 +170,7 @@ You gain *Expertise* in `2` more *Skills* you have *Proficiency* with.
 
 > *You are able to avoid attacks that are otherwise unavoidable.*
 
-♾️ — Whenever a creature makes an *Attack* vs. *Reflex* against you, or the ability has the "Blast" tag, you take no Damage if the *Attack* misses, and only half as much Damage if it hits.
+♾️ — Whenever a creature makes an *Attack* vs. *Reflex* against you, or the ability has the "Blast" tag, you take no *Damage* if the *Attack* misses, and only half as much *Damage* if it hits.
 
 ---
 

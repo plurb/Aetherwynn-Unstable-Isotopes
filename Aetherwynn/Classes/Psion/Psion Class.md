@@ -45,7 +45,7 @@
 
 ### Psionic Strike
 
-🔷 — Make up to `1` *Melee Weapon Attack:* `+X` *to hit*, Tiny, Reach 5 ft., `1` target, where `X = your Proficiency Bonus + your Intelligence modifier`. *On Hit:* `1d8 + your Intelligence modifier` Force Damage.
+🔷 — Make up to `1` *Melee Weapon Attack:* `+X` *to hit*, Tiny, Reach 5 ft., `1` target, where `X = your Proficiency Bonus + your Intelligence modifier`. *On Hit:* `1d8 + your Intelligence modifier` Force *Damage*.
 
 The number of attacks you can make when you use this ability increases at 5th level (up to 2 attacks total), at 11th level (up to 3 attacks total) and at 17th level (up to 4 attacks total) in this class.
 

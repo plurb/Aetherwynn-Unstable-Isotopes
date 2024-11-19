@@ -26,7 +26,7 @@
 ## Primordial Embodiment
 *6th-level Ability (Barbarian, Path of The Titan)*
 
-♾️ — Whenever you hit a creature with a *Melee Weapon Attack*, you deal an additional `Xd6 [bludgeoning, cold, fire, or thunder (your choice)]` Damage, where `X = 1 at 6th level, X = 2 at 11th level, and X = 3 at 17th level`.
+♾️ — Whenever you hit a creature with a *Melee Weapon Attack*, you deal an additional `Xd6 [bludgeoning, cold, fire, or thunder (your choice)]` *Damage*, where `X = 1 at 6th level, X = 2 at 11th level, and X = 3 at 17th level`.
 
 ---
 

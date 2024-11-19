@@ -9,7 +9,7 @@
 
 Make a *Ranged Spell Attack* vs. *Will* against up to `X` target creatures you can see in range, where `X = this Spell's level - 3`. You have *Disadvantage* on this *Attack* if you or your companions are fighting the target.
 
-**Success:** The creatures are *[Charmed]* by you until this Spell ends or until you or your companions deal Damage to it, or it sees you or your companions deal Damage to one of their companions.
+**Success:** The creatures are *[Charmed]* by you until this Spell ends or until you or your companions deal *Damage* to it, or it sees you or your companions deal *Damage* to one of their companions.
 
 A creature *[Charmed]* this way is friendly to you. <sup><sub>*(A friendly creature is not hostile.)*</sub><sup>
 

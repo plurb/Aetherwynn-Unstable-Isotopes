@@ -40,6 +40,6 @@ At 15th level in the Fighter class, you score a critical hit when you roll a `18
 ## Devastating Strikes
 *10th-level Ability (Fighter, Champion Archetype)*  
 
-◻️ **(1/short rest, 1/turn)** — When you hit a creature with a *Weapon Attack*, you may deal an additional `X` Damage, where `X = your Fighter level`.
+◻️ **(1/short rest, 1/turn)** — When you hit a creature with a *Weapon Attack*, you may deal an additional `X` *Damage*, where `X = your Fighter level`.
 
 ---

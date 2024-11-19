@@ -6,4 +6,4 @@
 
 Variants: Acid, Cold, Fire, Lightning, Poison
 
-The "Enchanted" "Weapon" deals an additional `+3d6 [variant's damage type]` Damage.
+The "Enchanted" "Weapon" deals an additional `+3d6 [variant's damage type]` *Damage*.

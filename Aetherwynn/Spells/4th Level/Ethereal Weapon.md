@@ -10,6 +10,6 @@
 Target Melee Weapon in range gains the following effects until this spell ends:
 * If the Weapon is non-Magical, it becomes Magical.
 * The Weapon's reach increases by `10` ft..
-* It deals an additional `Xd10 [force]` Damage on hit, where `X = this spell's level`.
+* It deals an additional `Xd10 [force]` *Damage* on hit, where `X = this spell's level`.
 
 **Classes:** Artificer, Magus, Paladin, Ranger, Sorcerer

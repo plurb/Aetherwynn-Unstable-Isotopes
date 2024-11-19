@@ -11,7 +11,7 @@ Target a willing creature in range, then choose a damage type: acid, cold, fire,
 
 > 🔷 — Make a *Ranged Weapon Attack* (`your Proficiency Bonus + your Constitution modifier` to hit) vs *Reflex* in a 15 ft. cone originating from you.
 >
-> **Success:** The creature takes `Xd6` Damage of the chosen type, where `X = 1 + this spell's level`.  
-> **Failure:** The creature takes half as much Damage.  
+> **Success:** The creature takes `Xd6` *Damage* of the chosen type, where `X = 1 + this spell's level`.  
+> **Failure:** The creature takes half as much *Damage*.  
 
 **Classes:** Artificer, Druid, Sorcerer, Wizard

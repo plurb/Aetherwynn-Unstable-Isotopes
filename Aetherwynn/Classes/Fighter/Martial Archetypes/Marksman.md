@@ -26,7 +26,7 @@ You gain Proficiency in Initiative. If you are already Proficient, you may gain 
 
 ◻️ — At the start of your turn, you may reduce your *Movement Speed* to `0`. If you do, you gain the following effects until the end of your turn:
 * You gain *Advantage* on *Ranged Weapon Attacks* you make.
-* *Ranged Weapon Attacks* you make deal an additional `+X` Damage, where `X = your Proficiency Bonus`.
+* *Ranged Weapon Attacks* you make deal an additional `+X` *Damage*, where `X = your Proficiency Bonus`.
 
 ---
 

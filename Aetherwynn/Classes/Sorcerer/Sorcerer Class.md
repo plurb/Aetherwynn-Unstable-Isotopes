@@ -4,28 +4,28 @@
 
 ## Sorcerer
 
-| Level | Proficiency | Abilities                                               | Cantrips | Spells Known | Max Spell Level | Mana |
-|------:|------------:|:--------------------------------------------------------|---------:|-------------:|:---------------:|-----:|
-|     1 |           2 | Spellcasting, Bonus Spellcasting Feat, Sorcerous Origin |        3 |            4 |       1st       |    4 |
-|     2 |           2 | —                                                       |        3 |            5 |       1st       |    8 |
-|     3 |           2 | Origin Ability                                          |        3 |            6 |       2nd       |   12 |
-|     4 |           2 | Ability Score Increase, Feat                            |        4 |            7 |       2nd       |   16 |
-|     5 |           3 | —                                                       |        4 |            8 |       3rd       |   20 |
-|     6 |           3 | Origin Ability, Bonus Spellcasting Feat                 |        4 |            9 |       3rd       |   24 |
-|     7 |           3 | —                                                       |        4 |           10 |       4th       |   28 |
-|     8 |           3 | Ability Score Increase, Feat                            |        4 |           11 |       4th       |   32 |
-|     9 |           4 | —                                                       |        5 |           12 |       5th       |   36 |
-|    10 |           4 | Origin Ability, Bonus Spellcasting Feat                 |        5 |           13 |       5th       |   40 |
-|    11 |           4 | Aether Surge (x1)                                       |        5 |           14 |       6th       |   44 |
-|    12 |           4 | Ability Score Increase, Feat                            |        5 |           15 |       6th       |   48 |
-|    13 |           5 | Aether Surge (x2)                                       |        5 |           16 |       7th       |   52 |
-|    14 |           5 | Origin Ability, Bonus Spellcasting Feat                 |        5 |           17 |       7th       |   56 |
-|    15 |           5 | Aether Surge (x3)                                       |        5 |           18 |       8th       |   60 |
-|    16 |           5 | Ability Score Increase, Feat                            |        6 |           19 |       8th       |   64 |
-|    17 |           6 | Aether Surge (x4)                                       |        6 |           20 |       9th       |   68 |
-|    18 |           6 | Origin Ability                                          |        6 |           21 |       9th       |   72 |
-|    19 |           6 | Ability Score Increase, Feat                            |        6 |           23 |       9th       |   76 |
-|    20 |           6 | Sorcerer Capstone Feat                                  |        6 |           24 |       9th       |   80 |
+| Level | Proficiency | Abilities                                  | Cantrips | Spells Known | Max Spell Level | Mana |
+|------:|------------:|:-------------------------------------------|---------:|-------------:|:---------------:|-----:|
+|     1 |           2 | Spellcasting, Bonus Feat, Sorcerous Origin |        3 |            4 |       1st       |    4 |
+|     2 |           2 | —                                          |        3 |            5 |       1st       |    8 |
+|     3 |           2 | Origin Ability                             |        3 |            6 |       2nd       |   12 |
+|     4 |           2 | Ability Score Increase, Feat               |        4 |            7 |       2nd       |   16 |
+|     5 |           3 | —                                          |        4 |            8 |       3rd       |   20 |
+|     6 |           3 | Origin Ability, Bonus Feat                 |        4 |            9 |       3rd       |   24 |
+|     7 |           3 | —                                          |        4 |           10 |       4th       |   28 |
+|     8 |           3 | Ability Score Increase, Feat               |        4 |           11 |       4th       |   32 |
+|     9 |           4 | —                                          |        5 |           12 |       5th       |   36 |
+|    10 |           4 | Origin Ability, Bonus Feat                 |        5 |           13 |       5th       |   40 |
+|    11 |           4 | Aether Surge (x1)                          |        5 |           14 |       6th       |   44 |
+|    12 |           4 | Ability Score Increase, Feat               |        5 |           15 |       6th       |   48 |
+|    13 |           5 | Aether Surge (x2)                          |        5 |           16 |       7th       |   52 |
+|    14 |           5 | Origin Ability, Bonus Feat                 |        5 |           17 |       7th       |   56 |
+|    15 |           5 | Aether Surge (x3)                          |        5 |           18 |       8th       |   60 |
+|    16 |           5 | Ability Score Increase, Feat               |        6 |           19 |       8th       |   64 |
+|    17 |           6 | Aether Surge (x4)                          |        6 |           20 |       9th       |   68 |
+|    18 |           6 | Origin Ability                             |        6 |           21 |       9th       |   72 |
+|    19 |           6 | Ability Score Increase, Feat               |        6 |           23 |       9th       |   76 |
+|    20 |           6 | Sorcerer Capstone Feat                     |        6 |           24 |       9th       |   80 |
 
 ---
 
@@ -76,10 +76,12 @@ If one of your "Spells" requires you to make a *Spell Attack*, or a creature to 
 
 ---
 
-### Bonus Spellcasting Feat
+### Bonus Feat
 *1st-level Ability (Sorcerer)*
 
-You gain additional "Spellcasting Feats" at 1st, 6th, 10th, and 14th level in this class.
+You gain an additional "Feat". This "Feat" can only be a "Spellcasting" or "Sorcerer" "Feat".
+
+You gain additional "Feats" at 6th, 10th, and 14th level in this class.
 
 ---
 

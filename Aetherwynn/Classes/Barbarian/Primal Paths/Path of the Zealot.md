@@ -17,7 +17,7 @@
 
 > *Your rage is inspired by your sense of righteousness to end injustice.*
 
-♾️ **(1/turn, requires: you are *Enraged*)** — When a *Melee Weapon Attack* or *Exploit Attack* you make **succeeds**, you deal an additional `1d6 + X [radiant]` Damage, where `X = your Barbarian level / 2 (rounded down)`.
+♾️ **(1/turn, requires: you are *Enraged*)** — When a *Melee Weapon Attack* or *Exploit Attack* you make **succeeds**, you deal an additional `1d6 + X [radiant]` *Damage*, where `X = your Barbarian level / 2 (rounded down)`.
 
 ---
 

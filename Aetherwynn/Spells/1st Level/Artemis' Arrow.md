@@ -7,6 +7,6 @@
 
 Make a *Ranged Spell Attack* against target creature you can see in range.
 
-**Success:** `Xd6 [peircing]` Damage, where `X = 3 + this spell's level`.
+**Success:** `Xd6 [peircing]` *Damage*, where `X = 3 + this spell's level`.
 
 **Classes:** Ranger

@@ -4,4 +4,4 @@
 **Weight:** 2 lbs.  
 **Enchants:** "Weapons"  
 
-The "Enchanted" "Weapon" gains a `+3` bonus to hit with *Weapon Attacks*, and deals an additional `+3` Damage.
+The "Enchanted" "Weapon" gains a `+3` bonus to hit with *Weapon Attacks*, and deals an additional `+3` *Damage*.

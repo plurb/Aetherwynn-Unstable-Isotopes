@@ -6,7 +6,7 @@
 **Duration:** 1 minute  
 
 Up to `3` target pebbles in range become *Thrown Weapons* with the following properties:
-* **Magic Stone.** *Thrown Weapon:* `your Spell Attack modifier` to hit, Range (60), `1` target. *On Hit:* `1d6 + your Spellcasting modifier [magical bludgeoning]` Damage.
+* **Magic Stone.** *Thrown Weapon:* `your Spell Attack modifier` to hit, Range (60), `1` target. *On Hit:* `1d6 + your Spellcasting modifier [magical bludgeoning]` *Damage*.
 
 A "Magic Stone" can be used as *Ammunition* for a Sling.
 

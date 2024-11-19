@@ -54,7 +54,7 @@
 ## Divine Smite
 *2nd-level Ability (Paladin)*  
 
-◻️ **(1/turn)** — When you hit a creature with a *Melee Weapon Attack*, you may spend any number of "Mana", up to your *Proficiency Bonus*. If you do, the *Attack* deals an additional `Xd8 [radiant]` Damage, where `X = 1 + the amount of "Mana" expended this way`.
+◻️ **(1/turn)** — When you hit a creature with a *Melee Weapon Attack*, you may spend any number of "Mana", up to your *Proficiency Bonus*. If you do, the *Attack* deals an additional `Xd8 [radiant]` *Damage*, where `X = 1 + the amount of "Mana" expended this way`.
 
 ---
 

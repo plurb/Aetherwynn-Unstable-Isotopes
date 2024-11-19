@@ -118,7 +118,7 @@ If a creature targets you with an *Attack*, it makes a Charisma Saving Throw (`D
 >
 > ---
 >
-> **Damage Immunities** necrotic, poison  
+> ***Damage* Immunities** necrotic, poison  
 > **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned  
 > **Senses** darkvision 60 ft., passive Perception 13  
 > **Languages** understands the languages you speak  

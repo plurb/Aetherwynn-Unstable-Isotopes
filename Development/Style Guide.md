@@ -215,8 +215,8 @@ You shoot a streak of flame from your fingertip, which blooms into a a large plu
 
 Make a *Ranged Spell Attack* vs. *Reflex* against creatures and objects in a 20 ft. sphere centred on target point in range.
 
-**Success:** It takes 6d6 fire Damage.  
-**Failure:** It takes half as much Damage.  
+**Success:** It takes 6d6 fire *Damage*.  
+**Failure:** It takes half as much *Damage*.  
 
 ...
 ```
@@ -237,8 +237,8 @@ Make a *Ranged Spell Attack* vs. *Reflex* against creatures and objects in a 20 
 
 Make a *Ranged Spell Attack* vs. *Reflex* against creatures and objects in a 20 ft. sphere centred on target point in range.
 
-**Success:** It takes `6d6 [fire]` Damage.
-**Failure:** It takes half as much Damage.  
+**Success:** It takes `6d6 [fire]` *Damage*.
+**Failure:** It takes half as much *Damage*.  
 ```
 
 ---
@@ -283,8 +283,8 @@ Example:
 
 Make a *Ranged Spell Attack* vs. *Reflex* against creatures and objects in a 20 ft. sphere centred on target point in range.
 
-**Success:** It takes `Xd6 [fire]` where `X = this Spell's level + 3` Damage.
-**Failure:** It takes half as much Damage. 
+**Success:** It takes `Xd6 [fire]` where `X = this Spell's level + 3` *Damage*.
+**Failure:** It takes half as much *Damage*. 
 ```
 
 ```md
@@ -303,8 +303,8 @@ Make a *Ranged Spell Attack* vs. *Reflex* against creatures and objects in a 20 
 
 Make a *Ranged Spell Attack* vs. *Reflex* against creatures and objects in a 20 ft. sphere centred on target point in range.
 
-**Success:** It takes `Xd6 [fire]` Damage, where `X = 3 + this Spell's level`.
-**Failure:** It takes half as much Damage.  
+**Success:** It takes `Xd6 [fire]` *Damage*, where `X = 3 + this Spell's level`.
+**Failure:** It takes half as much *Damage*.  
 ```
 
 ---

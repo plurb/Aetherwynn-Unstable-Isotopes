@@ -9,7 +9,7 @@
 
 Make a *Ranged Spell Attack* vs. *Reflex* against creatures and objects in a 5 ft. wide, 150 ft. long line.
 
-**Success:** It takes `Xd8 [piercing] + Xd8 [thunder]` Damage, where `X = this Spell's level`.  
-**Failure:** It takes half as much Damage.
+**Success:** It takes `Xd8 [piercing] + Xd8 [thunder]` *Damage*, where `X = this Spell's level`.  
+**Failure:** It takes half as much *Damage*.
 
 **Classes:** Druid, Magus, Sorcerer, Wizard

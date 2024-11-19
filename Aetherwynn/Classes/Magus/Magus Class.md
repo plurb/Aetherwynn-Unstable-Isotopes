@@ -124,7 +124,7 @@ You earn an additional Feat at 8th, 12th, 16th, and 19th level.
 ## Mystic Strikes
 *6th-level Ability (Magus)*  
 
-♾️ — *Weapon Attacks* you make count as *Magical* for the purpose of overcoming *Resistance* and *Immunity* to Non-*Magical* *Attacks* and Damage.
+♾️ — *Weapon Attacks* you make count as *Magical* for the purpose of overcoming *Resistance* and *Immunity* to Non-*Magical* *Attacks* and *Damage*.
 
 ---
 

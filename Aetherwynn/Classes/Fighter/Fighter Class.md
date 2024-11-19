@@ -6,28 +6,28 @@
 
 ## Fighter
 
-| Level | Proficiency | Abilities                                       | Fighting Styles | Exploits | Max Exploit Level |
-|------:|------------:|:------------------------------------------------|----------------:|---------:|------------------:|
-|     1 |          +2 | Fighting Styles, Exploits, Momentary Pause (x1) |               1 |        3 |               1st |
-|     2 |          +2 | Action Surge (x1)                               |               1 |        4 |               1st |
-|     3 |          +2 | Martial Archetype                               |               2 |        5 |               1st |
-|     4 |          +2 | Ability Score Increase, Feat                    |               2 |        6 |               1st |
-|     5 |          +3 | Multiattack (2)                                 |               3 |        7 |               2nd |
-|     6 |          +3 | Enhanced Strikes                                |               3 |        8 |               2nd |
-|     7 |          +3 | Archetype Ability                               |               3 |        9 |               2nd |
-|     8 |          +3 | Ability Score Increase, Feat                    |               3 |       10 |               2nd |
-|     9 |          +4 | Legendary Might (x1)                            |               4 |       11 |               3rd |
-|    10 |          +4 | Archetype Ability                               |               4 |       11 |               3rd |
-|    11 |          +4 | Multiattack (3)                                 |               4 |       12 |               3rd |
-|    12 |          +4 | Ability Score Increase, Feat                    |               4 |       12 |               3rd |
-|    13 |          +5 | Legendary Might (x2)                            |               5 |       13 |               4th |
-|    14 |          +5 | Ability Score Increase, Feat                    |               5 |       13 |               4th |
-|    15 |          +5 | Archetype Ability                               |               5 |       14 |               4th |
-|    16 |          +5 | Ability Score Increase, Feat                    |               5 |       14 |               4th |
-|    17 |          +6 | Multiattack (4), Legendary Might (x3)           |               5 |       15 |               5th |
-|    18 |          +6 | Archetype Ability, Action Surge (x2)            |               6 |       15 |               5th |
-|    19 |          +6 | Ability Score Increase, Feat                    |               6 |       16 |               5th |
-|    20 |          +6 | Fighter Capstone Feat                           |               6 |       16 |               5th |
+| Level | Proficiency | Abilities                             | Fighting Styles | Exploits | Max Exploit Level |
+|------:|------------:|:--------------------------------------|----------------:|---------:|------------------:|
+|     1 |          +2 | Fighting Styles, Exploits, Bonus Feat |               1 |        3 |               1st |
+|     2 |          +2 | Action Surge (x1)                     |               1 |        4 |               1st |
+|     3 |          +2 | Martial Archetype                     |               2 |        5 |               1st |
+|     4 |          +2 | Ability Score Increase, Feat          |               2 |        6 |               1st |
+|     5 |          +3 | Multiattack (2)                       |               3 |        7 |               2nd |
+|     6 |          +3 | Ability Score Increase, Bonus Feat    |               3 |        8 |               2nd |
+|     7 |          +3 | Archetype Ability                     |               3 |        9 |               2nd |
+|     8 |          +3 | Ability Score Increase, Feat          |               3 |       10 |               2nd |
+|     9 |          +4 | Legendary Might (x1)                  |               3 |       11 |               3rd |
+|    10 |          +4 | Archetype Ability                     |               4 |       11 |               3rd |
+|    11 |          +4 | Multiattack (3)                       |               4 |       12 |               3rd |
+|    12 |          +4 | Ability Score Increase, Feat          |               4 |       12 |               3rd |
+|    13 |          +5 | Legendary Might (x2)                  |               4 |       13 |               4th |
+|    14 |          +5 | Ability Score Increase, Bonus Feat    |               5 |       13 |               4th |
+|    15 |          +5 | Archetype Ability                     |               5 |       14 |               4th |
+|    16 |          +5 | Ability Score Increase, Feat          |               5 |       14 |               4th |
+|    17 |          +6 | Multiattack (4), Legendary Might (x3) |               5 |       15 |               5th |
+|    18 |          +6 | Archetype Ability, Action Surge (x2)  |               6 |       15 |               5th |
+|    19 |          +6 | Ability Score Increase, Feat          |               6 |       16 |               5th |
+|    20 |          +6 | Fighter Capstone Feat                 |               6 |       16 |               5th |
 
 ---
 
@@ -113,14 +113,10 @@ If one of your Exploits requires you to make an *Exploit Attack*, or a creature 
 
 ---
 
-## Momentary Pause
-*1st-level Ability (Fighter)*  
+## Bonus Feat
+*...*  
 
-> *You draw a long and weary breath, steeling your resolve and pushing forwards.*
-
-🔷 **(1/long rest)** — You regain `X` "Stamina Points", where `X = your Constitution modifier`.
-
-At 14th level in this class, you can use "Momentary Pause" **2/long rest**.
+You earn an additional "Feat". This "Feat" can be a "Martial" or "Fighter" "Feat".
 
 ---
 
@@ -151,28 +147,28 @@ Choose one of the following Martial Archetypes:
 | Champion          | Unstable Isotopes (0.0) |
 | Commander         | Unstable Isotopes (0.0) |
 | Guerilla          | Unstable Isotopes (0.0) |
-| Legionaire        | Unstable Isotopes (0.0) |
+| Legionnaire       | Unstable Isotopes (0.0) |
 | Marksman          | Unstable Isotopes (0.0) |
 
 ### Archetype Exploits
 
-Each Archetype has a list of Exploits you learn at the Fighter levels noted in the Archetype's description. They do not count against the total number of Exploits you know and cannot be switched out for other Exploits. If you do not meet an Archetype Exploit's pre-requisites, you learn it anyways.
+Each Archetype has a list of Exploits you learn at the Fighter levels noted in the Archetype's description. They do not count against the total number of Exploits you know and cannot be switched out for other Exploits. If you do not meet an Archetype Exploit's pre-requisites, you learn it anyway.
 
 ---
 
 ## Ability Score Increase
 *4th-level Ability (All Classes)*
 
-Increase one Ability Score of your choice by 2, or you increase two Ability Scores of your choice by 1. You cannot increase an Ability Score above 20 using this Ability.
+Increase one *Ability Score* of your choice by `2`, or increase two *Ability Scores* of your choice by `1`. You cannot increase an *Ability Score* above `20` this way.
 
-You can do so again at 8th, 12th, 14th, 16th, and 19th level in this class.
+You do so again at 8th, 12th, 14th, 16th, and 19th level in this class.
 
 ---
 
 ## Feat
 *4th-level Ability (All Classes)*
 
-You earn a Feat. This Feat can be either a *General*, *Martial*, or *Fighter* Feat. You earn additional Feats at 8th, and 12th 14th, 16th, and 19th level in this class.
+You earn a "Feat". This "Feat" can be either a "General", "Martial", or "Fighter" "Feat". You earn additional "Feats" at 8th, and 12th 14th, 16th, and 19th level in this class.
 
 ---
 
@@ -190,7 +186,7 @@ Where `X = 2` at 5th level, `X = 3` at 11th level, and `X = 4` at 17th level in 
 ## Enhanced Strikes
 *6th-level Ability (Barbarian, Fighter, Monk, Rogue)*  
 
-♾️ — *Weapon Attacks*, and *Exploit Attacks* you make count as *Magical* for the purpose of overcoming *Resistance*, and *Immunity* to Non-Magical *Attacks* and Damage.
+♾️ — *Weapon Attacks*, and *Exploit Attacks* you make count as *Magical* for the purpose of overcoming *Resistance*, and *Immunity* to Non-Magical *Attacks* and *Damage*.
 
 ---
 

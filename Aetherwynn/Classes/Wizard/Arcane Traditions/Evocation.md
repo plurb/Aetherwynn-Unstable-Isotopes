@@ -35,7 +35,7 @@ You take half as much time, and gold to use your "Copy Spell" on "Evocation" Spe
 
 > *Your spells are more potent than less specialized mages.*
 
-♾️ — "Evocation" Wizard Spells you cast deal an additional `X` Damage, where `X = your Intelligence modifier`.
+♾️ — "Evocation" Wizard Spells you cast deal an additional `X` *Damage*, where `X = your Intelligence modifier`.
 
 ---
 

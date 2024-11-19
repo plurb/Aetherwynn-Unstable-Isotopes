@@ -29,7 +29,7 @@
 
 ◻️ **(1/turn, requires: you are [*Enraged*][E])** — When you hit a creature with a *Melee Attack*, you may [*Goad*][GD] that creature until the start of your turn.
 
-If a creature [*Goaded*][GD] this way hits another creature with an *Attack*, it deals half as much Damage.
+If a creature [*Goaded*][GD] this way hits another creature with an *Attack*, it deals half as much *Damage*.
 
 ---
 
@@ -38,7 +38,7 @@ If a creature [*Goaded*][GD] this way hits another creature with an *Attack*, it
 
 > *You command your spirits to protect your allies.*
 
-⚡ **(range: 30 ft., requires: you are [*Enraged*][E])** — If another target creature you can see in range would take Damage, you may grant them `3d8` Temporary HP until the start of your next turn.
+⚡ **(range: 30 ft., requires: you are [*Enraged*][E])** — If another target creature you can see in range would take *Damage*, you may grant them `3d8` Temporary HP until the start of your next turn.
 
 ---
 

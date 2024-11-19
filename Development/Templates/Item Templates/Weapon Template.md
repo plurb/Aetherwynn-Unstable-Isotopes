@@ -2,7 +2,7 @@
 *{Rarity} {Weapon/Item Type} ({Weapon/Item Tags separated by commas})*
 **Value:** (# in gold pieces)
 **Weight:** (# in kilograms)
-**Damage:** (XdY (+ Modifiers, *when applicable*))
+***Damage*:** (XdY (+ Modifiers, *when applicable*))
 **Size:** (Size)
 
 > *Flavor text (when applicable)*

@@ -8,6 +8,6 @@
 > *"Unlimited power!!!" - Some guy.*
 
 Until this Spell ends, you gain the following effects:
-* 🔷 — Make a *Ranged Spell Attack* vs. *AC* against target creature in range. **Success:** You deal `Xd12 [lightning]` Damage to the target, where `X = this Spell's level`.
+* 🔷 — Make a *Ranged Spell Attack* vs. *AC* against target creature in range. **Success:** You deal `Xd12 [lightning]` *Damage* to the target, where `X = this Spell's level`.
 
 **Classes:** Artificer, Druid, Ranger, Sorcerer, Wizard

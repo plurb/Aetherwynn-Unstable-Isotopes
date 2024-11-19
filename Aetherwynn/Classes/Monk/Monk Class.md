@@ -12,15 +12,15 @@
 |     6 |          +3 | Tradition Feature, Enhanced Strikes    |         `d8` |       +15 ft. |          4 |        8 |               2nd |
 |     7 |          +3 | Evasion                                |         `d8` |       +15 ft. |          4 |        9 |               2nd |
 |     8 |          +3 | Ability Score Increase, Feat           |         `d8` |       +15 ft. |          4 |       10 |               2nd |
-|     9 |          +4 | Tranquil Mind                          |         `d8` |       +15 ft. |          5 |       11 |               3rd |
+|     9 |          +4 | Uncanny Accuracy (+1)                  |         `d8` |       +15 ft. |          5 |       11 |               3rd |
 |    10 |          +4 | Tradition Ability                      |         `d8` |       +20 ft. |          5 |       11 |               3rd |
 |    11 |          +4 | Multiattack (3)                        |        `d10` |       +20 ft. |          5 |       12 |               3rd |
 |    12 |          +4 | Ability Score Increase, Feat           |        `d10` |       +20 ft. |          5 |       12 |               3rd |
-|    13 |          +5 | {Poison Immunity}                      |        `d10` |       +20 ft. |          6 |       13 |               4th |
-|    14 |          +5 | Honed Mind                             |        `d10` |       +25 ft. |          6 |       13 |               4th |
+|    13 |          +5 | Uncanny Accuracy (+2)                  |        `d10` |       +20 ft. |          6 |       13 |               4th |
+|    14 |          +5 | Ability Score Increase, Feat           |        `d10` |       +25 ft. |          6 |       13 |               4th |
 |    15 |          +5 | Tradition Ability                      |        `d10` |       +25 ft. |          6 |       14 |               4th |
 |    16 |          +5 | Ability Score Increase, Feat           |        `d10` |       +25 ft. |          6 |       14 |               4th |
-|    17 |          +6 | Multiattack (4)                        |        `d12` |       +25 ft. |          7 |       15 |               5th |
+|    17 |          +6 | Multiattack (4), Uncanny Accuracy (+3) |        `d12` |       +25 ft. |          7 |       15 |               5th |
 |    18 |          +6 | Tradition Ability                      |        `d12` |       +30 ft. |          7 |       15 |               5th |
 |    19 |          +6 | Ability Score Increase, Feat           |        `d12` |       +30 ft. |          7 |       16 |               5th |
 |    20 |          +6 | Monk Capstone Feat                     |        `d12` |       +30 ft. |          8 |       16 |               5th |
@@ -84,7 +84,7 @@ For the purpose of your "Monk" abilities, *Martial Arts Attacks* are *Unarmed St
 ### Deadly Strikes
 *Ability (Monk, Martial Arts)*  
 
-♾️ — Your *Unarmed Strikes* are "Martial" "Melee Weapons" you are *Proficient* with, and have the "Finesse" property. Their "Damage Die" is `1dM [bludgeoning]`.
+♾️ — Your *Unarmed Strikes* are "Martial" "Melee Weapons" you are *Proficient* with, and have the "Finesse" property. Their "*Damage* Die" is `1dM [bludgeoning]`.
 
 ♾️ — Whenever you "Attack" and make one or more "Martial Arts Attacks", make one additional "Martial Arts Attack".
 
@@ -207,6 +207,10 @@ Where `X = 2` at 5th level, `X = 3` at 11th level, and `X = 4` at 17th level in 
 ---
 
 ## Tranquil Mind
+
+---
+
+## Honed Mind
 
 ---
 

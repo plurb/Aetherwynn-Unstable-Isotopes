@@ -6,7 +6,7 @@ Weapon tags are noted seperately.
 
 All weapons in this table have the 'Simple' tag. See the full descriptions listed seperately for more details.
 
-| Weapon Name    |  Reach/Range   | Size  |               Damage                | Weight | Properties                                 |
+| Weapon Name    |  Reach/Range   | Size  |               *Damage*                | Weight | Properties                                 |
 | :------------- | :------------: | :---: | :---------------------------------: | :----- | :----------------------------------------- |
 | Club           |       -        |   S   |          `1d4` bludgeoning          |        | Melee, Light                               |
 | Dagger         |       -        |   T   |   `1d4` piercing, `1d4` slashing    |        | Melee, Finesse, Special                    |
@@ -27,7 +27,7 @@ All weapons in this table have the 'Simple' tag. See the full descriptions liste
 
 All weapons in this table have the 'Martial' tag. See the full descriptions listed seperately for more details.
 
-| Weapon Name  | Reach/Range | Size  |                Damage                | Weight | Properties                                     |
+| Weapon Name  | Reach/Range | Size  |                *Damage*                | Weight | Properties                                     |
 | :----------- | :---------: | :---: | :----------------------------------: | :----- | :--------------------------------------------- |
 | Arming Sword |      -      |       |        `1d8` (`1d8`) Slashing        |        | Melee, Versatile                               |
 | Battleaxe    |      -      |   S   |            `1d8` slashing            |        | Melee, Crush                                   |

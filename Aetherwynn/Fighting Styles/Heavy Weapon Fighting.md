@@ -3,4 +3,4 @@
 **Pre-requisites:** —  
 
 You gain the following abilities:
-* ♾️ — *Melee Weapon Attacks* using "Heavy" Weapons you make deal an additional `+2` Damage.
+* ♾️ — *Melee Weapon Attacks* using "Heavy" Weapons you make deal an additional `+2` *Damage*.

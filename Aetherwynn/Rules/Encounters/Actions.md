@@ -59,8 +59,9 @@ Basic Actions:
 * (🔷) [Distract][DCT]
 * (◻️) [Drop Item][DIM]
 * (🔷) [Escape][ESC]
-* (◻️ or ⚡) [Fall Prone][FAP]
+* (◻️) [Fall Prone][FAP]
 * (🔷) [Fly][FLY]
+* (⚡) [Get Down][GET]
 * (🔷) [Goad][GOD]
 * (⚡) [Grab A Ledge][GAL]
 * (🔷) [Grapple][GPL]
@@ -74,13 +75,12 @@ Basic Actions:
 * (🔷) [Point Out][POT]
 * (🔷) [Ready][RDY]
 * (🔷) [Search][SCH]
-* (🔷) [Shove][SHP]
+* (🔷) [Shove or Trip][SHP]
 * (◻️) [Signal][SGL]
 * (🔷) [Speak][SPK]
 * (🔷) [Stand From Prone][SFP]
 * (🔷) [Step][STP]
 * (🔷) [Take Cover][TKC]
-* (🔷) [Trip]
 * (🔷) [Off-Hand Attack][TWF]
 
 Special Actions:
@@ -102,6 +102,7 @@ Special Actions:
 [ESC]: ./Basic%20Actions/Escape.md
 [FAP]: ./Basic%20Actions/Fall%20Prone.md
 [FLY]: ./Basic%20Actions/Fly.md
+[GET]: ./Basic%20Actions/Get%20Down.md
 [GOD]: ./Basic%20Actions/Goad.md
 [GAL]: ./Basic%20Actions/Grab%20A%20Ledge.md
 [GPL]: ./Basic%20Actions/Grapple.md
@@ -122,7 +123,6 @@ Special Actions:
 [STP]: ./Basic%20Actions/Step.md
 [TKC]: ./Basic%20Actions/Take%20Cover.md
 [TWF]: ./Basic%20Actions/Two-Weapon%20Fighting.md
-
 [CAS]: ./Basic%20Actions/Cast%20A%20Spell.md
 [PAE]: ./Special%20Actions/Perform%20An%20Exploit.md
 [UAO]: ./Special%20Actions/Use%20An%20Object.md

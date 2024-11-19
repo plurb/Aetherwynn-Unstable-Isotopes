@@ -42,9 +42,9 @@ You gain Proficiency with the Herbalsim Kit.
 
 > *You can infuse your weapon strikes with divine energy.*
 
-♾️ — The first time you hit a creature with a *Weapon Attack* each turn, you deal an additional `1d8` Radiant Damage.
+♾️ — The first time you hit a creature with a *Weapon Attack* each turn, you deal an additional `1d8` Radiant *Damage*.
 
-At 14th level in this class, the additional Damage increases to `2d8`.
+At 14th level in this class, the additional *Damage* increases to `2d8`.
 
 <!--
 ## Supreme Healing

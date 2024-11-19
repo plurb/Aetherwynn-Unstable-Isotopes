@@ -7,10 +7,10 @@
 
 Make a *Melee Spell Attack* vs. *AC* against target creature in range.
 
-**Success:** `Xd8 [force]` Damage.
+**Success:** `Xd8 [force]` *Damage*.
 
 You gain the following ability until this Spell ends:
-* 🔷 — Make a *Melee Spell Attack* vs. *AC* against target creature in range. **Success:** `Xd8 [force]` Damage.
+* 🔷 — Make a *Melee Spell Attack* vs. *AC* against target creature in range. **Success:** `Xd8 [force]` *Damage*.
 
 Where `X = (1 + this Spell's level) / 2 (rounded down)`.
 

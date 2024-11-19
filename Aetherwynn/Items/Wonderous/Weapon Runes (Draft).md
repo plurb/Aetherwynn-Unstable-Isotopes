@@ -61,7 +61,7 @@
 * Cantrip (at-will), 1st level spell (3/day), 2nd level spell (3/day)
 * Cantrip (at-will), 1st level spell (1/day), 2nd level spell (1/day), 3rd level spell (1/day), 4th level spell (1/day)
 
-## Damage Runes
+## *Damage* Runes
 
 **Common Runes:**
 * +1d4 [any non b/p/s]

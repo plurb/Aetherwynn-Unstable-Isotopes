@@ -24,9 +24,9 @@
 ## Conduit of The Elements
 *6th-level Ability (Barbarian, Path of The Storm)*  
 
-♾️ — You gain *Resistance* to Thunder Damage and Lightning Damage.
+♾️ — You gain *Resistance* to Thunder *Damage* and Lightning *Damage*.
 
-♾️ **(requires: you are *[Enraged]*)** — If you hit a creature with a *Melee Weapon Attack*, that creature takes an additional `2d8 [thunder]` Damage, and is pushed 10 ft. away from you.
+♾️ **(requires: you are *[Enraged]*)** — If you hit a creature with a *Melee Weapon Attack*, that creature takes an additional `2d8 [thunder]` *Damage*, and is pushed 10 ft. away from you.
 
 ---
 
@@ -35,8 +35,8 @@
 
 ◻️ **(1/short rest, Blast)** — When you become *[Enraged]*, make a *Melee Exploit Attack* vs. *Reflex* against creatures in a 20 ft. sphere centered on you.
 
-**Success:** The creature takes `4d8 [lightning] + 4d8 [thunder]` Damage.
-**Failure:** The creature takes half as much Damage.
+**Success:** The creature takes `4d8 [lightning] + 4d8 [thunder]` *Damage*.
+**Failure:** The creature takes half as much *Damage*.
 
 ---
 

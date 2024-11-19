@@ -16,4 +16,4 @@
 
 | Base Height | Base Weight | Height Modifier | Weight Modifier |
 |:-----------:|:-----------:|:---------------:|:---------------:|
-|    4'6"     |  110 lbs.   |     `+2d10`     |     `* 1d4`     |
+|    4'6"     |   95 lbs.   |     `+2d8`"     |     `+2d4`      |

@@ -76,10 +76,10 @@ Alternatively, you may start with `2d4 × 10` gp to buy your own equipment.
 > *You fight with an unchecked primal ferocity in battle.*
 
 🔷 **(`X`/short rest, requires: You are not wearing Heavy Armour)** — You are *[Enraged]* until this ability ends. While *[Enraged]* this way, you gain the following effects:
-* When you make a *Weapon Attack* using your Strength, you deal additional Damage equal to your Proficiency Bonus.
-* You gain *Resistance* to non-Magical Bludgeoning, non-Magical Piercing, and non-Magical Slashing Damage.
+* When you make a *Weapon Attack* using your Strength, you deal additional *Damage* equal to your Proficiency Bonus.
+* You gain *Resistance* to non-Magical Bludgeoning, non-Magical Piercing, and non-Magical Slashing *Damage*.
 
-This ability lasts for 10 minutes, and ends early unless you make an *Attack*, Check using Strength, take *Damage*, or use a 🔷 to extend it before the beginning of your next turn.
+This ability lasts for 10 minutes, and ends early unless you make an *Attack*, Check using Strength, take **Damage**, or use a 🔷 to extend it before the beginning of your next turn.
 
 `X = the number shown in the "Rages" column of the Barbarian table`
 
@@ -195,8 +195,8 @@ Where `X = 2` at 5th level, `X = 3` at 11th level, and `X = 4` at 17th level in 
 > *"Thormund's blood boils. His aura flares from his body like a roaring flame. The sight of seeing Markus lying on the ground half-dead throwing him into a rage like none have seen before."*
 
 ♾️ — While you are *[Enraged]*, you gain the following effects:
-* *Weapon Attacks* you make count as Magical for the purpose of overcoming *Resistance* and *Immunity* to non-Magical *Attacks* and Damage.
-* You gain *Immunity* to all non-Magical Bludgeoning, Piercing, and Slashing Damage.
+* *Weapon Attacks* you make count as Magical for the purpose of overcoming *Resistance* and *Immunity* to non-Magical *Attacks* and *Damage*.
+* You gain *Immunity* to all non-Magical Bludgeoning, Piercing, and Slashing *Damage*.
 
 ---
 
@@ -205,14 +205,14 @@ Where `X = 2` at 5th level, `X = 3` at 11th level, and `X = 4` at 17th level in 
 
 > *You are able to avoid attacks that are otherwise unavoidable.*
 
-♾️ — Whenever a creature makes an *Attack* vs. *Reflex* against you, or the ability has the "Blast" tag, you take no Damage if the *Attack* misses, and only half as much Damage if it hits.
+♾️ — Whenever a creature makes an *Attack* vs. *Reflex* against you, or the ability has the "Blast" tag, you take no *Damage* if the *Attack* misses, and only half as much *Damage* if it hits.
 
 ---
 
 ## Brutality
 *9th-level Ability (Barbarian)*  
 
-♾️ — Whenever you hit a creature with a *Weapon Attack* for the first time during your turn, you deal additional Damage equal to one roll of the "Weapon's" "Damage Die".
+♾️ — Whenever you hit a creature with a *Weapon Attack* for the first time during your turn, you deal additional *Damage* equal to one roll of the "Weapon's" "*Damage* Die".
 
 This increases to two additional dice at 13th level in this class, and three additional dice at 17th level in this class.
 
