@@ -4,6 +4,8 @@
 >
 > *An attack is a single attempt made to harm a resisting creature. This can take the form of a warrior jockeying to strike their opponent with a blade, a mage unleashing a fireball against a band of goblins, or a spike trap against a falling adventurer.*
 
+---
+
 ## Types of Attacks
 
 There are three major types of attack:
@@ -16,6 +18,8 @@ And four common subtypes of attacks:
 * **Spell Attacks** - Attacks made using [spells].
 * **Thrown Attacks** - A special type of ranged attack.
 * **Weapon Attacks** - Attacks made using a [weapon].
+
+---
 
 ## Making An Attack
 
@@ -35,11 +39,15 @@ Sometimes, you will make multiple attacks at once (such as through "Multiattack"
 3. **Determine Success.** - Determing if each *Attack* "Succeeds" or "Fails".
 4. **Apply Effects.** - Apply the effects to the specified target of each *Attack* based on whether that *Attack* "Succeeded" or "Failed".
 
+---
+
 ## Environmental Attacks
 
 > *Environmental attacks are made by objects from the environment. Traps, weather, falling debris, or any avoidable/resistable environmental effect constitutes an environmental attack. Environmental attacks are generally made by the GM.*
 
 When making an *Environmental Attack*, roll an *Attack Roll* with the modifier specified under *To Hit*, then apply the effects depending on a "Success" or "Failure".
+
+---
 
 ## Melee Attacks
 
@@ -50,6 +58,8 @@ If you make a *Melee Attack* against a creature outside of the range of the *Att
 **Melee Weapon Attacks.** You add your Strength modifier to the `d20` roll.
 
 **Melee Spell Attacks.** You add your Spellcasting modifier to the `d20` roll.
+
+---
 
 ## Ranged Attacks
 
