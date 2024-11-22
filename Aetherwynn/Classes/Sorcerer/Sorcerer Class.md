@@ -6,24 +6,24 @@
 
 | Level | Proficiency | Abilities                                  | Cantrips | Spells Known | Max Spell Level | Mana |
 |------:|------------:|:-------------------------------------------|---------:|-------------:|:---------------:|-----:|
-|     1 |           2 | Spellcasting, Bonus Feat, Sorcerous Origin |        3 |            4 |       1st       |    4 |
-|     2 |           2 | —                                          |        3 |            5 |       1st       |    8 |
-|     3 |           2 | Origin Ability                             |        3 |            6 |       2nd       |   12 |
-|     4 |           2 | Ability Score Increase, Feat               |        4 |            7 |       2nd       |   16 |
-|     5 |           3 | —                                          |        4 |            8 |       3rd       |   20 |
-|     6 |           3 | Origin Ability, Bonus Feat                 |        4 |            9 |       3rd       |   24 |
-|     7 |           3 | —                                          |        4 |           10 |       4th       |   28 |
-|     8 |           3 | Ability Score Increase, Feat               |        4 |           11 |       4th       |   32 |
-|     9 |           4 | —                                          |        5 |           12 |       5th       |   36 |
-|    10 |           4 | Origin Ability, Bonus Feat                 |        5 |           13 |       5th       |   40 |
-|    11 |           4 | Aether Surge (x1)                          |        5 |           14 |       6th       |   44 |
-|    12 |           4 | Ability Score Increase, Feat               |        5 |           15 |       6th       |   48 |
-|    13 |           5 | Aether Surge (x2)                          |        5 |           16 |       7th       |   52 |
-|    14 |           5 | Origin Ability, Bonus Feat                 |        5 |           17 |       7th       |   56 |
-|    15 |           5 | Aether Surge (x3)                          |        5 |           18 |       8th       |   60 |
-|    16 |           5 | Ability Score Increase, Feat               |        6 |           19 |       8th       |   64 |
-|    17 |           6 | Aether Surge (x4)                          |        6 |           20 |       9th       |   68 |
-|    18 |           6 | Origin Ability                             |        6 |           21 |       9th       |   72 |
+|     1 |           2 | Spellcasting, Bonus Feat, Sorcerous Origin |        3 |            5 |       1st       |    4 |
+|     2 |           2 | —                                          |        3 |            6 |       1st       |    8 |
+|     3 |           2 | Origin Ability                             |        3 |            7 |       2nd       |   12 |
+|     4 |           2 | Ability Score Increase, Feat               |        4 |            8 |       2nd       |   16 |
+|     5 |           3 | —                                          |        4 |            9 |       3rd       |   20 |
+|     6 |           3 | Origin Ability, Bonus Feat                 |        4 |           10 |       3rd       |   24 |
+|     7 |           3 | —                                          |        4 |           11 |       4th       |   28 |
+|     8 |           3 | Ability Score Increase, Feat               |        4 |           12 |       4th       |   32 |
+|     9 |           4 | —                                          |        5 |           13 |       5th       |   36 |
+|    10 |           4 | Origin Ability, Bonus Feat                 |        5 |           14 |       5th       |   40 |
+|    11 |           4 | Aether Surge (x1)                          |        5 |           15 |       6th       |   44 |
+|    12 |           4 | Ability Score Increase, Feat               |        5 |           16 |       6th       |   48 |
+|    13 |           5 | Aether Surge (x2)                          |        5 |           17 |       7th       |   52 |
+|    14 |           5 | Origin Ability, Bonus Feat                 |        5 |           18 |       7th       |   56 |
+|    15 |           5 | Aether Surge (x3)                          |        5 |           19 |       8th       |   60 |
+|    16 |           5 | Ability Score Increase, Feat               |        6 |           20 |       8th       |   64 |
+|    17 |           6 | Aether Surge (x4)                          |        6 |           21 |       9th       |   68 |
+|    18 |           6 | Origin Ability                             |        6 |           22 |       9th       |   72 |
 |    19 |           6 | Ability Score Increase, Feat               |        6 |           23 |       9th       |   76 |
 |    20 |           6 | Sorcerer Capstone Feat                     |        6 |           24 |       9th       |   80 |
 

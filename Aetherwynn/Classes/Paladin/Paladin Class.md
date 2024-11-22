@@ -9,21 +9,21 @@
 |     3 |          +2 | Oath Ability, Harness Oath (x1)           |        2 |            5 |       1st       |    6 |
 |     4 |          +2 | Ability Score Increase, Feat              |        3 |            6 |       1st       |    6 |
 |     5 |          +3 | Swift Strikes                             |        3 |            7 |       2nd       |    9 |
-|     6 |          +3 | Divine Protector                          |        3 |            8 |       2nd       |    9 |
+|     6 |          +3 | Enhanced Strikes                          |        3 |            8 |       2nd       |    9 |
 |     7 |          +3 | Oath Ability                              |        3 |            9 |       2nd       |   12 |
-|     8 |          +3 | Ability Score Increase, Feat              |        3 |           10 |       2nd       |   12 |
-|     9 |          +4 | —                                         |        4 |           11 |       3rd       |   15 |
-|    10 |          +4 | Oath Ability, Harness Oath (x2)           |        4 |           11 |       3rd       |   15 |
-|    11 |          +4 | Radiant Strikes                           |        4 |           12 |       3rd       |   18 |
-|    12 |          +4 | Ability Score Increase, Feat              |        4 |           12 |       3rd       |   18 |
-|    13 |          +5 | —                                         |        4 |           13 |       4th       |   21 |
-|    14 |          +5 | Oath Ability, Harness Oath (x3)           |        4 |           13 |       4th       |   21 |
-|    15 |          +5 | Purifying Touch                           |        4 |           14 |       4th       |   24 |
-|    16 |          +5 | Ability Score Increase, Feat              |        4 |           14 |       4th       |   24 |
-|    17 |          +6 | —                                         |        5 |           15 |       5th       |   27 |
-|    18 |          +6 | Oath Ability, Harness Oath (x4)           |        5 |           15 |       5th       |   27 |
-|    19 |          +6 | Ability Score Increase, Feat              |        5 |           16 |       5th       |   30 |
-|    20 |          +6 | Paladin Capstone Feat                     |        5 |           16 |       5th       |   30 |
+|     8 |          +3 | Ability Score Increase, Feat              |        3 |            9 |       2nd       |   12 |
+|     9 |          +4 | Harness Oath (x2)                         |        4 |           10 |       3rd       |   15 |
+|    10 |          +4 | Oath Ability                              |        4 |           10 |       3rd       |   15 |
+|    11 |          +4 | Radiant Strikes                           |        4 |           11 |       3rd       |   18 |
+|    12 |          +4 | Ability Score Increase, Feat              |        4 |           11 |       3rd       |   18 |
+|    13 |          +5 | Harness Oath (x3)                         |        4 |           12 |       4th       |   21 |
+|    14 |          +5 | Oath Ability                              |        4 |           12 |       4th       |   21 |
+|    15 |          +5 | Purifying Touch                           |        4 |           13 |       4th       |   24 |
+|    16 |          +5 | Ability Score Increase, Feat              |        4 |           13 |       4th       |   24 |
+|    17 |          +6 | Harness Oath (x4)                         |        5 |           14 |       5th       |   27 |
+|    18 |          +6 | Oath Ability                              |        5 |           14 |       5th       |   27 |
+|    19 |          +6 | Ability Score Increase, Feat              |        5 |           15 |       5th       |   30 |
+|    20 |          +6 | Paladin Capstone Feat                     |        5 |           15 |       5th       |   30 |
 
 ---
 
@@ -59,27 +59,27 @@
 ---
 
 ## Harness Oath
-*3rd-level Attribute (Paladin)*  
+*3rd-level Ability (Paladin)*  
 
-You have `X` *Charges* of "Harness Oath", where `X = 1` at 3rd-level in this class, `X = 2` at 10th-level in this class, `X = 3` at 14th-level in this class, and `X = 4` at 18th-level in this class.
+♾️ — You have `X` *Charges* of "Harness Oath", where `X = 1` at 3rd-level in this class, `X = 2` at 9th-level in this class, `X = 3` at 13th-level in this class, and `X = 4` at 17th-level in this class.
 
 You expend `1` *Charge* of "Harness Oath" whenever you "Harness Your Oath". You regain all expended charges whenever you finish a *Short Rest*.
 
 ---
 
 ## Ability Score Increase
-*4th-level Ability (All Classes)*  
+*4th, 8th, 12th, 16th, and 19th-level Ability (All Classes)*  
 
 Increase one Ability Score of your choice by `2`, or two Ability Scores by `1`. You cannot increase one of your Ability Scores above `20` using this Ability.
 
-Do this again when you reach 8th, 12th, 16th, and 19th level in this class.
+Do this again when you reach  in this class.
 
 ---
 
 ## Feat
-*4th-level Ability (Paladin)*  
+*4th, 8th, 12th, 16th, and 19th-level Ability (Paladin)*  
 
-You earn a Feat. This Feat can be either a General, Spellcasting, Martial, or Paladin Feat.
+You earn a "Feat". This "Feat" can be either a "General", "Martial", "Spellcasting", or "Paladin Feat".
 
 You earn an additional Feat at 8th, 12th, 16th, and 19th level.
 
@@ -90,7 +90,7 @@ You earn an additional Feat at 8th, 12th, 16th, and 19th level.
 
 ♾️ — Whenever you "Attack", you may make up to `2` *Attacks* instead of `1`.
 
-🔷 — If you used your '🔷' to "Cast a Spell" of 1st-level or greater, you may make a *Weapon Attack* using a "Weapon" you are wielding.
+◻️ **(1/turn)** — If you used two or more 🔷-s to "Cast a Spell" of 1st-level or greater this turn, you may make a *Weapon Attack* using a "Weapon" you are wielding.
 
 ---
 

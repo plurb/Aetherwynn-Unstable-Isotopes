@@ -2,28 +2,28 @@
 
 ## Bard
 
-| Level | Proficiency | Abilities                                                 | Inspiration | Cantrips | Max Spell Level | Mana |
-|------:|------------:|:----------------------------------------------------------|------------:|---------:|:---------------:|-----:|
-|     1 |          +2 | Bardic Inspiration (x1), Jack of All Trades, Spellcasting |        `d6` |        2 |       1st       |    3 |
-|     2 |          +2 | Song of Rest                                              |        `d6` |        2 |       1st       |    6 |
-|     3 |          +2 | Bardic College                                            |        `d6` |        2 |       2nd       |    9 |
-|     4 |          +2 | Ability Score Increase, Feat                              |        `d6` |        3 |       2nd       |   12 |
-|     5 |          +3 | Expertise                                                 |        `d8` |        3 |       3rd       |   15 |
-|     6 |          +3 | College Ability                                           |        `d8` |        3 |       3rd       |   18 |
-|     7 |          +3 | Countercharm                                              |        `d8` |        3 |       4th       |   21 |
-|     8 |          +3 | Ability Score Increase, Feat                              |        `d8` |        3 |       4th       |   24 |
-|     9 |          +4 | Font of Inspiration                                       |        `d8` |        3 |       5th       |   27 |
-|    10 |          +4 | College Ability, Additional Expertise                     |        `d8` |        3 |       5th       |   30 |
-|    11 |          +4 | Aether Surge (x1)                                         |       `d10` |        3 |       6th       |   33 |
-|    12 |          +4 | Ability Score Increase, Feat                              |       `d10` |        3 |       6th       |   36 |
-|    13 |          +5 | Aether Surge (x2)                                         |       `d10` |        4 |       7th       |   39 |
-|    14 |          +5 | College Ability                                           |       `d10` |        4 |       7th       |   42 |
-|    15 |          +5 | Aether Surge (x3)                                         |       `d10` |        4 |       8th       |   45 |
-|    16 |          +5 | Ability Score Increase, Feat                              |       `d10` |        4 |       8th       |   48 |
-|    17 |          +6 | Aether Surge (x4)                                         |       `d12` |        5 |       9th       |   51 |
-|    18 |          +6 | College Ability                                           |       `d12` |        5 |       9th       |   54 |
-|    19 |          +6 | Ability Score Increase, Feat                              |       `d12` |        5 |       9th       |   57 |
-|    20 |          +6 | Bard Capstone Feat                                        |       `d12` |        5 |       9th       |   60 |
+| Level | Proficiency | Abilities                                   | Inspiration | Cantrips | Spells Known | Max Spell Level | Mana |
+|------:|------------:|:--------------------------------------------|------------:|---------:|-------------:|:---------------:|-----:|
+|     1 |          +2 | Bardic Inspiration, Expertise, Spellcasting |        `d6` |        2 |            2 |       1st       |    3 |
+|     2 |          +2 | Song of Rest                                |        `d6` |        2 |            3 |       1st       |    6 |
+|     3 |          +2 | Bardic College                              |        `d6` |        2 |            4 |       2nd       |    9 |
+|     4 |          +2 | Ability Score Increase, Feat                |        `d6` |        3 |            5 |       2nd       |   12 |
+|     5 |          +3 | Additional Expertise                        |        `d8` |        3 |            6 |       3rd       |   15 |
+|     6 |          +3 | College Ability                             |        `d8` |        3 |            7 |       3rd       |   18 |
+|     7 |          +3 | Countercharm                                |        `d8` |        3 |            8 |       4th       |   21 |
+|     8 |          +3 | Ability Score Increase, Feat                |        `d8` |        3 |            9 |       4th       |   24 |
+|     9 |          +4 | Font of Inspiration                         |        `d8` |        3 |           10 |       5th       |   27 |
+|    10 |          +4 | College Ability, Additional Expertise       |        `d8` |        3 |           10 |       5th       |   30 |
+|    11 |          +4 | Aether Surge (x1)                           |       `d10` |        3 |           11 |       6th       |   33 |
+|    12 |          +4 | Ability Score Increase, Feat                |       `d10` |        3 |           11 |       6th       |   36 |
+|    13 |          +5 | Aether Surge (x2)                           |       `d10` |        4 |           12 |       7th       |   39 |
+|    14 |          +5 | College Ability, Additional Expertise       |       `d10` |        4 |           12 |       7th       |   42 |
+|    15 |          +5 | Aether Surge (x3)                           |       `d10` |        4 |           13 |       8th       |   45 |
+|    16 |          +5 | Ability Score Increase, Feat                |       `d10` |        4 |           13 |       8th       |   48 |
+|    17 |          +6 | Aether Surge (x4)                           |       `d12` |        5 |           14 |       9th       |   51 |
+|    18 |          +6 | College Ability, Additional Expertise       |       `d12` |        5 |           14 |       9th       |   54 |
+|    19 |          +6 | Ability Score Increase, Feat                |       `d12` |        5 |           15 |       9th       |   57 |
+|    20 |          +6 | Bard Capstone Feat                          |       `d12` |        5 |           15 |       9th       |   60 |
 
 ---
 
@@ -46,14 +46,14 @@
 ---
 
 ## Bardic Inspiration
-*1st-level Ability (Bard)*
+*1st-level Ability (Bard)*  
 
 ### Charges
 *Attribute (Bard, Bardic Inspiration, Charges)*
 
-You have `1` *Charge* of "Bardic Inspiration".
+You have `X` *Charges* of "Bardic Inspiration", where `X = your Charisma modifier`.
 
-You regain all expended *Charges* at the end of a *Short Rest*.
+You regain all expended *Charges* at the end of a *Long Rest*.
 
 ### Inspiration Die
 *Attribute (Bard, Bardic Inspiration)*  
@@ -63,11 +63,13 @@ Your "Inspiration Die" is a `d6`. It increases at certain levels, as shown in th
 ### Burst of Inspiration
 *Ability (Bard, Bardic Inspiration)*  
 
-⚡ **(1/short rest, range: 60 ft.)** — If a creature in range makes an *Attack Roll* or an *Ability Check*, you may expend `1` *Charge* of "Bardic Inspiration". If you do, that creature gains a `+1dB` bonus to that *Attack Roll* or *Ability Check*.
+⚡ **(range: 60 ft.)** — If a creature in range that can see or hear you makes an *Attack Roll* or an *Ability Check*, you may expend `1` *Charge* of "Bardic Inspiration". If you do, that creature gains a `+1dB` bonus to that *Attack Roll* or *Ability Check*.
 
 ---
 
-## Jack of All Trades
+## Expertise
+
+You gain *Expertise* with two *Skills* you are *Proficient* in.
 
 ---
 
@@ -75,13 +77,16 @@ Your "Inspiration Die" is a `d6`. It increases at certain levels, as shown in th
 
 ### Cantrips
 
-### Repertoire
+### Spells Known
 
-### Preparing & Casting Spells
+### Casting Spells
 
 ---
 
 ## Song of Rest
+*Ability (Bard)*  
+
+Whenever you finished a *Short Rest*, you may expend `1` *Charge* of "Bardic Inspiration". If you do, up to `X` creatures regain `4dB` *HP*, where `X = your Proficiency Bonus`.
 
 ---
 
@@ -99,6 +104,8 @@ Your "Inspiration Die" is a `d6`. It increases at certain levels, as shown in th
 | College of Tales     | Unstable Isotopes (0.0) |
 | College of Princes   | Unstable Isotopes (0.0) |
 
+### College Spells
+
 ---
 
 ## Ability Score Increase
@@ -109,9 +116,9 @@ Your "Inspiration Die" is a `d6`. It increases at certain levels, as shown in th
 
 ---
 
-## Expertise
+## Additional Expertise
 
-### Additional Expertise
+You gain *Expertise* with one *Skill* you are *Proficient* in.
 
 ---
 
