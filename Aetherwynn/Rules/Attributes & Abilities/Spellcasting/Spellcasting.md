@@ -49,7 +49,7 @@ Before you "Cast a Spell", you must pay all costs associated with "Performing" t
 As you pay the costs to "Cast a Spell", you may pay the additional costs specified in the "Empower" section in the "Spell's" description any number of times. Each time you do, you increase the "Spell's" "Level" by `1`. You cannot increase an "Spell's" "Level" above your "Max Spell Level" this way.
 
 ## Casting Time
-3
+
 > *Performing an exploit takes a certain amount of time, depending on how quickly a warrior is typically able to perform that exploit.*
 
 The type of *Action* used when you "Cast a Spell" is specified in the "Casting Time" section in the description of the "Spell" you wish to "Cast".
@@ -63,6 +63,10 @@ The type of *Action* used when you "Cast a Spell" is specified in the "Casting T
 
 "Spells" are never *Passive Abilities*, however a "Spell" may grant you a passive ability temporarily.
 
+### Long Casting Times
+
+<!-- Use 🔷🔷🔷 + concentration for spell's long casting time. -->
+
 ---
 
 ## Range
@@ -72,7 +76,7 @@ The type of *Action* used when you "Cast a Spell" is specified in the "Casting T
 "Spells" can have a range as follows:
 * Self - The "Spell" applies its effects to you.
 * Self (`X` ft. cone/cube/line/sphere) - The "Spell" creates the specified type of *Area of Effect*, either originating from or centred on you (see the "Spell's" description).
-* Touch - The "Spell" affects something you are touching, or can touch.
+* Touch - The "Spell" affects something you are touching, or is within your "Natural Reach". You must have at least one free hand to "Cast a Spell" with a *Range* of "Touch".
 * `X` ft. - The "Spell" affects something up to the specified distance away.
 * Sight - The "Spell" affects something within sight.
 
@@ -88,7 +92,7 @@ Some "Spells" create *Areas of Effect*. For more information, see: ["Areas of Ef
 
 ### Concentration (C)
 
-Some "Spells" require "Concentration". You cannot perform a "Spell" that requires "Concentration" if you are already "Concentrating".
+Some "Spells" require "Concentration". You cannot perform a "Spell" that requires "Concentration" if you are already "Concentrating". After you cast a "Spell" that has a "Concentration" component, you gain the "Concentrating" condition. You stop "Concentrating" when the "Spell" ends. Additionally, the "Spell" ends if you stop "Concentration".
 
 ### Verbal (V)
 
@@ -114,7 +118,7 @@ An "Spell" can have one of the following durations:
 * Instantaneous - The effects of the "Spell" happen instantaneously.
 * `X` rounds - The effects last that many rounds, or `6X` seconds outside of encounters.
 * `X` minutes - The effects last that many minutes.
-* Concentration, ... - The effects last the duration, as long as you are "Concentrating". If you stop "Concentrating", the "Spell" ends.
+* Up to `X` rounds/minutes/hours/etc. - The effects last either the duration of the "Spell", or until you pre-maturely end it as a ◻️ at any time, or some other *Action* specified by the "Spell". If the "Spell" requires "Concentration", then you are "Concentrating" until the "Spell" ends.
 
 [AOE]: ../Areas%20of%20Effect.md
 

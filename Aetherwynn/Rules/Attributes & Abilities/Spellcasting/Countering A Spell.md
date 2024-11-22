@@ -1,1 +1,0 @@
-## Countering A Spell
