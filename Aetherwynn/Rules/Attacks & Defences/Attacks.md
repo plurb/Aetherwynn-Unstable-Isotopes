@@ -63,15 +63,19 @@ You have *Disadvantage* on *Ranged Attacks* against creatures within 5 ft. of yo
 
 ## Exploit Attacks
 
-*Melee Exploit Attacks*, and *Ranged Exploit Attacks* are *Exploit Attacks*.
+*Exploit Attacks*, *Melee Exploit Attacks*, and *Ranged Exploit Attacks* are all *Exploit Attacks*.
 
 ## Weapon Attacks
 
-*Melee Weapon Attacks*, *Thrown Weapon Attacks*, and *Ranged Weapon Attacks* are *Weapon Attacks*.
+*Melee Weapon Attacks*, *Thrown Weapon Attacks*, and *Ranged Weapon Attacks* are all *Weapon Attacks*.
+
+> [!NOTE]
+>
+> "Unarmed Strikes" are *Melee Attacks*, but aren't always *Melee **Weapon** Attacks*. However, the "Monk" class, as well as the "Unarmed Fighting" fighting style explicitly make your "Unarmed Strikes" *Melee Weapons*, meaning those **are** *Melee Weapon Attacks*.
 
 ## Spell Attacks
 
-*Melee Spell Attacks*, and *Ranged Spell Attacks* are *Spell Attacks*.
+*Spell Attacks*, *Melee Spell Attacks*, and *Ranged Spell Attacks* are all *Spell Attacks*.
 
 <!-- links. -->
 
