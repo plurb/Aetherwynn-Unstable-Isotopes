@@ -1,7 +1,7 @@
-### Trekker
+### Trekking
 *Wanderer's Knack (Ranger)*
 
-Choose one type of terrain:
+Choose two types of terrain:
 * Arctic
 * Caverns
 * Desert
@@ -9,7 +9,7 @@ Choose one type of terrain:
 * Open Water
 * Plains/Grassland
 * Rivers/Lakes
-* Swamp
+* Swamp/Wetland
 * Temperate Forest
 * Tropical Forest
 * Tundra
@@ -20,4 +20,4 @@ Choose one type of terrain:
 * Moving while *Hidden* does not halve their travel speed.
 * Difficult Terrain does not reduce the group's travel speed.
 
-You may take this "Wanderer's Knack" multiple times. If you do, you must choose a different type of terrain each time.
+You may take this "Wanderer's Knack" multiple times. If you do, you must choose different types of terrain each time.
