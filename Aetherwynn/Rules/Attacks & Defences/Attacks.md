@@ -81,7 +81,7 @@ You have *Disadvantage* on *Ranged Attacks* against creatures within 5 ft. of yo
 
 > [!NOTE]
 >
-> "Unarmed Strikes" are *Melee Attacks*, but aren't always *Melee **Weapon** Attacks*. The "Monk" class, as well as the "Unarmed Fighting" fighting style explicitly make your "Unarmed Strikes" *Melee Weapons*, meaning those **are** *Melee Weapon Attacks*.
+> "Unarmed Strikes" are *Melee Attacks*, but aren't always *Melee **Weapon** Attacks*. The "Monk" class, as well as the "Unarmed Fighting" fighting style explicitly make your "Unarmed Strikes" "Melee Weapons", meaning those **are** *Melee Weapon Attacks*.
 
 ## Spell Attacks
 
