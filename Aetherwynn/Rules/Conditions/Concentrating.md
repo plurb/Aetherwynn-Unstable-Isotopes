@@ -1,6 +1,8 @@
 ## Concentrating
 
-Some abilities require you to maintain Concentration in order to keep their effects active. If you lose Concentration, such an ability ends.
+<!-- FIXME: Reword to be about creatures in general and not "you". -->
+
+Some abilities requires a creature to maintain Concentration in order to keep their effects active. If you lose Concentration, such an ability ends.
 
 If an ability must be maintained with Concentration, that fact appears in its Requirements (or Components) entry, and the ability's Duration specifies how long you can concentrate on it. You can end Concentration at any time (no action required).
 
