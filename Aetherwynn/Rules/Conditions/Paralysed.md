@@ -1,2 +1,2 @@
-## Petrified
+## Paralysed
 *Condition*  

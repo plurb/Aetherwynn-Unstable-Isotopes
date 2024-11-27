@@ -1,4 +1,5 @@
-### Enraged
+## Enraged
+*Condition*  
 
 You gain the following effects:
 * You have *Advantage* on any *Constitution*, and *Strength Checks* you make.
