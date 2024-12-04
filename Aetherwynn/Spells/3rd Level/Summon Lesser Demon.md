@@ -7,7 +7,7 @@
 
 > *You chant foul words, and offer a blood sacrifice.*
 
-You *[Summon]* a Demon of level `X` or lower from the list below, where `X = this Spell's level - 1`. It appears in an unoccupied space where it can fit that you can see within range at the beginning of the next round.
+You *[Summon]* a "Demon" of level `X` or lower from the list below, where `X = this Spell's level - 1`. It appears in an unoccupied space where it can fit that you can see within range at the beginning of the next round.
 
 ### Summonable Demons
 
