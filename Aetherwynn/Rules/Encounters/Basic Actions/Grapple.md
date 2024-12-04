@@ -3,7 +3,7 @@
 
 > *You attempt to grapple a creature.*
 
-🔷 **(range: your Natural Reach, requires: you have at least one free hand)** — Make an *Unarmed Strike Roll* vs. *Fortitude* against target creature in range.
+🔷 **(range: your Natural Reach, requires: you have at least one free hand)** — Make a *Melee Attack* vs. *Fortitude* against target creature in range.
 
 **Success:** The creature is [*Grappled*][G] by you.
 

@@ -1,4 +1,4 @@
 ### Ready
 *Ability (Basic Action)*  
 
-🔷 — Choose an *Ability* that requires '🔷' and a triggering event. When that triggering event occurs, you use that *Ability* as a '⚡'.
+🔷 — Choose an ability that requires up to three 🔷-s and a triggering event. If that triggering event occurs, you use that ability as a '⚡'.
