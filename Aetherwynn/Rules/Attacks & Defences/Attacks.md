@@ -23,7 +23,7 @@ And four common subtypes of attacks:
 
 ## Making An Attack
 
-Whenever an attack is made, it is always structured as: "Make an *Attack* vs. *DC*", where *Attack* and *DC* refer to the specific type of *Attack* you are making, and *DC* refering to the *Defence* the *Attack* is being made against. *(For more information on defences, see: [defences])*
+Whenever an attack is made, it is always structured as: "Make an *Attack* vs. *DC*", where *Attack* and *DC* refer to the specific type of *Attack* you are making, and *DC* referring to the *Defence* the *Attack* is being made against. *(For more information on defences, see: [defences])*
 
 Making an attack is split into `X` steps:
 1. **Select A Target.** - Select a target within the range of the *Attack*.

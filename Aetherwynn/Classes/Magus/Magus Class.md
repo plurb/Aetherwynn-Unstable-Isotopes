@@ -131,7 +131,7 @@ You earn an additional Feat at 8th, 12th, 16th, and 19th level.
 ## Arcane Strikes
 *11th-level Ability (Magus)*  
 
-🔺 **(`X`/long rest)** — Cast any "Magus Spell" you have prepared of 1st level or higher with a "Casting Time" of '🔷', where `X = your Intelligence modifier`.
+🔷 **(`X`/long rest)** — Cast any "Magus Spell" you have prepared of 1st level or higher with a "Casting Time" of '🔷', where `X = your Intelligence modifier`.
 
 ---
 

@@ -18,8 +18,8 @@
 > *Your rage is bestial and animalistic. When you rage, you shift into an animalistic form.*
 
 ♾️ — You gain the following abilities while *[Enraged]*:
-* 🔺 ***Bite (1/turn).*** *Melee Weapon Attack* vs. *AC*: `your Proficiency modifier + your Strength modifier` to hit, same Size as you, Reach 5 ft., `1` target. *On Hit:* `1d10 + your Strength modifier [piercing]` *Damage*.
-* 🔺 ***Claw.*** *Melee Weapon Attack* vs. *AC*: `your Proficiency modifier + your Strength modifier` to hit, same Size as you, Reach 5 ft., `1` target. *On Hit:* `2d4 + your Strength modifier [slashing]` *Damage*.
+* 🔷 ***Bite (1/turn).*** *Melee Weapon Attack* vs. *AC*: `your Proficiency modifier + your Strength modifier` to hit, same Size as you, Reach 5 ft., `1` target. *On Hit:* `1d10 + your Strength modifier [piercing]` *Damage*.
+* 🔷 ***Claw.*** *Melee Weapon Attack* vs. *AC*: `your Proficiency modifier + your Strength modifier` to hit, same Size as you, Reach 5 ft., `1` target. *On Hit:* `2d4 + your Strength modifier [slashing]` *Damage*.
 
 ---
 

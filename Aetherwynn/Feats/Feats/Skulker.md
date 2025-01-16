@@ -2,7 +2,7 @@
 *Feat (General, Goblinoid)*  
 **Pre-requisites:** —  
 
-🔷 **(requires: you are at least Lightly Obscured)**  — "Hide".
+◻️ **(1/turn, requires: you are at least Lightly Obscured)**  — "Hide".
 
 ♾️ — While you are *Hidden* from a creature, you remain *Hidden* even after making an *Attack*.
 

@@ -6,11 +6,11 @@ You perform *No Activity* when either sitting while eating, simply resting, or o
 
 ## Light Activity
 
-Setting up camp, travelling at slow pace, most simple excercises, and shopping are *Light Activity*.
+Setting up camp, travelling at slow pace, most simple exercises, and shopping are *Light Activity*.
 
 ## Normal Activity
 
-Travelling at full pace, working (such as adventuring or a day job), excercise for the purpose of training/building strength, and standing guard are all *Normal Activity*.
+Travelling at full pace, working (such as adventuring or a day job), exercise for the purpose of training/building strength, and standing guard are all *Normal Activity*.
 
 ## Strenuous Activity
 

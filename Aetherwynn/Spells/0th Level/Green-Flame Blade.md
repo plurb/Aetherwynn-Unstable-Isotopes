@@ -1,6 +1,6 @@
 ### Flaming Strike
 *Cantrip (Evocation)*  
-**Casting Time:** 🔺  
+**Casting Time:** 🔷  
 **Range:** Self  
 **Components:** —  
 **Duration:** Instantaneous  

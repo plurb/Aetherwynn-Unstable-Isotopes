@@ -56,7 +56,7 @@ The type of *Action* used when you "Cast a Spell" is specified in the "Casting T
 
 "Spells" can have the following "Casting Times":
 * 🔷 to 🔷🔷🔷
-* 🔺
+* 🔷
 * ◻️
 * ⚡
 * ⏳ **X rounds/minutes/hours/etc.** - The "Spell" takes the specified amount of time to cast.

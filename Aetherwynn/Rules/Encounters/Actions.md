@@ -4,7 +4,7 @@
 
 There are various types of *Actions* you can take. Notably, *Major Actions*, *Reactions*, and *Free Actions*.
 
-#### Action (🔷)
+#### Major Action (🔷)
 
 You can only take three Major Action per turn. You can only take Major Actions during your own turn. You can take any of the actions listed in [Actions During Encounters][ADE] that use '🔷'. Almost all abilities use one or more *Major Actions*.
 
@@ -19,10 +19,6 @@ You can only take one *Reaction* per round. You can take your *Reaction* on any 
 #### Passive Effect (♾️)
 
 Passive effects do not require any *Action* to use. Instead, they apply their effects passively.
-
-#### Attack (🔺)
-
-An *Attack* is a single *Attack* made when you use the "Attack" action, or make an "Attack of Opportunity". An ability that takes '🔺' replaces one *Attack* you make through the "Attack" action or an "Attack of Opportunity". You cannot replace an *Attack* made using any abilities other than the "Attack" Action or an "Attack of Opportunity".
 
 ### Replacing Action Types
 
@@ -46,7 +42,6 @@ The following symbols are often used to represent the various kinds of actions a
 |   ◻️   | 1 Free Action   |
 |   ⚡    | 1 Reaction      |
 |   ♾️   | Passive effects |
-|   🔺   | 1 Attack        |
 
 ### Actions During Encounters
 
@@ -81,7 +76,6 @@ Basic Actions:
 * (🔷) [Stand From Prone][SFP]
 * (🔷) [Step][STP]
 * (🔷) [Take Cover][TKC]
-* (🔷) [Off-Hand Attack][TWF]
 
 Special Actions:
 * (✨) [Cast A Spell][CAS]
@@ -122,7 +116,6 @@ Special Actions:
 [SFP]: ./Basic%20Actions/Stand%20From%20Prone.md
 [STP]: ./Basic%20Actions/Step.md
 [TKC]: ./Basic%20Actions/Take%20Cover.md
-[TWF]: ./Basic%20Actions/Two-Weapon%20Fighting.md
 [CAS]: ./Basic%20Actions/Cast%20A%20Spell.md
 [PAE]: ./Special%20Actions/Perform%20An%20Exploit.md
 [UAO]: ./Special%20Actions/Use%20An%20Object.md
