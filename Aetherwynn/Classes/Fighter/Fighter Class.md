@@ -129,7 +129,7 @@ You earn an additional "Feat". This "Feat" can be a "Martial" or "Fighter Feat".
 
 Where `X = 1` at 2nd level in the class, and `X = 2` at 18th level in this class.
 
-At 5th-level in this class, if you use the additional 🔷 from this ability to "Attack", you may still use "Multiattack", even if you have already used "Multiattack" this turn.
+<!-- At 5th-level in this class, if you use the additional 🔷 from this ability to "Attack", you may still use "Multiattack", even if you have already used "Multiattack" this turn. -->
 
 ---
 
