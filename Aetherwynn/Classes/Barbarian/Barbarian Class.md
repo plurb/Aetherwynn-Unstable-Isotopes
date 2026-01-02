@@ -5,7 +5,7 @@
 ## Barbarian
 
 | Level | Proficiency | Abilities                        |     Rages | Exploits Known | Max Exploit Level |
-|------:|------------:|:---------------------------------|----------:|---------------:|------------------:|
+| ----: | ----------: | :------------------------------- | --------: | -------------: | ----------------: |
 |     1 |          +2 | Rage, Exploits, Fighting Style   |         1 |              2 |               1st |
 |     2 |          +2 | Reckless Attack                  |         1 |              3 |               1st |
 |     3 |          +2 | Primal Path                      |         1 |              4 |               1st |
@@ -79,7 +79,7 @@ Alternatively, you may start with `2d4 × 10` gp to buy your own equipment.
 * When you make a *Weapon Attack* using your Strength, you deal additional *Damage* equal to your Proficiency Bonus.
 * You gain *Resistance* to non-Magical Bludgeoning, non-Magical Piercing, and non-Magical Slashing *Damage*.
 
-This ability lasts for 10 minutes, and ends early unless you make an *Attack*, Check using Strength, take **Damage**, or use a 🔷 to extend it before the beginning of your next turn.
+This ability lasts for 10 minutes, and ends early unless you make an *Attack*, Check using Strength, take *Damage*, or use a 🔷 to extend it before the beginning of your next turn.
 
 `X = the number shown in the "Rages" column of the Barbarian table`
 
@@ -143,7 +143,7 @@ You learn one Fighting Style from [*Barbian Fighting Styles*][BF].
 Choose one of the following Primal Paths:
 
 | Primal Path                        | Source                 |
-|:-----------------------------------|:-----------------------|
+| :--------------------------------- | :--------------------- |
 | [Path of Flames][PoF]              | Unstable Isotope (0.0) |
 | [Path of The Beast][Beast]         | Unstable Isotope (0.0) |
 | [Path of The Berserker][Bersk]     | Unstable Isotope (0.0) |
@@ -178,14 +178,12 @@ You earn an additional Feat at 8th, 12th, 16th, and 19th level.
 
 ---
 
-## Multiattack
-*5th-level Ability (Barbarian, Fighter, Monk)*  
+## Brutality
+*5th-level Ability (Barbarian)*  
 
-> *You can strike with inhuman speed.*
+♾️ — Whenever you hit a creature with a *Weapon Attack* during your turn, you deal additional *Damage* equal to `X` rolls of the "Weapon's" "Damage Die".
 
-♾️ **(1/turn)** — You *Attack* up to `X` times, instead of once, when you "Attack" during your turn.
-
-Where `X = 2` at 5th level, `X = 3` at 11th level, and `X = 4` at 17th level in this class.
+Where `X = 1` at 5th level, `X = 2` at 11th level, and `X = 3` at 17th level in this class.
 
 ---
 
@@ -206,15 +204,6 @@ Where `X = 2` at 5th level, `X = 3` at 11th level, and `X = 4` at 17th level in 
 > *You are able to avoid attacks that are otherwise unavoidable.*
 
 ♾️ — Whenever a creature makes an *Attack* vs. *Reflex* against you, or the ability has the "Blast" tag, you take no *Damage* if the *Attack* misses, and only half as much *Damage* if it hits.
-
----
-
-## Brutality
-*9th-level Ability (Barbarian)*  
-
-♾️ — Whenever you hit a creature with a *Weapon Attack* for the first time during your turn, you deal additional *Damage* equal to one roll of the "Weapon's" "*Damage* Die".
-
-This increases to two additional dice at 13th level in this class, and three additional dice at 17th level in this class.
 
 ---
 

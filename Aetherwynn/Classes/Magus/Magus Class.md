@@ -57,7 +57,7 @@ You learn one Fighting Style from [*Magus Fighting Styles*][MF].
 
 > *You are accustomed to casting spells in battle. To you, your weapon and magic are extensions of yourself. One and the same.*
 
-♾️ — You can use a Weapon as a Spellcasting Focus for Magus Spells you cast.
+♾️ — You can use a Weapon as a "Spellcasting Focus" for "Magus Spells" you cast.
 
 ---
 

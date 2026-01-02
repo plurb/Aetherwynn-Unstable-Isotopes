@@ -6,37 +6,28 @@
 
 ## Wizard
 
-| Level | Proficiency | Abilities                                  | Cantrips |
-|------:|------------:|:-------------------------------------------|---------:|
-|     1 |          +2 | Spellcasting, Spellbook, Master of Rituals |        3 |
-|     2 |          +2 | Arcane Tradition                           |        3 |
-|     3 |          +2 | Arcane Versatility                         |        3 |
-|     4 |          +2 | Ability Score Increase, Feat               |        4 |
-|     5 |          +3 |                                            |        4 |
-|     6 |          +3 | Arcane Tradition Feature                   |        4 |
-|     7 |          +3 |                                            |        4 |
-|     8 |          +3 | Ability Score Increase, Feat               |        4 |
-|     9 |          +4 |                                            |        4 |
-|    10 |          +4 | Arcane Tradition Feature                   |        5 |
-|    11 |          +4 |                                            |        5 |
-|    12 |          +4 | Ability Score Increase, Feat               |        5 |
-
-## Wizard: Spell Slots Per Level
-
-| Level | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|     1 |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-|     2 |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-|     3 |  4  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-|     4 |  4  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-|     5 |  4  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |
-|     6 |  4  |  3  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |
-|     7 |  4  |  3  |  3  |  1  |  -  |  -  |  -  |  -  |  -  |
-|     8 |  4  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |
-|     9 |  4  |  3  |  3  |  3  |  1  |  -  |  -  |  -  |  -  |
-|    10 |  4  |  3  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |
-|    11 |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |  -  |
-|    12 |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |  -  |
+| Level | Proficiency | Abilities                                  | Cantrips | Max Spell Level | Mana |
+| ----: | ----------: | :----------------------------------------- | -------: | :-------------: | ---: |
+|     1 |          +2 | Spellcasting, Spellbook, Master of Rituals |        3 |       1st       |    3 |
+|     2 |          +2 | Arcane Tradition                           |        3 |       1st       |    6 |
+|     3 |          +2 | Arcane Versatility                         |        3 |       2nd       |    9 |
+|     4 |          +2 | Ability Score Increase, Feat               |        4 |       2nd       |   12 |
+|     5 |          +3 |                                            |        4 |       3rd       |   15 |
+|     6 |          +3 | Arcane Tradition Feature                   |        4 |       3rd       |   18 |
+|     7 |          +3 |                                            |        4 |       4th       |   21 |
+|     8 |          +3 | Ability Score Increase, Feat               |        4 |       4th       |   24 |
+|     9 |          +4 |                                            |        4 |       5th       |   27 |
+|    10 |          +4 | Arcane Tradition Feature                   |        5 |       5th       |   30 |
+|    11 |          +4 | Aether Surge (x1)                          |        5 |       6th       |   33 |
+|    12 |          +4 | Ability Score Increase, Feat               |        5 |       6th       |   36 |
+|    13 |          +4 | Aether Surge (x2)                          |        5 |       7th       |   39 |
+|    14 |          +4 | Arcane Tradition Feature                   |        6 |       7th       |   42 |
+|    15 |          +4 | Aether Surge (x3)                          |        6 |       8th       |   45 |
+|    16 |          +4 | Ability Score Increase, Feat               |        6 |       8th       |   48 |
+|    17 |          +4 | Aether Surge (x4)                          |        6 |       9th       |   51 |
+|    18 |          +4 |                                            |        6 |       9th       |   54 |
+|    19 |          +4 | Ability Score Increase, Feat               |        7 |       9th       |   57 |
+|    20 |          +4 | Wizard Captstone Feat                      |        7 |       9th       |   60 |
 
 # Class Abilities
 
@@ -49,7 +40,7 @@
 
 ## Proficiencies
 
-**Armour:** –  
+**Armour:** —  
 **Weapons:** daggers, darts, slings, quarterstaffs  
 **Spellcasting Foci:** Arcane Foci, Component Pouch  
 **Tools:** Scribe's tools, and either Painter's or Caligrapher's tools  
@@ -86,9 +77,9 @@ You know a number of Cantrips equal to the number shown in the Cantrips column o
 
 > *You can take time to prepare a new list of wizard spells by studying your spellbook to commit incantations and hand signs to memory.*
 
-The Spell Slots per Spell Level table shows how many spell slots you have to cast your Wizard Spells of 1st-level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a Full Rest.
+The "Spell Slots per Spell Level" table shows how many spell slots you have to cast your Wizard Spells of 1st-level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a Full Rest.
 
-You prepare the set of Wizard Spells that are available for you to cast. To do so, choose a number of Wizard Spells from your "Spellbook" (described below) equal to `your Intelligence modifier + your wizard level` (minimum of one). The spells must be of a level for which you have spell slots, as shown on the Wizard table.
+You prepare the set of Wizard Spells that are available for you to cast. To do so, choose a number of Wizard Spells from your "Spellbook" (described below) equal to `your Intelligence modifier + your Wizard level` (minimum of one). The spells must be of a level for which you have spell slots, as shown on the Wizard table.
 
 ---
 
@@ -156,7 +147,7 @@ You can cast Wizard Spells as a *Ritual* if that spell has the "Ritual" tag and 
 Choose an arcane tradition. Your Arcane Tradition grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
 | Arcane Tradition | Source                  |
-|:-----------------|:------------------------|
+| :--------------- | :---------------------- |
 | Abjuration       | Unstable Isotopes (0.0) |
 | Astromancy       | Unstable Isotopes (0.0) |
 | Chronomancy      | Unstable Isotopes (0.0) |
