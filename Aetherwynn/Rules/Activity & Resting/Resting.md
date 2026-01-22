@@ -2,7 +2,7 @@
 
 ## Short Rest
 
-You complete a *Short Rest* after either 1 hour of doing nothing but *Light Activity*, or by finishing 10 minutes with *No Activity*.
+You complete a *Short Rest* after either 1 hour of doing nothing but *Light Activity*, or after 10 minutes with *No Activity*.
 
 ## Long Rest
 

@@ -4,7 +4,9 @@
 
 ## Failing To Take Long Rests
 
-You need to take a *Long Rest* at least once per day. If you do not take a long rest, then make a *DC* `X` *Constitution Check*, where `X = 10 + the number of days you have gone without a Long Rest`.
+You need to take a *Long Rest* at least once per day. If you do not take a *Long Rest*, then make a *DC* `X` *Constitution Check*, where `X = 10 + the number of days you have gone without a Long Rest`.
+
+**Failure:** You gain one level of *Exhaustion*.
 
 ## Failing To Take Full Rests
 

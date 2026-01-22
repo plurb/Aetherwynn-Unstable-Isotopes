@@ -4,28 +4,28 @@
 
 ## Barbarian
 
-| Level | Proficiency | Abilities                        |     Rages | Exploits Known | Max Exploit Level |
-|------:|------------:|:---------------------------------|----------:|---------------:|------------------:|
-|     1 |          +2 | Rage, Exploits, Fighting Style   |         1 |              2 |               1st |
-|     2 |          +2 | Reckless Attack                  |         1 |              3 |               1st |
-|     3 |          +2 | Primal Path                      |         1 |              4 |               1st |
-|     4 |          +2 | Ability Score Increase, Feat     |         1 |              5 |               1st |
-|     5 |          +3 | Multiattack (2)                  |         2 |              6 |               2nd |
-|     6 |          +3 | Path Ability, Rage Improvement   |         2 |              7 |               2nd |
-|     7 |          +3 | Evasion                          |         2 |              8 |               2nd |
-|     8 |          +3 | Ability Score Increase, Feat     |         2 |              9 |               2nd |
-|     9 |          +4 | Brutality (1)                    |         2 |             10 |               3rd |
-|    10 |          +4 | Path Ability                     |         2 |             10 |               3rd |
-|    11 |          +4 | Relentless Rage, Multiattack (3) |         2 |             11 |               3rd |
-|    12 |          +4 | Ability Score Increase, Feat     |         2 |             11 |               3rd |
-|    13 |          +5 | Brutality (2)                    |         3 |             12 |               4th |
-|    14 |          +5 | Path Ability                     |         3 |             12 |               4th |
-|    15 |          +5 | Persistent Rage                  |         3 |             13 |               4th |
-|    16 |          +5 | Ability Score Increase, Feat     |         3 |             13 |               4th |
-|    17 |          +6 | Brutality (3), Multiattack (4)   |         4 |             14 |               5th |
-|    18 |          +6 | Incomparable Might               |         4 |             14 |               5th |
-|    19 |          +6 | Ability Score Increase, Feat     |         4 |             15 |               5th |
-|    20 |          +6 | Primal Champion                  | Unlimited |             15 |               5th |
+| Level | Proficiency | Abilities                      |     Rages | Exploits Known | Max Exploit Level |
+|------:|------------:|:-------------------------------|----------:|---------------:|------------------:|
+|     1 |          +2 | Rage, Exploits, Fighting Style |         1 |              2 |               1st |
+|     2 |          +2 | Reckless Attack                |         1 |              3 |               1st |
+|     3 |          +2 | Primal Path                    |         1 |              4 |               1st |
+|     4 |          +2 | Ability Score Increase, Feat   |         1 |              5 |               1st |
+|     5 |          +3 | Brutality (1)                  |         2 |              6 |               2nd |
+|     6 |          +3 | Path Ability, Rage Improvement |         2 |              7 |               2nd |
+|     7 |          +3 | Evasion                        |         2 |              8 |               2nd |
+|     8 |          +3 | Ability Score Increase, Feat   |         2 |              9 |               2nd |
+|     9 |          +4 | Brutality (2)                  |         2 |             10 |               3rd |
+|    10 |          +4 | Path Ability                   |         2 |             10 |               3rd |
+|    11 |          +4 | Relentless Rage                |         2 |             11 |               3rd |
+|    12 |          +4 | Ability Score Increase, Feat   |         2 |             11 |               3rd |
+|    13 |          +5 | Brutality (3)                  |         3 |             12 |               4th |
+|    14 |          +5 | Path Ability                   |         3 |             12 |               4th |
+|    15 |          +5 | Persistent Rage                |         3 |             13 |               4th |
+|    16 |          +5 | Ability Score Increase, Feat   |         3 |             13 |               4th |
+|    17 |          +6 | Brutality (4)                  |         4 |             14 |               5th |
+|    18 |          +6 | Incomparable Might             |         4 |             14 |               5th |
+|    19 |          +6 | Ability Score Increase, Feat   |         4 |             15 |               5th |
+|    20 |          +6 | Primal Champion                | Unlimited |             15 |               5th |
 
 ---
 
@@ -131,14 +131,14 @@ You learn one Fighting Style from [*Barbian Fighting Styles*][BF].
 
 > *You can throw aside concern for your Defence to attack more accurately.*
 
-◻️ **(1/turn)** — When you ["Attack"][AtkAct], but before you make any *Attacks*, you may gain *Advantage* on all *Attacks* you make this turn. If you do, you have *Disadvantage* against *Attacks* vs. *AC*, or *Reflex* until the start of your next turn.
+◻️ **(1/turn)** — When you ["Attack"][AtkAct], but before you make any *Attacks*, you may gain *Advantage* on all *Attacks* you make for the rest of this turn. If you do, you have *Disadvantage* against *Attacks* vs. *AC*, or *Reflex* until the start of your next turn.
 
 ---
 
 ## Primal Path
 *3rd-level Ability (Barbarian)*  
 
-> *Flavor text*
+> *Flavour text*
 
 Choose one of the following Primal Paths:
 
