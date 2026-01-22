@@ -2,28 +2,28 @@
 
 ## Ranger
 
-| Level | Proficiency | Abilities                                        | Hunter's Mark | Knacks | Cantrips | Max Spell Level | Mana |
-|------:|------------:|:-------------------------------------------------|--------------:|-------:|---------:|:---------------:|-----:|
-|     1 |          +2 | Hunter's Mark (x1), Fighting Style, Spellcasting |          `d6` |      - |        2 |       1st       |    3 |
-|     2 |          +2 | Expertise, Wanderer's Knacks                     |          `d6` |      2 |        2 |       1st       |    3 |
-|     3 |          +2 | Ranger Archetype                                 |          `d6` |      2 |        2 |       1st       |    6 |
-|     4 |          +2 | Ability Score Increase, Feat                     |          `d6` |      2 |        3 |       1st       |    6 |
-|     5 |          +3 | Swift Strikes                                    |          `d8` |      2 |        3 |       2nd       |    9 |
-|     6 |          +3 | Enhanced Strikes                                 |          `d8` |      3 |        3 |       2nd       |    9 |
-|     7 |          +3 | Archetype Ability                                |          `d8` |      3 |        3 |       2nd       |   12 |
-|     8 |          +3 | Ability Score Increase, Feat                     |          `d8` |      3 |        3 |       2nd       |   12 |
-|     9 |          +4 | Hunter's Mark (x2)                               |          `d8` |      3 |        4 |       3rd       |   15 |
-|    10 |          +4 | Additional Expertise                             |          `d8` |      4 |        4 |       3rd       |   15 |
-|    11 |          +4 | Archetype Ability                                |         `d10` |      4 |        4 |       3rd       |   18 |
-|    12 |          +4 | Ability Score Increase, Feat                     |         `d10` |      4 |        4 |       3rd       |   18 |
-|    13 |          +5 | Hunter's Mark (x3)                               |         `d10` |      4 |        4 |       4th       |   21 |
-|    14 |          +5 | Additional Expertise                             |         `d10` |      5 |        4 |       4th       |   21 |
-|    15 |          +5 | Archetype Ability                                |         `d10` |      5 |        4 |       4th       |   24 |
-|    16 |          +5 | Ability Score Increase, Feat                     |         `d10` |      5 |        4 |       4th       |   24 |
-|    17 |          +6 | Hunter's Mark (x4)                               |         `d12` |      5 |        5 |       5th       |   27 |
-|    18 |          +6 | Archetype Ability                                |         `d12` |      6 |        5 |       5th       |   27 |
-|    19 |          +6 | Ability Score Increase, Feat                     |         `d12` |      6 |        5 |       5th       |   30 |
-|    20 |          +6 | Ranger Capstone Feat                             |         `d12` |      6 |        5 |       5th       |   30 |
+| Level | Proficiency | Abilities                                        | Hunter's Mark | Knacks | Cantrips | Max Spell Level | Mana | Repertoire |
+| ----: | ----------: | :----------------------------------------------- | ------------: | -----: | -------: | :-------------: | ---: | ---------: |
+|     1 |          +2 | Hunter's Mark (x1), Fighting Style, Spellcasting |          `d6` |      - |        2 |       1st       |    3 |          6 |
+|     2 |          +2 | Expertise, Wanderer's Knacks                     |          `d6` |      2 |        2 |       1st       |    3 |          7 |
+|     3 |          +2 | Ranger Archetype                                 |          `d6` |      2 |        2 |       1st       |    6 |          8 |
+|     4 |          +2 | Ability Score Increase, Feat                     |          `d6` |      2 |        3 |       1st       |    6 |          9 |
+|     5 |          +3 | Swift Strikes                                    |          `d8` |      2 |        3 |       2nd       |    9 |         10 |
+|     6 |          +3 | Enhanced Strikes                                 |          `d8` |      3 |        3 |       2nd       |    9 |         11 |
+|     7 |          +3 | Archetype Ability                                |          `d8` |      3 |        3 |       2nd       |   12 |         12 |
+|     8 |          +3 | Ability Score Increase, Feat                     |          `d8` |      3 |        3 |       2nd       |   12 |         13 |
+|     9 |          +4 | Hunter's Mark (x2)                               |          `d8` |      3 |        4 |       3rd       |   15 |         14 |
+|    10 |          +4 | Additional Expertise                             |          `d8` |      4 |        4 |       3rd       |   15 |         15 |
+|    11 |          +4 | Archetype Ability                                |         `d10` |      4 |        4 |       3rd       |   18 |         16 |
+|    12 |          +4 | Ability Score Increase, Feat                     |         `d10` |      4 |        4 |       3rd       |   18 |         17 |
+|    13 |          +5 | Hunter's Mark (x3)                               |         `d10` |      4 |        4 |       4th       |   21 |         18 |
+|    14 |          +5 | Additional Expertise                             |         `d10` |      5 |        4 |       4th       |   21 |         19 |
+|    15 |          +5 | Archetype Ability                                |         `d10` |      5 |        4 |       4th       |   24 |         20 |
+|    16 |          +5 | Ability Score Increase, Feat                     |         `d10` |      5 |        4 |       4th       |   24 |         21 |
+|    17 |          +6 | Hunter's Mark (x4)                               |         `d12` |      5 |        5 |       5th       |   27 |         22 |
+|    18 |          +6 | Archetype Ability                                |         `d12` |      6 |        5 |       5th       |   27 |         23 |
+|    19 |          +6 | Ability Score Increase, Feat                     |         `d12` |      6 |        5 |       5th       |   30 |         24 |
+|    20 |          +6 | Ranger Capstone Feat                             |         `d12` |      6 |        5 |       5th       |   30 |         25 |
 
 ---
 
@@ -77,7 +77,7 @@ You learn one "Fighting Style" from [Ranger Fighting Styles][RFS].
 
 ### Preparing & Casting Spells
 
-<!-- $ceil(`ranger level` / 2) + wisdom.modifier$ spells prepared -->
+You can have up to `your Ranger Level / 2 + your Wisdom Modifier` "Spells" prepared
 
 ---
 
@@ -88,7 +88,7 @@ You learn one "Fighting Style" from [Ranger Fighting Styles][RFS].
 ## Ranger Archetypes
 
 | Archetype       | Source                  |
-|:----------------|:------------------------|
+| :-------------- | :---------------------- |
 | Beast Master    | Unstable Isotopes (0.0) |
 | Bounty Hunter   | Unstable Isotopes (0.0) |
 | Exorcist        | Unstable Isotopes (0.0) |

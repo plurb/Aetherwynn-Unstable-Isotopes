@@ -5,7 +5,7 @@
 > *You can nimbly dodge out of the way of certain effects, such as a red dragon's fiery breath or an Ice Storm spell.*
 
 You gain the following abilities:
-* ♾️ — Whenever a creature makes an *Attack* vs. *Reflex* against you, or the ability has the "Blast" tag, you take no *Damage* if the *Attack* misses, and only half as much *Damage* if it hits.
+* ♾️ — Whenever a creature makes an *Attack* vs. *Reflex* against you, or the ability has the "Blast" tag, you take no *Damage* if the *Attack* fails, and only half as much *Damage* if it succeeds.
 
 ---
 

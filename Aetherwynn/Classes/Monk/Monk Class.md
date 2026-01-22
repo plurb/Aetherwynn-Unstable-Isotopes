@@ -84,9 +84,9 @@ For the purpose of your "Monk" abilities, *Martial Arts Attacks* are *Unarmed St
 ### Deadly Strikes
 *Ability (Monk, Martial Arts)*  
 
-♾️ — Your *Unarmed Strikes* are "Martial" "Melee Weapons" you are *Proficient* with, and have the "Finesse" property. Their "*Damage* Die" is `1dM [bludgeoning]`.
+♾️ — Your *Unarmed Strikes* are "Martial Melee Weapons" you are *Proficient* with, and have the "Finesse" property. Their "Damage Die" is `1dM [bludgeoning]`.
 
-♾️ — Whenever you "Attack" and make one or more "Martial Arts Attacks", make one additional "Martial Arts Attack".
+♾️ **(1/turn)** — Whenever you "Attack" and make one or more "Martial Arts Attacks", make one additional "Martial Arts Attack".
 
 ### Unarmoured Defence
 *Ability (Monk, Martial Arts)*  

@@ -16,16 +16,16 @@ There are three major types of attack:
 And four common subtypes of attacks:
 * **Exploit Attacks** - Attacks made using [exploits].
 * **Spell Attacks** - Attacks made using [spells].
-* **Thrown Attacks** - A special type of ranged attack.
+* **Thrown Attacks** - A special type of ranged attack, typically a thrown weapon.
 * **Weapon Attacks** - Attacks made using a [weapon].
 
 ---
 
 ## Making An Attack
 
-Whenever an attack is made, it is always structured as: "Make an *Attack* vs. *DC*", where *Attack* and *DC* refer to the specific type of *Attack* you are making, and *DC* referring to the *Defence* the *Attack* is being made against. *(For more information on defences, see: [defences])*
+Abilities usually call for attacks in the follow form: "Make an *Attack* vs. *DC*", where *Attack* and *DC* refer to the specific type of *Attack* you are making, and *DC* referring to the *Defence* the *Attack* is being made against. *(For more information on defences, see: [defences])*
 
-Making an attack is split into `X` steps:
+Making an attack is split into four steps:
 1. **Select A Target.** - Select a target within the range of the *Attack*.
 2. **The "Attack Roll."** - Roll a `d20`, then add any appropriate modifiers to the roll, then, the target of the *Attack* compares the total to the specified *DC*.
 3. **Determine Success.** - If the total meets or exceeds the *DC*, then the *Attack* "Succeeds", otherwise, the *Attack* "Fails".

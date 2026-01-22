@@ -7,7 +7,7 @@
 ## Cleric
 
 | Level | Proficiency | Features                                   | Cantrips | Max Spell Level | Mana |
-|------:|------------:|:-------------------------------------------|---------:|:---------------:|-----:|
+| ----: | ----------: | :----------------------------------------- | -------: | :-------------: | ---: |
 |     1 |          +2 | Blessed Hands, Spellcasting, Divine Domain |        3 |       1st       |    3 |
 |     2 |          +2 | Channel Divinity (x1), Domain Ability      |        3 |       1st       |    6 |
 |     3 |          +2 | Turn Undead                                |        3 |       2nd       |    9 |
@@ -154,7 +154,7 @@ You prepare the set of Cleric spells that are available for you to cast. To do s
 Your choice grants you Domain Spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
 
 | Domain          | Source                  |
-|:----------------|:------------------------|
+| :-------------- | :---------------------- |
 | Arcana Domain   | Unstable Isotopes (0.0) |
 | Death Domain    | Unstable Isotopes (0.0) |
 | Dragon Domain   | Unstable Isotopes (0.0) |

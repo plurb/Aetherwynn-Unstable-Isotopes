@@ -7,7 +7,7 @@
 ## Fighter
 
 | Level | Proficiency | Abilities                                     | Fighting Styles | Exploits | Max Exploit Level |
-|------:|------------:|:----------------------------------------------|----------------:|---------:|------------------:|
+| ----: | ----------: | :-------------------------------------------- | --------------: | -------: | ----------------: |
 |     1 |          +2 | Fighting Styles, Exploits, Bonus Feat         |               1 |        3 |               1st |
 |     2 |          +2 | Action Surge (x1)                             |               1 |        4 |               1st |
 |     3 |          +2 | Martial Archetype                             |               2 |        5 |               1st |
@@ -129,7 +129,7 @@ You earn an additional "Feat". This "Feat" can be a "Martial" or "Fighter Feat".
 
 Where `X = 1` at 2nd level in the class, and `X = 2` at 18th level in this class.
 
-At 5th-level in this class, if you use the additional 🔷 from this ability to "Attack", you may still use "Multiattack", even if you have already used "Multiattack" this turn.
+<!-- At 5th-level in this class, if you use the additional 🔷 from this ability to "Attack", you may still use "Multiattack", even if you have already used "Multiattack" this turn. -->
 
 ---
 
@@ -141,7 +141,7 @@ At 5th-level in this class, if you use the additional 🔷 from this ability to 
 Choose one of the following Martial Archetypes:
 
 | Martial Archetype | Source                  |
-|:------------------|:------------------------|
+| :---------------- | :---------------------- |
 | Arcane Knight     | Unstable Isotopes (0.0) |
 | Battle Master     | Unstable Isotopes (0.0) |
 | Bodyguard         | Unstable Isotopes (0.0) |
