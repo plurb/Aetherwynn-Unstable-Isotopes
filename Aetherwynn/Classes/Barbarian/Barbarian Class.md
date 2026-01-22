@@ -122,7 +122,7 @@ If one of your Exploits requires you to make an *Exploit Attack*, or a creature 
 ## Fighting Style
 *1st-level Ability (Barbarian)*  
 
-You learn one Fighting Style from [*Barbian Fighting Styles*][BF].
+You learn one Fighting Style from [*Barbarian Fighting Styles*][BF].
 
 ---
 
