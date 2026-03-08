@@ -1,11 +1,11 @@
 ### Aether Tithe
 *1st-level Spell (Abjuration)*  
-**Casting Time:** ⚡; If you see a creature casting a Spell in range  
-**Range:** 60 ft.  
+**Cost:** `1` "Mana"  
 **Components:** V, S, M (an envelope)  
-**Duration:** Instantaneous  
 
-*[Counter]* target Spell of level `X` or lower unless its caster expends a "Spell Slot" of 1st-level or greater, where `X = this Spell's level`.
+⚡ **(range: 60 ft.)** — If you see a creature casting a "Spell" in range, *[Counter]* target "Spell" unless its caster expends `X` "Mana", where `X = this Spell's level`.
+
+---
 
 **Classes:** Cleric
 

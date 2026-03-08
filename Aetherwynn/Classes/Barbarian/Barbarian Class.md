@@ -98,9 +98,9 @@ You gain the following attributes and abilities.
 
 You have a number of "Stamina Points" calculated as follows:
 
-**Stamina Points** = `your Barbarian level + your Constitution modifier (minimum of 0)`
+You have a number of "Stamina Points" equal to the number shown in the "Stamina" column of the "Barbarian" table.
 
-You regain all expended "Stamina Points" when you finish a *Short* or *Long Rest*.
+You regain half your expended "Stamina Points" (rounded up) when you finish a *Short Rest*, and all expended "Stamina Points" when you finish a *Long Rest*.
 
 ### Exploits Known
 
@@ -108,11 +108,9 @@ You know `X` Exploits from the *[Barbarian Exploit List]*, where `X = the number
 
 Whenever you gain a Barbarian level, you can replace one Exploit you learnt from this class with another Exploit from the *[Barbarian Exploit List]*.
 
-To perform an Exploit, you expend a number of Stamina Points equal to the Exploit's level. For Exploits that modify an *Attack*, or *Ability Check*: you can only use one Exploit per *Attack*, or *Ability Check*.
-
 ### Exploit Ability
 
-If one of your Exploits requires you to make an *Exploit Attack*, or a creature to make a Check, your "Exploit Attack Modifier", and "Exploit DC" are calculated as follows:
+If one of your "Exploits" requires you to make an *Exploit Attack*, or a creature to make a Check, your "Exploit Attack Modifier", and "Exploit DC" are calculated as follows:
 
 **Exploit Attack Modifier** = `+ your Proficiency Bonus + your Strength modifier`
 **Exploit DC** = `10 + your Proficiency Bonus + your Strength modifier`

@@ -1,11 +1,9 @@
 ### Disperse
 *2nd-level Spell (Abjuration)*  
-**Casting Time:** ⚡; If a creature casts a Spell in range  
-**Range:** 60 ft.  
+**Cost:** `2` "Mana"  
 **Components:** V, S  
-**Duration:** Instantaneous  
 
-*[Counter]* target "Conjuration" or "Necromancy" Spell if its level is `X` or lower, where `X = 1 + this spell's level`.
+⚡ **(range: 60 ft.)** — If you see a creature cast a "Spell" within range, *[Counter]* target "Conjuration" or "Necromancy" "Spell" if its of level `X` or lower, where `X = 1 + this Spell's level`.
 
 **Classes:** Druid, Magus, Sorcerer, Wizard, Warlock
 

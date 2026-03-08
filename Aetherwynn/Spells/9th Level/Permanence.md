@@ -7,6 +7,6 @@
 
 > *You make a magical effect permanent. The pinnacle of transmutation.*
 
-One "Magical" effect affecting target creature or object in range with a duration longer than "Instantaneous" lasts "Until dispelled".
+One "Magical" effect affecting target creature or object in range with a duration longer than "Instantaneous" lasts "Until dispelled" instead.
 
 **Classes:** Sorcerer, Wizard

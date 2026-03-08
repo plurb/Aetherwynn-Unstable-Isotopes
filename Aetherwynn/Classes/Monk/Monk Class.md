@@ -2,28 +2,28 @@
 
 ## Monk
 
-| Level | Proficiency | Abilities                              | Martial Arts | Fast Movement | Techniques | Exploits | Max Exploit Level |
-|------:|------------:|:---------------------------------------|-------------:|--------------:|-----------:|---------:|------------------:|
-|     1 |          +2 | Martial Arts, Fighting Style, Exploits |         `d6` |             - |          - |        3 |               1st |
-|     2 |          +2 | Fast Movement, Techniques              |         `d6` |       +10 ft. |          3 |        4 |               1st |
-|     3 |          +2 | Monastic Tradition                     |         `d6` |       +10 ft. |          3 |        5 |               1st |
-|     4 |          +2 | Ability Score Increase, Feat           |         `d6` |       +10 ft. |          3 |        6 |               1st |
-|     5 |          +3 | Multiattack (2)                        |         `d8` |       +10 ft. |          4 |        7 |               2nd |
-|     6 |          +3 | Tradition Feature, Enhanced Strikes    |         `d8` |       +15 ft. |          4 |        8 |               2nd |
-|     7 |          +3 | Evasion                                |         `d8` |       +15 ft. |          4 |        9 |               2nd |
-|     8 |          +3 | Ability Score Increase, Feat           |         `d8` |       +15 ft. |          4 |       10 |               2nd |
-|     9 |          +4 | Uncanny Accuracy (+1)                  |         `d8` |       +15 ft. |          5 |       11 |               3rd |
-|    10 |          +4 | Tradition Ability                      |         `d8` |       +20 ft. |          5 |       11 |               3rd |
-|    11 |          +4 | Multiattack (3)                        |        `d10` |       +20 ft. |          5 |       12 |               3rd |
-|    12 |          +4 | Ability Score Increase, Feat           |        `d10` |       +20 ft. |          5 |       12 |               3rd |
-|    13 |          +5 | Uncanny Accuracy (+2)                  |        `d10` |       +20 ft. |          6 |       13 |               4th |
-|    14 |          +5 | Ability Score Increase, Feat           |        `d10` |       +25 ft. |          6 |       13 |               4th |
-|    15 |          +5 | Tradition Ability                      |        `d10` |       +25 ft. |          6 |       14 |               4th |
-|    16 |          +5 | Ability Score Increase, Feat           |        `d10` |       +25 ft. |          6 |       14 |               4th |
-|    17 |          +6 | Multiattack (4), Uncanny Accuracy (+3) |        `d12` |       +25 ft. |          7 |       15 |               5th |
-|    18 |          +6 | Tradition Ability                      |        `d12` |       +30 ft. |          7 |       15 |               5th |
-|    19 |          +6 | Ability Score Increase, Feat           |        `d12` |       +30 ft. |          7 |       16 |               5th |
-|    20 |          +6 | Monk Capstone Feat                     |        `d12` |       +30 ft. |          8 |       16 |               5th |
+| Level | Proficiency | Abilities                              | Martial Arts | Fast Movement | Techniques | Stamina | Exploits | Max Exploit Level |
+|------:|------------:|:---------------------------------------|-------------:|--------------:|-----------:|--------:|---------:|------------------:|
+|     1 |          +2 | Martial Arts, Fighting Style, Exploits |         `d6` |             - |          - |       1 |        3 |               1st |
+|     2 |          +2 | Fast Movement, Techniques              |         `d6` |       +10 ft. |          3 |       2 |        4 |               1st |
+|     3 |          +2 | Monastic Tradition                     |         `d6` |       +10 ft. |          3 |       3 |        5 |               1st |
+|     4 |          +2 | Ability Score Increase, Feat           |         `d6` |       +10 ft. |          3 |       4 |        6 |               1st |
+|     5 |          +3 | Multiattack (2)                        |         `d8` |       +10 ft. |          4 |       5 |        7 |               2nd |
+|     6 |          +3 | Tradition Feature, Enhanced Strikes    |         `d8` |       +15 ft. |          4 |       6 |        8 |               2nd |
+|     7 |          +3 | Evasion                                |         `d8` |       +15 ft. |          4 |       7 |        9 |               2nd |
+|     8 |          +3 | Ability Score Increase, Feat           |         `d8` |       +15 ft. |          4 |       8 |       10 |               2nd |
+|     9 |          +4 | Uncanny Accuracy (+1)                  |         `d8` |       +15 ft. |          5 |       9 |       11 |               3rd |
+|    10 |          +4 | Tradition Ability                      |         `d8` |       +20 ft. |          5 |      10 |       11 |               3rd |
+|    11 |          +4 | Multiattack (3)                        |        `d10` |       +20 ft. |          5 |      11 |       12 |               3rd |
+|    12 |          +4 | Ability Score Increase, Feat           |        `d10` |       +20 ft. |          5 |      12 |       12 |               3rd |
+|    13 |          +5 | Uncanny Accuracy (+2)                  |        `d10` |       +20 ft. |          6 |      13 |       13 |               4th |
+|    14 |          +5 | Ability Score Increase, Feat           |        `d10` |       +25 ft. |          6 |      14 |       13 |               4th |
+|    15 |          +5 | Tradition Ability                      |        `d10` |       +25 ft. |          6 |      15 |       14 |               4th |
+|    16 |          +5 | Ability Score Increase, Feat           |        `d10` |       +25 ft. |          6 |      16 |       14 |               4th |
+|    17 |          +6 | Multiattack (4), Uncanny Accuracy (+3) |        `d12` |       +25 ft. |          7 |      17 |       15 |               5th |
+|    18 |          +6 | Tradition Ability                      |        `d12` |       +30 ft. |          7 |      18 |       15 |               5th |
+|    19 |          +6 | Ability Score Increase, Feat           |        `d12` |       +30 ft. |          7 |      19 |       16 |               5th |
+|    20 |          +6 | Monk Capstone Feat                     |        `d12` |       +30 ft. |          8 |      20 |       16 |               5th |
 
 ---
 
@@ -115,11 +115,9 @@ You learn one "Fighting Style" from [*Monk Fighting Styles*][MFS].
 
 You have a number of "Stamina Points" calculated as follows:
 
-**Stamina Points** = `your Monk Level + your Constitution modifier`
+You have a number of "Stamina Points" equal to the number shown in the "Stamina" column of the "Monk" table.
 
-To perform an "Exploit", you must expend a number of "Stamina Points" equal to the "Exploit's" level. You regain your expended "Stamina Points" when you finish a *Short Rest* or a *Long Rest*.
-
-For "Exploits" that modify an *Attack*, or *Check*: you can only use one "Exploit" per *Attack*, or *Check*.
+You regain half your expended "Stamina Points" (rounded up) when you finish a *Short Rest*, and all expended "Stamina Points" when you finish a *Long Rest*.
 
 ### Exploits Known
 
@@ -129,8 +127,8 @@ Whenever you gain a "Monk" level, you can replace one of the "Exploits" you lear
 
 ### Exploit Attacks & Checks
 
-**Exploit Attack Modifier** = `your Proficiency Bonus + your Dexterity modifier`  
-**Exploit DC** = `8 + your Proficiency Bonus + your Dexterity modifier`  
+**Exploit Attack Modifier** = `your Proficiency Bonus + your Dexterity or Wisdom modifier`  
+**Exploit DC** = `8 + your Proficiency Bonus + your Dexterity or Wisdom modifier`  
 
 ---
 
@@ -177,8 +175,12 @@ Choose one of the following, it gives you shit occasionally:
 | Way of The Open Hand     | Unstable Isotopes (0.0) |
 | Way of The Spirit Guide  | Unstable Isotopes (0.0) |
 
+---
+
 ## Ability Score Increase
 *4th-level Ability (All Classes)*
+
+---
 
 ## Feat
 *4th-level Ability (Monk)*

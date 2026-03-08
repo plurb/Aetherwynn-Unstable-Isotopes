@@ -1,4 +1,5 @@
 # The Fighter
+*Class (Fighter, Martial)*
 
 > *Fighters use their weapons and their physical might to fell their foes.*
 
@@ -6,28 +7,28 @@
 
 ## Fighter
 
-| Level | Proficiency | Abilities                                     | Fighting Styles | Exploits | Max Exploit Level |
-| ----: | ----------: | :-------------------------------------------- | --------------: | -------: | ----------------: |
-|     1 |          +2 | Fighting Styles, Exploits, Bonus Feat         |               1 |        3 |               1st |
-|     2 |          +2 | Action Surge (x1)                             |               1 |        4 |               1st |
-|     3 |          +2 | Martial Archetype                             |               2 |        5 |               1st |
-|     4 |          +2 | Ability Score Increase, Feat                  |               2 |        6 |               1st |
-|     5 |          +3 | Multiattack (2)                               |               3 |        7 |               2nd |
-|     6 |          +3 | Enhanced Strikes, Bonus Feat                  |               3 |        8 |               2nd |
-|     7 |          +3 | Archetype Ability                             |               3 |        9 |               2nd |
-|     8 |          +3 | Ability Score Increase, Feat                  |               3 |        9 |               2nd |
-|     9 |          +4 | Legendary Might (x1)                          |               3 |       10 |               3rd |
-|    10 |          +4 | Archetype Ability                             |               4 |       10 |               3rd |
-|    11 |          +4 | Multiattack (3)                               |               4 |       11 |               3rd |
-|    12 |          +4 | Ability Score Increase, Feat                  |               4 |       11 |               3rd |
-|    13 |          +5 | Legendary Might (x2)                          |               4 |       12 |               4th |
-|    14 |          +5 | Additional Ability Score Increase, Bonus Feat |               5 |       12 |               4th |
-|    15 |          +5 | Archetype Ability                             |               5 |       13 |               4th |
-|    16 |          +5 | Ability Score Increase, Feat                  |               5 |       13 |               4th |
-|    17 |          +6 | Multiattack (4), Legendary Might (x3)         |               5 |       14 |               5th |
-|    18 |          +6 | Archetype Ability, Action Surge (x2)          |               6 |       14 |               5th |
-|    19 |          +6 | Ability Score Increase, Feat                  |               6 |       15 |               5th |
-|    20 |          +6 | Fighter Capstone Feat                         |               6 |       15 |               5th |
+| Level | Proficiency | Abilities                                     | Fighting Styles | Stamina | Exploits | Max Exploit Level |
+|------:|------------:|:----------------------------------------------|----------------:|--------:|---------:|------------------:|
+|     1 |          +2 | Fighting Styles, Exploits, Bonus Feat         |               1 |       1 |        3 |               1st |
+|     2 |          +2 | Action Surge (x1)                             |               1 |       2 |        4 |               1st |
+|     3 |          +2 | Martial Archetype                             |               2 |       3 |        5 |               1st |
+|     4 |          +2 | Ability Score Increase, Feat                  |               2 |       4 |        6 |               1st |
+|     5 |          +3 | Multiattack (2)                               |               3 |       5 |        7 |               2nd |
+|     6 |          +3 | Enhanced Strikes, Bonus Feat                  |               3 |       6 |        8 |               2nd |
+|     7 |          +3 | Archetype Ability                             |               3 |       7 |        9 |               2nd |
+|     8 |          +3 | Ability Score Increase, Feat                  |               3 |       8 |        9 |               2nd |
+|     9 |          +4 | Legendary Might (x1)                          |               3 |       9 |       10 |               3rd |
+|    10 |          +4 | Archetype Ability                             |               4 |      10 |       10 |               3rd |
+|    11 |          +4 | Multiattack (3)                               |               4 |      11 |       11 |               3rd |
+|    12 |          +4 | Ability Score Increase, Feat                  |               4 |      12 |       11 |               3rd |
+|    13 |          +5 | Legendary Might (x2)                          |               4 |      13 |       12 |               4th |
+|    14 |          +5 | Additional Ability Score Increase, Bonus Feat |               5 |      14 |       12 |               4th |
+|    15 |          +5 | Archetype Ability                             |               5 |      15 |       13 |               4th |
+|    16 |          +5 | Ability Score Increase, Feat                  |               5 |      16 |       13 |               4th |
+|    17 |          +6 | Multiattack (4), Legendary Might (x3)         |               5 |      17 |       14 |               5th |
+|    18 |          +6 | Archetype Ability, Action Surge (x2)          |               6 |      18 |       14 |               5th |
+|    19 |          +6 | Ability Score Increase, Feat                  |               6 |      19 |       15 |               5th |
+|    20 |          +6 | Fighter Capstone Feat                         |               6 |      20 |       15 |               5th |
 
 ---
 
@@ -53,18 +54,18 @@
 ## Equipment
 
 At first level, you start with the following equipment:
-* (a) chain mail or (b) leather armour, a longbow, 20 arrows
-* (a) martial weapon and shield or (b) two martial weapons
-* (a) light crossbow and 20 bolts or (b) two handaxes
-* (a) a dungeoneer's pack or (b) an explorer's pack
+* (a) "Chain Mail" or (b) "Leather Armour", any "Ranged Martial Weapon" or "Firearm" and 20 pieces of "Ammunition" for the "Weapon"
+* (a) "Martial Weapon" and "Metal Shield" or (b) two "Martial Weapons"
+* (a) Any *Small* "Ranged Weapon" and 20 pieces of "Ammunition" for the "Weapon" or (b) two "Handaxes"
+* (a) a "Dungeoneer's Pack" or (b) an "Explorer's Pack"
 
 ---
 
 ## Multiclassing Into This Class
 
-**Ability Score Requirement:** Strength score or Dexterity score of 13 or greater.  
-**Armour Gained:** Light Armour, Medium Armour, Shields  
-**Weapons Gained:** Simple Weapons, Martial Weapons  
+**Ability Score Requirement:** *Strength Score* or *Dexterity Score* of 13 or greater.  
+**Armour Gained:** "Light Armour", "Medium Armour", "Shields"  
+**Weapons Gained:** "Simple Weapons", "Martial Weapons"  
 **Skills Gained:** Choose `1 + your Intelligence modifier (rounded up)` of the following: Acrobatics, Athletics, History, Intimidation, Perception, Stealth, and Survival  
 
 ---
@@ -88,11 +89,9 @@ You gain the following attributes and abilities.
 
 > *You have stamina greater than a common soldier, allowing you to perform exploits greater than an ordinary warrior.*
 
-You have a number of "Stamina Points" calculated as follows:
+You have a number of "Stamina Points" equal to the number shown in the "Stamina" column of the "Fighter" table.
 
-**Stamina Points** = `your Fighter level + your Constitution modifier (minimum of 0)`
-
-You regain all expended "Stamina Points" when you finish a *Short* or *Long Rest*.
+You regain half your expended "Stamina Points" (rounded up) when you finish a *Short Rest*, and all expended "Stamina Points" when you finish a *Long Rest*.
 
 ### Exploits Known
 *Attribute (Fighter, Exploits)*  
@@ -101,12 +100,10 @@ You know `X` Exploits from the *[Fighter Exploit List]*, where `X = the number s
 
 Whenever you gain a Fighter Level, you can replace one of the Exploits you learnt from this class with another Exploit from the *Fighter Exploit List*.
 
-To perform an Exploit, you expend a number of Stamina Points equal to the Exploit's level. For Exploits that modify an *Attack*, or *Ability Check*: you can only use one Exploit per *Attack*, or *Ability Check*.
-
 ### Exploit Ability
 *Attribute (Fighter, Exploits)*  
 
-If one of your Exploits requires you to make an *Exploit Attack*, or a creature to make a *Check*, your "Exploit Attack Modifier", and "Exploit DC" are calculated as follows:
+If one of your "Exploits" requires you to make an *Exploit Attack*, or a creature to make a *Check*, your "Exploit Attack Modifier", and "Exploit DC" are calculated as follows:
 
 **Exploit Attack Modifier** = `your Proficiency Bonus + your Strength or Dexterity modifier (your choice)`  
 **Exploit DC** = `8 + your Proficiency Bonus + your Strength or Dexterity modifier (your choice)`  
@@ -141,7 +138,7 @@ Where `X = 1` at 2nd level in the class, and `X = 2` at 18th level in this class
 Choose one of the following Martial Archetypes:
 
 | Martial Archetype | Source                  |
-| :---------------- | :---------------------- |
+|:------------------|:------------------------|
 | Arcane Knight     | Unstable Isotopes (0.0) |
 | Battle Master     | Unstable Isotopes (0.0) |
 | Bodyguard         | Unstable Isotopes (0.0) |

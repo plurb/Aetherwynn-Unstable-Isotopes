@@ -69,11 +69,9 @@ You gain the following attributes and abilities.
 
 > *Flavour text.*
 
-You have a number of "Stamina Points" calculated as follows:
+You have a number of "Stamina Points" equal to the number shown in the "Stamina" column of the "Rogue" table.
 
-**Stamina Points** = `your Rogue level + your Constitution modifier (minimum of 0)`
-
-You regain all expended "Stamina Points" when you finish a *Short Rest*.
+You regain half your expended "Stamina Points" (rounded up) when you finish a *Short Rest*, and all expended "Stamina Points" when you finish a *Long Rest*.
 
 ### Exploits Known
 *Attribute (Rogue, Exploits)*  
@@ -81,8 +79,6 @@ You regain all expended "Stamina Points" when you finish a *Short Rest*.
 You know `X` Exploits from the *[Rogue Exploit List][REL]*, where `X = the number shown in the "Exploits Known" column of the Rogue table`. To learn an Exploit, you must be able to learn Exploits of its level (as shown in the "Exploit Level" column of the Rogue table), as well as meet any other pre-requisites (listed under **Pre-requisites** in tags of the Exploit's entry).
 
 Whenever you gain a Rogue level, you can replace one Exploit you learnt from this class with another Exploit from the *[Rogue Exploit List][REL]*.
-
-To perform an Exploit, you expend a number of "Stamina Points" equal to the Exploit's level. For Exploits that modify an *Attack*, or *Ability Check*: you can only use one Exploit per *Attack*, or *Ability Check*.
 
 ### Exploit Ability
 *Attribute (Rogue, Exploits)*  
