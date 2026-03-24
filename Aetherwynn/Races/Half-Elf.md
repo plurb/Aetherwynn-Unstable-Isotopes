@@ -1,4 +1,4 @@
-### Elf
+### Half-Elf
 *Race (Humanoid, Elf)*  
 
 > *{Flavour text}*
@@ -11,7 +11,7 @@
 **Size:** Your size is *Medium*.  
 **Speed:** *Walking 30 ft.*.  
 **Ability Scores:** `+2` to any score, `+1` to any score.  
-**Feat:** You earn any Elf, or Spellcasting Feat (provided you meet the prerequisites)  
+**Feat:** You earn any General, Elf, Spellcasting, or Martial Feat (provided you meet the prerequisites)  
 
 ---
 
@@ -19,4 +19,4 @@
 
 | Base Height | Base Weight | Height Modifier |  Weight Modifier  |
 |:-----------:|:-----------:|:---------------:|:-----------------:|
-|    4'5"     |  100 lbs.   |     `+2d8`"     | `+2d4 - 2d4` lbs. |
+|    4'6"     |  100 lbs.   |     `+2d8`"     | `+2d6 - 2d6` lbs. |

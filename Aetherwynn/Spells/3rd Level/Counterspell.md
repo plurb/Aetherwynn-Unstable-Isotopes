@@ -1,13 +1,14 @@
 ### Counterspell
 *3rd-level Spell (Abjuration)*  
-**Casting Time:** ⚡; If you see a creature in range "Casting a Spell"  
-**Range:** 60 ft.  
+**Cost:** `3` "Mana"  
+**Overload:** `1` "Mana" per level  
 **Components:** V, S  
-**Duration:** Instantaneous  
 
 > *You attempt to interrupt a creature in the process of casting a spell.*
 
-*[Counter]* target "Spell" of level `X` or lower, where `X = this Spell's level`.
+⚡ **(range: 60 ft.)** — If you see a creature within range "Cast a Spell", *[Counter]* target "Spell" of level `X` or lower, where `X = this Spell's level`.
+
+---
 
 **Classes:** Artificer, Magus, Ranger, Sorcerer, Warlock, Wizard
 
