@@ -1,12 +1,12 @@
 # Weapons
 
-Weapon tags are noted seperately.
+Weapon tags are noted separately.
 
 ## Classical Weapons
 
 ### Simple Weapons
 
-All weapons in this table have the 'Simple' tag. See the full descriptions listed seperately for more details.
+All weapons in this table have the 'Simple' tag. See the full descriptions listed separately for more details.
 
 | Weapon Name    |  Reach/Range   | Size |               *Damage*               | Weight | Properties                                 |
 |:---------------|:--------------:|:----:|:------------------------------------:|:-------|:-------------------------------------------|
@@ -70,15 +70,30 @@ All weapons in the following tables have the "Firearm" tag. See the full descrip
 | Semi-Automatic Rifle      | 150 ft. |   .308    |  M   | `2d6 [piercing]`  | Ranged, Semi-Automatic, Magazine (12)                 |
 | Big Game Hunting Rifle    | 150 ft. |   .450    |  L   | `2d8 [piercing]`  | Ranged, Heavy, Breach-Loading                         |
 | Sniper Rifle              | 300 ft. |   .450    |  L   | `2d8 [piercing]`  | Ranged, Heavy, Bolt-Action, Magazine (6), High-Recoil |
-| Anti-Materiel Rifle       | 250 ft. |   .500    |  L   | `2d10 [piercing]` | Ranged, Heavy, Bolt-Action, Magazine (4), High-Recoil |
 
 ### Shotguns
 
-| Weapon Name | Range | Ammo Type | Size | *Damage* | Properties |
-|:------------|:-----:|:---------:|:----:|:--------:|:-----------|
-|             |       |           |      |          |            |
+Shotguns vary in properties and abilities depending on the type of ammo loaded. Thus, shotguns are first classified by their bore diameter (do note, that the diameter listed is slightly smaller than the actual diameter of the barrel). Use the table below as a reference by which shell type is chambered. Different shell types may be mixed into a single shotgun's magazine.
+
+| Weapon Name                       |  Range  | Bore Diameter | Size | *Damage* | Properties |
+|:----------------------------------|:-------:|:-------------:|:----:|:--------:|:-----------|
+| Breach-Action 12-gauge (Slugs)    | 80 ft.  |     .729      |      |          |            |
+| Breach-Action 12-gauge (Buckshot) | 80 ft.  |     .729      |      |          |            |
+| Breach-Action 12-gauge (Birdshot) | 80 ft.  |     .729      |      |          |            |
+| Double-Barrel 12-gauge (Slugs)    | 80 ft.  |     .729      |      |          |            |
+| Double-Barrel 12-gauge (Buckshot) | 80 ft.  |     .729      |      |          |            |
+| Double-Barrel 12-gauge (Birdshot) | 80 ft.  |     .729      |      |          |            |
+| Pump-Action 12-gauge (Slugs)      | 80 ft.  |     .729      |      |          |            |
+| Breach-Action 10-gauge            | 100 ft. |     .775      |      |          |            |
+| Double-Barrel 10-gauge            | 100 ft. |     .775      |      |          |            |
+| Pump-Action 10-gauge              | 100 ft. |     .775      |      |          |            |
+| 8-gauge                           |         |     .835      |      |          |            |
 
 ### Heavy Weapons
+
+| Weapon Name         |  Range  | Ammo Type | Size |     *Damage*      | Properties                                            |
+|:--------------------|:-------:|:---------:|:----:|:-----------------:|:------------------------------------------------------|
+| Anti-Materiel Rifle | 250 ft. |   .500    |  L   | `2d10 [piercing]` | Ranged, Heavy, Bolt-Action, Magazine (4), High-Recoil |
 
 ### Sidearms
 
@@ -98,4 +113,4 @@ All weapons in the following tables have the "Firearm" tag. See the full descrip
 
 Thrown: Range = `6 * your Strength modifier`
 
-Finesse: You can use Dexterity in place of Strength for + to hit, you can use dexterity in place of strength to determine thrown range.
+Finesse: You can use *Dexterity* in place of *Strength* for + to hit, you can use dexterity in place of strength to determine thrown range.
