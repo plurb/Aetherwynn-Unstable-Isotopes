@@ -2,41 +2,40 @@
 
 ## Light Armour
 
-| Armour     |  Cost |        *AC*         | Min. Strength | Stealth | *Reflex* | Tags         |  Weight |
-|:-----------|------:|:-------------------:|:-------------:|--------:|---------:|:-------------|--------:|
-| Gambeson   |  5 gp | `11 + Dex modifier` |       —       |       — |        — | Light Armour | 10 lbs. |
-| Leather    | 10 gp | `12 + Dex modifier` |       —       |       — |        — | Light Armour |  6 lbs. |
-| Brigandine | 45 gp | `13 + Dex modifier` |       —       |       — |        — | Light Armour | 13 lbs. |
+| Armour     |  Cost |        *AC*         | *AL*  | Min. Strength | Stealth | *Reflex* |  Weight |
+|:-----------|------:|:-------------------:|:------|:-------------:|--------:|---------:|--------:|
+| Gambeson   |  5 gp | `11 + Dex modifier` | Light |       —       |       — |        — | 10 lbs. |
+| Leather    | 10 gp | `12 + Dex modifier` | Light |       —       |       — |        — |  6 lbs. |
+| Brigandine | 45 gp | `13 + Dex modifier` | Light |       —       |       — |        — | 13 lbs. |
 
 ## Medium Armour
 
-| Armour      |   Cost |                   *AC*                   | Min. Strength | Stealth | *Reflex* | Tags          |  Weight |
-|:------------|-------:|:----------------------------------------:|:-------------:|--------:|---------:|:--------------|--------:|
-| Flak Jacket |  10 gp | `13 + (Dex modifier / 2) (rounded down)` |       —       |       — |     `-1` | Medium Armour | 11 lbs. |
-| Chain Shirt |  50 gp | `13 + (Dex modifier / 2) (rounded down)` |       —       |    `-2` |     `-1` | Medium Armour | 20 lbs. |
-| Scale       |  50 gp | `14 + (Dex modifier / 2) (rounded down)` |       —       |    `-2` |     `-1` | Medium Armour | 45 lbs. |
-| Breastplate | 400 gp | `14 + (Dex modifier / 2) (rounded down)` |       —       |       — |     `-1` | Medium Armour | 20 lbs. |
-| Half Plate  | 750 gp | `15 + (Dex modifier / 2) (rounded down)` |       —       |    `-2` |     `-1` | Medium Armour | 40 lbs. |
+| Item Name     |  Cost |
+|:--------------|------:|
+| Plate Carrier | 20 gp |
+
+| Armour          |   Cost |                   *AC*                   |  *AL*  | Requires Plate Carrier | Stealth |  Weight |
+|:----------------|-------:|:----------------------------------------:|:------:|:----------------------:|--------:|--------:|
+| Flak Jacket     |  10 gp | `13 + (Dex modifier / 2) (rounded down)` | Medium |           No           |       — | 11 lbs. |
+| Steel Scale     |  50 gp | `14 + (Dex modifier / 2) (rounded down)` | Medium |           No           |    `-2` | 45 lbs. |
+| Steel Plate     | 400 gp | `14 + (Dex modifier / 2) (rounded down)` | Medium |          Yes           |       — | 20 lbs. |
+| Mangalloy Plate | 750 gp | `15 + (Dex modifier / 2) (rounded down)` | Medium |          Yes           |    `-2` | 40 lbs. |
 
 ## Heavy Armour
 
-| Item Name     | Cost |
-|:--------------|-----:|
-| Plate Carrier |      |
-
-| Armour           |    Cost | *AC* | Min. Strength |        Stealth | *Reflex* | Tags         |  Weight |
-|:-----------------|--------:|:----:|:-------------:|---------------:|---------:|:-------------|--------:|
-| Steel Splint     |   30 gp | `15` |       —       | *Disadvantage* |     `-2` | Heavy Armour | 20 lbs. |
-| Steel Plate      |   75 gp | `16` |    Str 13     | *Disadvantage* |     `-2` | Heavy Armour | 30 lbs. |
-| Mangalloy Splint |  200 gp | `17` |    Str 14     | *Disadvantage* |     `-2` | Heavy Armour | 45 lbs. |
-| Mangalloy Plate  | 1500 gp | `18` |    Str 15     | *Disadvantage* |     `-2` | Heavy Armour | 10 lbs. |
+| Armour               |    Cost | *AC* | *AL*  | Min. Strength |        Stealth | Armour Level |  Weight |
+|:---------------------|--------:|:----:|:-----:|:-------------:|---------------:|:-------------|--------:|
+| Steel Splint         |   30 gp | `15` | Heavy |       —       | *Disadvantage* | Heavy        | 20 lbs. |
+| Steel Plate Mail     |   75 gp | `16` | Heavy |    Str 13     | *Disadvantage* | Heavy        | 30 lbs. |
+| Mangalloy Splint     |  200 gp | `17` | Heavy |    Str 14     | *Disadvantage* | Heavy        | 45 lbs. |
+| Mangalloy Plate Mail | 1500 gp | `18` | Heavy |    Str 15     | *Disadvantage* | Heavy        | 10 lbs. |
 
 ## Shields
 
-| Shield        |  Cost | *AC* | Min. Strength | Tags          |  Weight |
-|:--------------|------:|:----:|:-------------:|:--------------|--------:|
-| Buckler       |  5 gp | `+1` |       —       | Shield, Light |  3 lbs. |
-| Wooden Shield | 10 gp | `+2` |       —       | Shield        |  7 lbs. |
-| Metal Shield  | 15 gp | `+2` |       —       | Shield        |  5 lbs. |
-| Scutum Shield | 25 gp | `+3` |    Str 13     | Shield, Heavy | 22 lbs. |
-| Tower Shield  | 30 gp | `+4` |    Str 15     | Shield, Heavy | 25 lbs. |
+| Shield        |  Cost | *AC* |  *AL*  | Min. Strength | Properties            |  Weight |
+|:--------------|------:|:----:|:------:|:-------------:|:----------------------|--------:|
+| Buckler       |  5 gp | `+1` | Light  |       —       | Shield, Light Armour  |  3 lbs. |
+| Wooden Shield | 10 gp | `+2` | Light  |       —       | Shield, Light Armour  |  7 lbs. |
+| Metal Shield  | 15 gp | `+2` | Medium |       —       | Shield, Medium Armour |  5 lbs. |
+| Scutum Shield | 25 gp | `+3` | Heavy  |    Str 13     | Shield, Heavy         | 22 lbs. |
+| Tower Shield  | 30 gp | `+4` | Heavy  |    Str 15     | Shield, Heavy         | 25 lbs. |
