@@ -4,7 +4,7 @@
 
 ---
 
-Here lies the develpment branch of the Aetherwynn TTRPG!!!
+Here lies the development branch of the Aetherwynn TTRPG!!!
 
 Aetherwynn is no longer compatible with DnD 5e.
 
