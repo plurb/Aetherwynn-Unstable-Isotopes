@@ -3,24 +3,24 @@
 ## Monk
 
 | Level | Proficiency | Abilities                              | Martial Arts | Fast Movement | Techniques | Stamina | Exploits | Max Exploit Level |
-|------:|------------:|:---------------------------------------|-------------:|--------------:|-----------:|--------:|---------:|------------------:|
+| ----: | ----------: | :------------------------------------- | -----------: | ------------: | ---------: | ------: | -------: | ----------------: |
 |     1 |          +2 | Martial Arts, Fighting Style, Exploits |         `d6` |             - |          - |       1 |        3 |               1st |
 |     2 |          +2 | Fast Movement, Techniques              |         `d6` |       +10 ft. |          3 |       2 |        4 |               1st |
 |     3 |          +2 | Monastic Tradition                     |         `d6` |       +10 ft. |          3 |       3 |        5 |               1st |
 |     4 |          +2 | Ability Score Increase, Feat           |         `d6` |       +10 ft. |          3 |       4 |        6 |               1st |
-|     5 |          +3 | Multiattack (2)                        |         `d8` |       +10 ft. |          4 |       5 |        7 |               2nd |
+|     5 |          +3 | Multiattack (2)                        |         `d8` |       +15 ft. |          4 |       5 |        7 |               2nd |
 |     6 |          +3 | Tradition Feature, Enhanced Strikes    |         `d8` |       +15 ft. |          4 |       6 |        8 |               2nd |
 |     7 |          +3 | Evasion                                |         `d8` |       +15 ft. |          4 |       7 |        9 |               2nd |
 |     8 |          +3 | Ability Score Increase, Feat           |         `d8` |       +15 ft. |          4 |       8 |       10 |               2nd |
-|     9 |          +4 | Uncanny Accuracy (+1)                  |         `d8` |       +15 ft. |          5 |       9 |       11 |               3rd |
+|     9 |          +4 | Uncanny Accuracy (+1)                  |         `d8` |       +20 ft. |          5 |       9 |       11 |               3rd |
 |    10 |          +4 | Tradition Ability                      |         `d8` |       +20 ft. |          5 |      10 |       11 |               3rd |
 |    11 |          +4 | Multiattack (3)                        |        `d10` |       +20 ft. |          5 |      11 |       12 |               3rd |
 |    12 |          +4 | Ability Score Increase, Feat           |        `d10` |       +20 ft. |          5 |      12 |       12 |               3rd |
-|    13 |          +5 | Uncanny Accuracy (+2)                  |        `d10` |       +20 ft. |          6 |      13 |       13 |               4th |
-|    14 |          +5 | Ability Score Increase, Feat           |        `d10` |       +25 ft. |          6 |      14 |       13 |               4th |
+|    13 |          +5 | Uncanny Accuracy (+2)                  |        `d10` |       +25 ft. |          6 |      13 |       13 |               4th |
+|    14 |          +5 | Bonus Ability Score Increase, Feat     |        `d10` |       +25 ft. |          6 |      14 |       13 |               4th |
 |    15 |          +5 | Tradition Ability                      |        `d10` |       +25 ft. |          6 |      15 |       14 |               4th |
 |    16 |          +5 | Ability Score Increase, Feat           |        `d10` |       +25 ft. |          6 |      16 |       14 |               4th |
-|    17 |          +6 | Multiattack (4), Uncanny Accuracy (+3) |        `d12` |       +25 ft. |          7 |      17 |       15 |               5th |
+|    17 |          +6 | Multiattack (4), Uncanny Accuracy (+3) |        `d12` |       +30 ft. |          7 |      17 |       15 |               5th |
 |    18 |          +6 | Tradition Ability                      |        `d12` |       +30 ft. |          7 |      18 |       15 |               5th |
 |    19 |          +6 | Ability Score Increase, Feat           |        `d12` |       +30 ft. |          7 |      19 |       16 |               5th |
 |    20 |          +6 | Monk Capstone Feat                     |        `d12` |       +30 ft. |          8 |      20 |       16 |               5th |
@@ -40,9 +40,9 @@
 
 **Armour:** —  
 **Weapons:** Simple Weapons, Shortswords  
-**Tools:** 1 set of Artisan's Tools, or 1 Musical Instrument  
+**Tools:** 1 set of "Artisan's Tools", or 1 "Musical Instrument"  
 **Spellcasting Foci:** —  
-**Defences:** *Reflex*, *Fortitude*  
+**Defences:** *Reflex (trained)*, *Fortitude (trained)*, *Will (trained)*  
 **Skills:** Choose `2 + your Intelligence modifier (minimum of 0)` of the following: Acrobatics, Athletics, History, Insight, Nature, Religion, Stealth  
 
 ---
@@ -86,7 +86,7 @@ For the purpose of your "Monk" abilities, *Martial Arts Attacks* are *Unarmed St
 
 ♾️ — Your *Unarmed Strikes* are "Martial Melee Weapons" you are *Proficient* with, and have the "Finesse" property. Their "Damage Die" is `1dM [bludgeoning]`.
 
-♾️ **(1/turn)** — Whenever you "Attack" and make one or more "Martial Arts Attacks", make one additional "Martial Arts Attack".
+◻️ **(1/turn)** — If you made one or more "Martial Arts Attacks" this turn, you may make an *Unarmed Strike*.
 
 ### Unarmoured Defence
 *Ability (Monk, Martial Arts)*  
@@ -164,7 +164,7 @@ Ki Spells use your "Ki Attack Modifier" for "Spell Attacks" and your "Ki DC" for
 Choose one of the following, it gives you shit occasionally:
 
 | **Tradition**            | **Source**              |
-|:-------------------------|:------------------------|
+| :----------------------- | :---------------------- |
 | Way of Light             | Unstable Isotopes (0.0) |
 | Way of Perseverance      | Unstable Isotopes (0.0) |
 | Way of Shadows           | Unstable Isotopes (0.0) |
@@ -201,6 +201,13 @@ Where `X = 2` at 5th level, `X = 3` at 11th level, and `X = 4` at 17th level in 
 ---
 
 ## Enhanced Strikes
+*6th-level Ability (Monk)*  
+
+> *Your strikes are enhanced by mystical strength.*
+
+♾️ — "Martial Arts Attacks" you make are treated as "Magical" for the purpose of overcoming *Resistance* and *Immunity*.
+
+♾️ — "Martial Arts Attacks" you make are "Medium Armour Penetrating" if they aren't already.
 
 ---
 
