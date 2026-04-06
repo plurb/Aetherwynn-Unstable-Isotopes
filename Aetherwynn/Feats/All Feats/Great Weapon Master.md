@@ -6,6 +6,8 @@
 
 <!-- FIXME: re-word to be more specific. -->
 
+Increase your *Strength* or *Constitution* by `1`, to a maximum of `20`.
+
 ♾️ — You can wield weapons up to two sizes larger than yourself without any drawbacks.
 
 <!-- TODO: define drawbacks of wielding weapons that are too large. -->

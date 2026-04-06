@@ -4,7 +4,7 @@
 
 > *You unleash a single, devastating strike.*
 
-🔷 **(1/turn)** — Make a *Weapon Attack* vs. *AC* against target creature using a "Weapon" you are wielding, you have *Advantage* on this *Attack*.
+🔷 **(1/turn)** — Make a *Weapon Attack* vs. *AC* using a "Weapon" you are wielding, you have *Advantage* on this *Attack*.
 
 **Success:** The *Attack* is treated as a *Critical Success*.
 **Failure:** The *Attack* is treated as if it had succeeded normally.
