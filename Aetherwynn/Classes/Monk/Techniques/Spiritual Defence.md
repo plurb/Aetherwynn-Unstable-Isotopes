@@ -1,6 +1,5 @@
 ### Spiritual Defence
 *Technique (Monk)*  
-**Pre-requisites:** —  
+**Pre-requisites:** At least 5th-level Monk  
 
-You gain the following abilities:
-* 🔷 — You may spend `1` Ki Point. If you do, you gain `XdM` Temporary HP until the start of your next turn, where `X = your Wisdom modifier (minimum of 1)`.
+🔷 **(recharge 5-6)** — You gain `XdM` *Temporary HP* until the start of your next turn, where `X = your Wisdom modifier (minimum of 1)`.

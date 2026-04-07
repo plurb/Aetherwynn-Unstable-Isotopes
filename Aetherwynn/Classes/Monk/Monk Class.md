@@ -178,7 +178,7 @@ Choose one of the following, it gives you shit occasionally:
 ---
 
 ## Ability Score Increase
-*4th-level Ability (All Classes)*
+*4th-level Ability (All Classes)*  
 
 ---
 
@@ -215,11 +215,15 @@ Where `X = 2` at 5th level, `X = 3` at 11th level, and `X = 4` at 17th level in 
 
 ---
 
-## Tranquil Mind
+## Uncanny Accuracy
 
 ---
 
-## Honed Mind
+### Bonus Ability Score Increase
+
+---
+
+### Bonus Feat
 
 ---
 
