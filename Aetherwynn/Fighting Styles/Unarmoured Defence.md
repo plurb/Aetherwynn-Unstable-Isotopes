@@ -1,5 +1,5 @@
 ### Unarmoured Defence
-*Fighting Style (Barbarian, Fighter, Magus, Paladin)*  
+*Fighting Style (Barbarian, Fighter, Magus, Paladin, Ranger, Rogue)*  
 **Pre-requisites:** —  
 
 ♾️ **(requires: You are not wearing "Armour")** — Your *AC* equals `10 + your Constitution modifier + your Dexterity modifier`.
