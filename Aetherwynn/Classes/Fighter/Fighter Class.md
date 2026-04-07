@@ -176,7 +176,7 @@ You earn a "Feat". This "Feat" can be either a "General", "Martial", or "Fighter
 
 ♾️ **(1/turn)** — Whenever you "Attack" during your turn, you make `X` *Attacks* instead of one.
 
-Where `X = 2` at 5th level, `X = 3` at 11th level, and `X = 4` at 17th level in this class.
+Where `X = 2` starting at 5th level, `X = 3` starting at 11th level, and `X = 4` starting at 17th level in this class.
 
 ---
 
@@ -192,7 +192,7 @@ Where `X = 2` at 5th level, `X = 3` at 11th level, and `X = 4` at 17th level in 
 
 ◻️ **(`X`/long rest)** — If an *Attack* succeeds against you, you may cause the *Attack* to fail instead.
 
-Where `X = 1` at 9th level in this class, `X = 2` at 13th level in this class, and `X = 3` at 17th level in this class.
+Where `X = 1` starting at 9th level in this class, `X = 2` starting at 13th level in this class, and `X = 3` starting at 17th level in this class.
 
 ---
 

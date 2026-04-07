@@ -3,7 +3,7 @@
 ## Magus
 
 | Level | Proficiency | Abilities                                 | Cantrips | Max Spell Level | Mana |
-|------:|------------:|:------------------------------------------|---------:|:---------------:|-----:|
+| ----: | ----------: | :---------------------------------------- | -------: | :-------------: | ---: |
 |     1 |          +2 | Battle Mage, Fighting Style, Spellcasting |        2 |       1st       |    3 |
 |     2 |          +2 | Spellstrike                               |        2 |       1st       |    3 |
 |     3 |          +2 | Arcane Order                              |        2 |       1st       |    6 |
@@ -82,7 +82,7 @@ The "Spell" is cast with the following specifications:
 ## Arcane Order
 
 | Arcane Order            | Source                  |
-|:------------------------|:------------------------|
+| :---------------------- | :---------------------- |
 | Order of Arcane Archers | Unstable Isotopes (0.0) |
 | Order of Arcanists      | Unstable Isotopes (0.0) |
 | Order of Exorcists      | Unstable Isotopes (0.0) |

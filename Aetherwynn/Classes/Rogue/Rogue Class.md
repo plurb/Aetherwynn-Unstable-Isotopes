@@ -3,7 +3,7 @@
 ## Rogue
 
 | Level | Proficiency | Abilities                              | Sneak Attack | Exploits | Exploit Level |
-|------:|------------:|:---------------------------------------|-------------:|---------:|--------------:|
+| ----: | ----------: | :------------------------------------- | -----------: | -------: | ------------: |
 |     1 |           2 | Sneak Attack, Fighting Style, Exploits |        `1d6` |        3 |             1 |
 |     2 |           2 | Cunning Action, Expertise              |        `1d6` |        4 |             1 |
 |     3 |           2 | Roguish Archetype                      |        `2d6` |        5 |             1 |
@@ -107,7 +107,7 @@ You gain *Expertise* in `2` *Skills* you have *Profiency* with.
 ## Roguish Archetype
 
 | Roguish Archetype | Source                  |
-|:------------------|:------------------------|
+| :---------------- | :---------------------- |
 | Arcane Trickster  | Unstable Isotopes (0.0) |
 | Archeologist      | Unstable Isotopes (0.0) |
 | Assassin          | Unstable Isotopes (0.0) |
