@@ -79,19 +79,19 @@ Your "Martial Arts Die" is a `d6`. It increases at certain levels, as shown in t
 
 ### Martial Arts Attacks
 
-For the purpose of your "Monk" abilities, *Martial Arts Attacks* are *Unarmed Strikes*, or *Attacks* using a *Melee Weapon* you are *Proficient* with without the "Heavy" or "Special" properties.
+For the purpose of your "Monk" abilities, "Martial Arts Attacks" are *Unarmed Strikes*, or *Attacks* using a *Weapon* you are *Proficient* with excluding those with the "Heavy" property.
 
 ### Deadly Strikes
 *Ability (Monk, Martial Arts)*  
 
-♾️ — Your *Unarmed Strikes* are "Martial Melee Weapons" you are *Proficient* with, and have the "Finesse" property. Their "Damage Die" is `1dM [bludgeoning]`.
+♾️ — Your *Unarmed Strikes* are "Martial Melee Weapons" you are always wielding, are *Proficient* with, and have the "Finesse" property. Their "Damage Die" is `1dM [bludgeoning]`.
 
-♾️ **(1/turn)** — Whenever you "Attack" and make one or more "Martial Arts Attacks", make one additional "Martial Arts Attack".
+◻️ **(1/turn)** — If you made one or more "Martial Arts Attacks" this turn, you may make one "Martial Arts Attack".
 
 ### Unarmoured Defence
 *Ability (Monk, Martial Arts)*  
 
-While not wearing Armour, your *AC* is calculated as follows:
+♾️ — While not wearing "Armour", your *AC* is calculated as follows:
 
 **AC** = `10 + your Proficiency Bonus + your Dexterity modifier`
 
@@ -113,15 +113,13 @@ You learn one "Fighting Style" from [*Monk Fighting Styles*][MFS].
 
 > *You have stamina greater than a mere common soldier, which allows you to perform exploits greater than an ordinary warrior.*
 
-You have a number of "Stamina Points" calculated as follows:
-
 You have a number of "Stamina Points" equal to the number shown in the "Stamina" column of the "Monk" table.
 
 You regain half your expended "Stamina Points" (rounded up) when you finish a *Short Rest*, and all expended "Stamina Points" when you finish a *Long Rest*.
 
 ### Exploits Known
 
-You learn `3` "Exploits" from the [*Monk Exploit List*][MEL]. The "Exploits" column of the Monk Table shows when you learn more "Exploits" of your choice. To learn an "Exploit", you must be able to learn "Exploits" of its level, as well as meet any other prerequisites (listed under **Pre-requisites** in the "Exploit's" entry).
+You learn `3` "Exploits" from the [*Monk Exploit List*][MEL]. The "Exploits" column of the Monk Table shows when you learn more "Exploits" of your choice. To learn an "Exploit", you must be able to learn "Exploits" of its level, as well as meet any other pre-requisites (listed under **Pre-requisites** in the "Exploit's" entry).
 
 Whenever you gain a "Monk" level, you can replace one of the "Exploits" you learnt from this class with another "Exploit" from the *Monk Exploit List*.
 
@@ -190,11 +188,11 @@ You earn a General, Martial, or Monk feat which you meet the pre-requisites for.
 ---
 
 ## Multiattack
-*5th-level Ability (Barbarian, Fighter, Monk)*  
+*5th-level Ability (Fighter, Monk)*  
 
 > *You can strike with inhuman speed.*
 
-♾️ **(1/turn)** — You *Attack* up to `X` times, instead of once, when you "Attack" during your turn.
+🔷 **(1/turn)** — Make `X` *Weapon Attacks* using a "Weapon" you are wielding.
 
 Where `X = 2` at 5th level, `X = 3` at 11th level, and `X = 4` at 17th level in this class.
 

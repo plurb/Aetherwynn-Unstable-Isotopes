@@ -170,11 +170,11 @@ You earn a "Feat". This "Feat" can be either a "General", "Martial", or "Fighter
 ---
 
 ## Multiattack
-*5th-level Ability (Barbarian, Fighter, Monk)*  
+*5th-level Ability (Fighter, Monk)*  
 
 > *You can strike with inhuman speed.*
 
-♾️ **(1/turn)** — Whenever you "Attack" during your turn, you make `X` *Attacks* instead of one.
+🔷 **(1/turn)** — Make `X` *Weapon Attacks* using a "Weapon" you are wielding.
 
 Where `X = 2` at 5th level, `X = 3` at 11th level, and `X = 4` at 17th level in this class.
 

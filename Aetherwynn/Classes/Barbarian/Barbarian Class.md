@@ -179,9 +179,9 @@ You earn an additional Feat at 8th, 12th, 16th, and 19th level.
 ## Brutality
 *5th-level Ability (Barbarian)*  
 
-♾️ — Whenever you hit a creature with a *Weapon Attack* during your turn, you deal additional *Damage* equal to `X` rolls of the "Weapon's" "Damage Die".
+♾️ — Whenever a *Weapon Attack* you make succeeds during your turn, you deal additional *Damage* equal to `X` rolls of the "Weapon's" "Damage Die".
 
-Where `X = 1` at 5th level, `X = 2` at 11th level, and `X = 3` at 17th level in this class.
+Where `X = 1` at 5th level, `X = 2` at 9th level, `X = 3` at 13th level, and `X = 4` at 17th level in this class.
 
 ---
 
@@ -191,8 +191,8 @@ Where `X = 1` at 5th level, `X = 2` at 11th level, and `X = 3` at 17th level in 
 > *"Thormund's blood boils. His aura flares from his body like a roaring flame. The sight of seeing Markus lying on the ground half-dead throwing him into a rage like none have seen before."*
 
 ♾️ — While you are *[Enraged]*, you gain the following effects:
-* *Weapon Attacks* you make count as Magical for the purpose of overcoming *Resistance* and *Immunity* to non-Magical *Attacks* and *Damage*.
-* You gain *Immunity* to all non-Magical Bludgeoning, Piercing, and Slashing *Damage*.
+* *Weapon Attacks* you make count as "Magical" for the purpose of overcoming *Resistance* and *Immunity* to "non-Magical" *Attacks* and *Damage*.
+* You gain *Immunity* to all "non-Magical" Bludgeoning, Piercing, and Slashing *Damage*.
 
 ---
 
@@ -201,7 +201,7 @@ Where `X = 1` at 5th level, `X = 2` at 11th level, and `X = 3` at 17th level in 
 
 > *You are able to avoid attacks that are otherwise unavoidable.*
 
-♾️ — Whenever a creature makes an *Attack* vs. *Reflex* against you, or the ability has the "Blast" tag, you take no *Damage* if the *Attack* misses, and only half as much *Damage* if it hits.
+♾️ — Whenever a creature makes an *Attack* vs. *Reflex* against you, or the *Attack* is a "Blast", reduce the level of success by one.
 
 ---
 
@@ -211,7 +211,9 @@ Where `X = 1` at 5th level, `X = 2` at 11th level, and `X = 3` at 17th level in 
 > *Man literally too angry to die.*
 
 ♾️ — While you are *Enraged*, you gain the following effects:
-* If your HP is reduced to `0`, make a *DC* `X` *Constitution Check*, where `X = half the damage taken or 10, whichever is greater`. **Success:** Your HP is reduced to `1` instead.
+* If your HP is reduced to `0`, make a *DC* `X` *Constitution Check*, where `X = half the damage taken or 10, whichever is greater`.
+
+  **Success:** Your HP is reduced to `1` instead.
 
 ---
 

@@ -79,7 +79,7 @@ If one of your "Spells" requires you to make a *Spell Attack*, or a creature to 
 ### Bonus Feat
 *1st-level Ability (Sorcerer)*
 
-You gain an additional "Feat". This "Feat" can only be a "Spellcasting" or "Sorcerer" "Feat".
+You gain an additional "Feat". This "Feat" can only be a "Spellcasting", or "Sorcerer" "Feat".
 
 You gain additional "Feats" at 6th, 10th, and 14th level in this class.
 
