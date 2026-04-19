@@ -3,7 +3,7 @@
 ## Paladin
 
 | Level | Proficiency | Abilities                                 | Cantrips | Spells Known | Max Spell Level | Mana |
-|------:|------------:|:------------------------------------------|---------:|-------------:|:---------------:|-----:|
+| ----: | ----------: | :---------------------------------------- | -------: | -----------: | :-------------: | ---: |
 |     1 |          +2 | Fighting Style, Spellcasting, Sacred Oath |        2 |            3 |       1st       |    3 |
 |     2 |          +2 | Divine Smite                              |        2 |            4 |       1st       |    3 |
 |     3 |          +2 | Oath Ability, Harness Oath (x1)           |        2 |            5 |       1st       |    6 |
@@ -39,7 +39,7 @@
 ## Sacred Oath
 
 | Sacred Oath        | Source                  |
-|:-------------------|:------------------------|
+| :----------------- | :---------------------- |
 | Oath of Ancients   | Unstable Isotopes (0.0) |
 | Oath of Conquest   | Unstable Isotopes (0.0) |
 | Oath of Devotion   | Unstable Isotopes (0.0) |

@@ -4,6 +4,6 @@
 
 > *You have mastered ranged weapons and can make shots that others find impossible.*
 
-♾️ — Attacking at Long Range does not impose *Disadvantage* on *Ranged Weapon Attacks* you make.
+♾️ — *Ranged Weapon Attacks* you make beyond their "Base Range" only incur a `-1` penalty for each "Range Increment" instead of a `-2` penalty.
 
-♾️ — *Ranged Weapon Attacks* you make ignore half cover and three-quarters cover.
+♾️ — *Ranged Weapon Attacks* you make ignore half-cover.

@@ -5,7 +5,7 @@
 ## Sorcerer
 
 | Level | Proficiency | Abilities                                  | Cantrips | Spells Known | Max Spell Level | Mana |
-|------:|------------:|:-------------------------------------------|---------:|-------------:|:---------------:|-----:|
+| ----: | ----------: | :----------------------------------------- | -------: | -----------: | :-------------: | ---: |
 |     1 |           2 | Spellcasting, Bonus Feat, Sorcerous Origin |        3 |            5 |       1st       |    4 |
 |     2 |           2 | —                                          |        3 |            6 |       1st       |    8 |
 |     3 |           2 | Origin Ability                             |        3 |            7 |       2nd       |   12 |
@@ -25,7 +25,7 @@
 |    17 |           6 | Aether Surge (x4)                          |        6 |           21 |       9th       |   68 |
 |    18 |           6 | Origin Ability                             |        6 |           22 |       9th       |   72 |
 |    19 |           6 | Ability Score Increase, Feat               |        6 |           23 |       9th       |   76 |
-|    20 |           6 | Sorcerer Capstone Feat                     |        6 |           24 |       9th       |   80 |
+|    20 |           6 | Sorcerer Capstone Feat, Aether Surge (x5)  |        6 |           24 |       9th       |   80 |
 
 ---
 
@@ -44,7 +44,7 @@
 **Weapons:** Simple Weapons, Swords  
 **Spellcasting Foci:** Arcane Foci, Component Pouch  
 **Tools:** —  
-**Defences:** *Fortitude*, *Will*  
+**Defences:** *Fortitude (trained)*, *Will (trained)*  
 **Skills:** Choose `2 + your Intelligence modifier` from Arcana, Deception, History, Insight, Nature, Performance, Persuasion  
 
 ---
@@ -90,7 +90,7 @@ You gain additional "Feats" at 6th, 10th, and 14th level in this class.
 Subclass
 
 | Origin        | Source                  |
-|:--------------|:------------------------|
+| :------------ | :---------------------- |
 | Arcane Soul   | Unstable Isotopes (0.0) |
 | Blazing Soul  | Unstable Isotopes (0.0) |
 | Divine Soul   | Unstable Isotopes (0.0) |

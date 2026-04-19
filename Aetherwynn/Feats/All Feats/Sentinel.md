@@ -2,9 +2,11 @@
 *Feat (Martial)*  
 **Pre-requisites:** —  
 
-♾️ — Whenever you hit a creature with an "Attack of Opportunity", that creature's *Movement Speed* is reduced to `0` until the start of your next turn.
+Increase your *Strength* or *Constitution* by `1`, to a maximum of `20`.
 
-⚡ — If a creature attempts to move `5` ft. or more within your reach, or attempts to leave your reach, you may make an "Attack of Opportunity" against that creature.
+♾️ — Whenever you hit a creature with a *Melee Weapon Attack* outside of your turn, that creature's *Movement Speed* is reduced to `0` until the start of your next turn.
+
+⚡ — If a creature attempts to move `1` ft. or more within your reach, or attempts to leave your reach, you may make an "Attack of Opportunity" against that creature.
 
 ---
 

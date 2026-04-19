@@ -12,40 +12,40 @@
 |     2 |          +2 | Arcane Tradition                           |        3 |       1st       |    6 |
 |     3 |          +2 | Arcane Versatility                         |        3 |       2nd       |    9 |
 |     4 |          +2 | Ability Score Increase, Feat               |        4 |       2nd       |   12 |
-|     5 |          +3 |                                            |        4 |       3rd       |   15 |
+|     5 |          +3 | —                                          |        4 |       3rd       |   15 |
 |     6 |          +3 | Arcane Tradition Feature                   |        4 |       3rd       |   18 |
-|     7 |          +3 |                                            |        4 |       4th       |   21 |
+|     7 |          +3 | —                                          |        4 |       4th       |   21 |
 |     8 |          +3 | Ability Score Increase, Feat               |        4 |       4th       |   24 |
-|     9 |          +4 |                                            |        4 |       5th       |   27 |
+|     9 |          +4 | —                                          |        4 |       5th       |   27 |
 |    10 |          +4 | Arcane Tradition Feature                   |        5 |       5th       |   30 |
 |    11 |          +4 | Aether Surge (x1)                          |        5 |       6th       |   33 |
 |    12 |          +4 | Ability Score Increase, Feat               |        5 |       6th       |   36 |
-|    13 |          +4 | Aether Surge (x2)                          |        5 |       7th       |   39 |
-|    14 |          +4 | Arcane Tradition Feature                   |        6 |       7th       |   42 |
-|    15 |          +4 | Aether Surge (x3)                          |        6 |       8th       |   45 |
-|    16 |          +4 | Ability Score Increase, Feat               |        6 |       8th       |   48 |
-|    17 |          +4 | Aether Surge (x4)                          |        6 |       9th       |   51 |
-|    18 |          +4 |                                            |        6 |       9th       |   54 |
-|    19 |          +4 | Ability Score Increase, Feat               |        7 |       9th       |   57 |
-|    20 |          +4 | Wizard Captstone Feat                      |        7 |       9th       |   60 |
+|    13 |          +5 | Aether Surge (x2)                          |        5 |       7th       |   39 |
+|    14 |          +5 | Arcane Tradition Feature                   |        6 |       7th       |   42 |
+|    15 |          +5 | Aether Surge (x3)                          |        6 |       8th       |   45 |
+|    16 |          +5 | Ability Score Increase, Feat               |        6 |       8th       |   48 |
+|    17 |          +6 | Aether Surge (x4)                          |        6 |       9th       |   51 |
+|    18 |          +6 | —                                          |        6 |       9th       |   54 |
+|    19 |          +6 | Ability Score Increase, Feat               |        7 |       9th       |   57 |
+|    20 |          +6 | Wizard Captstone Feat, Aether Surge (x5)   |        7 |       9th       |   60 |
 
 # Class Abilities
 
 ## Hit Points
 
-**Hit Points:** `6 + your Constitution modifier` per Wizard Level  
-**Hit Dice:** `1d6` per Wizard Level  
+**Hit Points:** `4 + your Constitution modifier` per Wizard Level  
+**Hit Dice:** `1d4` per Wizard Level  
 
 ---
 
 ## Proficiencies
 
 **Armour:** —  
-**Weapons:** daggers, darts, slings, quarterstaffs  
+**Weapons:** daggers, quarterstaffs  
 **Spellcasting Foci:** Arcane Foci, Component Pouch  
 **Tools:** Scribe's tools, and either Painter's or Caligrapher's tools  
-**Defences:** Reflex, Will  
-**Skills:** Choose `2 + your Intelligence modifier` from Arcana, History, Insight, Investigation, Medicine, Nature, Persuasion, and Religion.
+**Defences:** *Reflex (trained)*, *Will (trained)*  
+**Skills:** Choose `3 + your Intelligence modifier` from Arcana, History, Insight, Investigation, Medicine, Nature, Persuasion, and Religion.
 
 ---
 
@@ -79,9 +79,11 @@ You know a number of Cantrips equal to the number shown in the Cantrips column o
 
 The "Spell Slots per Spell Level" table shows how many spell slots you have to cast your Wizard Spells of 1st-level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a Full Rest.
 
-You prepare the set of Wizard Spells that are available for you to cast. To do so, choose a number of Wizard Spells from your "Spellbook" (described below) equal to `your Intelligence modifier + your Wizard level` (minimum of one). The spells must be of a level for which you have spell slots, as shown on the Wizard table.
+You prepare the set of Wizard Spells that are available for you to cast. To do so, choose a number of Wizard Spells from your "Spellbook" (described below) equal to `your Intelligence modifier + your Wizard level` (minimum of one). The spells can be at most equal to your "Max Spell Level", as shown on the Wizard table.
 
 ---
+
+<!-- TODO: Fix this example. -->
 
 > #### Example
 >
@@ -107,7 +109,7 @@ You use your Intelligence whenever a spell refers to your Spellcasting Ability. 
 
 <!-- TODO: edit flavour text. -->
 
-> *Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.*
+> *Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilded tome you found in an ancient library or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.*
 
 As part of your "Starting Equipment", you gain a "Spellbook" containing six 1st-level wizard spells of your choice. If you do not have a spellbook, you can turn any non-magical medium you can write on into your spellbook. Your spellbook is the repository of the Wizard Spells you know, except your Cantrips.
 
@@ -115,7 +117,7 @@ As part of your "Starting Equipment", you gain a "Spellbook" containing six 1st-
 
 > *The spells that you add to your spellbook as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse.*
 
-Each time you gain a Wizard level, you add two Spells from the "Wizard Spell List" of your choice to your Spellbook. Each of these spells must be of a level for which you have "Spell Slots", as shown on the Wizard table.
+Each time you gain a Wizard level, you add two Spells from the "Wizard Spell List" of your choice to your Spellbook. Each of these "Spells" must be of a level less than or equal to your "Max Spell Level".
 
 ### Copy Spell
 *1st-level Ability (Wizard)*  
@@ -157,13 +159,12 @@ Choose an arcane tradition. Your Arcane Tradition grants you features at 2nd lev
 | Evocation        | Unstable Isotopes (0.0) |
 | Illusion         | Unstable Isotopes (0.0) |
 | Transmutation    | Unstable Isotopes (0.0) |
-| War Magic        | Unstable Isotopes (0.0) |
 
 **Note:** Necromancy will come with the Evil Player Characters module, not the Player's Handbook
 
 ### Tradition Spells
 
-Each Tradition has a list of Tradition Spells you add to your "Spellbook" at the Wizard levels noted in your Tradition's description. They don't count against the number of Spells you add to your "Spellbook" when you gain a Wizard level.
+Each Tradition has a list of Tradition Spells you automatically add to your "Spellbook" at the Wizard levels noted in your Tradition's description, in addition to any "Spells" added through the "Individual Research" ability.
 
 ---
 
@@ -172,7 +173,7 @@ Each Tradition has a list of Tradition Spells you add to your "Spellbook" at the
 
 > *You are able to quickly review and prepare spells.*
 
-◻️ **(1/short rest)** — Before a Short Rest, you may change up to `X` Spells you have prepared and prepare that many Spells from your "Spellbook", where `X = your Intelligence modifier`.
+◻️ **(1/short rest)** — Before a *Short Rest*, you may change up to `X` "Spells" you have prepared and prepare that many "Spells" from your "Spellbook", where `X = your Intelligence modifier`.
 
 ---
 

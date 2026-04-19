@@ -8,27 +8,27 @@
 ## Fighter
 
 | Level | Proficiency | Abilities                                     | Fighting Styles | Stamina | Exploits | Max Exploit Level |
-|------:|------------:|:----------------------------------------------|----------------:|--------:|---------:|------------------:|
-|     1 |          +2 | Fighting Styles, Exploits, Bonus Feat         |               1 |       1 |        3 |               1st |
-|     2 |          +2 | Action Surge (x1)                             |               1 |       2 |        4 |               1st |
-|     3 |          +2 | Martial Archetype                             |               2 |       3 |        5 |               1st |
-|     4 |          +2 | Ability Score Increase, Feat                  |               2 |       4 |        6 |               1st |
-|     5 |          +3 | Multiattack (2)                               |               3 |       5 |        7 |               2nd |
-|     6 |          +3 | Enhanced Strikes, Bonus Feat                  |               3 |       6 |        8 |               2nd |
-|     7 |          +3 | Archetype Ability                             |               3 |       7 |        9 |               2nd |
+| ----: | ----------: | :-------------------------------------------- | --------------: | ------: | -------: | ----------------: |
+|     1 |          +2 | Fighting Styles, Exploits, Bonus Feat         |               1 |       1 |        2 |               1st |
+|     2 |          +2 | Action Surge (x1)                             |               1 |       2 |        3 |               1st |
+|     3 |          +2 | Martial Archetype                             |               2 |       3 |        4 |               1st |
+|     4 |          +2 | Ability Score Increase, Feat                  |               2 |       4 |        5 |               1st |
+|     5 |          +3 | Multiattack (2)                               |               3 |       5 |        6 |               2nd |
+|     6 |          +3 | Enhanced Strikes, Bonus Feat                  |               3 |       6 |        7 |               2nd |
+|     7 |          +3 | Archetype Ability                             |               3 |       7 |        8 |               2nd |
 |     8 |          +3 | Ability Score Increase, Feat                  |               3 |       8 |        9 |               2nd |
-|     9 |          +4 | Legendary Might (x1)                          |               3 |       9 |       10 |               3rd |
-|    10 |          +4 | Archetype Ability                             |               4 |      10 |       10 |               3rd |
-|    11 |          +4 | Multiattack (3)                               |               4 |      11 |       11 |               3rd |
-|    12 |          +4 | Ability Score Increase, Feat                  |               4 |      12 |       11 |               3rd |
-|    13 |          +5 | Legendary Might (x2)                          |               4 |      13 |       12 |               4th |
-|    14 |          +5 | Additional Ability Score Increase, Bonus Feat |               5 |      14 |       12 |               4th |
-|    15 |          +5 | Archetype Ability                             |               5 |      15 |       13 |               4th |
-|    16 |          +5 | Ability Score Increase, Feat                  |               5 |      16 |       13 |               4th |
-|    17 |          +6 | Multiattack (4), Legendary Might (x3)         |               5 |      17 |       14 |               5th |
-|    18 |          +6 | Archetype Ability, Action Surge (x2)          |               6 |      18 |       14 |               5th |
-|    19 |          +6 | Ability Score Increase, Feat                  |               6 |      19 |       15 |               5th |
-|    20 |          +6 | Fighter Capstone Feat                         |               6 |      20 |       15 |               5th |
+|     9 |          +4 | Legendary Might (x1)                          |               4 |       9 |       10 |               3rd |
+|    10 |          +4 | Archetype Ability                             |               4 |      10 |       11 |               3rd |
+|    11 |          +4 | Multiattack (3)                               |               4 |      11 |       12 |               3rd |
+|    12 |          +4 | Ability Score Increase, Feat                  |               4 |      12 |       13 |               3rd |
+|    13 |          +5 | Legendary Might (x2)                          |               4 |      13 |       14 |               4th |
+|    14 |          +5 | Additional Ability Score Increase, Bonus Feat |               5 |      14 |       15 |               4th |
+|    15 |          +5 | Archetype Ability                             |               5 |      15 |       16 |               4th |
+|    16 |          +5 | Ability Score Increase, Feat                  |               5 |      16 |       17 |               4th |
+|    17 |          +6 | Multiattack (4), Legendary Might (x3)         |               5 |      17 |       18 |               5th |
+|    18 |          +6 | Archetype Ability, Action Surge (x2)          |               6 |      18 |       19 |               5th |
+|    19 |          +6 | Ability Score Increase, Feat                  |               6 |      19 |       20 |               5th |
+|    20 |          +6 | Fighter Capstone Feat                         |               6 |      20 |       20 |               5th |
 
 ---
 
@@ -138,7 +138,7 @@ Where `X = 1` at 2nd level in the class, and `X = 2` at 18th level in this class
 Choose one of the following Martial Archetypes:
 
 | Martial Archetype | Source                  |
-|:------------------|:------------------------|
+| :---------------- | :---------------------- |
 | Arcane Knight     | Unstable Isotopes (0.0) |
 | Battle Master     | Unstable Isotopes (0.0) |
 | Bodyguard         | Unstable Isotopes (0.0) |
@@ -176,7 +176,7 @@ You earn a "Feat". This "Feat" can be either a "General", "Martial", or "Fighter
 
 🔷 **(1/turn)** — Make `X` *Weapon Attacks* using a "Weapon" you are wielding.
 
-Where `X = 2` at 5th level, `X = 3` at 11th level, and `X = 4` at 17th level in this class.
+Where `X = 2` starting at 5th level, `X = 3` starting at 11th level, and `X = 4` starting at 17th level in this class.
 
 ---
 
@@ -192,7 +192,7 @@ Where `X = 2` at 5th level, `X = 3` at 11th level, and `X = 4` at 17th level in 
 
 ◻️ **(`X`/long rest)** — If an *Attack* succeeds against you, you may cause the *Attack* to fail instead.
 
-Where `X = 1` at 9th level in this class, `X = 2` at 13th level in this class, and `X = 3` at 17th level in this class.
+Where `X = 1` starting at 9th level in this class, `X = 2` starting at 13th level in this class, and `X = 3` starting at 17th level in this class.
 
 ---
 

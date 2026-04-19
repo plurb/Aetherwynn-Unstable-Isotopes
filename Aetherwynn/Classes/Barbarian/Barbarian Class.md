@@ -5,7 +5,7 @@
 ## Barbarian
 
 | Level | Proficiency | Abilities                      |     Rages | Exploits Known | Max Exploit Level |
-|------:|------------:|:-------------------------------|----------:|---------------:|------------------:|
+| ----: | ----------: | :----------------------------- | --------: | -------------: | ----------------: |
 |     1 |          +2 | Rage, Exploits, Fighting Style |         1 |              2 |               1st |
 |     2 |          +2 | Reckless Attack                |         1 |              3 |               1st |
 |     3 |          +2 | Primal Path                    |         1 |              4 |               1st |
@@ -44,7 +44,7 @@
 **Weapons:** Simple Weapons, Martial Weapons  
 **Tools:** —  
 **Spellcasting Foci:** —  
-**Defences:** *Reflex*, *Fortitude*  
+**Defences:** *Reflex (proficient)*, *Fortitude (proficient)*  
 **Skills:** Choose `1 + your Intelligence modifier` of the following: Animal Handling, Athletics, Intimidation, Nature, Perception, Survival  
 
 ---

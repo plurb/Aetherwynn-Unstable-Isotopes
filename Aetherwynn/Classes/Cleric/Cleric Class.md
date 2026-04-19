@@ -44,7 +44,7 @@
 **Weapons:** Simple Weapons  
 **Spellcasting Foci:** Component Pouch, Divine Foci  
 **Tools:** Prayer Set, your choice of Healer's Kit or Herbalism Kit  
-**Defences:** Wisdom, Charisma  
+**Defences:** *Fortitude (trained)*, *Will (proficient)*  
 **Skills:** Choose `2 + your Intelligence modifier` from Arcana, Athletics, History, Insight, Medicine, Persuasion, and Religion.  
 
 ---

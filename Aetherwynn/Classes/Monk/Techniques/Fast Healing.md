@@ -2,5 +2,4 @@
 *Technique (Monk)*  
 **Pre-requisites:** —  
 
-You gain the following abilities:
-* 🔷 — You may spend `2` Ki Points. If you do, you regain `2dM + your Wisdom modifier` HP.
+🔷 **(recharge 6)** — You regain `2dM + your Wisdom modifier` *HP*.

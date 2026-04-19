@@ -1,7 +1,7 @@
 ### Polearm Adept
-*Feat (Martial)*  
-**Pre-requisites:** Proficiency with Polearms  
+*Feat (General)*  
+**Pre-requisites:** Proficiency with "Polearms"  
 
-◻️ — If you "Attack" using only a "Polearm", make a *Melee Weapon Attack* vs. *AC*: `your modifier` to hit, the same properties as the requisite weapon. **Success:** `1d4 + your *Damage* bonus [bludgeoning]` *Damage*.
+Increase your *Strength* or *Constitution* by `1`, to a maximum of `20`.
 
-⚡ — If a creature enters your reach, you may make an "Attack of Opportunity", regardless of other effects.
+⚡ **(requires: you are wielding a "Polearm" and no other "Weapons")** — If a creature enters your "Reach" with a "Weapon" you are wielding, you may make an "Attack of Opportunity" against it, regardless of other effects.
