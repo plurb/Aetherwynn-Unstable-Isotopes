@@ -24,10 +24,10 @@ You gain Proficiency with History and Investigation. If you are already Proficie
 
 > *You have studied the history and origins of ancient artifacts.*
 
-**(usage: 1 minute)** — You learn the following about an object you are touching:
+**(usage: 1 minute)** — You learn the following about an *Object* you are touching:
 * Its approximate value (in gold pieces, if applicable).
 * Its origin.
-* If it has any magical properties, you learn them as if you had cast the "Identify" Spell.
+* If it has any "Magical" properties, you learn them as if you had cast the "Identify" Spell.
 
 ---
 
@@ -35,15 +35,15 @@ You gain Proficiency with History and Investigation. If you are already Proficie
 *3rd-level Ability (Rogue, Archeologist Archetype)*
 
 You gain the following abilities:
-* ♾️ — Your Climbing Speed is equal to your Walking Speed.
-* ♾️ — Whenever an object makes an *Attack* vs. *Reflex* against you, the *Attack* has Disadvantage.
-* ♾️ — You ignore Class, Race, and Alignment requirements for Attuning to or using Magical Items. <sup><sub>*(Magical Items are Items with the "Magical" tag, such as scrolls, potions, and magical weapons)*</sub><sup>
+* ♾️ — Your *Climbing Speed* is equal to your *Walking Speed*.
+* ♾️ — Whenever an *Object* makes an *Attack* vs. *Reflex* against you, the *Attack* has Disadvantage.
+* ♾️ — You ignore "Class", "Race", and "Alignment" requirements for "Attuning" to or using "Magical Items". <sup><sub>*(Magical Items are Items with the "Magical" tag, such as scrolls, potions, and magical weapons)*</sub><sup>
 
 ---
 
 ## Swift Activation
-*9th-level Ability (Rogue, Arceologist Archetype)*
+*9th-level Ability (Rogue, Arceologist Archetype)*  
 
 > *You are able to quickly activate magical items.*
 
-🔷 — You use a Spell Scroll, deliver a Potion, or Activate a Magic Item that requires 🔷 to Activate.
+🔷 — You use a "Spell Scroll", deliver a "Potion", or "Activate a Magic Item" that requires up to 🔷🔷🔷 to use.

@@ -12,7 +12,7 @@
 |     4 |          +2 | Ability Score Increase, Feat   |         1 |              5 |               1st |
 |     5 |          +3 | Brutality (1)                  |         2 |              6 |               2nd |
 |     6 |          +3 | Path Ability, Rage Improvement |         2 |              7 |               2nd |
-|     7 |          +3 | Evasion                        |         2 |              8 |               2nd |
+|     7 |          +3 | Bonus Feat                     |         2 |              8 |               2nd |
 |     8 |          +3 | Ability Score Increase, Feat   |         2 |              9 |               2nd |
 |     9 |          +4 | Brutality (2)                  |         2 |             10 |               3rd |
 |    10 |          +4 | Path Ability                   |         2 |             10 |               3rd |
@@ -25,7 +25,7 @@
 |    17 |          +6 | Brutality (4)                  |         4 |             14 |               5th |
 |    18 |          +6 | Incomparable Might             |         4 |             14 |               5th |
 |    19 |          +6 | Ability Score Increase, Feat   |         4 |             15 |               5th |
-|    20 |          +6 | Primal Champion                | Unlimited |             15 |               5th |
+|    20 |          +6 | Barbarian Capstone Feat        | Unlimited |             15 |               5th |
 
 ---
 
@@ -190,8 +190,9 @@ Where `X = 1` at 5th level, `X = 2` at 9th level, `X = 3` at 13th level, and `X 
 
 > *"Thormund's blood boils. His aura flares from his body like a roaring flame. The sight of seeing Markus lying on the ground half-dead throwing him into a rage like none have seen before."*
 
-♾️ — While you are *[Enraged]*, you gain the following effects:
+♾️ **(while: you are *Enraged*)** — You gain the following effects:
 * *Weapon Attacks* you make count as "Magical" for the purpose of overcoming *Resistance* and *Immunity* to "non-Magical" *Attacks* and *Damage*.
+* *Weapon Attacks* you make gain *Heavy Armour Piercing* if they do not have it.
 * You gain *Immunity* to all "non-Magical" Bludgeoning, Piercing, and Slashing *Damage*.
 
 ---
@@ -210,10 +211,18 @@ Where `X = 1` at 5th level, `X = 2` at 9th level, `X = 3` at 13th level, and `X 
 
 > *Man literally too angry to die.*
 
-♾️ — While you are *Enraged*, you gain the following effects:
-* If your HP is reduced to `0`, make a *DC* `X` *Constitution Check*, where `X = half the damage taken or 10, whichever is greater`.
+♾️ **(while: you are *Enraged*)** — If taking *Damage* would cause your *HP* to be reduced to `0`, make a *DC* `X` *Constitution Check*, where `X = half the Damage taken or 10, whichever is greater`.
 
-  **Success:** Your HP is reduced to `1` instead.
+**Success:** Your *HP* is reduced to `1` instead.
+
+---
+
+## Incomparable Might
+*18th-level Ability (Barbarian)*  
+
+> *Your strength is beyond mortal ability.*
+
+Increase your *Strength Score* and *Constitution Score* by `4`, to a maximum of `30`.
 
 ---
 
@@ -222,7 +231,7 @@ Where `X = 1` at 5th level, `X = 2` at 9th level, `X = 3` at 13th level, and `X 
 <!-- External references. -->
 [Enraged]: ../../Rules/Conditions/Enraged.md
 [BF]: ./Barbarian%20Fighting%20Styles.md
-[AtkAct]: ../../Rules/Encounters/Actions/Attack.md
+[AtkAct]: ../../Rules/Encounters/Basic%20Actions/Attack.md
 [Barbarian Exploit List]: ./Barbarian%20Exploits.md
 
 <!-- Subclasses. -->

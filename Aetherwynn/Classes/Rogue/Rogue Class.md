@@ -2,20 +2,28 @@
 
 ## Rogue
 
-| Level | Proficiency | Abilities                              | Sneak Attack | Exploits | Exploit Level |
-| ----: | ----------: | :------------------------------------- | -----------: | -------: | ------------: |
-|     1 |           2 | Sneak Attack, Fighting Style, Exploits |        `1d6` |        3 |             1 |
-|     2 |           2 | Cunning Action, Expertise              |        `1d6` |        4 |             1 |
-|     3 |           2 | Roguish Archetype                      |        `2d6` |        5 |             1 |
-|     4 |           2 | Ability Score Increase, Feat           |        `2d6` |        6 |             1 |
-|     5 |           3 | Uncanny Dodge                          |        `3d6` |        7 |             2 |
-|     6 |           3 | Enhanced Strikes, Additional Expertise |        `3d6` |        8 |             2 |
-|     7 |           3 | Evasion                                |        `4d6` |        9 |             2 |
-|     8 |           3 | Ability Score Increase, Feat           |        `4d6` |       10 |             2 |
-|     9 |           4 | Archetype Ability, Fast Reactions (1)  |        `5d6` |       11 |             3 |
-|    10 |           4 | Reliable Talent                        |        `5d6` |       11 |             3 |
-|    11 |           4 | Cunning Strike                         |        `6d6` |       12 |             3 |
-|    12 |           4 | Ability Score Increase, Feat           |        `6d6` |       12 |             3 |
+| Level | Proficiency | Abilities                                | Sneak Attack | Stamina | Exploits | Max Exploit Level |
+| ----: | ----------: | :--------------------------------------- | -----------: | ------: | -------: | ----------------: |
+|     1 |          +2 | Sneak Attack, Fighting Style, Exploits   |        `1d6` |       1 |        3 |               1st |
+|     2 |          +2 | Cunning Action, Expertise                |        `1d6` |       2 |        3 |               1st |
+|     3 |          +2 | Roguish Archetype                        |        `2d6` |       3 |        4 |               1st |
+|     4 |          +2 | Ability Score Increase, Feat             |        `2d6` |       4 |        4 |               1st |
+|     5 |          +3 | Uncanny Dodge                            |        `3d6` |       5 |        5 |               2nd |
+|     6 |          +3 | Enhanced Strikes, Additional Expertise   |        `3d6` |       6 |        5 |               2nd |
+|     7 |          +3 | Reliable Talent, Bonus Feat              |        `4d6` |       7 |        6 |               2nd |
+|     8 |          +3 | Ability Score Increase, Feat             |        `4d6` |       8 |        6 |               2nd |
+|     9 |          +4 | Archetype Ability, Fast Reactions (1)    |        `5d6` |       9 |        7 |               3rd |
+|    10 |          +4 | Bonus Ability Score Increase, Bonus Feat |        `5d6` |      10 |        7 |               3rd |
+|    11 |          +4 | ...                                      |        `6d6` |      11 |        8 |               3rd |
+|    12 |          +4 | Ability Score Increase, Feat             |        `6d6` |      12 |        8 |               3rd |
+|    13 |          +5 | Fast Reactions (2)                       |        `7d6` |      13 |        9 |               4th |
+|    14 |          +5 | Bonus Feat                               |        `7d6` |      14 |        9 |               4th |
+|    15 |          +5 | Archetype Ability                        |        `8d6` |      15 |       10 |               4th |
+|    16 |          +5 | Ability Score Increase, Feat             |        `8d6` |      16 |       10 |               4th |
+|    17 |          +6 | Archetype Ability, Fast Reactions (3)    |        `9d6` |      17 |       11 |               5th |
+|    18 |          +6 | Elusive                                  |        `9d6` |      18 |       11 |               5th |
+|    19 |          +6 | Ability Score Increase, Feat             |       `10d6` |      19 |       12 |               5th |
+|    20 |          +6 | Rogue Capstone Feat                      |       `10d6` |      20 |       12 |               5th |
 
 # Class Abilities
 
@@ -93,7 +101,7 @@ If one of your Exploits requires you to make an *Exploit Attack*, or a creature 
 ## Cunning Action
 *2nd-level Ability (Rogue)*
 
-🔷 — You "Dash", "Hide", or "Step".
+◻️ — You "Dash", "Hide", or "Step".
 
 ---
 
@@ -108,7 +116,6 @@ You gain *Expertise* in `2` *Skills* you have *Profiency* with.
 
 | Roguish Archetype | Source                  |
 | :---------------- | :---------------------- |
-| Arcane Trickster  | Unstable Isotopes (0.0) |
 | Archeologist      | Unstable Isotopes (0.0) |
 | Assassin          | Unstable Isotopes (0.0) |
 | Doctor            | Unstable Isotopes (0.0) |
@@ -175,14 +182,14 @@ You gain *Expertise* in `2` more *Skills* you have *Proficiency* with.
 
 ♾️ — You may take up to `X` additional '⚡'-s per round.
 
-Where `X = 1` at 9th level in this class, `X = 2` at 13th level in this class, and `X = 3` at 17th level in this class.
+Where `X = 1` starting at 9th level in this class, `X = 2` starting at 13th level in this class, and `X = 3` starting at 17th level in this class.
 
 ---
 
 ## Reliable Talent
 *10th-level Ability (Rogue)*  
 
-♾️ — Whenever you make a *Skill Check* using a *Skill* you have at least *Profiency* with, you treat any roll on the 'd20' of `9` or less as `10`.
+♾️ — Whenever you make a *Skill Check* using a *Skill* you have at least *Profiency* with, you treat any roll on the 'd20' of `9` or less as a `10` instead.
 
 ---
 

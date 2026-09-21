@@ -1,11 +1,11 @@
-### Evasive Fighting
-*Fighting Style (Fighter)*  
-**Pre-requisites:** At least 7th level Fighter, A Dexterity score of 13 or greater  
+### Evasion
+*Feat (Martial)*  
+**Pre-requisites:** At least 6th level  
 
 > *You can nimbly dodge out of the way of certain effects, such as a red dragon's fiery breath or an Ice Storm spell.*
 
 You gain the following abilities:
-* ♾️ — Whenever a creature makes an *Attack* vs. *Reflex* against you, or the ability has the "Blast" tag, you take no *Damage* if the *Attack* fails, and only half as much *Damage* if it succeeds.
+* ♾️ — Whenever a creature makes an *Attack* vs. *Reflex* against you, or the *Attack* is a "Blast", reduce the level of success by one.
 
 ---
 
