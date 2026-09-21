@@ -29,7 +29,7 @@ You learn one Fighting Style from "Fighter Fighting Styles" which you meet the *
 ## Know Your Enemy
 *3rd-level Ability (Fighter, Battle Master)*  
 
-🔷 **(range: 60 ft.)** — Yout learn one of the following about target creature in range:
+🔷 **(range: 60 ft.)** — You learn one of the following about target creature in range:
 
 |     Attribute      |
 |:------------------:|
