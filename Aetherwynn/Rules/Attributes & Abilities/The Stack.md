@@ -50,11 +50,11 @@ Let's use the following interaction as an example:
 
 Utilizing the stack structure we explored earlier, we can push each event onto the stack such that the stack looks like this (going from top to bottom):
 
-| Stack                                      |
-| :----------------------------------------- |
-| Claire: "Bardic Inspiration" $\rArr$ Alice |
-| Bob: "Shield"                              |
-| Alice: Attack $\rArr$ Bob                  |
+| Stack                                         |
+| :-------------------------------------------- |
+| Claire: "Bardic Inspiration" $\implies$ Alice |
+| Bob: "Shield"                                 |
+| Alice: Attack $\implies$ Bob                  |
 
 Here we are using an arrow to signify what each ability is targetting. As can be observed, the inciting incident (Alice attacking Bob) sits at the bottom of the stack, with each subsequent reaction sitting on top. Now we can cover...
 
@@ -64,58 +64,58 @@ We will continue our example from above, resolving the stack step-by-step.
 
 **Step 1:** Claire's "Bardic Inspiration" resolves. Current stack frame:
 
-| Stack                     | Events in Resolution                       |
-| :------------------------ | :----------------------------------------- |
-| —                         | Claire: "Bardic Inspiration" $\rArr$ Alice |
-| Bob: "Shield"             |                                            |
-| Alice: Attack $\rArr$ Bob |                                            |
+| Stack                        | Events in Resolution                          |
+| :--------------------------- | :-------------------------------------------- |
+| —                            | Claire: "Bardic Inspiration" $\implies$ Alice |
+| Bob: "Shield"                |                                               |
+| Alice: Attack $\implies$ Bob |                                               |
 
 As we can see, Claire's ability has moved off the stack, and is ready to be resolved. Since no other abilities are being added to the stack at the moment, Claire's ability is free to resolve, which changes the stack frame so that it looks like this:
 
-| Stack                     | Events in Resolution |
-| :------------------------ | :------------------- |
-| Bob: "Shield"             | —                    |
-| Alice: Attack $\rArr$ Bob |                      |
+| Stack                        | Events in Resolution |
+| :--------------------------- | :------------------- |
+| Bob: "Shield"                | —                    |
+| Alice: Attack $\implies$ Bob |                      |
 
 **Step 2:** Notice how there are no events in resolution, this means that Bob's ability is now free to resolve. I will spare you the details, which leaves the new stack fram looking like this:
 
-| Stack                     | Events in Resolution |
-| :------------------------ | :------------------- |
-| Alice: Attack $\rArr$ Bob | —                    |
+| Stack                        | Events in Resolution |
+| :--------------------------- | :------------------- |
+| Alice: Attack $\implies$ Bob | —                    |
 
 **Step 3:** Alice now resolves her attack...
 
-| Stack | Events in Resolution      |
-| :---- | :------------------------ |
-| —     | Alice: Attack $\rArr$ Bob |
+| Stack | Events in Resolution         |
+| :---- | :--------------------------- |
+| —     | Alice: Attack $\implies$ Bob |
 
 However, now things get complicated. An attack in fact adds *multiple* events to the stack, each resolving conditionally depending on the previous step. But that's no matter, we can once again go step-by-step:
 
 **Step 3.1:** The attack roll:
 
-| Stack                            | Events in Resolution      |
-| :------------------------------- | :------------------------ |
-| Alice: *Attack Roll* $\rArr$ Bob | Alice: Attack $\rArr$ Bob |
+| Stack                               | Events in Resolution         |
+| :---------------------------------- | :--------------------------- |
+| Alice: *Attack Roll* $\implies$ Bob | Alice: Attack $\implies$ Bob |
 
 **Step 3.2:** If the attack failed, the stack would be empty and nothing else would happen. But for the sake of example, lets say Alice's attack succeeds against Bob, thus the damage event is added to the stack.
 
-| Stack             | Events in Resolution             |
-| :---------------- | :------------------------------- |
-| Alice damages Bob | Alice: *Attack Roll* $\rArr$ Bob |
+| Stack             | Events in Resolution                |
+| :---------------- | :---------------------------------- |
+| Alice damages Bob | Alice: *Attack Roll* $\implies$ Bob |
 
 At this step, Bob's party mate, Dennis realizes he has a reaction! He uses "Spiritual Ward" to protect Bob from Alice's attack, thus modifying the stack frame:
 
-| Stack                                | Events in Resolution             |
-| :----------------------------------- | :------------------------------- |
-| Dennis: "Spiritual Ward" $\rArr$ Bob | Alice: *Attack Roll* $\rArr$ Bob |
-| Alice damages Bob                    |                                  |
+| Stack                                   | Events in Resolution                |
+| :-------------------------------------- | :---------------------------------- |
+| Dennis: "Spiritual Ward" $\implies$ Bob | Alice: *Attack Roll* $\implies$ Bob |
+| Alice damages Bob                       |                                     |
 
 **Step 4:** With no other reactions, we can continue resolving the stack, meaning the next stack frame is:
 
-| Stack             | Events in Resolution                 |
-| :---------------- | :----------------------------------- |
-| —                 | Dennis: "Spiritual Ward" $\rArr$ Bob |
-| Alice damages Bob |                                      |
+| Stack             | Events in Resolution                    |
+| :---------------- | :-------------------------------------- |
+| —                 | Dennis: "Spiritual Ward" $\implies$ Bob |
+| Alice damages Bob |                                         |
 
 Thus Bob gains `3d8` *Temporary HP* **before** Alice's attack deals damage. Thus, when Alice's attack is finally allowed to resolve...
 
