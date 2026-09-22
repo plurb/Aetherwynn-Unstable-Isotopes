@@ -1,10 +1,10 @@
 ## The Stack
 
-The Stack is the most foundational concept in *Aetherwynn*. All abilities, triggers, and effects go through the stack when used. Once you understand the stack and its implications, you will understand *all* abilities in *Aetherwynn*.
+The Stack is the most foundational concept in *Aetherwynn*. All abilities, triggers, and effects go through the stack when used. Once you understand the stack and its implications, you will understand *all* abilities in Aetherwynn.
 
 ### What Is A Stack?
 
-Before we cover what the stack in *Aetherynn* is, it's best to discuss what a stack in general is. Put plainly, a stack can be imagined like a stack of paper. You put each sheet on top one at a time, and them remove each sheet starting from the top. For visualization's sake, see the figure below.
+Before we cover what the stack in Aetherwynn is, it's best to discuss what a stack in general is. Put plainly, a stack can be imagined like a stack of paper. You put each sheet on top one at a time, and them remove each sheet starting from the top. For visualization's sake, see the figure below.
 
 | Stack  |
 | :----: |
