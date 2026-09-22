@@ -45,7 +45,7 @@ Some terminology:
 
 Let's use the following interaction as an example:
 
-> [!info]  
+> [!IMPORTANT]  
 > *Alice attacks Bob. Bob casts "Shield". Claire uses "Bardic Inspiration" on Alice.*
 
 Utilizing the stack structure we explored earlier, we can push each event onto the stack such that the stack looks like this (going from top to bottom):
