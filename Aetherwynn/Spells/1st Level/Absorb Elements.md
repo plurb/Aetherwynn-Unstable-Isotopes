@@ -1,12 +1,11 @@
 ### Absorb Elements
 *1st-level Spell (Abjuration)*  
-**Casting Time:** ⚡; If you take Acid, Cold, Fire, Lightning, or Thunder *Damage*  
-**Range:** Self  
+**Cost:** `1` "Mana"  
+**Overload:** `1` "Mana" per level  
 **Components:** S  
-**Duration:** 1 round  
 
 > *You lessen the effects an elemental attack has against you.*
 
-Reduce the triggering damage by `Xd8`, where `X = 2 + this spell's level`.
+⚡ — If you take "Acid", "Cold", "Fire", "Lightning", or "Thunder" *Damage*, you may reduce the triggering *Damage* by `Xd8`, where `X = 2 + this Spell's level`.
 
-**Classes:** Artificer, Druid, Magus, Ranger, Sorcerer, Wizard
+**Classes:** Aethersmith, Druid, Magus, Ranger, Sorcerer, Wizard

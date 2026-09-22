@@ -1,14 +1,12 @@
 ### Alarm
 *1st-level Spell (Abjuration, Ritual)*  
-**Casting Time:** 1 minute  
-**Range:** 30 ft.  
+**Cost:** `1` "Mana"  
 **Components:** V, S, M (a tiny bell and a piece of fine silver wire)  
-**Duration:** 8 hours  
 
 > *You set an alarm against unwanted intrusion.*
 
-Target a door, a window, or a 20-foot cube, originating from a point you can see within range. Until the spell ends, an alarm alerts you whenever a creature that is tiny or larger touches or enters the warded area. When you cast the spell, you can designate creatures that won’t set off the alarm. You also choose whether the alarm is mental or audible.
+⏳ **1 minute (range: 30 ft., duration: 8 hours)** — Target a door, a window, or a 20-foot cube. Until this "Spell" ends, an alarm alerts you whenever a creature that is tiny or larger touches or enters the target. When you cast this "Spell", you may designate creatures that will not trigger the alarm. You may also choose whether the alarm is mental or audible.
 
-A mental alarm alerts you with a ping in your mind if you are within 1 mile of the warded area. This ping awakens you if you are sleeping. An audible alarm produces the sound of a hand bell for 10 seconds and can be heard within 60 feet of the warded area.
+A mental alarm alerts you with a ping in your mind if you are within 1 mile of the warded area. This ping awakens you if you are sleeping. An audible alarm produces the sound of a hand bell for 10 seconds and can be heard within 60 feet of the target.
 
 **Classes:** Artificer, Druid, Ranger, Sorcerer, Wizard

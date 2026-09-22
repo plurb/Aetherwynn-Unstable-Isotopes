@@ -1,10 +1,10 @@
 ### Mage Hand  
 *Cantrip (Conjuration)*  
-**Casting Time:** Action  
-**Range:** 30 ft.  
+**Cost:** —  
 **Components:** V, S  
-**Duration:** 1 minute  
 
 > *""*
 
-**Classes:** ???, ???
+🔷🔷 **(range: 30 ft., duration: 1 minutes, requires: *Concentration*)** — <!-- TODO: make mage hand -->
+
+**Classes:** Bard, Magus, Psion, Sorcerer, Warlock, Wizard  

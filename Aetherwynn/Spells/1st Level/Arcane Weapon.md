@@ -1,17 +1,12 @@
 ### Arcane Weapon
 *1st-level Spell (Conjuration)*  
-**Casting Time:** 🔷  
-**Range:** 30 ft.  
+**Cost:** `1` "Mana"  
+**Overload:** `1` "Mana" per level.
 **Components:** V, M  
-**Duration:** 1 minute  
 
-Make a *Melee Spell Attack* vs. *AC* against target creature in range.
+◻️ **(1/turn, duration: 1 minute)** — You gain the following ability until this "Spell" ends:
+> 🔷 **(1/turn, range: 30 ft.)** — Make a *Melee Spell Attack* vs. *AC* against target creature in range. **Success:** You deal `Xd10 [force]` *Damage*.
 
-**Success:** `Xd10 [force]` *Damage*.
-
-You gain the following ability until this Spell ends:
-* 🔷 — Make a *Melee Spell Attack* vs. *AC* against target creature in range. **Success:** `Xd10 [force]` *Damage*.
-
-Where `X = (1/2) * (1 + this Spell's level) (rounded down)`.
+Where `X = this Spell's level`.
 
 **Classes:** Magus

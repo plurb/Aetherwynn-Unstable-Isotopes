@@ -1,10 +1,10 @@
 ### Mending  
 *Cantrip (Transmutation)*  
-**Casting Time:** 1 minute  
-**Range:** Touch  
+**Cost:** —  
 **Components:** V, S, M (two lodestones)  
-**Duration:** Instantaneous  
 
 > *""*
+
+⏳ **1 minute (range: touch)**
 
 **Classes:** ???, ???

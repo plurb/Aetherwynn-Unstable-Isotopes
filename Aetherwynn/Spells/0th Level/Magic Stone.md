@@ -1,13 +1,12 @@
 ### Magic Stone
 *Cantrip (Transmutation)*  
-**Casting Time:** 🔷  
-**Range:** Touch  
-**Components:** V, S  
-**Duration:** 1 minute  
+**Cost:** The material component for this "Spell"  
+**Components:** V, S, M (an inorganic object that is not a "Weapon" and is tiny or smaller)  
 
-Up to `3` target pebbles in range become *Thrown Weapons* with the following properties:
-* **Magic Stone.** *Thrown Weapon:* `your Spell Attack modifier` to hit, Range (60), `1` target. *On Hit:* `1d6 + your Spellcasting modifier [magical bludgeoning]` *Damage*.
+> *You infuse a pebble or a similar object with magical energy, and hurl it at your target.*
 
-A "Magic Stone" can be used as *Ammunition* for a Sling.
+🔷 **(range: 150 ft., requires: a free hand)** — Make a *Ranged Spell Attack* vs. *AC* against target creature or object in range.
 
-**Classes:** Artificer, Druid, Warlock, Wizard
+**Success:** You deal `1d6 + your Spellcasting modifier [magical bludgeoning]` *Damage*.
+
+**Classes:** Aethersmith, Druid, Sorcerer, Warlock, Wizard

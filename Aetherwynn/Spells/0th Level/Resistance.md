@@ -1,10 +1,10 @@
 ### Resistance
-*0th-level Abjuration*  
-**Casting Time:** Action  
-**Range:** Touch  
-**Components:** C, V, S, M (A miniature cloak)  
-**Duration:** Up to 1 minute  
+*Cantrip (Abjuration)*  
+**Cost:** —  
+**Components:** V, S
 
-> *""*
+> *flavour text...*
 
-**Classes.** ???, ???
+🔷🔷 **(range: touch, duration: 1 round)** — Until the start of your next turn, target creature in range gains a `+1d4` bonus against the next *Attack* made against them.
+
+**Classes.** Cleric, Druid, Paladin

@@ -1,10 +1,8 @@
 ### Prestidigitation  
-*0th-level Transmutation*  
-**Casting Time:** Action  
-**Range:** 10 ft.  
-**Components:** V, S  
-**Duration:** Up to 1 hour  
+*Cantrip (Transmutation)*  
 
 > *""*
 
-**Classes.** ???, ???
+<!-- TODO: prestidigitation cantrip rules text. -->
+
+**Classes.** Magus, Sorcerer, Warlock, Wizard

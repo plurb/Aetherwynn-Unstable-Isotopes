@@ -1,10 +1,10 @@
 ### Message  
 *Cantrip (Divination)*  
-**Casting Time:** Action  
-**Range:** 120 ft.  
+**Cost:** —  
 **Components:** V, S, M (a short piece of copper wire)  
-**Duration:** 1 round  
 
-> **
+> *You send a telepathic message into the mind of a friendly creature you can see.*
 
-**Classes.** ???, ???
+🔷 **(1/turn, range: sight)** — <!-- TODO: message cantrip rules text. -->
+
+**Classes.** Bard, Magus, Psion, Ranger, Sorcerers, Wizard  

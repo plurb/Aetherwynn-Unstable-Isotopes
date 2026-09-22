@@ -1,10 +1,10 @@
 ### True Strike  
-*0th-level Divination*  
-**Casting Time:** Bonus Action  
-**Range:** 30 ft.  
-**Components:** C, S  
-**Duration:** Up to 1 round  
+*Cantrip (Divination)*  
+**Cost:** —  
+**Components:** S  
 
 > *""*
 
-**Classes.** ???, ???
+🔷 **(1/turn)** — You gain *Advantage* on the next *Weapon Attack* you make before the start of your next turn.
+
+**Classes.** Cleric, Magus, Paladin, Ranger
