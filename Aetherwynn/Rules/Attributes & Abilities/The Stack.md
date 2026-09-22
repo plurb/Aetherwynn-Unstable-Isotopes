@@ -15,13 +15,13 @@ Before we cover what the stack in *Aetherynn* is, it's best to discuss what a st
 Seeing this, your first thought might be: "Wait a second, aren't those number's backwards?" And you would be correct, if we were thinking about *removal order*. However, in this example, the items are numbered by *insertion order.* That's because when we insert an item into a stack, the latest item sits on the top, while older items are pushed below. So for the example above, the order of insertion goes:
 
 $$
-\textbf{Item 1} \rightarrow \textbf{Item 2} \rightarrow \textbf{Item 3}
+\textbf{Item 1} \to \textbf{Item 2} \to \textbf{Item 3}
 $$
 
 Now, for *removal* from the stack, it then follows that the order would be:
 
 $$
-\textbf{Item 3} \rightarrow \textbf{Item 2} \rightarrow \textbf{Item 1}
+\textbf{Item 3} \to \textbf{Item 2} \to \textbf{Item 1}
 $$
 
 Notice how the order of removal is the *reverse* of insertion order. This property is extremely helpful, as it allows us to easily do two things:
@@ -52,9 +52,9 @@ Utilizing the stack structure we explored earlier, we can push each event onto t
 
 | Stack                                         |
 | :-------------------------------------------- |
-| Claire: "Bardic Inspiration" $\implies$ Alice |
+| Claire: "Bardic Inspiration" $\to$ Alice |
 | Bob: "Shield"                                 |
-| Alice: Attack $\implies$ Bob                  |
+| Alice: Attack $\to$ Bob                  |
 
 Here we are using an arrow to signify what each ability is targetting. As can be observed, the inciting incident (Alice attacking Bob) sits at the bottom of the stack, with each subsequent reaction sitting on top. Now we can cover...
 
@@ -66,28 +66,28 @@ We will continue our example from above, resolving the stack step-by-step.
 
 | Stack                        | Events in Resolution                          |
 | :--------------------------- | :-------------------------------------------- |
-| —                            | Claire: "Bardic Inspiration" $\implies$ Alice |
+| —                            | Claire: "Bardic Inspiration" $\to$ Alice |
 | Bob: "Shield"                |                                               |
-| Alice: Attack $\implies$ Bob |                                               |
+| Alice: Attack $\to$ Bob |                                               |
 
 As we can see, Claire's ability has moved off the stack, and is ready to be resolved. Since no other abilities are being added to the stack at the moment, Claire's ability is free to resolve, which changes the stack frame so that it looks like this:
 
 | Stack                        | Events in Resolution |
 | :--------------------------- | :------------------- |
 | Bob: "Shield"                | —                    |
-| Alice: Attack $\implies$ Bob |                      |
+| Alice: Attack $\to$ Bob |                      |
 
 **Step 2:** Notice how there are no events in resolution, this means that Bob's ability is now free to resolve. I will spare you the details, which leaves the new stack fram looking like this:
 
 | Stack                        | Events in Resolution |
 | :--------------------------- | :------------------- |
-| Alice: Attack $\implies$ Bob | —                    |
+| Alice: Attack $\to$ Bob | —                    |
 
 **Step 3:** Alice now resolves her attack...
 
 | Stack | Events in Resolution         |
 | :---- | :--------------------------- |
-| —     | Alice: Attack $\implies$ Bob |
+| —     | Alice: Attack $\to$ Bob |
 
 However, now things get complicated. An attack in fact adds *multiple* events to the stack, each resolving conditionally depending on the previous step. But that's no matter, we can once again go step-by-step:
 
@@ -95,26 +95,26 @@ However, now things get complicated. An attack in fact adds *multiple* events to
 
 | Stack                               | Events in Resolution         |
 | :---------------------------------- | :--------------------------- |
-| Alice: *Attack Roll* $\implies$ Bob | Alice: Attack $\implies$ Bob |
+| Alice: *Attack Roll* $\to$ Bob | Alice: Attack $\to$ Bob |
 
 **Step 3.2:** If the attack failed, the stack would be empty and nothing else would happen. But for the sake of example, lets say Alice's attack succeeds against Bob, thus the damage event is added to the stack.
 
 | Stack             | Events in Resolution                |
 | :---------------- | :---------------------------------- |
-| Alice damages Bob | Alice: *Attack Roll* $\implies$ Bob |
+| Alice damages Bob | Alice: *Attack Roll* $\to$ Bob |
 
 At this step, Bob's party mate, Dennis realizes he has a reaction! He uses "Spiritual Ward" to protect Bob from Alice's attack, thus modifying the stack frame:
 
 | Stack                                   | Events in Resolution                |
 | :-------------------------------------- | :---------------------------------- |
-| Dennis: "Spiritual Ward" $\implies$ Bob | Alice: *Attack Roll* $\implies$ Bob |
+| Dennis: "Spiritual Ward" $\to$ Bob | Alice: *Attack Roll* $\to$ Bob |
 | Alice damages Bob                       |                                     |
 
 **Step 4:** With no other reactions, we can continue resolving the stack, meaning the next stack frame is:
 
 | Stack             | Events in Resolution                    |
 | :---------------- | :-------------------------------------- |
-| —                 | Dennis: "Spiritual Ward" $\implies$ Bob |
+| —                 | Dennis: "Spiritual Ward" $\to$ Bob |
 | Alice damages Bob |                                         |
 
 Thus Bob gains `3d8` *Temporary HP* **before** Alice's attack deals damage. Thus, when Alice's attack is finally allowed to resolve...
