@@ -41,7 +41,9 @@ Some terminology:
 4. Event — An ability is used, or triggered, or any effect that would modify the game-state of an entity. The term acts as a general catch-all word for everything that goes on the stack.
 5. Stack Frame — The state the stack is currently in (like a frame in a video or game).
 
-**Pushing Events Onto The Stack.** Whenever an event occurs, that event is pushed onto the stack. Effects are never simultaneous, thus they are pushed onto the stack one at a time, until no more events can be pushed onto the stack.
+#### Pushing Events Onto The Stack
+
+Whenever an event occurs, that event is pushed onto the stack. Effects are never simultaneous, thus they are pushed onto the stack one at a time, until no more events can be pushed onto the stack.
 
 Let's use the following interaction as an example:
 
@@ -58,7 +60,9 @@ Utilizing the stack structure we explored earlier, we can push each event onto t
 
 Here we are using an arrow to signify what each ability is targetting. As can be observed, the inciting incident (Alice attacking Bob) sits at the bottom of the stack, with each subsequent reaction sitting on top. Now we can cover...
 
-**Popping Events Off The Stack.** Once our stack has been populated, we want to *resolve* the stack, which involves popping items from the stack, one by one, from top to bottom. It is important to note here, that items can be pushed onto the stack while the stack is resolving. This is because when resolving the stack, the item is popped off *before* any effects occur. This allows for any events occurring due to another effect resolving to be put onto the stack.
+#### Popping Events Off The Stack
+
+Once our stack has been populated, we want to *resolve* the stack, which involves popping items from the stack, one by one, from top to bottom. It is important to note here, that items can be pushed onto the stack while the stack is resolving. This is because when resolving the stack, the item is popped off *before* any effects occur. This allows for any events occurring due to another effect resolving to be put onto the stack.
 
 We will continue our example from above, resolving the stack step-by-step.
 
@@ -127,7 +131,7 @@ Thus Bob gains `3d8` *Temporary HP* **before** Alice's attack deals damage. Thus
 
 Alice deals however much damage to Bob, who subtracts the amount from the *Temporary HP* granted by Dennis, and then any remaining damage is subtracted from his *HP*.
 
-**Step 6:** With all events having completed, the stack is empty:
+**Step 6:** With all events finished resolving, the stack is empty:
 
 | Stack | Events in Resolution |
 | :---- | :------------------- |
