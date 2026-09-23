@@ -1,19 +1,15 @@
 ### Hold Person  
-*2nd-level Spell (Enchantment)*  
-**Casting Time:** 🔷  
-**Range:** 60 ft.  
-**Components:** C, V, S, M (a small, straight piece of iron)  
-**Duration:** Up to 1 minute  
+*2nd-level Spell (Conjuration)*  
+**Cost:** `2` "Mana"  
+**Overload:** `2` "Mana" per level  
+**Components:** V, S, M (a small, straight piece of iron)  
 
 > *A spectral hand tethers your target in place.*
 
-Make a *Ranged Spell Attack* vs. *Will* against up to `X` different target Humanoid creatures in range, where `X = this spell's level - 1`.
+🔷🔷 **(range: 60 ft., requries: *Concentraion*, duration: up to 1 minute)** — Make a total of up to `X` *Ranged Spell Attacks* vs. *Will* against up to `X` different target *Humanoid* creatures in range, where `X = this Spell's level - 1`.
 
-**Success:** The creautre is *Restrained II* until this spell ends.  
-**Failure:** This spell ends for that creature.  
+**Success:** The creautre is *Restrained II* until this "Spell" ends.  
 
-A creature *Restrained* this way makes an Insight or Perception (Wisdom, creature's choice) Check at the end of each of its turns.
-
-**Success:** It is no longer *Restrained*.
+<sub><sup> *(A creature restrained this way can use 🔷 to "Escape". Escape DC equals your Spell DC. See "Restrained" and "Escape" for more.)* </sub></sup>
 
 **Classes:** Magus, Paladin, Ranger, Sorcerer, Warlock, Wizard

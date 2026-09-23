@@ -1,12 +1,11 @@
 ### Negate
 *2nd-level Spell (Abjuration)*  
-**Casting Time:** 1 reaction; If you see a creature within range casting a spell  
-**Range:** 60 feet  
+**Cost:** `2` "Mana"  
+**Overload:** `1` "Mana" per level  
 **Components:** V, S  
-**Duration:** Instantaneous  
 
 > *"No." — Plutonius, Archmage.*
 
-Counter target "Abjuration" or "Evocation" Spell if its level is `X` or lower, where `X = 1 + this spell's level`.
+⚡ **(range: 60 ft.)** — If you see a creature within range "Cast a Spell", *Counter* target "Abjuration" or "Evocation" "Spell" of level `X` or lower, where `X = 1 + this Spell's level`.
 
-**Classes:** Artificer, Magus, Sorcerer, Warlock, Wizard
+**Classes:** Aethersmith, Magus, Sorcerer, Warlock, Wizard

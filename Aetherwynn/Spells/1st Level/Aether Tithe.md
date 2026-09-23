@@ -3,7 +3,7 @@
 **Cost:** `1` "Mana"  
 **Components:** V, S, M (an envelope)  
 
-⚡ **(range: 60 ft.)** — If you see a creature casting a "Spell" in range, *[Counter]* target "Spell" unless its caster expends `X` "Mana", where `X = this Spell's level`.
+⚡ **(range: 60 ft.)** — If you see a creature within range "Cast a Spell", *[Counter]* target "Spell" unless its caster expends `X` "Mana", where `X = this Spell's level`.
 
 **Classes:** Cleric
 

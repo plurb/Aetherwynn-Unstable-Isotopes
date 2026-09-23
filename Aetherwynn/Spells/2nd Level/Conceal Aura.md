@@ -1,3 +1,3 @@
 ### Conceal Aura
 *2nd-level Spell (Abjuration)*
-**Casting Time:**
+**Cost:** `2` "Mana"  
