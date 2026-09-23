@@ -10,7 +10,6 @@
 * A `+1d4` bonus to all *Attacks* it makes.
 * A `+1d4` bonus against *Attacks* vs. *Reflex*, *Fortitude*, or *Will* made against it.
 
-
 Where `X = 2 + this Spell's level`.
 
 **Classes:** Cleric, Paladin

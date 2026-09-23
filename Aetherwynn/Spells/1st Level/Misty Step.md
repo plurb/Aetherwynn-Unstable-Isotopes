@@ -1,12 +1,10 @@
 ### Misty Step  
 *1st-level Spell (Conjuration)*  
-**Casting Time:** 🔷  
-**Range:** Self  
+**Cost:** `1` "Mana"  
 **Components:** V  
-**Duration:** Instantaneous  
 
 > *You burst into a cloud of mist before re-appearing nearby.*
 
-Teleport up to 30 ft. to an unoccupied space you can see.
+🔷 **(range: 30 ft.)** — *Teleport* to an unoccupied space you can see in range.
 
 **Classes:** Druid, Magus, Psion, Ranger, Sorcerer, Warlock, Wizard

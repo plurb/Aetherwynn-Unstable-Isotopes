@@ -1,12 +1,12 @@
 ### Shield
 *1st-level Spell (Abjuration)*  
-**Casting Time:** ⚡; If you are hit by an Attack vs your *AC* or targeted by the "Magic Missile" Spell  
-**Range:** Self  
+**Cost:** `1` "Mana"  
 **Components:** V, S  
-**Duration:** 1 round  
 
 > *The missiles dart towards him, wind whistling as they fly. Gray, quick on his feet, casts a defensive barrier, blocking the projectiles.*
 
-Until the start of your next turn, you gain a `+2` bonus to your *AC*, including against the triggering *Attack*, and you are *Immune* to the "Magic Missile" "Spell".
+⚡ — If you are targeted by an *Attack* vs. *AC* or "Magic Missile", then until the start of your next turn you:
+* May gain a `+2` bonus to your *AC*, including against the triggering *Attack*.
+* Are *Immune* to the effects of "Magic Missile".
 
 **Classes:** Artificer, Magus, Paladin, Psion, Sorcerer, Warlock, Wizard

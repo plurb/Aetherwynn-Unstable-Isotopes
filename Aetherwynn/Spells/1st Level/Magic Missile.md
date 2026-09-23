@@ -1,14 +1,15 @@
 ### Magic Missile  
 *1st-Level Spell (Evocation, Barrage)*  
-**Casting Time:** Action  
-**Range:** 120 ft.  
+**Cost:** `2` "Mana"  
+**Overload:** `1` "Mana" per level  
 **Components:** V, S  
-**Duration:** Instantaneous  
 
 > *Anjali fires out a barrage of arcane projectiles that home in on their target.*
 
-Make a total of `X` *Ranged Spell Attacks (automatic hit)* against up to `X` target creatures in range, where `X = 2 + this spell's level.`.
+🔷🔷 **(range: 150 ft.)** — Make a total of up to `X` *Ranged Spell Attacks (automatic hit)* against up to `X` target creatures in range.
 
-**Success:** the creature takes `1d4 + 1 [force]` *Damage*.
+**Success:** You deal `1d4 + 1 [force]` *Damage*.
+
+Where `X = 2 + this Spell's level`.
 
 **Classes:** Artificer, Magus, Psion, Sorcerer, Warlock, Wizard

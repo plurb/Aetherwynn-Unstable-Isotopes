@@ -1,10 +1,10 @@
 ### Shield of Faith
 *1st-level Spell (Abjuration)*  
-**Casting Time:** 🔷  
-**Range:** 30 ft.  
-**Components:** C, V, M  
-**Duration:** Up to 1 minute  
+**Cost:** `1` "Mana"  
+**Components:** V, M  
 
-Up to `X` target creatures in range gain a `+Y` bonus to their *AC* until this Spell ends, where `X = 2 + this Spell's level` and `Y = your Spellcasting Ability modifier`.
+🔷 **(range: 30 ft., duration: up to 1 minute, requries: *Concentration*)** — Up to `X` target creatures in range gain a `+Y` bonus to their *AC* until this "Spell" ends.
+
+Where `X = 2 + this Spell's level` and `Y = your Spellcasting Ability modifier`.
 
 **Classes:** Cleric, Paladin
