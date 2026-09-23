@@ -1,10 +1,11 @@
 ### Wrathful Smite
 *1st-level Spell (Evocation)*  
-**Casting Time:** ◻️; When you hit a creature with a *Weapon Attack*  
-**Range:** —  
+**Cost:** `1` "Mana"  
+**Overload:** `1` "Mana" per level  
 **Components:** V  
-**Duration:** 1 minute  
 
-The creature takes an additional `Xd6 [psychic]` *Damage*, where `X = 1 + this Spell's level`. The creature is *Frightened* of you until this Spell ends.
+◻️ **(1/turn, duration: 1 minute)** — When you hit a creature with a *Weapon Attack*, tyou may deal an additional `Xd6 [psychic]` *Damage*. If you do, then the creature is *Frightened* of you until this "Spell" ends. A creature *Frightened* this way is *Silenced* until the end of your next turn.
+
+Where `X = 1 + this Spell's level`.
 
 **Classes:** Magus, Paladin
