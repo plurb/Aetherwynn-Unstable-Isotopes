@@ -6,7 +6,7 @@
 
 > *A spectral hand tethers your target in place.*
 
-🔷🔷 **(range: 60 ft., requries: *Concentraion*, duration: up to 1 minute)** — Make a total of up to `X` *Ranged Spell Attacks* vs. *Will* against up to `X` different target *Humanoid* creatures in range, where `X = this Spell's level - 1`.
+🔷🔷 **(range: 60 ft., requries: *Concentraion*, duration: up to 1 minute)** — Make a total of up to `X` *Ranged Spell Attacks* vs. *Will* against up to `X` different target "Humanoid" creatures in range, where `X = this Spell's level - 1`.
 
 **Success:** The creautre is *Restrained II* until this "Spell" ends.  
 

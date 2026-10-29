@@ -1,6 +1,6 @@
 ### Silence
 *2nd-level Spell (Abjuration)*  
-**Cost:** `2` "Mana"  
+**Cost:** `1` "Mana"  
 **Overload:** `1` "Mana" per level  
 **Components:** V, S  
 

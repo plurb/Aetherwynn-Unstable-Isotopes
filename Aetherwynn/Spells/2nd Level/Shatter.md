@@ -6,7 +6,7 @@
 
 > *A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range.*
 
-🔷🔷 **(range: 120 ft.)** — Make a *Ranged Spell Attack* vs. *Fortitude* in a 10 ft. sphere *Blast* centered on and originating from target point in range. *Constructs* have a `-2` penalty against this *Attack*. This *Attack* automatically succeeds against *Objects* that are not being worn or carried, and does noting to *Objects* that are.
+🔷🔷 **(range: 120 ft.)** — Make a *Ranged Spell Attack* vs. *Fortitude* in a 10 ft. sphere *Blast* centered on and originating from target point in range. This *Attack* has a `+2` bonus against "Constructs". This *Attack* automatically succeeds against *Objects* that are not being worn or carried, and does noting to *Objects* that are.
 
 **Success:** You deal `Xd8 [thunder]` *Damage*. An *Object* takes twice as much damage.  
 **Failure:** You deal half as much *Damage*.  
