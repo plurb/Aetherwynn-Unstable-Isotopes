@@ -1,7 +1,10 @@
-🔷 - Major Action  
+🔷 - 1 Action  
+🔷🔷 - 2 Actions  
+🔷🔷🔷 - 3 Action
 ⚡ - Reaction  
-◻️ - Free Action  
+⬜ - Free Action  
 ♾️ - Passive  
+⏳ - Duration
 ◇ - Major Action  
 ϟ - Reaction  
 □ - Free Action  
